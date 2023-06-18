@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "2019"
+    url: https://2019.elbsides.de
+  - title: "2021"
+    url: https://2021.elbsides.de
+  - title: "Team"
+    url: /team.html
+  - title: "About"
+    url: /about.html
+

@@ -1,0 +1,40 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+$elbsides-green             : #00d298 !default;
+$gray                       : #2f3d4b !default;
+$dark-gray                  : mix(#000, $gray, 40%) !default;
+$darker-gray                : mix(#000, $gray, 60%) !default;
+$light-gray                 : mix(#fff, $gray, 50%) !default;
+$lighter-gray               : mix(#fff, $gray, 90%) !default;
+
+$body-color                 : $gray !default;
+$background-color           : $elbsides-green !default;
+$code-background-color      : $lighter-gray !default;
+$code-background-color-dark : $light-gray !default;
+$text-color                 : black !default;
+$border-color               : $gray !default;
+
+$primary-color              : $gray !default;
+$success-color              : #27ae60 !default;
+$warning-color              : #e67e22 !default;
+$danger-color               : #c0392b !default;
+$info-color                 : $darker-gray !default;
+
+/* links */
+$link-color                 : $info-color !default;
+$link-color-hover           : mix(#000, $link-color, 25%) !default;
+$link-color-visited         : mix(#fff, $link-color, 25%) !default;
+$masthead-link-color        : $primary-color !default;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$footer-background-color    : mix(#000, $elbsides-green, 40%) !default ;
+
+/* doesn't work yet: */
+$paragraph-indent : true ;
+$indent-var : 10 ;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
