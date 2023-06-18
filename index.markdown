@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img src="/assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
+<img src="assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
 
 
 Elbsides is North Germany's annual computer security conference
