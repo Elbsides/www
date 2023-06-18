@@ -1,7 +1,7 @@
 ---
-title: "Team"
-layout: page
-permalink: team
+title: "2019 Team"
+layout: pages
+permalink: 2019/team
 
 ---
 
