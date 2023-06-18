@@ -1,7 +1,10 @@
 ---
-layout: archive
-author_profile: false
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
+
 
 <img src="/assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
 
@@ -11,7 +14,7 @@ organized by the community for the
 community. We will be welcoming you back in 2023 for an Elbsides Light! (If you are looking
 for information of the 2019 Elbsides conference, see the
 [2019 Elbsides conference site](https://2019.elbsides.de).)
-      
+
 Follow us at [@elbsides](https://twitter.com/elbsides) for updates!
 
 ## [Sponsors](https://2019.elbsides.de/sponsors.html) ##
@@ -86,7 +89,7 @@ following sponsors, and we hope to see them back on board for 2023 and the next 
 			</td>
 		</tr>
 </table>
-	
+
 In 2019 we were sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Schutzwerk GmbH ](https://www.schutzwerk.com),
 [ Hamburg Port Authority ](https://www.hamburg-port-authority.de),

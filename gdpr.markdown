@@ -1,6 +1,6 @@
 ---
 title: "GDPR/EU-DSGVO"
-layout: archive
+layout: page
 permalink: /gdpr
 
 ---
@@ -27,11 +27,11 @@ Den rechtlichen Rahmen für den Datenschutz bildet die EU Datenschutzverordnung 
 Der Websitebetreiber erhebt Daten in nachfolgend detailliert beschriebener Form. Diese Website kann grundsätzlich ohne Anmeldung und Registrierung aufgerufen werden. Zu statistischen Zwecken und zur ggf. notwendigen Nachverfolgung von Straftaten die unsere Website bzw. unsere Server betreffen, werden folgende Daten für den Zeitraum von 7 Tagen gespeichert:
 
 * Ihre IP Adresse,
-* zugegriffene Seite, 
-* Datenmenge, 
-* Webbrowser Version, 
-* Betriebssystem, 
-* Herkunft (jene Seite, von der aus Sie auf unser Angebot zugegriffen haben), 
+* zugegriffene Seite,
+* Datenmenge,
+* Webbrowser Version,
+* Betriebssystem,
+* Herkunft (jene Seite, von der aus Sie auf unser Angebot zugegriffen haben),
 * Datum und Uhrzeit des Zugriffs.
 
 Durch die Nutzung der Website erklären Sie sich mit der Erhebung, Verarbeitung und Nutzung dieser Daten einverstanden.

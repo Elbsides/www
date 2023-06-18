@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-layout: archive
+layout: page
 permalink: /impressum
 
 ---

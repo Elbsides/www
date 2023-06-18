@@ -35,6 +35,3 @@ $footer-background-color    : mix(#000, $elbsides-green, 40%) !default ;
 $paragraph-indent : true ;
 $indent-var : 10 ;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
