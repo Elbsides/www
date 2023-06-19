@@ -58,5 +58,5 @@ In 2019 we were sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Google LLC](https://www.google.com),
 [HERE Global B.V.](https://www.here.com),
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu). See
-the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for more details.
+the [2019 sponsor page](/2019/sponsors) for more details.
 
