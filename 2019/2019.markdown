@@ -1,13 +1,14 @@
 ---
-layout: pages
-author_profile: false
+title: 2019
+layout: page
+permalink: /2019/
 ---
 
 # It's a wrap!
 
 <img src="assets/images/Room Elbe fisheye.jpg" align="center" width="100%" >
 
-**Elbsides 2019** is now over and [we](about.html) would like to thank all participants and all our [sponsors](sponsors-2019.html) for making this event a big success. We expect to bring Elbsides back to Hamburg next year, probably on the 20th of September, 2020. We hope to see you there!
+**Elbsides 2019** is now over and [we](about.html) would like to thank all participants and all our [sponsors](sponsors) for making this event a big success. We expect to bring Elbsides back to Hamburg next year, probably on the 20th of September, 2020. We hope to see you there!
 
 To keep in touch with us and all the other participants, we have a few great options:
 

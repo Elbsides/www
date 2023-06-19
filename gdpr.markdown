@@ -1,7 +1,6 @@
 ---
-title: "GDPR/EU-DSGVO"
+title: "GDPR"
 layout: page
-permalink: /gdpr
 
 ---
 

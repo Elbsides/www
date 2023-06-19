@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: about/
 ---
 
 [Security BSides](http://securitybsides.com) events are organized by local computer security experts for the benefit of the local community. It is a way of bringing in speakers who may not ordinarily visit our community and it's a way of bringing the community together.

@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "2019"
+    children:
+      - title: "Sponsors"
+        url: "/2019/Sponsors"
+      - title: "Team"
+        url: "/2019/Team"

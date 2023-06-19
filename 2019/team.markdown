@@ -1,8 +1,7 @@
 ---
 title: "2019 Team"
-layout: pages
-permalink: 2019/team
-
+layout: page
+permalink: /2019/team/
 ---
 
 ## Morton ##
