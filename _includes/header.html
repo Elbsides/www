@@ -17,14 +17,20 @@
             </span>
           </label>
 
-          <!-- <div class="trigger">
-            {%- for path in page_paths -%}
+          <div class="trigger">
+            <!-- {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.title -%}
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- endif -%}
-            {%- endfor -%}
-          </div> -->
+            {%- endfor -%} -->
+            <!-- auto building the menus is broken on github for some reason, so ... -->
+            <a class="page-link" href="{{ '2019/' | relative_url }}">2019</a>
+            <a class="page-link" href="{{ '2020/' | relative_url }}">2020</a>
+            <a class="page-link" href="{{ '2021/' | relative_url }}">2021</a>
+            <a class="page-link" href="{{ '2023/' | relative_url }}">2023</a>
+            <a class="page-link" href="{{ '2024/' | relative_url }}">2024</a>
+          </div>
         </nav>
       {%- endif -%}
     </div>
