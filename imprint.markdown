@@ -1,7 +1,5 @@
 ---
-title: "Impressum"
 layout: page
-
 ---
 
 gemäß §§ 5, 6 TMG und § 55 RStV:

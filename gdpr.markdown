@@ -1,7 +1,5 @@
 ---
-title: "GDPR"
 layout: page
-
 ---
 
 ## Datenschutzerklärung ##

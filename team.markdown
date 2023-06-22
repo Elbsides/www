@@ -1,7 +1,5 @@
 ---
-title: Team
 layout: page
-
 ---
 
 ## Morton ##
