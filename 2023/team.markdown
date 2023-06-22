@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2019/team/
+permalink: /2023/team/
 ---
 
 ## Morton ##
@@ -19,13 +19,6 @@ Coming from a non-technical background, Dagmar brings her knowledge of event org
 
 As the second non-techie Rebekka’s professional focus is on urban development, and social aspects of urban society.  Since connected systems become more and more integrated into everyone’s life, data protection as well as information security are relevant to her professional life.
 
-## Hendrik ##
-
-[@pspacecomplete](https://twitter.com/pspacecomplete)
-
-Hendrik  is a security engineer by day, and a security aficionado by night. His professional focus is on application security, digital fire fighting, and talking about risk (management).
-After work he is wrapping his head around the fascinating inner lives of ELFs and ARMs.
-
 
 ## Stefan ##
 
@@ -36,10 +29,3 @@ For all his professional business life (even years before that) Stefan has been 
 [@shantycode](https://twitter.com/shantycode)
 
 A past interest in archeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various fields of the field, may it be user awareness, os and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
-
-## Ingo ##
-
-[@ingobente](https://twitter.com/ingobente)
-
-Ingo works on all things related to information security. Compliance, user security, application security, opsec. He prefers automated, technical solutions and good awareness over a checklist approach to infosec. He is passionate about security. If compliance helps him to get there, that's fine. Ingo enjoys working in a team and in an environment that puts people and trust first. He is also the organizer of the [HH.security](https://www.meetup.com/hh-security/) meetup. In his spare time, Ingo enjoys modern board games.
-
