@@ -29,8 +29,11 @@ github_username:  elbsides
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
+
+#markdown: kramdown
+#highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.

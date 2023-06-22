@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
 
 ![Elbsides]({{"/assets/images/elbsides_teaser_500x500.png" | relative_url }}){:width="45%" align="right" style="padding: 10px;"}
 
