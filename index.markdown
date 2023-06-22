@@ -8,7 +8,7 @@ permalink: /
 
 Elbsides is North Germany's annual computer security conference
 organized by the community for the
-community. We will be welcoming you back in 2023 for an Elbsides Light! (If you are looking
+community. We will be welcoming you back in 2023 for an Elbsides light! (If you are looking
 for information of the 2019 Elbsides conference, see the
 [2019 Elbsides conference site](/2019/).)
 
