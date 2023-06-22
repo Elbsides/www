@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: 2021/faq/
+permalink: /2021/faq/
 ---
 
 # Frequently Asked Questions
@@ -13,7 +13,7 @@ Twitter:
 - @BSidesMunich
 
 Web:
-- https://2021.elbsides.de/stream.html
+- https://elbsides.de/2021/stream/
 - https://2021.bsidesmunich.org/stream/
 
 
@@ -35,7 +35,7 @@ If you are interested in helping us organize a conference in the future, please 
 
 Aside from this, here are some other ideas how you can help:
 - Follow us on Twitter and retweet our conference announcements! (@elbsides, @BsidesMunich) and always use #BSidesMEsh21.
-- We want to keep events like this mostly for free, but there are still expenses that we have to cover to make this possible. Help us to find sponsors!
+- We want to keep events like this mostly for free, but there are still expenses that we have to cover to make this possible. Help us find sponsors!
 - On the days of the conference, join us, learn, ask questions and participate in the community!
 
 Enjoy and be excellent!

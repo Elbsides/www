@@ -27,12 +27,12 @@ Dr. Thomas Fricke
 - Cloud, Database and Software Architect since 2005
 - Kubernetes since September 2015
 - Kubernetes Security
-- Advisory Board of Octarine (aquired by VMWare)
+- Advisory Board of Octarine (acquired by VMWare)
 - PhD in Statistical Physics (RWTH Aachen)
 
 Pro Bono Activities
 - AG Kritis
-- Co-author Ein ort für öffentlichen Code
+- Co-author "Ein ort für öffentlichen Code"
 - German IT-Planungsrat
 - Gaia-X
 - Berlin

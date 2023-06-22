@@ -26,4 +26,4 @@ I actively work on threat hunting, reverse engineering various malware samples a
 I have also published blogs related to interesting findings that I have come across in this domain:
 
 https://umbrella.cisco.com/blog/inadequate-security-makes-wordpress-sites-a-land-of-opportunity-for-hackers
-https://umbrella.cisco.com/blog/cyber-attackers-use-seo-to-spread-malware-through-torrent-files”
+https://umbrella.cisco.com/blog/cyber-attackers-use-seo-to-spread-malware-through-torrent-files

@@ -3,7 +3,7 @@ layout: page
 permalink: /2021/coc/
 ---
 
-Our Code of Conduct is based on the [BSidesMunich Code of Conduct](http://www.bsidesmunich.org/codeofconduct/) which in turn is based on thr [berlincodeofconduct.org ](https://berlincodeofconduct.org).
+Our Code of Conduct is based on the [BSidesMunich Code of Conduct](http://www.bsidesmunich.org/codeofconduct/) which in turn is based on the [berlincodeofconduct.org ](https://berlincodeofconduct.org).
 
 # Purpose and Scope #
 
@@ -43,4 +43,4 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 # License and attribution #
 
-The Elbsides Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. It is based on the [BSidesMunich Code of Conduct](http://www.bsidesmunich.org/codeofconduct/)  and the  [berlincodeofconduct.org ](https://berlincodeofconduct.org).
+The Elbsides Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. It is based on the [BSidesMunich Code of Conduct](http://www.bsidesmunich.org/codeofconduct/) and the [berlincodeofconduct.org ](https://berlincodeofconduct.org).

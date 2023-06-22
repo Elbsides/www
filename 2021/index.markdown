@@ -4,7 +4,7 @@ layout: page
 permalink: /2021/
 ---
 
-<img src="assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
+<img src="{{ '2021/assets/images/elbsides_teaser_500x500.png' | relative_url}}" align="right" width="45%" >
 
 
 **Hamburg** has a thriving computer security community and [we](about.html) are bringing security professionals together.
@@ -18,4 +18,4 @@ Check out the [programm](programm) brought to you by the [Elbsides team](team). 
 Follow us on [@elbsides](https://twitter.com/elbsides) for updates.
 
 
-<img src="assets/images/BSidesMEsh21 logo.jpg" align="center" alt="logo by Felix Swimmer">
+<img src="{{ '2021/assets/images/BSidesMEsh21 logo.jpg' | relative_url}}" align="center" alt="logo by Felix Swimmer">
