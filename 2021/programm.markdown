@@ -23,7 +23,7 @@ Workshop registration was done with pretix. Workshops are now fully booked and p
 
 | Time  | Length | Title                   | Authors
 |-------|--------|-------------------------|---------------
-|  9:00 | 4h     | [The Sorcery of Malware Reverse Engineering](workshop-reversing)    | Ashwathi Sasi
+|  9:00 | 4h     | [The Sorcery of Malware Reverse Engineering](../workshop-reversing)    | Ashwathi Sasi
 |  9:00 | 3h     | [Fuzzing and finding vulnerabilities on Linux](workshop-fuzzing) | Hardik Shah
 | 10:00 | 4h     | [Finding and exploiting basic buffer overflows](workshop-buffer-overflows)       | Christian Gross and Sarah Mader
 | 10:00 | 4h     | [OSINT for Cyber Defenders](workshop-osint)   | Mario Rojas

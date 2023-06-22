@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2021/programm/workshop-reversing/
+permalink: /2021/workshop-reversing/
 ---
 
 # Trainer
