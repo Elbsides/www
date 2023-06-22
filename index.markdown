@@ -10,7 +10,7 @@ Elbsides is North Germany's annual computer security conference
 organized by the community for the
 community. We will be welcoming you back in 2023 for an Elbsides light! (If you are looking
 for information of the 2019 Elbsides conference, see the
-[2019 Elbsides conference site](/2019/).)
+[2019 Elbsides conference site](2019/).)
 
 Follow us at [@elbsides](https://twitter.com/elbsides) for updates!
 
@@ -57,5 +57,5 @@ In 2019 we were sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Google LLC](https://www.google.com),
 [HERE Global B.V.](https://www.here.com),
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu). See
-the [2019 sponsor page](/2019/sponsors) for more details.
+the [2019 sponsor page](2019/sponsors/) for more details.
 
