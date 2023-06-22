@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /imprint/
 ---
 
 gemäß §§ 5, 6 TMG und § 55 RStV:
