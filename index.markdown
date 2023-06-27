@@ -4,9 +4,9 @@ permalink: /
 ---
 
 
-<!-- ![Elbsides]({{ '/assets/images/elbsides_teaser_500x500.png' | relative_url }}){:width="45%" align="right" style="padding: 10px;"} -->
+![Elbsides]({{ '/assets/images/elbsides_teaser_500x500.png' | relative_url }}){:width="45%" align="right" style="padding: 10px;"}
 
-![Elbsides](/assets/images/elbsides_teaser_500x500.png){:width="45%" align="right" style="padding: 10px;"}
+<!-- ![Elbsides](/assets/images/elbsides_teaser_500x500.png){:width="45%" align="right" style="padding: 10px;"} -->
 
 Elbsides is North Germany's annual computer security conference
 organized by the community for the
