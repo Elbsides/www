@@ -20,3 +20,6 @@ You'll find us at various social media channels:
 and on 
 * LinkedIn: [LinkedIn group](https://www.linkedin.com/groups/8828793/)
 
+If you haven't been to Elbsides 2019 - enjoy watching the talks here:
+
+Youtube: [Youtube channel](https://www.youtube.com/channel/UC1kRI13BZ6KMCwtGttD5Arg)
