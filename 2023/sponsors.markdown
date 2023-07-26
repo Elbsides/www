@@ -3,6 +3,10 @@ layout: page
 permalink: /2023/sponsors/
 ---
 
-To keep this event as inclusive as possible, we try to charge as little or no admission as possible, but we do have costs. So, we are very thankful for our sponsors who make this event possible.
+We hope to welcome many old and new sponsors to make this event possible with no costs for attendees and to keep this event as inclusive as possible.
+
+Drop us a line if you have contact to sponsors or know of companies that would love to support the local community. It benefits all parties involved.
+
+
 
 ![DFN-CERT Services GmbH]({{"/assets/images/dfn-cert.png" | relative_url }}){:width="150px"}
