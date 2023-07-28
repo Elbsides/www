@@ -4,7 +4,7 @@ layout: page
 permalink: /2023/
 ---
 
-This year, due to logistical issues, we will welcome you to Elbsides light, a 1/2 day conference. 
+This year we will welcome you to Elbsides light, a 1/2 day conference. 
 
 The computer security community from Hamburg and North Germany will meet on November 17th, 2023 at Haus des Sports, Schäferkampsallee 1 in Hamburg, near U-Schlump station.
 
