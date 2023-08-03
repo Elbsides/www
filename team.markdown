@@ -35,7 +35,7 @@ For all his professional business life (even years before that) Stefan has been 
 
 [@shantycode](https://twitter.com/shantycode)
 
-A past interest in archeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various fields of the field, may it be user awareness, os and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
+A past interest in archeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various aspects of the field, may it be user awareness, OS and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
 
 ## Ingo ##
 
