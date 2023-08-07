@@ -12,13 +12,13 @@ The deadline for submission is September 23, 2023.
 Topics
 We are soliciting talks on computer security topics, but are not limited to the following:
 
-Network & Security Communications
-Access & Identity Management
-Forensics & Incident Response
-Cryptography
-Security Operations
-Software Development Security
-Security Engineering
-Risk, Compliance & Security Management
-Asset Security
-Culture, Career, Networking, or Future in the Security Industry
+* Network & Security Communications
+* Access & Identity Management
+* Forensics & Incident Response
+* Cryptography
+* Security Operations
+* Software Development Security
+* Security Engineering
+* Risk, Compliance & Security Management
+* Asset Security
+* Culture, Career, Networking, or Future in the Security Industry
