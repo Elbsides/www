@@ -2,6 +2,7 @@
 layout: page
 permalink: /2023/cfp/
 ---
+# Call for Papers
 
 Elbsides light is a community computer security event and we want to include security professionals, software engineers, students, researchers and visionaries. This year, we are targeting the local Hamburg community for this half-day event. The conference gathers the security community in an event to share and discuss novel ideas, initiatives and advancements. We are open to all relevant topics in the field of computer security. If you are a new speaker, we have limited capacity to mentor you and help you prepare your talk. Please let us know if you are interested in this service.
 
