@@ -9,7 +9,8 @@ Elbsides light is a community computer security event and we want to include sec
 
 The deadline for submission is September 23, 2023.
 
-Topics
+## Topics
+
 We are soliciting talks on computer security topics, but are not limited to the following:
 
 * Network & Security Communications
