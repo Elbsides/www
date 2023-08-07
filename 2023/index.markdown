@@ -13,9 +13,9 @@ We are currently building a [team](team) and looking for [sponsors](sponsors).
 
 You'll find us at various social media channels:
 
-* Twitter: [https://twitter.com/elbsides]
+* Twitter: [@elbsides](https://twitter.com/elbsides)
 
-* Mastodon: [@elbsides@infosec.exchange]
+* Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 
 * Bluesky: [@elbsides.bsky.social]
 
