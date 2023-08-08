@@ -19,15 +19,14 @@
         <div class="footer-col">
           <p>{{ site.description | escape }}</p>
         </div>
-        <div class="footer-col">
-            <p>
-                <a href="gdpr/">GDPR</a>
-            </p>
+        <center>
+          <div class="footer-col">
+            {%- include social.html -%}
+            <a href="gdpr/">GDPR</a>
+          </div>
+        </center>
       </div>
 
-      <div class="social-links">
-        {%- include social.html -%}
-      </div>
 
     </div>
 
