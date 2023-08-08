@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2021/sponsors.html
+permalink: /2021/sponsors/
 
 ---
 
