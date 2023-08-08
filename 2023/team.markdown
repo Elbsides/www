@@ -25,7 +25,7 @@ For all his professional business life (even years before that) Stefan has been 
 
 [@shantycode](https://twitter.com/shantycode)
 
-A past interest in archeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various fields of the field, may it be user awareness, os and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
+A past interest in archaeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various fields of the field, may it be user awareness, os and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
 
 ## Debbie
 
@@ -40,3 +40,10 @@ A past interest in archeology brought Florian to the field of security. To him, 
 
 
 ## Fabian
+
+Fabian currently works as an embedded software engineer for a small company in Northern Germany. He
+was working as a financial consultant when his fascination for technology led him back to school to
+study electrical engineering and digital systems. During his bachelors and masters theses he was
+able to get deep into the weeds of reverse engineering and secure code as part of the vulnerability
+analysis department at NXP. Whenever he is isn't sitting in front of a keyboard, he enjoys playing
+music and sports outdoors.
