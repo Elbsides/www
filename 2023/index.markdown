@@ -7,11 +7,13 @@ permalink: /2023/
 
 This year we will welcome you to Elbsides light, a ½ day conference.
 
+**The [Call for papers](/2023/cfp/) is now open until September 23rd, 2023!**
+
 # General Information
 
 The computer security community from Hamburg and North Germany will meet on November 17th, 2023 at [Haus des Sports, Schäferkampsallee 1 in Hamburg](https://hausdessports.de/), near [U-Schlump station](https://www.hamburg.de/branchenbuch/hamburg/eintrag/10285020/).
 
-We are currently building a [team](team) and are looking for [sponsors](sponsors).
+We are currently building a [team](#team) and are looking for [sponsors](#sponsors).
 
 ## Follow us
 
@@ -28,7 +30,7 @@ If you haven't been to [Elbsides 2019](/2019/) - see what you missed and watch t
 
 We hope to welcome many old and new sponsors to make this event possible with no costs for attendees and to keep this event as inclusive as possible.
 
-Drop us a line if you have contact to sponsors or know of companies that would love to support the North German infosec community. It benefits all parties involved.
+Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponsor or know of companies that would love to support the North German infosec community. It benefits all parties involved.
 
 ![DFN-CERT Services GmbH]({{"/assets/images/dfn-cert.png" | relative_url }}){:width="150px"}
 
