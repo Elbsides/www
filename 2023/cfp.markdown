@@ -25,4 +25,6 @@ We are soliciting talks on computer security topics, but are not limited to the 
 
 ### Submission
 
-When the CFP is open, please submit your talk proposal via the Google Form below. We will be expecting an abstract of your talk, a short biography. We will be accepting talks in English only. The duration of the talk should be either 30 or 45 minutes, including questions and answers.
+Please submit your talk proposal via the Google Form below. We will be expecting an abstract of your talk, a short biography. We will be accepting talks in English only. The duration of the talk should be either 30 or 45 minutes, including questions and answers. The deadline for submission is midnight of September 23, 2023.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfNum3a5EiOhV10lZqxIHfOGzXJKjb0wGi4x6xrVThCxIDJKg/viewform?embedded=true" width="640" height="2948" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
