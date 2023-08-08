@@ -6,15 +6,15 @@ permalink: /2023/team/
 
 ## Morton
 
-[@sifumoraga](https://twitter.com/sifumoraga)
+[@Sifu](https://mastodon.acm.org/@Sifu)
 
-Morton is a manager in the Forward-Looking Threat Research (FTR) team at Trend Micro, Inc. where he peers into the future of computers and society to identify the risks and vulnerabilities of the future. His past in computer security stretches back 30 years and he has been involved in most of the innovations in security, first at the University of Hamburg, Germany, then IBM Research and now Trend Micro. While originally active in malware analysis and computer forensics, recently his team has been focussing on massive threat data analysis for spotting new types of attacks quantitatively and also on modelling future threats to society that will accompany its inevitable march towards tighter integration in smart cities, intelligent transportation, supply chains and manufacturing. Morton, a native of New York City, has a Computer Science PhD degree from the University of Hamburg, and resides in the Hamburg, Germany area.
+Morton is a researcher in the Forward-Looking Threat Research (FTR) team at Trend Micro, Inc. where he peers into the future of computers and society to identify the risks and vulnerabilities of the future. His past in computer security stretches back 30 years and he has been involved in most of the innovations in security, first at the University of Hamburg, Germany, then IBM Research and now Trend Micro. While originally active in malware analysis and computer forensics, recently his team has been focussing on massive threat data analysis for spotting new types of attacks quantitatively and also on modelling future threats to society that will accompany its inevitable march towards tighter integration in smart cities, intelligent transportation, supply chains and manufacturing. Morton, a native of New York City, has a Computer Science PhD degree from the University of Hamburg, and resides in the Hamburg, Germany area.
 
 ## Dagmar
 
 [@wisecrackling](https://twitter.com/wisecrackling)
 
-Coming from a non-technical background, Dagmar brings her knowledge of event organization to Elbsides. Through previous experiences in professional stage management / production for theatre in the UK and US, as well as Sci-Fi conventions in Germany, she teamed up with her husband Morton to organize events for the computer security industry, Bsides Munich being among them. Having lived and worked in a variety of countries, she enjoys traveling the globe and seeing theatre productions, especially in London.
+Coming from a non-technical background, Dagmar brings her knowledge of event organization to Elbsides. Through previous experiences in professional stage management / production for theatre in the UK and US, as well as Sci-Fi conventions in Germany, she teamed up with her husband Morton to organize events for the computer security industry, BSides Munich being among them. Having lived and worked in a variety of countries, she enjoys traveling the globe and seeing theatre productions, especially in London.
 
 
 ## Stefan
@@ -25,7 +25,7 @@ For all his professional business life (even years before that) Stefan has been 
 
 [@shantycode](https://twitter.com/shantycode)
 
-A past interest in archaeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various fields of the field, may it be user awareness, os and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
+A past interest in archaeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various fields of the field, may it be user awareness, OS and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
 
 ## Debbie
 
@@ -37,13 +37,8 @@ Debbie is also a non-techie, but works in IT security sales in 2019 - first for 
 
 ## David
 
-
+David is an independent software developer, penetration tester and IT consultant. He likes to build software, analyze systems and troubleshoot weird computer problems. When not in front of a screen he enjoys a good physical challenge, doing various kinds of sports.
 
 ## Fabian
 
-Fabian currently works as an embedded software engineer for a small company in Northern Germany. He
-was working as a financial consultant when his fascination for technology led him back to school to
-study electrical engineering and digital systems. During his bachelors and masters theses he was
-able to get deep into the weeds of reverse engineering and secure code as part of the vulnerability
-analysis department at NXP. Whenever he is isn't sitting in front of a keyboard, he enjoys playing
-music and sports outdoors.
+Fabian currently works as an embedded software engineer for a small company in Northern Germany. He was working as a financial consultant when his fascination for technology led him back to school to study electrical engineering and digital systems. During his bachelors and master’s thesis he was able to get deep into the weeds of reverse engineering and secure code as part of the vulnerability analysis department at NXP. Whenever he isn't sitting in front of a keyboard, he enjoys playing music and sports outdoors.
