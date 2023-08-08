@@ -8,20 +8,21 @@ permalink: /
 
 <!-- ![Elbsides](/assets/images/elbsides_teaser_500x500.png){:width="45%" align="right" style="padding: 10px;"} -->
 
-Elbsides is North Germany's annual computer security conference
-organized by the community for the
-community. We will be welcoming you back in 2023 for an Elbsides light! (If you are looking
-for information of the 2019 Elbsides conference, see the
-[2019 Elbsides conference site](2019/).)
+Elbsides is North Germany's annual computer security conference organized by the community for the community. Due to the pandemic, we had to cancel the 2020 event and had an online event in [2021](/2021/) together with (BSideMunich)[https://www.bsidesmunich.org].
 
-Follow us at [@elbsides](https://twitter.com/elbsides) for updates!
+*We will be welcoming you back in [2023](/2023/) for an [Elbsides light](/2023/)!*
 
-## [Sponsors](/2019/sponsors) ##
+(If you are looking for information of the 2019 Elbsides conference, see the [2019 Elbsides conference site](/2019/).)
 
-Such an event cannot be organized without the support of the community
-as the admission fee is merely a token amount, so we cannot thank our
-sponsors enough in making this event possible. In 2019, we had the
-following sponsors, and we hope to see them back on board for 2023 and the next main event in 2024!
+Follow us at:
+
+* Twitter: [@elbsides](https://twitter.com/elbsides)
+* Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
+* Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
+
+## Sponsors
+
+Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2023](/2023/).
 
 ![DFN-CERT Services GmbH]({{"/assets/images/dfn-cert.png" | relative_url }}){:width="150px"}
 ![Schutzwerk GmbH]({{"/assets/images/Schutzwerk_Logo_RZ.png" | relative_url }}){:width="150px"}
