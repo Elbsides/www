@@ -22,6 +22,8 @@ We are currently building a [team](team) and are looking for [sponsors](sponsors
 
 If you haven't been to [Elbsides 2019](/2019/) - see what you missed and watch the talks on YouTube: [Youtube channel](https://www.youtube.com/channel/UC1kRI13BZ6KMCwtGttD5Arg)
 
+<hr>
+
 # Sponsors
 
 We hope to welcome many old and new sponsors to make this event possible with no costs for attendees and to keep this event as inclusive as possible.
@@ -29,6 +31,8 @@ We hope to welcome many old and new sponsors to make this event possible with no
 Drop us a line if you have contact to sponsors or know of companies that would love to support the North German infosec community. It benefits all parties involved.
 
 ![DFN-CERT Services GmbH]({{"/assets/images/dfn-cert.png" | relative_url }}){:width="150px"}
+
+<hr>
 
 # Team
 
