@@ -29,7 +29,7 @@ A past interest in archaeology brought Florian to the field of security. To him,
 
 ## Debbie
 
-
+Debbie is also a non-techie, but works in IT security sales in 2019 - first for SCHUTZWERK and now for turingpoint. Inspired by her environment, she started studying business informatics part-time in 2021 to gain a broader IT knowledge. In the meantime, it has become clear that she would like to specialize even more in cybersecurity. Debbie joined Elbsides because she wanted to dive deeper into the community.
 
 ## Jonas
 
