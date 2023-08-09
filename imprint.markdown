@@ -21,24 +21,24 @@ Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz USt-Id-Nr: 
 
 Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV ist Dagmar Swimmer.
 
-# Rechtliche Hinweise #
+# Rechtliche Hinweise
 
-## Missbrauch ##
+## Missbrauch
 
 Jede Art des Missbrauchs dieses WWW-Servers oder darauf gespeicherter Informationen ist untersagt und wird rechtlich verfolgt.
 
-## Beschwerden ##
+## Beschwerden
 
 Sollten Sie Fehler oder problematische Inhalte feststellen, bitten wir um eine kurze Benachrichtigung per E-Mail. Dem Sachverhalt wird dann so schnell wie möglich nachgegangen und gegebenenfalls Abhilfe geschaffen.
 
-## Kennzeichenschutz ##
+## Kennzeichenschutz
 
 
-## Copyright ##
+## Copyright
 
 Die in diesem Angebot zugänglichen Arbeiten sind urheberrechtlich geschützt. Jegliche kommerzielle Nutzung der Inhalte, insbesondere die Vervielfältigung und Verbreitung gegen Entgelt, bleibt vorbehalten und ist nicht gestattet. Ebenso vorbehalten bleibt das Recht zur Bearbeitung und Umgestaltung, wie z.B. der Übersetzung. Die Nutzung für die weitere wissenschaftliche Forschung bleibt freigestellt, sofern auf die Verwendung der Texte und ihren Ursprung in angemessener Weise hingewiesen wird. Die Nutzung für die eigene Weiterbildung ist erlaubt, ebenso Ausdrucke und Kopien für den eigenen Bedarf.
 
-## Disclaimer ##
+## Disclaimer
 
 Die hier zugänglichen Informationen wurden zusammengestellt von
 Swimmer Event Management. Es wird keine Form der Gewährleistung

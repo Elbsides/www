@@ -19,6 +19,8 @@ Follow us at:
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 
+You can also join our [LinkedIn group](https://www.linkedin.com/groups/8828793/).
+
 ## Sponsors
 
 Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2023](/2023/).
