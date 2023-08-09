@@ -39,6 +39,12 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 |:--:|
 | [DFN-CERT Services GmbH](https://www.dfn-cert.de/) |
 
+## Silver Sponsors
+
+| ![HPA](/assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg){:width="150px"} |
+|:--:|
+| [HPA](https://www.hamburg-port-authority.de/) |
+
 <hr>
 
 # Team
