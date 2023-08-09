@@ -32,7 +32,16 @@ We hope to welcome many old and new sponsors to make this event possible with no
 
 Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponsor or know of companies that would love to support the North German infosec community. It benefits all parties involved.
 
-![DFN-CERT Services GmbH]({{"/assets/images/dfn-cert.png" | relative_url }}){:width="150px"}
+
+## Gold Sponsors
+
+![DFN-CERT Services GmbH](/assets/images/dfn-cert.png){:width="150px"}
+
+<img src="./assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="150px"/>
+
+[DFN-CERT Services GmbH](https://www.dfn-cert.de/)
+
+
 
 <hr>
 
