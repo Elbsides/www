@@ -15,6 +15,7 @@ We are soliciting talks on computer security topics, but are not limited to the 
 * Network & Security Communications
 * Access & Identity Management
 * Forensics & Incident Response
+* Threat Intelligence & Threat Hunting
 * Cryptography
 * Security Operations
 * Software Development Security
