@@ -35,13 +35,9 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 
 ## Gold Sponsors
 
-![DFN-CERT Services GmbH](/assets/images/dfn-cert.png){:width="150px"}
-
-<img src="./assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="150px"/>
-
-[DFN-CERT Services GmbH](https://www.dfn-cert.de/)
-
-
+| ![DFN-CERT Services GmbH](/assets/images/dfn-cert.png){:width="150px"} |
+|:--:|
+| [DFN-CERT Services GmbH](https://www.dfn-cert.de/) |
 
 <hr>
 
