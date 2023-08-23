@@ -45,6 +45,17 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 |:--:|
 | [HPA](https://www.hamburg-port-authority.de/) |
 
+
+| ![ZEAL](/assets/images/ZEAL-Logo-Blue.svg){:width="150px"} |
+|:--:|
+| [ZEAL](https://www.zealnetwork.de/) |
+
+## Bronze Sponsors
+
+| ![Mogwai Labs](/assets/images/Logo-MOGWAI_LABS.svg){:width="150px"} |
+|:--:|
+| [Mogwai Labs](https://mogwailabs.de/) |
+
 <hr>
 
 # Team
