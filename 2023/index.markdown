@@ -70,9 +70,9 @@ A past interest in archaeology brought Florian to the field of security. To him,
 
 Debbie is also a non-techie, but works in IT security sales in 2019 - first for SCHUTZWERK and now for turingpoint. Inspired by her environment, she started studying business informatics part-time in 2021 to gain a broader IT knowledge. In the meantime, it has become clear that she would like to specialize even more in cybersecurity. Debbie joined Elbsides because she wanted to dive deeper into the community.
 
-## Jonas
+## [Jonas](https://social.jonaskoeritz.de/@jonas)
 
-
+Jonas' day job is in incident response and forensics at BlackBerry. During engagements he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents. In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests. In the great outdoors he enjoys geocaching and paddling. He also added aerial photography and semi-autonomous to fully manual flight with home-built UAVs and FPV drones to his outdoor activities.
 
 ## David
 
