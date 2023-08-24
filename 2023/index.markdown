@@ -45,6 +45,9 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 |:--:|
 | [HPA](https://www.hamburg-port-authority.de/) |
 
+| ![Presense](/assets/images/Logo_Presense_EN_rgb_blue_www.png){:width="150px"} |
+|:--:|
+| [Presense](https://www.pre-sense.de/) |
 
 | ![ZEAL](/assets/images/ZEAL-Logo-Blue.svg){:width="150px"} |
 |:--:|
