@@ -63,6 +63,12 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 |:--:|
 | [Mogwai Labs](https://mogwailabs.de/) |
 
+## Community Sponsors
+
+| ![BSidesMunich](/assets/images/BSidesMunich.svg.png){:width="150px"} |
+|:--:|
+| [BSidesMunich](https://bsidesmunich.org/) |
+
 <hr>
 
 # Team
