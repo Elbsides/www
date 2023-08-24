@@ -50,6 +50,10 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 |:--:|
 | [ZEAL](https://www.zealnetwork.de/) |
 
+| ![Schutzwerk](/assets/images/Schutzwerk_Logo_RZ.png){:width="150px"} |
+|:--:|
+| [Schutzwerk](https://www.schutzwerk.com//) |
+
 ## Bronze Sponsors
 
 | ![Mogwai Labs](/assets/images/Logo-MOGWAI_LABS.svg){:width="150px"} |
