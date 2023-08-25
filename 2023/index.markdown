@@ -33,41 +33,52 @@ We hope to welcome many old and new sponsors to make this event possible with no
 Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponsor or know of companies that would love to support the North German infosec community. It benefits all parties involved.
 
 
-## Gold Sponsors
 
-| ![DFN-CERT Services GmbH](/assets/images/dfn-cert.png){:width="150px"} |
-|:--:|
-| [DFN-CERT Services GmbH](https://www.dfn-cert.de/) |
+<table>
+    <tr>
+        <th colspan="2"><center>Gold Sponsors</center></th>
+    </tr>
+    <tr>
+        <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="150px"></a></center></td>
+    </tr>
+</table>
 
-## Silver Sponsors
 
-| ![HPA](/assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg){:width="150px"} |
-|:--:|
-| [HPA](https://www.hamburg-port-authority.de/) |
+<table>
+    <tr>
+        <th colspan="2"><center>Silver Sponsors</center></th>
+    </tr>
+    <tr>
+        <td><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="HPA" width="150px"></a></center></td>
+        <td><center><a href="https://www.pre-sense.de/"><img src="/assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="Presense" width="150px"></a></center></td>
+    </tr>
+    <tr>
+        <td><center><a href="https://www.zealnetwork.de/"><img src="/assets/images/ZEAL-Logo-Blue.svg" alt="ZEAL" width="150px"></a></center></td>
+        <td><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk" width="150px"></a></center></td>
+    </tr>
+</table>
 
-| ![Presense](/assets/images/Logo_Presense_EN_rgb_blue_www.png){:width="150px"} |
-|:--:|
-| [Presense](https://www.pre-sense.de/) |
 
-| ![ZEAL](/assets/images/ZEAL-Logo-Blue.svg){:width="150px"} |
-|:--:|
-| [ZEAL](https://www.zealnetwork.de/) |
+<table>
+    <tr>
+        <th colspan="2"><center>Bronze Sponsors</center></th>
+    </tr>
+    <tr>
+        <td><center><a href="https://mogwailabs.de/"><img src="/assets/images/Logo-MOGWAI_LABS.svg" alt="Mogwai Labs" width="150px"></a></center></td>
+    </tr>
+</table>
 
-| ![Schutzwerk](/assets/images/Schutzwerk_Logo_RZ.png){:width="150px"} |
-|:--:|
-| [Schutzwerk](https://www.schutzwerk.com//) |
 
-## Bronze Sponsors
 
-| ![Mogwai Labs](/assets/images/Logo-MOGWAI_LABS.svg){:width="150px"} |
-|:--:|
-| [Mogwai Labs](https://mogwailabs.de/) |
+<table>
+    <tr>
+        <th colspan="2"><center>Community Sponsors</center></th>
+    </tr>
+    <tr>
+        <td><center><a href="https://bsidesmunich.org/"><img src="/assets/images/BSidesMunich.svg.png" alt="BSidesMunich" width="150px"></a></center></td>
+    </tr>
+</table>
 
-## Community Sponsors
-
-| ![BSidesMunich](/assets/images/BSidesMunich.svg.png){:width="150px"} |
-|:--:|
-| [BSidesMunich](https://bsidesmunich.org/) |
 
 <hr>
 
