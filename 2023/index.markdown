@@ -5,6 +5,8 @@ permalink: /2023/
 ---
 [General](#general-information) | [Sponsors](#sponsors) | [Team](#team)
 
+![Elbsides 2023 light](/assets/images/elbsides_light_logo.jpg){:width="45%" align="right" style="padding: 10px;"}
+
 This year we will welcome you to Elbsides light, a ½ day conference.
 
 **The [Call for papers](/2023/cfp/) is now open until September 23rd, 2023!**
