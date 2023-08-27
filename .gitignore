@@ -5,3 +5,4 @@ _site
 vendor
 .ruby-version
 .ruby-lsp
+assets/.DS_Store
