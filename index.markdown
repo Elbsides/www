@@ -3,7 +3,7 @@ layout: home
 permalink: /
 ---
 
-![Elbsides]({{ '/assets/images/elbsides_teaser_500x500.png' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
+![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
 
 <!-- ![Elbsides](/assets/images/elbsides_teaser_500x500.png){:width="45%" align="right" style="padding: 10px;"} -->
 

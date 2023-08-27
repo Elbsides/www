@@ -3,24 +3,31 @@
  * Site header
  */
 .site-header {
+  background-image: url("/assets/images/hamburg_skyline_plain.svg");
+  background-position: bottom;
+  background-repeat: repeat-x;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  // min-height: $spacing-unit * 1.865;
+  min-height: $spacing-unit * 3.0;
   // background-color: darken($background-color, 30%);
   background-color: $brand-color;
   // Positioning context for the mobile navigation icon
   position: relative;
+  // color: $header-text-color;
+
 }
 
-.site-title::before {
-  content: url("/assets/images/elbsides_logo_32x32.svg");
-  display: inline-block;
-  position: relative;
-  width: 32px;
-  height: 32px;
-  top: 5px;
-  right: 5px
-}
+// .site-title::before {
+//   content: url("/assets/images/elbsides_logo_32x32.svg");
+
+//   display: inline-block;
+//   position: relative;
+//   width: 32px;
+//   height: 32px;
+//   top: 5px;
+//   right: 5px
+// }
 
 .site-title {
   @include relative-font-size(1.625);
