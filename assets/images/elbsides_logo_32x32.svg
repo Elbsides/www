@@ -40,18 +40,18 @@
       <style
        id="style1">
          &#10;            .cls-background {
-         &#10;                fill: #00d298;
+         &#10;                fill: white;
          &#10;            }
          &#10;
          &#10;            .cls-elphi-polyline {
          &#10;                fill: none;
-         &#10;                stroke: #ffffff;
+         &#10;                stroke: #00d298;
          &#10;                stroke-miterlimit: 10;
          &#10;                stroke-width: 5px;
          &#10;            }
          &#10;
          &#10;            .cls-elphi-path {
-         &#10;                fill: white;
+         &#10;                fill: #00d298;
          &#10;                stroke: white;
          &#10;            }
          &#10;
