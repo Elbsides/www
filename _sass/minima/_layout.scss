@@ -12,6 +12,16 @@
   position: relative;
 }
 
+.site-title::before {
+  content: url("/assets/images/elbsides_logo_32x32.svg");
+  display: inline-block;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  top: 5px;
+  right: 5px
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
