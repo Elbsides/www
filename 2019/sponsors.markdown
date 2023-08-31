@@ -161,7 +161,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="{{ '2019/assets/images/bsidesmunich_logo_website_banner_2019-slider-bg.png' | relative_url }}" alt="BSides Munich" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px"  width="200px">
-			<img src="{{ '2019/assets/images/louis-logo.png' | relative_url }}" alt="Louis" width="200px" />
+			<img src="{{ '2019/assets/images/louis-logo.svg' | relative_url }}" alt="Louis" width="200px" />
 		</td>
 	</tr>
 </table>

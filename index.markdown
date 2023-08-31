@@ -32,7 +32,7 @@ Such an event cannot be organized without the support of a community of sponsors
 ![PRESENSE Technologies GmbH]({{"/assets/images/Logo_Presense_EN_rgb_blue_www.png" | relative_url }}){:width="150px"}
 ![Codemetrix GmbH]({{"/assets/images/codemetrix-logo.jpeg" | relative_url }}){:width="150px"}
 ![sum.cumo GmbH]({{"/assets/images/sum.cumo-logo.png" | relative_url }}){:width="150px"}
-![Louis]({{"/assets/images/louis-logo.png" | relative_url }}){:width="150px"}
+![Louis]({{"/assets/images/louis-logo.svg" | relative_url }}){:width="150px"}
 ![Graylog]({{"/assets/images/Graylog_Logo_FINAL_color.png" | relative_url }}){:width="150px"}
 ![Superluminar]({{"/assets/images/Superluminar-400px.png" | relative_url }}){:width="150px"}
 ![Deloitte]({{"/assets/images/Deloitte-200px.png" | relative_url }}){:width="150px"}
@@ -61,5 +61,5 @@ In 2019 we were sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Google LLC](https://www.google.com),
 [HERE Global B.V.](https://www.here.com),
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu). See
-the [2019 sponsor page](2019/sponsors/) for more details.
+the [2023 sponsor page](/2023#sponsors) for more details.
 
