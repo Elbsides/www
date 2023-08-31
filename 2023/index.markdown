@@ -3,7 +3,7 @@ title: 2023
 layout: page
 permalink: /2023/
 ---
-[General](#general-information) | [Sponsors](#sponsors) | [Team](#team)
+[General](#general-information) | [Sponsors](#sponsors) | [Conference Program](#program) | [Team](#team)
 
 ![Elbsides 2023 light](/assets/images/elbsides_light_logo.svg){:width="35%" align="right" style="padding: 10px;"}
 
@@ -81,6 +81,27 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 </table>
 
 <hr>
+
+# Program
+
+The final program will be announced in October 2023.
+
+| Time | Speaker | Title |
+| ---- | ------- | ----- |
+| 13:00 | Orga team | Conference opening |
+| 13:10 | Prof. Dr. Simone Fischer-Hübner | Opening Keynote |
+| 13:40 | TBA | TBA |
+| 14:10 | TBA | TBA |
+| 14:40 | | Break |
+| 15:00 | TBA | TBA |
+| 15:45 | TBA | TBA |
+| 16:30 | | Break |
+| 16:50 | TBA | TBA |
+| 17:20 | | Closing Keynote |
+| 17:50 | Orga team | Closing remarks |
+
+Over by 18:00
+
 
 # Team
 
