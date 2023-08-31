@@ -70,20 +70,15 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
     </tr>
 </table>
 
-
-
 <table>
     <tr>
         <th colspan="2"><center>Community Sponsors</center></th>
     </tr>
     <tr>
         <td><center><a href="https://bsidesmunich.org/"><img src="/assets/images/BSidesMunich.svg.png" alt="BSidesMunich" width="150px"></a></center></td>
-    </tr>
-    <!--tr>
         <td><center><a href="https://www.louis.de"><img src="/assets/images/louis-logo.png" alt="Louis" width="150px"></a></center></td>
-        </tr––>
+    </tr>
 </table>
-
 
 <hr>
 
