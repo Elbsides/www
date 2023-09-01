@@ -1,6 +1,22 @@
 ---
 layout: home
 permalink: /
+carousels:
+  - images:
+    - image: /assets/2019/photos/20190916 - elbsides 6.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 8.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 10.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 20.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 26.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 28.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 33.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 40.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 45.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 49.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 50.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 53.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 56.jpg
+    - image: /assets/2019/photos/20190916 - elbsides 59.jpg
 ---
 
 ![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
@@ -20,6 +36,10 @@ Follow us at:
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 
 You can also join our [LinkedIn group](https://www.linkedin.com/groups/8828793/).
+
+## Gallery
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 ## Sponsors
 
