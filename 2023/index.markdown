@@ -101,8 +101,8 @@ The final program will be announced in October 2023.
 | 16:50 | TBA | TBA |
 | 17:20 | | Closing Keynote |
 | 17:50 | Orga team | Closing remarks |
+| 18:00 | | Networking Hour |
 
-Over by 18:00
 
 
 # Team
