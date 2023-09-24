@@ -25,9 +25,7 @@ carousels:
 
 Elbsides is North Germany's annual computer security conference organized by the community for the community. Due to the pandemic, we had to cancel the 2020 event and had an online event in [2021](/2021/) together with [BSideMunich](https://www.bsidesmunich.org).
 
-**We will be welcoming you back in [2023](/2023/) for an [Elbsides light](/2023/) event! Currently, the [Call for papers](/2023/cfp/) is active and we are still looking for [sponsors](/2023/#sponsors).**
-
-(If you are looking for information of the 2019 Elbsides conference, see the [2019 Elbsides conference site](/2019/).)
+**We will be welcoming you back in [2023](/2023/) for an [Elbsides light](/2023/) event! Currently, we are still looking for [sponsors](/2023/#sponsors).**
 
 Follow us at:
 
@@ -38,6 +36,8 @@ Follow us at:
 You can also join our [LinkedIn group](https://www.linkedin.com/groups/8828793/).
 
 ## Gallery
+
+Pictures from past events:
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 

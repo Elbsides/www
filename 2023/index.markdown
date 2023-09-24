@@ -9,7 +9,7 @@ permalink: /2023/
 
 This year we will welcome you to Elbsides light, a ½ day conference.
 
-**The [Call for papers](/2023/cfp/) is now open until September 23rd, 2023!**
+**The [Call for papers](/2023/cfp/) is now ~~open until September 23rd, 2023~~ closed!**
 
 # General Information
 
