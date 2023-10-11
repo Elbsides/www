@@ -44,6 +44,7 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
     </tr>
     <tr>
         <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="150px"></a></center></td>
+        <td><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" width="150px"></a></center></td>
     </tr>
 </table>
 
