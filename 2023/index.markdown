@@ -60,6 +60,9 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
         <td><center><a href="https://www.zealnetwork.de/"><img src="/assets/images/ZEAL-Logo-Blue.svg" alt="ZEAL" width="150px"></a></center></td>
         <td><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk" width="150px"></a></center></td>
     </tr>
+    <tr>
+        <td><center><a href="https://moia.io/"><img src="/assets/images/MOIA.svg" alt="MOIA" width="150px"></a></center></td>
+    </tr>
 </table>
 
 
