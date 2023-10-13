@@ -3,7 +3,7 @@ title: 2023
 layout: page
 permalink: /2023/
 ---
-[General](#general-information) | [Sponsors](#sponsors) | [Conference Program](#program) | [Team](#team)
+[General](#general-information) | [Registration](/2023/registration/) | [Sponsors](#sponsors) | [Conference Program](#program) | [Team](#team)
 
 ![Elbsides 2023 light](/assets/images/elbsides_light_logo.svg){:width="35%" align="right" style="padding: 10px;"}
 
