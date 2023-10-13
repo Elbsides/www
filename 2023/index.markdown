@@ -93,23 +93,144 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 
 # Program
 
-The final program will be announced in October 2023.
+Priliminary program, subject to change. You can also jump to the [talks](#talks) directly or [speaker bios](#speakers).
 
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
 | 13:00 | Orga team | Conference opening |
-| 13:10 | Prof. Dr. Simone Fischer-Hübner | Opening Keynote |
-| 13:40 | TBA | TBA |
-| 14:10 | TBA | TBA |
+| 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Opening Keynote |
+| 13:40 | [Jasmin Mair](#jasmin-mair) | [My CI/CD pipeline contains all security tools available! Now what...?](#my-cicd-pipeline-contains-all-security-tools-available-now-what) |
+| 14:10 | [Lukas Mika](#lukas-mika) | [Secure Supply Chains, Secure Containers](#secure-supply-chains-secure-containers) |
 | 14:40 | | Break |
 | 15:00 | TBA | TBA |
-| 15:45 | TBA | TBA |
+| 15:45 | [Christian Kollee](#christian-kollee) | [You are (not) prepared - A ransomware story](#you-are-not-prepared---a-ransomware-story) |
 | 16:30 | | Break |
-| 16:50 | TBA | TBA |
-| 17:20 | | Closing Keynote |
-| 17:50 | Orga team | Closing remarks |
-| 18:00 | | Networking Hour |
+| 16:50 | [Nick Mahling](#nick-mahling) | [Reverse Engineering of Intel's Branch Prediction](#reverse-engineering-of-intels-branch-prediction) |
+| 17:20 | [Attila Szasz](#attila-szasz) | [Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space](#broadcom-router-sdk-vulnerabilities---the-uncomfortable-reality-of-the-iot-linux-kernel-space) |
+| 18:05 | Orga team | Closing remarks |
+| 18:10 | | Networking Hour |
 
+Backup speaker:
+
+[Adina Bogert-O'Brien](#adina-bogert-obrien): A beginner's guide to SSO (mis)configuration
+
+# Speakers
+
+## Prof. Dr. Simone Fischer-Hübner
+
+## Jasmin Mair
+
+Jasmin is an experienced application security professional and Global Product Security Manager at Leica Microsystems. She gained extensive experience in organizing and implementing secure development programs, DevSecOps, and secure SDLC across different clients while working as a consultant. Her passion is to build bridges between cross-functional teams and finding new ways to improve collaboration. She likes working with people and technology, this has been the constant in her professional career and education.
+
+## Lukas Mika
+
+"Lukas Mika started his career in the IT industry as a Software Developer, Solution Architect and IT Consultant.
+Following his passion of IT Security, he took the opportunity to become a Security Architect. In this position he drove the Application Security initiative at his former employer.
+In 2022, he joined Maersk's Cyber Architecture Team as a Lead Cyber Architect for Application Security, where he now focuses on the Secure Software Development Lifecycle vision and its implementation across the enterprise."
+
+## Christian Kollee
+
+Christian currently works as a Network Detection Engineer in the German finance sector. Previously, he worked as a forensic analyst and incident handler in international organizations and medium-sized German businesses. With more than ten years of experience in IT security, Christian knows the IT security problems from medium-sized companies to DAX30 corporations. Besides learning about new attacker tools and techniques, he tries desperately to reduce his ever-growing stack of articles and books in his spare time.
+
+## Nick Mahling
+
+Nick Mahling is an IT-Security master student at the University of Lübeck where he graduated with a bachelor's degree in 2023. He also works as a Research Assistant at the Institute for IT-Security at the University of Lübeck. Nick is particularly interested in reverse engineering, CPU microarchitectures and hiking.
+
+
+## Attila Szasz
+
+Researcher in computer security, reported vulnerabilities in Google Chrome, Intel DRM technologies, ASUS routers, SONY consumer products and even Ghidra. Founder and general manager of BugProve, an IoT security solution provider.
+
+## Adina Bogert-O'Brien
+
+Hey, I’m Adina! I am incessantly curious, work in renewable energy, and sometimes find vulnerabilities when I’m bored. I co-founded a hackerspace over a decade ago but have only just accepted that security is more than a hobby. At work, I’m a business architect with security leanings working in knowledge management for a major renewable energy company.
+
+# Talks
+
+## My CI/CD pipeline contains all security tools available! Now what...?
+
+Tools are helpful to enable DevSecOps, but many challenges and pitfalls highlight the need for a cultural shift.  Explore issues such as security resistance, conflicting KPIs and organizational silos with real-world examples and dive into best practices to provide actionable insights to overcome these obstacles.
+
+## Secure Supply Chains, Secure Containers
+
+The invention of the container has created entirely new opportunities through the accompanying standardization - both in global trade and in software development. This has resulted in increasingly complex supply chains in logistics and software development, which need to be secured in both industries.
+
+But how do companies address the associated risks and what lessons can we learn for our development processes?
+How can they ensure that they know, what they ship in their containers?
+How can security be embedded in their processes, without delaying their deliveries?
+
+Using the Secure Software Development Lifecycle, this presentation will illustrate the strategic vision that the container shipping company Maersk uses to design its own software development process and to identify, mitigate and prevent security and operational risks along the software supply chain. It will take a closer look at the process, its objectives and the challenges it faces.
+
+## You are (not) prepared - A ransomware story
+
+Ransomware attacks are an ever-present menace for companies of all sizes. But they are especially devastating for small and medium-sized businesses. However, ransomware attacks typically consistently proceed similarly. The techniques used differ depending on the grouping and the infrastructure attacked.
+
+Looking at the Incident Response cycle, many companies omit the first phase at least partially: preparation. On the one hand, the preparation phase includes preventive measures, i.e., measures to reduce the likelihood of an incident. On the other hand, since preventive measures can fail, companies must also implement steps for when an incident does occur. Missing these preparations will lead to problems and delays during an incident.
+
+While responding to an incident, handling two different work streams is necessary. The first stream is the recovery of the company network. In the best case, the company can manage this stream independently. The second workstream is the forensics analysis of the incident. Usually, small and medium-sized businesses lack the necessary knowledge and require a specialized service provider. This stream is essential to understand how the attackers entered the environment, how they moved around, and what backdoors they placed that they could use to return. Forensic analysis is also required to decide which systems the company needs to replace, which they need to clean up, and which they can continue to use. The less precise the forensic results, the more conservative the rebuild has to be.
+
+You can do a lot before an actual incident; some to make it less likely to get hit and some to make it easier to recover. There are also some recommendations to ensure that you handle the incident response as well as possible. In this talk, I'll
+ - tell a story of an exemplary incident response based on what I saw during the last five years,
+ - show general tips that reduce the likelihood of such an attack,
+ - provide preparation steps to ease the response in case of an incident,
+ - and give some hints on how to handle the response.
+
+
+## Reverse Engineering of Intel’s Branch Prediction
+
+Due to the rise of cloud computing, many applications share hardware resources with other applications in the cloud. While cloud computing offers numerous advantages, it has also introduced new security threats that need to be addressed. To reduce these risks, virtualization is used to isolate applications. A CPU involves a vast array of microarchitectural components dedicated to multiple tasks. If any of these underlying components possess a design flaw, it could potentially lead to security vulnerabilities, making the virtualization obsolete. One of these microarchitectural vulnerabilities is known as Spectre, which encompasses attacks capable of exploiting speculative execution to manipulate the control flow of an application. Speculative execution is a key feature in modern processors that leverages multiple microarchitectural elements to optimize runtime performance. This is achieved among other things by accurately predicting conditional branch outcomes. By analyzing the history of a branch, the processors can make guesses about the direction a program will take, enabling it to speculatively execute instructions ahead of time. Spectre variants targeting this mechanism have the ability to alter the program's execution path, potentially allowing an attacker to leak sensitive information. Due to limited knowledge about branch prediction on modern processors, some of those Spectre variants presented by researchers are impractical e.g. because of very long shellcodes. Furthermore, a deeper understanding of branch prediction can unveil more efficient defense mechanisms.
+
+Hence, this presentation which is based on my recent bachelor's thesis will focus on reverse engineering the branch prediction on modern Intel CPUs. Through the design and implementation of experiments, we aim to gain deeper insights into branch predictors. Specifically, our objective is to find pairs of branches that can interfere with each other's predictions. This acquired knowledge builds the foundation for developing a more reliable and efficient out-of-place Spectre attack.
+By employing the information from that research, we successfully construct an attack and demonstrate its practical implications. The findings underline the importance of understanding and mitigating vulnerabilities arising from branch prediction mechanisms in CPUs.
+
+
+## Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space
+
+This research uncovers the CVE-2023-31070 vulnerability, a concerning issue within the IoT Linux kernel space, specifically affecting the Broadcom BCM47xx SDK. This vulnerability resides in the Efficient Multicast Forwarding (EMF) slab-out-of-bounds write, and it has significant implications for IoT device security. The Broadcom BCM47xx SDK serves as the reference implementation in numerous router models, making it a ubiquitous presence in the IoT landscape. In fact, the issue affects router devices from at least 14 manufacturers, and more than 50 popular models, therefore affecting a significant market share of small office home networking devices.
+
+The EMF module, responsible for optimizing multicast traffic, is a crucial component, particularly in applications like IPTV.
+
+Within this SDK, a critical flaw lurks in the EMF kernel driver, emf.ko, primarily used for IGMP snooping. Through careful analysis and reverse engineering, the vulnerable code within emf.ko is dissected, revealing how an attacker can manipulate kernel module data structures with specifically crafted data. The ultimate goal of this exploitation is to achieve kernel-mode code execution, posing a substantial security risk.
+
+To illustrate the practical implications of CVE-2023-31070, a demonstration is provided, showcasing how an attacker can trigger an out-of-bounds access in the kernel space, eventually causing system crashes. This demonstration, conducted on an ASUS AC87U device, serves as a real-world example of the potential consequences of this vulnerability.
+
+This research journey also sheds light on the complexity of addressing such vulnerabilities. Close collaboration with Broadcom was required to get a fix, however, they have no control over the security update process of their OEMs and customers. In many cases, the affected models are no longer supported, even though tens of thousands of samples are still operated on public networks. This case study underscores the need for effective coordination in addressing vulnerabilities within interconnected systems.
+
+This presentation will provide an in-depth examination of CVE-2023-31070, offering valuable insights into the IoT security landscape and the imperative to secure our interconnected devices. The talk aims to foster a discussion within the security community and raise awareness of the challenges posed by vulnerabilities in IoT ecosystems.
+
+
+## A beginner’s guide to SSO (mis)configuration
+
+*Single Sign-On: hype vs. reality*
+Single Sign-On is sold as a way to
+ - centralize managing your organization's users
+ - make life easier for your colleagues
+ - enforce consistent security standards
+
+But if a vendor has an SSO protocol, then all they have is a way for your identity provider to share information about an authenticated identity with another service. But it turns out, me having a way to tell my vendor “yeah, that’s Bob” doesn’t guarantee, well, anything at all.
+
+A truly bad SSO implementation can make you feel safe, while hiding all the new and exciting things that have gone wrong.
+
+*People make mistakes*
+This talk isn’t about any sexy security vulnerability where I found a zero day. It’s not about the advantages and disadvantages of one identity management protocol over another. Instead it’s about looking out for the mundane issue you run into in any major project: human error.
+
+*Implementing SSO so it actually does what you want it to do*
+This is the story of me, a general purpose nerd without much depth of knowledge, learning the hard way:
+ - to define what I need my SSO setup to do
+ - how to actually make it do that
+ - what weird questions to ask to make sure I did it right
+ - some mistakes you can make along the way
+
+*Why am I using SSO?*
+This talk is from the perspective of someone working in a company where other smart colleagues have already set up the company's authentication side. I'll concentrate on the things that you need to check a vendor has done properly more than double checking your company's done what it should.
+
+The goals I have are to make sure:
+ - only active employees can access our SaaS content
+ - all employees need to go through my company’s implemented multi-factor authentication challenges before they can access our SaaS content
+ - we can be sure that Bob on the SaaS is the same as Bob who authenticated towards my company
+ - when Jane joins the company, she also gets access to the SaaS
+
+Each of these things are as important as they are tricky. In this talk, we'll stop assuming that anything is set up correctly. Let’s talk through how to use weird questions and edge cases to get the results you need!
 
 
 # Team
