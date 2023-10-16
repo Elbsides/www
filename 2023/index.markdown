@@ -99,11 +99,11 @@ Priliminary program, subject to change. You can also jump to the [talks](#talks)
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
 | 13:00 | Orga team | Conference opening |
-| 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Opening Keynote |
+| 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Keynote: [40 years Census Decision: The census and the understanding privacy protection in the transition of time.]() |
 | 13:40 | [Jasmin Mair](#jasmin-mair) | [My CI/CD pipeline contains all security tools available! Now what...?](#my-cicd-pipeline-contains-all-security-tools-available-now-what) |
 | 14:10 | [Lukas Mika](#lukas-mika) | [Secure Supply Chains, Secure Containers](#secure-supply-chains-secure-containers) |
 | 14:40 | | Break |
-| 15:00 | TBA | TBA |
+| 15:00 | [Adina Bogert-O'Brien](#adina-bogert-obrien) | [A beginner's guide to SSO (mis)configuration](#a-beginners-guide-to-sso-misconfiguration) |
 | 15:45 | [Christian Kollee](#christian-kollee) | [You are (not) prepared - A ransomware story](#you-are-not-prepared---a-ransomware-story) |
 | 16:30 | | Break |
 | 16:50 | [Nick Mahling](#nick-mahling) | [Reverse Engineering of Intel's Branch Prediction](#reverse-engineering-of-intels-branch-prediction) |
@@ -118,6 +118,10 @@ Backup speaker:
 # Speakers
 
 ## Prof. Dr. Simone Fischer-Hübner
+
+Simone Fischer-Hübner is a Guest Professor at Chalmers University of Technoloy and has been a Full Professor at Karlstad University since June 2000, where is the head of the Privacy& Security (PriSec) research group. She received a Diploma Degree in Computer Science with a minor in Law (1988), and a PhD (1992) and Habilitation (1999) Degrees in Computer Science from Hamburg University.  She was a Guest Professor at Copenhagen Business School in 1994/1995 and Stockholm University / Royal Institute of Technology in 1998/1999. Moreover, she was awarded an Honorary Doctorate by Chalmers University of Technology in 2021.
+She has been conducting research in privacy, cyber security and privacy-enhancing technologies for more than 35 years. She is member of Cybersecurity Council of the Swedish Civil Contingency Agency (MSB), board member of the Swedish Data Protection Forum and member of the board for the Privacy Enhancing Technology Symposia (PETS).
+
 
 ## Jasmin Mair
 
@@ -144,9 +148,13 @@ Researcher in computer security, reported vulnerabilities in Google Chrome, Inte
 
 ## Adina Bogert-O'Brien
 
-Hey, I’m Adina! I am incessantly curious, work in renewable energy, and sometimes find vulnerabilities when I’m bored. I co-founded a hackerspace over a decade ago but have only just accepted that security is more than a hobby. At work, I’m a business architect with security leanings working in knowledge management for a major renewable energy company.
+Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometimes find vulnerabilities when I'm bored. I co-founded a hackerspace over a decade ago but have only just accepted that security is more than a hobby. At work, I'm a business architect with security leanings working in knowledge management for a major renewable energy company.
 
 # Talks
+
+## 40 years Census Decision: The census and the understanding privacy protection in the transition of time.
+
+
 
 ## My CI/CD pipeline contains all security tools available! Now what...?
 
