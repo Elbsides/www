@@ -111,10 +111,6 @@ Priliminary program, subject to change. You can also jump to the [talks](#talks)
 | 18:05 | Orga team | Closing remarks |
 | 18:10 | | Networking Hour |
 
-Backup speaker:
-
-[Adina Bogert-O'Brien](#adina-bogert-obrien): A beginner's guide to SSO (mis)configuration
-
 # Speakers
 
 ## Prof. Dr. Simone Fischer-Hübner
@@ -124,6 +120,8 @@ She has been conducting research in privacy, cyber security and privacy-enhancin
 
 
 ## Jasmin Mair
+
+![linkedin](/assets/images/In-Blue-14.png) [linkedin.com/in/jasminmair/](https://www.linkedin.com/in/jasminmair/)
 
 Jasmin is an experienced application security professional and Global Product Security Manager at Leica Microsystems. She gained extensive experience in organizing and implementing secure development programs, DevSecOps, and secure SDLC across different clients while working as a consultant. Her passion is to build bridges between cross-functional teams and finding new ways to improve collaboration. She likes working with people and technology, this has been the constant in her professional career and education.
 
@@ -135,6 +133,9 @@ In 2022, he joined Maersk's Cyber Architecture Team as a Lead Cyber Architect fo
 
 ## Christian Kollee
 
+![mastodon](/assets/images/mastodon-logo-purple.svg){:height="14pt"} [@ckollee@infosec.exchange](https://infosec.exchange/@ckollee)
+
+
 Christian currently works as a Network Detection Engineer in the German finance sector. Previously, he worked as a forensic analyst and incident handler in international organizations and medium-sized German businesses. With more than ten years of experience in IT security, Christian knows the IT security problems from medium-sized companies to DAX30 corporations. Besides learning about new attacker tools and techniques, he tries desperately to reduce his ever-growing stack of articles and books in his spare time.
 
 ## Nick Mahling
@@ -144,9 +145,13 @@ Nick Mahling is an IT-Security master student at the University of Lübeck where
 
 ## Attila Szasz
 
+![linkedin](/assets/images/In-Blue-14.png) [linkedin.com/in/attila-szász-086abb122/](https://www.linkedin.com/in/attila-szász-086abb122/)
+
 Researcher in computer security, reported vulnerabilities in Google Chrome, Intel DRM technologies, ASUS routers, SONY consumer products and even Ghidra. Founder and general manager of BugProve, an IoT security solution provider.
 
 ## Adina Bogert-O'Brien
+
+WWW: [discontinuity](https://discontinuity.ca)
 
 Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometimes find vulnerabilities when I'm bored. I co-founded a hackerspace over a decade ago but have only just accepted that security is more than a hobby. At work, I'm a business architect with security leanings working in knowledge management for a major renewable energy company.
 
