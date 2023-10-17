@@ -127,9 +127,9 @@ Jasmin is an experienced application security professional and Global Product Se
 
 ## Lukas Mika
 
-"Lukas Mika started his career in the IT industry as a Software Developer, Solution Architect and IT Consultant.
+Lukas Mika started his career in the IT industry as a Software Developer, Solution Architect and IT Consultant.
 Following his passion of IT Security, he took the opportunity to become a Security Architect. In this position he drove the Application Security initiative at his former employer.
-In 2022, he joined Maersk's Cyber Architecture Team as a Lead Cyber Architect for Application Security, where he now focuses on the Secure Software Development Lifecycle vision and its implementation across the enterprise."
+In 2022, he joined Maersk's Cyber Architecture Team as a Lead Cyber Architect for Application Security, where he now focuses on the Secure Software Development Lifecycle vision and its implementation across the enterprise.
 
 ## Christian Kollee
 
