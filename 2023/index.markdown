@@ -64,6 +64,7 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
     </tr>
     <tr>
         <td><center><a href="https://moia.io/"><img src="/assets/images/MOIA.svg" alt="MOIA" width="150px"></a></center></td>
+        <td><center><a href="https://google.com/"><img src="/assets/images/googlelogo_color_466x156dp.png" alt="Google Ireland Limited" width="150px"></a></center></td>
     </tr>
 </table>
 
