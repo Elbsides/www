@@ -105,12 +105,12 @@ Priliminary program, subject to change. You can also jump to the [talks](#talks)
 | 14:10 | [Lukas Mika](#lukas-mika) | [Secure Supply Chains, Secure Containers](#secure-supply-chains-secure-containers) |
 | 14:40 | | Break |
 | 15:00 | [Adina Bogert-O'Brien](#adina-bogert-obrien) | [A beginner's guide to SSO (mis)configuration](#a-beginners-guide-to-sso-misconfiguration) |
-| 15:45 | [Christian Kollee](#christian-kollee) | [You are (not) prepared - A ransomware story](#you-are-not-prepared---a-ransomware-story) |
-| 16:30 | | Break |
-| 16:50 | [Nick Mahling](#nick-mahling) | [Reverse Engineering of Intel's Branch Prediction](#reverse-engineering-of-intels-branch-prediction) |
-| 17:20 | [Attila Szasz](#attila-szasz) | [Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space](#broadcom-router-sdk-vulnerabilities---the-uncomfortable-reality-of-the-iot-linux-kernel-space) |
-| 18:05 | Orga team | Closing remarks |
-| 18:10 | | Networking Hour |
+| 15:30 | [Christian Kollee](#christian-kollee) | [You are (not) prepared - A ransomware story](#you-are-not-prepared---a-ransomware-story) |
+| 16:15 | | Break |
+| 16:35 | [Nick Mahling](#nick-mahling) | [Reverse Engineering of Intel's Branch Prediction](#reverse-engineering-of-intels-branch-prediction) |
+| 17:05 | [Attila Szasz](#attila-szasz) | [Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space](#broadcom-router-sdk-vulnerabilities---the-uncomfortable-reality-of-the-iot-linux-kernel-space) |
+| 17:50 | Orga team | Closing remarks |
+| 18:00 | | Networking Hour |
 
 # Speakers
 
