@@ -99,8 +99,8 @@ Preliminary program, subject to change. You can also jump to the [talks](#talks)
 
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
-| 13:00 | Orga team | Conference opening |
-| 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Keynote: [40 years Census Decision: The census and understanding privacy protection in the transition of time.](#40-years-census-decision-the-census-and-understanding-privacy-protection-in-the-transition-of-time) |
+| 13:00 | [Dr. Morton Swimmer](#morton) | Conference opening |
+| 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Keynote: [40 years Census Decision: The census and understanding privacy protection in the transition of time](#40-years-census-decision-the-census-and-understanding-privacy-protection-in-the-transition-of-time) |
 | 13:40 | [Jasmin Mair](#jasmin-mair) | [My CI/CD pipeline contains all security tools available! Now what...?](#my-cicd-pipeline-contains-all-security-tools-available-now-what) |
 | 14:10 | [Lukas Mika](#lukas-mika) | [Secure Supply Chains, Secure Containers](#secure-supply-chains-secure-containers) |
 | 14:40 | | Break |
@@ -109,7 +109,7 @@ Preliminary program, subject to change. You can also jump to the [talks](#talks)
 | 16:15 | | Break |
 | 16:35 | [Nick Mahling](#nick-mahling) | [Reverse Engineering of Intel's Branch Prediction](#reverse-engineering-of-intels-branch-prediction) |
 | 17:05 | [Attila Szasz](#attila-szasz) | [Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space](#broadcom-router-sdk-vulnerabilities---the-uncomfortable-reality-of-the-iot-linux-kernel-space) |
-| 17:50 | Orga team | Closing remarks |
+| 17:50 | [Florian Junge](#florian) | Closing remarks |
 | 18:00 | | Networking Hour |
 | 19:00 | | End of conference |
 
@@ -270,7 +270,7 @@ A past interest in archaeology brought Florian to the field of security. To him,
 
 ## Debbie
 
-Debbie is also a non-techie, but works in IT security sales in 2019 - first for SCHUTZWERK and now for turingpoint. Inspired by her environment, she started studying business informatics part-time in 2021 to gain a broader IT knowledge. In the meantime, it has become clear that she would like to specialize even more in cybersecurity. Debbie joined Elbsides because she wanted to dive deeper into the community.
+Debbie is also a non-techie, but works in IT security sales in 2019 - first for SCHUTZWERK and now for Turingpoint. Inspired by her environment, she started studying business informatics part-time in 2021 to gain a broader IT knowledge. In the meantime, it has become clear that she would like to specialize even more in cybersecurity. Debbie joined Elbsides because she wanted to dive deeper into the community.
 
 ## [Jonas](https://social.jonaskoeritz.de/@jonas)
 
