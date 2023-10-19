@@ -95,12 +95,12 @@ Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponso
 
 # Program
 
-Priliminary program, subject to change. You can also jump to the [talks](#talks) directly or [speaker bios](#speakers).
+Preliminary program, subject to change. You can also jump to the [talks](#talks) directly or [speaker bios](#speakers).
 
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
 | 13:00 | Orga team | Conference opening |
-| 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Keynote: [40 years Census Decision: The census and the understanding privacy protection in the transition of time.]() |
+| 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Keynote: [40 years Census Decision: The census and understanding privacy protection in the transition of time.](#40-years-census-decision-the-census-and-understanding-privacy-protection-in-the-transition-of-time) |
 | 13:40 | [Jasmin Mair](#jasmin-mair) | [My CI/CD pipeline contains all security tools available! Now what...?](#my-cicd-pipeline-contains-all-security-tools-available-now-what) |
 | 14:10 | [Lukas Mika](#lukas-mika) | [Secure Supply Chains, Secure Containers](#secure-supply-chains-secure-containers) |
 | 14:40 | | Break |
@@ -111,6 +111,7 @@ Priliminary program, subject to change. You can also jump to the [talks](#talks)
 | 17:05 | [Attila Szasz](#attila-szasz) | [Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space](#broadcom-router-sdk-vulnerabilities---the-uncomfortable-reality-of-the-iot-linux-kernel-space) |
 | 17:50 | Orga team | Closing remarks |
 | 18:00 | | Networking Hour |
+| 19:00 | | End of conference |
 
 # Speakers
 
@@ -158,7 +159,7 @@ Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometime
 
 # Talks
 
-## 40 years Census Decision: The census and the understanding privacy protection in the transition of time.
+## 40 years Census Decision: The census and understanding privacy protection in the transition of time.
 
 
 
