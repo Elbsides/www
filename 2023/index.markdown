@@ -153,7 +153,11 @@ Researcher in computer security, reported vulnerabilities in Google Chrome, Inte
 
 ## Adina Bogert-O'Brien
 
+![Adina Bogert O'Brien](/assets/2023/images/Adina-Bogert-OBrien.png)
+
 WWW: [discontinuity](https://discontinuity.ca)
+
+![mastodon](/assets/images/mastodon-logo-purple.svg){:height="14pt"} [@discontinuity@infosec.exchange](https://infosec.exchange/@discontinuity)
 
 Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometimes find vulnerabilities when I'm bored. I co-founded a hackerspace over a decade ago but have only just accepted that security is more than a hobby. At work, I'm a business architect with security leanings working in knowledge management for a major renewable energy company.
 
@@ -161,7 +165,7 @@ Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometime
 
 ## 40 years Census Decision: The census and understanding privacy protection in the transition of time.
 
-
+tba
 
 ## My CI/CD pipeline contains all security tools available! Now what...?
 
@@ -215,39 +219,20 @@ This research journey also sheds light on the complexity of addressing such vuln
 This presentation will provide an in-depth examination of CVE-2023-31070, offering valuable insights into the IoT security landscape and the imperative to secure our interconnected devices. The talk aims to foster a discussion within the security community and raise awareness of the challenges posed by vulnerabilities in IoT ecosystems.
 
 
-## A beginner’s guide to SSO (mis)configuration
+## A beginner's guide to SSO (mis)configuration
 
-*Single Sign-On: hype vs. reality*
-Single Sign-On is sold as a way to
- - centralize managing your organization's users
- - make life easier for your colleagues
- - enforce consistent security standards
+SSO is sold as a way to
+* centralize managing your organization's users,
+* make life easier for your colleagues, and
+* enforce consistent security standards.
 
-But if a vendor has an SSO protocol, then all they have is a way for your identity provider to share information about an authenticated identity with another service. But it turns out, me having a way to tell my vendor “yeah, that’s Bob” doesn’t guarantee, well, anything at all.
+But SSO protocols are just ways for an identity provider to share information about an authenticated identity with another service. Me having a way to tell my vendor "yeah, that's Bob" doesn't tell me what the vendor does with this information, or if the vendor always asks me who's coming in the door.
 
-A truly bad SSO implementation can make you feel safe, while hiding all the new and exciting things that have gone wrong.
+A bad SSO implementation can make you think you're safer, while hiding all the new and fun things that have gone wrong.
 
-*People make mistakes*
-This talk isn’t about any sexy security vulnerability where I found a zero day. It’s not about the advantages and disadvantages of one identity management protocol over another. Instead it’s about looking out for the mundane issue you run into in any major project: human error.
+To get the most out of implementing SSO, I need to know what I'm trying to accomplish and what steps I need to follow to get there. To illustrate why SSO needs to be set up carefully, for each of the things you need to do right, I'll give you some fun examples of creative ways you and your vendor can do this wrong. We all learn from failure, right???
 
-*Implementing SSO so it actually does what you want it to do*
-This is the story of me, a general purpose nerd without much depth of knowledge, learning the hard way:
- - to define what I need my SSO setup to do
- - how to actually make it do that
- - what weird questions to ask to make sure I did it right
- - some mistakes you can make along the way
-
-*Why am I using SSO?*
-This talk is from the perspective of someone working in a company where other smart colleagues have already set up the company's authentication side. I'll concentrate on the things that you need to check a vendor has done properly more than double checking your company's done what it should.
-
-The goals I have are to make sure:
- - only active employees can access our SaaS content
- - all employees need to go through my company’s implemented multi-factor authentication challenges before they can access our SaaS content
- - we can be sure that Bob on the SaaS is the same as Bob who authenticated towards my company
- - when Jane joins the company, she also gets access to the SaaS
-
-Each of these things are as important as they are tricky. In this talk, we'll stop assuming that anything is set up correctly. Let’s talk through how to use weird questions and edge cases to get the results you need!
-
+I'm sharing this info because this year I got deeply involved in the SSO setup for several vendors at work. It turns out that I'm good at asking weird questions, and it's an extremely valuable thing to do. If you know how things should be, then you know where they could be broken, and you can ask your vendors (and your colleagues!) "wierd questions" before an adversary does.
 
 # Team
 
