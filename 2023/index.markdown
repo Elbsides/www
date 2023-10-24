@@ -142,6 +142,8 @@ Christian currently works as a Network Detection Engineer in the German finance 
 
 ## Nick Mahling
 
+![linkedin](/assets/images/In-Blue-14.png) [linkedin.com/in/nick-mahling-1850351b1/](https://www.linkedin.com/in/nick-mahling-1850351b1/)
+
 Nick Mahling is an IT-Security master student at the University of Lübeck where he graduated with a bachelor's degree in 2023. He also works as a Research Assistant at the Institute for IT-Security at the University of Lübeck. Nick is particularly interested in reverse engineering, CPU microarchitectures and hiking.
 
 
