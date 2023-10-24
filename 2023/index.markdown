@@ -153,7 +153,7 @@ Researcher in computer security, reported vulnerabilities in Google Chrome, Inte
 
 ## Adina Bogert-O'Brien
 
-![Adina Bogert O'Brien](/assets/2023/images/Adina-Bogert-OBrien.png)
+![Adina Bogert O'Brien](/assets/2023/images/Adina-Bogert-OBrien.png){:width="150px" align="right" style="padding: 10px;"}
 
 WWW: [discontinuity](https://discontinuity.ca)
 
