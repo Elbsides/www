@@ -171,7 +171,12 @@ tba
 
 ## My CI/CD pipeline contains all security tools available! Now what...?
 
-Tools are helpful to enable DevSecOps, but many challenges and pitfalls highlight the need for a cultural shift.  Explore issues such as security resistance, conflicting KPIs and organizational silos with real-world examples and dive into best practices to provide actionable insights to overcome these obstacles.
+In today's fast-paced environment, teams are under constant pressure to deliver code, features, and applications at an unprecedented speed, thanks to the contributions of Agile and DevOps methodologies. While these approaches have significantly accelerated the time to market, the downside is that rapid development often comes at the cost of neglecting critical security considerations, potentially leaving systems vulnerable to cyber threats and compromises.
+
+But does DevSecOps, the seemingly ideal bridge between agility and security, truly live up to its promise, or is it too good to be true? The reality often reveals a substantial gap between theory and practice.
+
+This talk will not only delve into the principles and potential of DevSecOps but will also shed light on a commonly overlooked challenge: teams' premature and excessive focus on acquiring security tools without executing proper implementation.
+By exploring real-world examples and best practices, this talk aims to provide practical insights into addressing these challenges and fostering a cultural shift that can lead to successful DevSecOps adoption. It's not just about buying tools; it's about implementing them thoughtfully and collaboratively to fortify your development process against security threats.
 
 ## Secure Supply Chains, Secure Containers
 
