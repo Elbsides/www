@@ -9,18 +9,16 @@ permalink: /2023/
 
 This year we will welcome you to Elbsides light, a ½ day conference.
 
-You will be able to [register on our registration page](/2023/registration/) from October 16th onwards.
+The conference is sold out, but you can still register for the waiting list [register on our registration page](/2023/registration/). We also have a restricted number of business tickets available. Contact us at **elbsides -at- gmail.com** if you are interested.
 
 
 # General Information
 
 The computer security community from Hamburg and North Germany will meet on November 17th, 2023 at [Haus des Sports, Schäferkampsallee 1 in Hamburg](https://hausdessports.de/), near [U-Schlump station](https://www.hamburg.de/branchenbuch/hamburg/eintrag/10285020/).
 
-Meet the [team](#team).
-
-We are still looking for [sponsors](#sponsors) to make this event the best it can be.
 
 ## Follow us
+
 
 * Twitter: [@elbsides](https://twitter.com/elbsides)
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
@@ -34,9 +32,6 @@ If you haven't been to [Elbsides 2019](/2019/) - see what you missed and watch t
 # Sponsors
 
 We hope to welcome many old and new sponsors to make this event possible with no costs for attendees and to keep this event as inclusive as possible.
-
-Drop us an email at **elbsides -at- gmail.com** if you would like to be a sponsor or know of companies that would love to support the North German infosec community. It benefits all parties involved.
-
 
 
 <table>
