@@ -5,5 +5,5 @@ _site
 vendor
 .ruby-version
 .ruby-lsp
-assets/.DS_Store
+**/.DS_Store
 www.code-workspace
