@@ -3,8 +3,6 @@ layout: page
 permalink: /coc/
 ---
 
-# Code of Conduct
-
 ### Purpose and Scope
 
 The primary purpose of the Elbsides Code of Conduct is to provide the foundation for the inclusion of a diverse range of contributors and participants so that we can focus on exchanging ideas about security. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, academic background and religion (or lack thereof).
