@@ -19,7 +19,6 @@ The computer security community from Hamburg and North Germany will meet on Nove
 
 ## Follow us
 
-
 * Twitter: [@elbsides](https://twitter.com/elbsides)
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
@@ -112,6 +111,8 @@ Preliminary program, subject to change. You can also jump to the [talks](#talks)
 
 ## Prof. Dr. Simone Fischer-Hübner
 
+![Simone Fischer-Hübner](/assets/2023/images/SimoneFischerHuebner.jpg){:width="150px" align="right" style="padding: 10px;"}
+
 Simone Fischer-Hübner is a Guest Professor at Chalmers University of Technoloy and has been a Full Professor at Karlstad University since June 2000, where is the head of the Privacy& Security (PriSec) research group. She received a Diploma Degree in Computer Science with a minor in Law (1988), and a PhD (1992) and Habilitation (1999) Degrees in Computer Science from Hamburg University.  She was a Guest Professor at Copenhagen Business School in 1994/1995 and Stockholm University / Royal Institute of Technology in 1998/1999. Moreover, she was awarded an Honorary Doctorate by Chalmers University of Technology in 2021.
 She has been conducting research in privacy, cyber security and privacy-enhancing technologies for more than 35 years. She is member of Cybersecurity Council of the Swedish Civil Contingency Agency (MSB), board member of the Swedish Data Protection Forum and member of the board for the Privacy Enhancing Technology Symposia (PETS).
 
@@ -162,7 +163,8 @@ Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometime
 
 ## 40 years Census Decision: The census and understanding privacy protection in the transition of time.
 
-tba
+In 1983, the German Constitutional court stopped in its census decision the planned census, which according to the court was violating the individual right to informational self-determination. The court required a clear purpose limitation of census data as well as the requirement that census data must be (effectively) anonymized. While for the 1987 census, the German government and Census Bureau assumed that deleting directly identifying personal identifiers, such as name and address, would be sufficient for anonymisation, Klaus Brunnstein and Simone Fischer-Hübner demonstrated with a simple simulation model that a few additional personal data attributes would be sufficient to uniquely most individuals. 40 years later, the problem that it is basically impossible to anonymise personal data by simply suppressing some attributes is meanwhile very well understand. For effectively protecting statistical data, privacy-enhancing technologies, including k-anonymity and differential privacy, have been developed. Differential privacy has been used recently by the US census and is also used by tech giants, such as Apple, Google or Uber, for enhancing privacy for their data analyses - however, differential privacy provides privacy functionalities that are hard to convey to lay users and decision makers. This talk provides an overview of how the understanding of privacy, anonymity and privacy enhancing technologies for census and data analytics has developed over the last 40 years and discusses remaining challenges.
+
 
 ## My CI/CD pipeline contains all security tools available! Now what...?
 
