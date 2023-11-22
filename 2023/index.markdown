@@ -163,6 +163,8 @@ Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometime
 
 ## 40 years Census Decision: The census and understanding privacy protection in the transition of time.
 
+[Slides](/assets/2023/Simone - 40 Jahre VZ 2023-11-17.pdf)
+
 In 1983, the German Constitutional court stopped in its census decision the planned census, which according to the court was violating the individual right to informational self-determination. The court required a clear purpose limitation of census data as well as the requirement that census data must be (effectively) anonymized. While for the 1987 census, the German government and Census Bureau assumed that deleting directly identifying personal identifiers, such as name and address, would be sufficient for anonymisation, Klaus Brunnstein and Simone Fischer-Hübner demonstrated with a simple simulation model that a few additional personal data attributes would be sufficient to uniquely most individuals. 40 years later, the problem that it is basically impossible to anonymise personal data by simply suppressing some attributes is meanwhile very well understand. For effectively protecting statistical data, privacy-enhancing technologies, including k-anonymity and differential privacy, have been developed. Differential privacy has been used recently by the US census and is also used by tech giants, such as Apple, Google or Uber, for enhancing privacy for their data analyses - however, differential privacy provides privacy functionalities that are hard to convey to lay users and decision makers. This talk provides an overview of how the understanding of privacy, anonymity and privacy enhancing technologies for census and data analytics has developed over the last 40 years and discusses remaining challenges.
 
 
@@ -224,6 +226,8 @@ This presentation will provide an in-depth examination of CVE-2023-31070, offeri
 
 
 ## A beginner's guide to SSO (mis)configuration
+
+[Slides](/assets/2023/Adina - SSO talk.pdf)
 
 SSO is sold as a way to
 * centralize managing your organization's users,
