@@ -7,9 +7,9 @@ permalink: /2023/
 
 ![Elbsides 2023 light](/assets/images/elbsides_light_logo.svg){:width="35%" align="right" style="padding: 10px;"}
 
-This year we will welcome you to Elbsides light, a ½ day conference.
+**Elbsides light is a wrap! Thank you to all our speakers, sponsors, and attendees for making this a great event. We hope to see you again in 2024!**
 
-The conference is sold out, but you can still register for the waiting list [register on our registration page](/2023/registration/). We also have a restricted number of business tickets available. Contact us at **elbsides -at- gmail.com** if you are interested.
+This year we will welcome you to Elbsides light, a ½ day conference.
 
 
 # General Information
