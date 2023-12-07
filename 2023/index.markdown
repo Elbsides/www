@@ -9,8 +9,9 @@ permalink: /2023/
 
 **Elbsides light is a wrap! Thank you to all our speakers, sponsors, and attendees for making this a great event. We hope to see you again in 2024!**
 
-This year we will welcome you to Elbsides light, a ½ day conference.
+~~This year we will welcome you to Elbsides light, a ½ day conference.~~
 
+You can find all the videos and some of the slides by clicking through to the talk description from the [program](#program) or you can check out the [playlist](https://www.youtube.com/watch?v=TTnAFXHmF1I&list=PL1d1CFJwRGVNfXvCrRViNoE7pLOReb6BV&pp=gAQBiAQB) on YouTube.
 
 # General Information
 
@@ -91,9 +92,11 @@ We hope to welcome many old and new sponsors to make this event possible with no
 
 Preliminary program, subject to change. You can also jump to the [talks](#talks) directly or [speaker bios](#speakers).
 
+You can find the videos of the talks by clicking through to the talk or by going to the [playlist on YouTube](https://www.youtube.com/watch?v=TTnAFXHmF1I&list=PL1d1CFJwRGVNfXvCrRViNoE7pLOReb6BV&pp=gAQBiAQB).
+
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
-| 13:00 | [Dr. Morton Swimmer](#morton) | Conference opening |
+| 13:00 | [Dr. Morton Swimmer](#morton) | [Conference opening](#opening) |
 | 13:10 | [Prof. Dr. Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner) | Keynote: [40 years Census Decision: The census and understanding privacy protection in the transition of time](#40-years-census-decision-the-census-and-understanding-privacy-protection-in-the-transition-of-time) |
 | 13:40 | [Jasmin Mair](#jasmin-mair) | [My CI/CD pipeline contains all security tools available! Now what...?](#my-cicd-pipeline-contains-all-security-tools-available-now-what) |
 | 14:10 | [Lukas Mika](#lukas-mika) | [Secure Supply Chains, Secure Containers](#secure-supply-chains-secure-containers) |
@@ -103,7 +106,7 @@ Preliminary program, subject to change. You can also jump to the [talks](#talks)
 | 16:15 | | Break |
 | 16:35 | [Nick Mahling](#nick-mahling) | [Reverse Engineering of Intel's Branch Prediction](#reverse-engineering-of-intels-branch-prediction) |
 | 17:05 | [Attila Szasz](#attila-szasz) | [Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space](#broadcom-router-sdk-vulnerabilities---the-uncomfortable-reality-of-the-iot-linux-kernel-space) |
-| 17:50 | [Florian Junge](#florian) | Closing remarks |
+| 17:50 | [Florian Junge](#florian) | [Closing remarks](#closing) |
 | 18:00 | | Networking Hour |
 | 19:00 | | End of conference |
 
@@ -142,7 +145,6 @@ Christian currently works as a Network Detection Engineer in the German finance 
 
 Nick Mahling is an IT-Security master student at the University of Lübeck where he graduated with a bachelor's degree in 2023. He also works as a Research Assistant at the Institute for IT-Security at the University of Lübeck. Nick is particularly interested in reverse engineering, CPU microarchitectures and hiking.
 
-
 ## Attila Szasz
 
 ![linkedin](/assets/images/In-Blue-14.png) [linkedin.com/in/attila-szász-086abb122/](https://www.linkedin.com/in/attila-szász-086abb122/)
@@ -161,14 +163,29 @@ Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometime
 
 # Talks
 
+## Opening
+
+Speaker: [Morton Swimmer](#morton)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTnAFXHmF1I?si=G0_WiQKkgTCbnZ8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## 40 years Census Decision: The census and understanding privacy protection in the transition of time.
 
-[Slides](/assets/2023/Simone - 40 Jahre VZ 2023-11-17.pdf)
+Speaker: [Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner)
+
+Slides: [PDF](/assets/2023/Simone - 40 Jahre VZ 2023-11-17.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kfwdja5wUUQ?si=wBsDn-p97Ntb-l2L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In 1983, the German Constitutional court stopped in its census decision the planned census, which according to the court was violating the individual right to informational self-determination. The court required a clear purpose limitation of census data as well as the requirement that census data must be (effectively) anonymized. While for the 1987 census, the German government and Census Bureau assumed that deleting directly identifying personal identifiers, such as name and address, would be sufficient for anonymisation, Klaus Brunnstein and Simone Fischer-Hübner demonstrated with a simple simulation model that a few additional personal data attributes would be sufficient to uniquely most individuals. 40 years later, the problem that it is basically impossible to anonymise personal data by simply suppressing some attributes is meanwhile very well understand. For effectively protecting statistical data, privacy-enhancing technologies, including k-anonymity and differential privacy, have been developed. Differential privacy has been used recently by the US census and is also used by tech giants, such as Apple, Google or Uber, for enhancing privacy for their data analyses - however, differential privacy provides privacy functionalities that are hard to convey to lay users and decision makers. This talk provides an overview of how the understanding of privacy, anonymity and privacy enhancing technologies for census and data analytics has developed over the last 40 years and discusses remaining challenges.
 
 
 ## My CI/CD pipeline contains all security tools available! Now what...?
+
+Speaker: [Jasmin Mair](#jasmin-mair)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dK3SW-_u2mM?si=4135QkRpDCIXGySL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In today's fast-paced environment, teams are under constant pressure to deliver code, features, and applications at an unprecedented speed, thanks to the contributions of Agile and DevOps methodologies. While these approaches have significantly accelerated the time to market, the downside is that rapid development often comes at the cost of neglecting critical security considerations, potentially leaving systems vulnerable to cyber threats and compromises.
 
@@ -179,6 +196,10 @@ By exploring real-world examples and best practices, this talk aims to provide p
 
 ## Secure Supply Chains, Secure Containers
 
+Speaker: [Lukas Mika](#lukas-mika)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qq3yntUDTwc?si=Oez8N5gwZO0E7RC-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The invention of the container has created entirely new opportunities through the accompanying standardization - both in global trade and in software development. This has resulted in increasingly complex supply chains in logistics and software development, which need to be secured in both industries.
 
 But how do companies address the associated risks and what lessons can we learn for our development processes?
@@ -187,7 +208,32 @@ How can security be embedded in their processes, without delaying their deliveri
 
 Using the Secure Software Development Lifecycle, this presentation will illustrate the strategic vision that the container shipping company Maersk uses to design its own software development process and to identify, mitigate and prevent security and operational risks along the software supply chain. It will take a closer look at the process, its objectives and the challenges it faces.
 
+## A beginner's guide to SSO (mis)configuration
+
+Speaker: [Adina Bogert-O'Brien](#adina-bogert-obrien)
+
+Slids: [PDF](/assets/2023/Adina - SSO talk.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2KwrZPhi48?si=FptfIjVtlpsY-ae1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+SSO is sold as a way to
+* centralize managing your organization's users,
+* make life easier for your colleagues, and
+* enforce consistent security standards.
+
+But SSO protocols are just ways for an identity provider to share information about an authenticated identity with another service. Me having a way to tell my vendor "yeah, that's Bob" doesn't tell me what the vendor does with this information, or if the vendor always asks me who's coming in the door.
+
+A bad SSO implementation can make you think you're safer, while hiding all the new and fun things that have gone wrong.
+
+To get the most out of implementing SSO, I need to know what I'm trying to accomplish and what steps I need to follow to get there. To illustrate why SSO needs to be set up carefully, for each of the things you need to do right, I'll give you some fun examples of creative ways you and your vendor can do this wrong. We all learn from failure, right???
+
+I'm sharing this info because this year I got deeply involved in the SSO setup for several vendors at work. It turns out that I'm good at asking weird questions, and it's an extremely valuable thing to do. If you know how things should be, then you know where they could be broken, and you can ask your vendors (and your colleagues!) "wierd questions" before an adversary does.
+
 ## You are (not) prepared - A ransomware story
+
+Speaker: [Christian Kollee](#christian-kollee)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K1aoLBDdKHg?si=X-ryrC8gHGQfZe3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Ransomware attacks are an ever-present menace for companies of all sizes. But they are especially devastating for small and medium-sized businesses. However, ransomware attacks typically consistently proceed similarly. The techniques used differ depending on the grouping and the infrastructure attacked.
 
@@ -204,6 +250,12 @@ You can do a lot before an actual incident; some to make it less likely to get h
 
 ## Reverse Engineering of Intel’s Branch Prediction
 
+Speaker: [Nick Mahling](#nick-mahling)
+
+Slides: [PDF](/assets/2023/Nick - Reverse Engineering of Intel's Branch Prediction.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ArYCu3S-xRg?si=GaA-vwzC-hkmovbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Due to the rise of cloud computing, many applications share hardware resources with other applications in the cloud. While cloud computing offers numerous advantages, it has also introduced new security threats that need to be addressed. To reduce these risks, virtualization is used to isolate applications. A CPU involves a vast array of microarchitectural components dedicated to multiple tasks. If any of these underlying components possess a design flaw, it could potentially lead to security vulnerabilities, making the virtualization obsolete. One of these microarchitectural vulnerabilities is known as Spectre, which encompasses attacks capable of exploiting speculative execution to manipulate the control flow of an application. Speculative execution is a key feature in modern processors that leverages multiple microarchitectural elements to optimize runtime performance. This is achieved among other things by accurately predicting conditional branch outcomes. By analyzing the history of a branch, the processors can make guesses about the direction a program will take, enabling it to speculatively execute instructions ahead of time. Spectre variants targeting this mechanism have the ability to alter the program's execution path, potentially allowing an attacker to leak sensitive information. Due to limited knowledge about branch prediction on modern processors, some of those Spectre variants presented by researchers are impractical e.g. because of very long shellcodes. Furthermore, a deeper understanding of branch prediction can unveil more efficient defense mechanisms.
 
 Hence, this presentation which is based on my recent bachelor's thesis will focus on reverse engineering the branch prediction on modern Intel CPUs. Through the design and implementation of experiments, we aim to gain deeper insights into branch predictors. Specifically, our objective is to find pairs of branches that can interfere with each other's predictions. This acquired knowledge builds the foundation for developing a more reliable and efficient out-of-place Spectre attack.
@@ -211,6 +263,10 @@ By employing the information from that research, we successfully construct an at
 
 
 ## Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space
+
+Speaker: [Attila Szasz](#attila-szasz)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsebzn6Pq1I?si=12qrfPoPfHBsIjL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This research uncovers the CVE-2023-31070 vulnerability, a concerning issue within the IoT Linux kernel space, specifically affecting the Broadcom BCM47xx SDK. This vulnerability resides in the Efficient Multicast Forwarding (EMF) slab-out-of-bounds write, and it has significant implications for IoT device security. The Broadcom BCM47xx SDK serves as the reference implementation in numerous router models, making it a ubiquitous presence in the IoT landscape. In fact, the issue affects router devices from at least 14 manufacturers, and more than 50 popular models, therefore affecting a significant market share of small office home networking devices.
 
@@ -225,22 +281,11 @@ This research journey also sheds light on the complexity of addressing such vuln
 This presentation will provide an in-depth examination of CVE-2023-31070, offering valuable insights into the IoT security landscape and the imperative to secure our interconnected devices. The talk aims to foster a discussion within the security community and raise awareness of the challenges posed by vulnerabilities in IoT ecosystems.
 
 
-## A beginner's guide to SSO (mis)configuration
+## Closing
 
-[Slides](/assets/2023/Adina - SSO talk.pdf)
+Speaker: [Florian Junge](#florian)
 
-SSO is sold as a way to
-* centralize managing your organization's users,
-* make life easier for your colleagues, and
-* enforce consistent security standards.
-
-But SSO protocols are just ways for an identity provider to share information about an authenticated identity with another service. Me having a way to tell my vendor "yeah, that's Bob" doesn't tell me what the vendor does with this information, or if the vendor always asks me who's coming in the door.
-
-A bad SSO implementation can make you think you're safer, while hiding all the new and fun things that have gone wrong.
-
-To get the most out of implementing SSO, I need to know what I'm trying to accomplish and what steps I need to follow to get there. To illustrate why SSO needs to be set up carefully, for each of the things you need to do right, I'll give you some fun examples of creative ways you and your vendor can do this wrong. We all learn from failure, right???
-
-I'm sharing this info because this year I got deeply involved in the SSO setup for several vendors at work. It turns out that I'm good at asking weird questions, and it's an extremely valuable thing to do. If you know how things should be, then you know where they could be broken, and you can ask your vendors (and your colleagues!) "wierd questions" before an adversary does.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/udVDuj9x0wo?si=tLFno8ddXDkOgtuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Team
 
