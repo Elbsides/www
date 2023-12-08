@@ -185,6 +185,8 @@ In 1983, the German Constitutional court stopped in its census decision the plan
 
 Speaker: [Jasmin Mair](#jasmin-mair)
 
+Slides: [PDF](/assets/2023/Jasmin - My CICD pipeline contains all security tools available! Now what.pdf)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dK3SW-_u2mM?si=4135QkRpDCIXGySL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In today's fast-paced environment, teams are under constant pressure to deliver code, features, and applications at an unprecedented speed, thanks to the contributions of Agile and DevOps methodologies. While these approaches have significantly accelerated the time to market, the downside is that rapid development often comes at the cost of neglecting critical security considerations, potentially leaving systems vulnerable to cyber threats and compromises.
