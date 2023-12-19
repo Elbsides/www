@@ -235,7 +235,7 @@ I'm sharing this info because this year I got deeply involved in the SSO setup f
 
 Speaker: [Christian Kollee](#christian-kollee)
 
-Slides: [PDF]("/assets/2023/Christian - You are not prepared.pdf")
+Slides: [PDF](/assets/2023/Christian - You are not prepared.pdf)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K1aoLBDdKHg?si=X-ryrC8gHGQfZe3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
