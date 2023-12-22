@@ -200,8 +200,6 @@ By exploring real-world examples and best practices, this talk aims to provide p
 
 Speaker: [Lukas Mika](#lukas-mika)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qq3yntUDTwc?si=Oez8N5gwZO0E7RC-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 The invention of the container has created entirely new opportunities through the accompanying standardization - both in global trade and in software development. This has resulted in increasingly complex supply chains in logistics and software development, which need to be secured in both industries.
 
 But how do companies address the associated risks and what lessons can we learn for our development processes?
