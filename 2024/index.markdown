@@ -7,6 +7,7 @@ permalink: /2024/
 
 # General Information
 
+Elbsides 2024 will be held in Hamburg, Germany. The exact date and location will be announced soon. Meanwhile, we need [sponsors](#sponsors) to make this event possible. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon, so now is a great time to start thinking about what you would like to present.
 
 ## Follow us
 
