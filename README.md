@@ -1,6 +1,6 @@
 # Elbsides
 
-A test website for the Elbsides conference in Hamburg
+The Elbsides conference in Hamburg
 
 ## Contributors
 
