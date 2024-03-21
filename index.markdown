@@ -22,9 +22,11 @@ carousels:
 ![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
 
 
-Elbsides is North Germany's annual computer security conference organized by the community for the community.
+**Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
-[This year](/2024/), the conference will held in Hamburg near the river Elbe on **Friday, the 13th of September, 2024**, in the St. Pauli district, near the Reeperbahn and the port of Hamburg. As usual, we are currently looking for [sponsors](/2024/sponsors/) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon, so now is a great time to start thinking about what you would like to present.
+[This year](/2024/), the conference will be held in Hamburg near the river Elbe on **Friday, the 13th of September 2024**. As usual, we are **looking for [sponsors](/2024/sponsors/)** to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon.
+
+**For more information, check out the [Elbsides 2024](/2024/) page.**
 
 Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/), [Thomas Fricke](https://thomasfricke.de), [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/) and [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner).
 
@@ -41,7 +43,7 @@ Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/i
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-## Past Sponsors
+# Past Sponsors
 
 Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2024](/2024/).
 

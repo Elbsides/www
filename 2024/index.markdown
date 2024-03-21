@@ -15,13 +15,11 @@ carousels:
 
 ![Elbsides 2024](/assets/2024/Elbsides 2024 black cat.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2024** computer security community conference will be held in Hamburg, Germany on Friday, the 13th of September. Meanwhile, we need [sponsors](#sponsors) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon, so now is a great time to start thinking about what you would like to present.
+The **Elbsides 2024** computer security community conference will be held in Hamburg, Germany on **Friday, the 13th of September**. Meanwhile, we need [sponsors](#sponsors) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon, so now is a great time to start thinking about what you would like to present.
 
 ## Location
 
 This year Elbsides will be at the river Elbe: at the [Empire Riverside Hotel](https://www.empire-riverside.de/en/), a 4-star hotel in the heart of Hamburg. The hotel is located in the St. Pauli district, near the Reeperbahn and overlooking the port of Hamburg. The conference will be held in the hotel's conference center.
-
-## Gallery
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
