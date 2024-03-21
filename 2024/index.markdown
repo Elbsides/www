@@ -2,6 +2,12 @@
 title: 2024
 layout: page
 permalink: /2024/
+carousels:
+  - images:
+    - image: /assets/2024/aussenansicht_stadt_und_elbe_empire_riverside_hotel.jpg
+    - image: /assets/2024/aussenansicht_timelapse_empire_riverside_hotel.jpg
+    - image: /assets/2024/Ballroom - Tagung II.jpg
+    - image: /assets/2024/Ballroom - Tagung IV.JPG
 ---
 [General](#general-information) | [Registration](/2024/registration/) | [Sponsors](#sponsors) | [Conference Program](#program) | [Team](#team)
 
@@ -9,14 +15,24 @@ permalink: /2024/
 
 ![Elbsides 2024](/assets/2024/Elbsides 2024 black cat.svg){:width="35%" align="right" style="padding: 10px;"}
 
-Elbsides 2024 will be held in Hamburg, Germany. The exact date and location will be announced soon. Meanwhile, we need [sponsors](#sponsors) to make this event possible. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon, so now is a great time to start thinking about what you would like to present.
+The **Elbsides 2024** computer security community conference will be held in Hamburg, Germany on Friday, the 13th of September. Meanwhile, we need [sponsors](#sponsors) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon, so now is a great time to start thinking about what you would like to present.
+
+## Location
+
+This year Elbsides will be at the river Elbe: at the [Empire Riverside Hotel](https://www.empire-riverside.de/en/), a 4-star hotel in the heart of Hamburg. The hotel is located in the St. Pauli district, near the Reeperbahn and overlooking the port of Hamburg. The conference will be held in the hotel's conference center.
+
+## Gallery
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+Pictures &copy; Empire Riverside Hotel, Stefan Karstens and Andrea Flak
 
 ## Follow us
 
-* Twitter: [@elbsides](https://twitter.com/elbsides)
+* X: [@elbsides](https://twitter.com/elbsides)
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
-* LinkedIn: [LinkedIn group](https://www.linkedin.com/groups/8828793/)
+* LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
 If you haven't been to [Elbsides 2023](/2023/) - see what you missed and watch the talks on our [2023 Youtube channel](https://www.youtube.com/playlist?list=PL1d1CFJwRGVNfXvCrRViNoE7pLOReb6BV)
 
@@ -44,7 +60,6 @@ Morton is a researcher in the Forward-Looking Threat Research (FTR) team at Tren
 ## [Dagmar](https://twitter.com/wisecrackling)
 
 Coming from a non-technical background, Dagmar brings her knowledge of event organization to Elbsides. Through previous experiences in professional stage management / production for theatre in the UK and US, as well as Sci-Fi conventions in Germany, she teamed up with her husband Morton to organize events for the computer security industry, BSides Munich being among them. Having lived and worked in a variety of countries, she enjoys traveling the globe and seeing theatre productions, especially in London.
-
 
 ## Stefan
 

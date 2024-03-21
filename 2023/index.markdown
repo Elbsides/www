@@ -20,10 +20,10 @@ The computer security community from Hamburg and North Germany will meet on Nove
 
 ## Follow us
 
-* Twitter: [@elbsides](https://twitter.com/elbsides)
+* X: [@elbsides](https://twitter.com/elbsides)
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
-* LinkedIn: [LinkedIn group](https://www.linkedin.com/groups/8828793/)
+* LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
 If you haven't been to [Elbsides 2019](/2019/) - see what you missed and watch the talks on YouTube: [Youtube channel](https://www.youtube.com/channel/UC1kRI13BZ6KMCwtGttD5Arg)
 

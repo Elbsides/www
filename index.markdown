@@ -21,29 +21,29 @@ carousels:
 
 ![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
 
-<!-- ![Elbsides](/assets/images/elbsides_teaser_500x500.png){:width="45%" align="right" style="padding: 10px;"} -->
 
-Elbsides is North Germany's annual computer security conference organized by the community for the community. Due to the pandemic, we had to cancel the 2020 event and had an online event in [2021](/2021/) together with [BSideMunich](https://www.bsidesmunich.org).
+Elbsides is North Germany's annual computer security conference organized by the community for the community.
 
-**We will be welcoming you back in [2023](/2023/) for an [Elbsides light](/2023/) event! Currently, we are still looking for [sponsors](/2023/#sponsors).**
+[This year](/2024/), the conference will held in Hamburg near the river Elbe on **Friday, the 13th of September, 2024**, in the St. Pauli district, near the Reeperbahn and the port of Hamburg. As usual, we are currently looking for [sponsors](/2024/sponsors/) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon, so now is a great time to start thinking about what you would like to present.
 
-Follow us at:
+Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/), [Thomas Fricke](https://thomasfricke.de), [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/) and [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner).
 
-* Twitter: [@elbsides](https://twitter.com/elbsides)
+
+# Follow us at
+
+* X: [@elbsides](https://twitter.com/elbsides)
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
+* LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
-You can also join our [LinkedIn group](https://www.linkedin.com/groups/8828793/).
 
 ## Gallery
 
-Pictures from past events:
-
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-## Sponsors
+## Past Sponsors
 
-Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2023](/2023/).
+Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2024](/2024/).
 
 ![DFN-CERT Services GmbH]({{"/assets/images/dfn-cert.png" | relative_url }}){:width="150px"}
 ![Schutzwerk GmbH]({{"/assets/images/Schutzwerk_Logo_RZ.png" | relative_url }}){:width="150px"}
@@ -62,24 +62,9 @@ Such an event cannot be organized without the support of a community of sponsors
 ![Airbus]({{"/assets/images/AIRBUS_Blue.png" | relative_url }}){:width="150px"}
 ![Google]({{"/assets/images/googlelogo_color_466x156dp.png" | relative_url }}){:width="150px"}
 ![HERE]({{"/assets/images/HERE_Logo_2016_POS_cmyk_IsoCV2.jpg" | relative_url }}){:width="150px"}
-
-
-In 2019 we were sponsored by [DFN-CERT](https://www.dfn-cert.de),
-[Schutzwerk GmbH ](https://www.schutzwerk.com),
-[ Hamburg Port Authority ](https://www.hamburg-port-authority.de),
-[Holisticon AG](https://www.holisticon.de),
-[PRESENSE Technologies GmbH](https://www.pre-sense.de),
-[Codemetrix GmbH](https://www.codemetrix.io),
-[sum.cumo GmbH](https://www.sumcumo.com),
-[Graylog](https://www.graylog.org),
-[Superluminar](https://superluminar.io),
-[Deloitte](http://www.deloitte.com/de),
-[Lotto24](https://lotto24.de),
-[Yubico AB](https://www.yubico.com),
-[Allgeier CORE GmbH](https://www.allgeier-core.com),
-[Airbus S.A.S.](https://www.airbus.com),
-[Google LLC](https://www.google.com),
-[HERE Global B.V.](https://www.here.com),
-[BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu). See
-the [2023 sponsor page](/2023#sponsors) for more details.
-
+![pure ISM GmbH]({{"/assets/images/pureISM_Logo_slogan.svg" | relative_url }}){:width="150px"}
+![ZEAL Network SE]({{"/assets/images/ZEAL-Logo-Blue.svg" | relative_url }}){:width="150px"}
+![MOIA]({{"/assets/images/MOIA.svg" | relative_url }}){:width="150px"}
+![Mogwai Labs]({{"/assets/images/Logo-MOGWAI_LABS.svg" | relative_url }}){:width="150px"}
+![BSidesMunich]({{"/assets/images/BSidesMunich.svg.png" | relative_url }}){:width="150px"}
+![Stickermule]({{"/assets/images/sticker-mule-logo-dark.png" | relative_url }}){:width="150px"}
