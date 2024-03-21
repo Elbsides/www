@@ -38,7 +38,7 @@ If you haven't been to [Elbsides 2023](/2023/) - see what you missed and watch t
 
 # Sponsors
 
-We hope to welcome many old and new sponsors to make this event possible with minimal for attendees and to keep
+We hope to welcome many old and new sponsors to make this event possible with minimal fee for attendees and to keep
 this event as inclusive as possible. If you are interested in sponsoring, please contact us at
 **elbsides -at- gmail.com**.
 
