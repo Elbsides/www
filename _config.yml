@@ -15,8 +15,8 @@ url: "https://www.elbsides.eu/" # the base hostname & protocol for your site, e.
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+  # - jekyll-feed
   # - jekyll-seo-tagx
 
 #markdown: kramdown
