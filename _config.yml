@@ -7,7 +7,7 @@ author:
 # logo: /assets/images/elbsides_logo.svg
 # email: elbsides -at- gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The home of the Elbsides, Hamburg's premier security community driven security conference.
+  This is the home of Elbsides, Hamburg's premier security community driven security conference.
 # baseurl: "/www" # the subpath of your site, e.g. /blog
 url: "https://www.elbsides.eu/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: elbsides
