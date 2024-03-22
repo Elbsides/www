@@ -145,6 +145,20 @@
 .social-media-list li {
   list-style-type: none;
 }
+
+.boilerplate {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+
+}
+
+.boilerplate li {
+  list-style-type: none;
+  margin-right: 10px;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
