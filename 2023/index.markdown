@@ -2,6 +2,28 @@
 title: 2023
 layout: page
 permalink: /2023/
+carousels:
+  - images:
+    - image: /assets/2023/images/IMG_5711.jpg
+    - image: /assets/2023/images/PB170214.jpg
+    - image: /assets/2023/images/PB170224.jpg
+    - image: /assets/2023/images/PB170228.jpg
+    - image: /assets/2023/images/PB170239.jpg
+    - image: /assets/2023/images/PB170247.jpg
+    - image: /assets/2023/images/PB170259.jpg
+    - image: /assets/2023/images/PB170274.jpg
+    - image: /assets/2023/images/PB170292.jpg
+    - image: /assets/2023/images/PB170343.jpg
+    - image: /assets/2023/images/PB170382.jpg
+    - image: /assets/2023/images/PB170402.jpg
+    - image: /assets/2023/images/PB170428.jpg
+    - image: /assets/2023/images/PB170474.jpg
+    - image: /assets/2023/images/PB170502.jpg
+    - image: /assets/2023/images/PB170544.jpg
+    - image: /assets/2023/images/PB170587.jpg
+    - image: /assets/2023/images/PB170590.jpg
+    - image: /assets/2023/images/PB170625.jpg
+
 ---
 [General](#general-information) | [Registration](/2023/registration/) | [Sponsors](#sponsors) | [Conference Program](#program) | [Team](#team)
 
@@ -13,9 +35,12 @@ permalink: /2023/
 
 You can find all the videos and some of the slides by clicking through to the talk description from the [program](#program) or you can check out the [playlist](https://www.youtube.com/watch?v=TTnAFXHmF1I&list=PL1d1CFJwRGVNfXvCrRViNoE7pLOReb6BV&pp=gAQBiAQB) on YouTube.
 
+
 # General Information
 
 The computer security community from Hamburg and North Germany will meet on November 17th, 2023 at [Haus des Sports, Schäferkampsallee 1 in Hamburg](https://hausdessports.de/), near [U-Schlump station](https://www.hamburg.de/branchenbuch/hamburg/eintrag/10285020/).
+
+{% include carousel.html height="80" unit="%" duration="7" number="1" %}
 
 
 ## Follow us
