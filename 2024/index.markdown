@@ -82,3 +82,8 @@ David is an independent software developer, penetration tester and IT consultant
 ## Fabian
 
 Fabian currently works as an embedded software engineer for a small company in Northern Germany. He was working as a financial consultant when his fascination for technology led him back to school to study electrical engineering and digital systems. During his bachelors and master’s thesis he was able to get deep into the weeds of reverse engineering and secure code as part of the vulnerability analysis department at NXP. Whenever he isn't sitting in front of a keyboard, he enjoys playing music and sports outdoors.
+
+## [Matthias](https://matthiashammerschmidt.de)
+
+Matthias has more than 25 years of experience in various industries, disciplines and roles in the world of IT. He now uses this experience as a freelance cybersecurity culture evangelist to support organisations on their way to becoming secure and resilient organisms. This has a lot to do with the agile mindset, where people take centre stage - processes ensure smooth interaction and technology is seen as a tool, not an end in itself!
+Apart from that, he likes to spend his time outdoors, preferably exploring new holiday destinations or cycling in the surrounding area.
