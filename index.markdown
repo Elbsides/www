@@ -24,7 +24,9 @@ carousels:
 
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
-[This year](/2024/), the conference will be held in Hamburg near the river Elbe on **Friday, the 13th of September 2024**. As usual, we are **looking for [sponsors](/2024/sponsors/)** to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. We will also be opening the [Call for Papers](/2024/cfp/) soon.
+[This year](/2024/), the conference will be held in Hamburg near the river Elbe on **Friday, the 13th of September 2024**. As usual, we are **looking for [sponsors](/2024/sponsors/)** to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. 
+
+**The [Call for Papers](/2024/cfp/) is now open** and we welcome all contributions.
 
 **For more information, check out the [Elbsides 2024](/2024/) page.**
 
