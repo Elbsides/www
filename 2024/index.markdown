@@ -69,9 +69,10 @@ For all his professional business life (even years before that) Stefan has been 
 
 A past interest in archaeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various aspects of the field, may it be user awareness, OS and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
 
-## Debbie
+## [Debbie](https://de.linkedin.com/in/deborahkuhntopf)
 
-Debbie is also a non-techie, but works in IT security sales in 2019 - first for SCHUTZWERK and now for Turingpoint. Inspired by her environment, she started studying business informatics part-time in 2021 to gain a broader IT knowledge. In the meantime, it has become clear that she would like to specialize even more in cybersecurity. Debbie joined Elbsides because she wanted to dive deeper into the community.
+Debbie is also a non-techie. Her passion for working in IT security started in 2019 with SCHUTZWERK, where she came into contact with Elbsides. She has been involved in the community ever since. Inspired by her former colleagues at SCHUTZWERK, she also started studying business informatics part-time in March 2021 to gain more IT knowledge. During her studies, which will end in fall 2024, she has left no opportunity to combine all topics with IT security.
+From June 2024, Debbie will be working as an Account Manager at AirITSystems. Her colleagues and her ensure that companies' business-critical IT functions securely and smoothly. She is very much looking forward to this as she will be delving even deeper into the IT world.
 
 ## [Jonas](https://social.jonaskoeritz.de/@jonas)
 
