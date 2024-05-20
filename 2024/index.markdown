@@ -4,18 +4,18 @@ layout: page
 permalink: /2024/
 carousels:
   - images:
-    - image: /assets/2024/aussenansicht_stadt_und_elbe_empire_riverside_hotel.jpg
-    - image: /assets/2024/aussenansicht_timelapse_empire_riverside_hotel.jpg
-    - image: /assets/2024/Ballroom - Tagung II.jpg
-    - image: /assets/2024/Ballroom - Tagung IV.JPG
+    - image: /assets/2024/images/aussenansicht_stadt_und_elbe_empire_riverside_hotel.jpg
+    - image: /assets/2024/images/aussenansicht_timelapse_empire_riverside_hotel.jpg
+    - image: /assets/2024/images/Ballroom - Tagung II.jpg
+    - image: /assets/2024/images/Ballroom - Tagung IV.JPG
 ---
 [General](#general-information) | [Call for Presentations](/2024/cfp/) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
-![Elbsides 2024](/assets/2024/Elbsides 2024 black cat.svg){:width="35%" align="right" style="padding: 10px;"}
+![Elbsides 2024](/assets/2024/logos/Elbsides 2024 black cat.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2024** computer security community conference will be held in Hamburg, Germany on **Friday, the 13th of September**. Meanwhile, we need [sponsors](#sponsors) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**. 
+The **Elbsides 2024** computer security community conference will be held in Hamburg, Germany on **Friday, the 13th of September**. Meanwhile, we need [sponsors](#sponsors) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**.
 
 ** The [Call for Papers](/2024/cfp/) is now open**, and we welcome your presentation submission.
 
@@ -43,6 +43,25 @@ If you haven't been to [Elbsides 2023](/2023/) - see what you missed and watch t
 We hope to welcome many old and new sponsors to make this event possible with minimal costs for attendees and to keep
 this event as inclusive as possible. If you are interested in sponsoring, please contact us at
 **elbsides -at- gmail.com**.
+
+<table>
+    <tr>
+        <th colspan="2"><center>Gold Sponsors</center></th>
+    </tr>
+    <tr>
+        <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn-cert.svg" alt="DFN-CERT Services GmbH" width="150px"></a></center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th colspan="2"><center>Community Sponsors</center></th>
+    </tr>
+    <tr>
+        <td><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BSidesMunich.png" alt="BSidesMunich" width="150px"></a></center></td>
+        <!--td><center><a href="https://www.louis.de"><img src="/assets/images/louis-logo.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" width="150px"></a></center></td-->
+    </tr>
+</table>
 
 # Program
 
