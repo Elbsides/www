@@ -49,7 +49,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
         <th colspan="2"><center>Gold Sponsors</center></th>
     </tr>
     <tr>
-        <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn-cert.svg" alt="DFN-CERT Services GmbH" width="150px"></a></center></td>
+        <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH" width="150px"></a></center></td>
     </tr>
 </table>
 
