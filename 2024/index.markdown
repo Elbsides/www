@@ -50,6 +50,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
     </tr>
     <tr>
         <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH" width="150px"></a></center></td>
+        <td><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/2024/logos/Logo_HPA_Logo_RGB.svg" alt="Hamburg Port Authority AöR" width="150px"></a></center></td>
     </tr>
 </table>
 
