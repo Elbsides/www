@@ -51,7 +51,7 @@ Such an event cannot be organized without the support of a community of sponsors
 
 ![DFN-CERT Services GmbH]({{"/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" | relative_url }}){:width="150px"}
 ![Schutzwerk GmbH]({{"/assets/images/Schutzwerk_Logo_RZ.png" | relative_url }}){:width="150px"}
-![Hamburg Port Authority]({{"/assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" | relative_url }}){:width="150px"}
+![Hamburg Port Authority]({{"/assets/2024/logos/Logo_HPA_Logo_RGB.svg" | relative_url }}){:width="150px"}
 ![Holisticon]({{"/assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" | relative_url }}){:width="150px"}
 ![PRESENSE Technologies GmbH]({{"/assets/images/Logo_Presense_EN_rgb_blue_www.png" | relative_url }}){:width="150px"}
 ![Codemetrix GmbH]({{"/assets/images/codemetrix-logo.jpeg" | relative_url }}){:width="150px"}
