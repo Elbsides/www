@@ -60,7 +60,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
     </tr>
     <tr>
         <td><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BsidesMunich.png" alt="BSidesMunich" width="150px"></a></center></td>
-        <!--td><center><a href="https://www.louis.de"><img src="/assets/images/louis-logo.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" width="150px"></a></center></td-->
+        <td><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" width="150px"></a></center></td>
     </tr>
 </table>
 
