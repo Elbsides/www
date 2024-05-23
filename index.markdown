@@ -69,6 +69,6 @@ Such an event cannot be organized without the support of a community of sponsors
 ![pure ISM GmbH]({{"/assets/images/pureISM_Logo_slogan.svg" | relative_url }}){:width="150px"}
 ![ZEAL Network SE]({{"/assets/images/ZEAL-Logo-Blue.svg" | relative_url }}){:width="150px"}
 ![MOIA]({{"/assets/images/MOIA.svg" | relative_url }}){:width="150px"}
-![Mogwai Labs]({{"/assets/images/Logo-MOGWAI_LABS.svg" | relative_url }}){:width="150px"}
+![Mogwai Labs]({{"/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" | relative_url }}){:width="150px"}
 ![BSidesMunich]({{"/assets/2024/logos/BsidesMunich.png" | relative_url }}){:width="150px"}
 ![Stickermule]({{"/assets/images/sticker-mule-logo-dark.png" | relative_url }}){:width="150px"}
