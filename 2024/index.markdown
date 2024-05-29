@@ -56,6 +56,15 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 
 <table>
     <tr>
+        <th colspan="2"><center>Silver Sponsors</center></th>
+    </tr>
+    <tr>
+        <td><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" width="150px"></a></center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
         <th colspan="2"><center>Bronze Sponsors</center></th>
     </tr>
     <tr>
