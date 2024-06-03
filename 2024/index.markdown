@@ -69,6 +69,8 @@ this event as inclusive as possible. If you are interested in sponsoring, please
     </tr>
     <tr>
         <td><center><a href="https://mogwailabs.de/"><img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" width="150px"></a></center></td>
+        <td><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk" width="150px"></a></center></td>
+
     </tr>
 </table>
 
