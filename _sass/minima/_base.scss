@@ -253,6 +253,7 @@ table {
   td {
     /*background-color: lighten($background-color, 40%);*/
     background-color: $background-color;
+    background-color: white;
     /*border: 1px solid $grey-color-light;*/
     border: 1px solid darken($background-color, 4%);
   }

@@ -46,41 +46,42 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 
 <table>
     <tr>
-        <th colspan="2"><center>Gold Sponsors</center></th>
+        <th colspan="2" style="background-color: gold"><center>Gold Sponsors</center></th>
     </tr>
     <tr>
-        <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH" width="175px"></a></center></td>
-        <td><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/2024/logos/Logo_HPA_Logo_RGB.svg" alt="Hamburg Port Authority AöR" width="175px"></a></center></td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th colspan="2"><center>Silver Sponsors</center></th>
-    </tr>
-    <tr>
-        <td><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" width="150px"></a></center></td>
+        <td height="95px"><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH" width="175px"></a></center></td>
+        <td height="95px"><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/2024/logos/Logo_HPA_Logo_RGB.svg" alt="Hamburg Port Authority AöR" width="175px"></a></center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <th colspan="2"><center>Bronze Sponsors</center></th>
+        <th colspan="2" style="background-color: silver"><center>Silver Sponsors</center></th>
     </tr>
     <tr>
-        <td><center><a href="https://mogwailabs.de/"><img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" width="150px"></a></center></td>
-        <td><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk" width="150px"></a></center></td>
+        <td height="80px"><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" width="150px"></a></center></td>
+        <td height="80px"><center><a href="http://www.signal-iduna.de/"><img src="/assets/2024/logos/SI_Logo_Claim_RGB_Blue.svg" alt="SIGNAL IDUNA Gruppe" width="150px"></a></center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th colspan="2" style="background-color: #CD7F32"><center>Bronze Sponsors</center></th>
+    </tr>
+    <tr>
+        <td height="70px"><center><a href="https://mogwailabs.de/"><img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" width="150px"></a></center></td>
+        <td height="70px"><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.svg" alt="Schutzwerk" width="150px"></a></center></td>
 
     </tr>
 </table>
 
 <table>
     <tr>
-        <th colspan="2"><center>Community Sponsors</center></th>
+        <th colspan="2" style="background-color: #4af94c"><center>Community Sponsors</center></th>
     </tr>
     <tr>
-        <td><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BsidesMunich.png" alt="BSidesMunich" width="100px"></a></center></td>
-        <td><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" width="100px"></a></center></td>
+        <td  height="50px"><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BsidesMunich.png" alt="BSidesMunich" width="100px"></a></center></td>
+        <td height="50px"><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" width="100px"></a></center></td>
     </tr>
 </table>
 
