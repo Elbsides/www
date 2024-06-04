@@ -50,22 +50,22 @@ Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/i
 Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2024](/2024/).
 
 ![DFN-CERT Services GmbH]({{"/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" | relative_url }}){:width="150px"}
-![Schutzwerk GmbH]({{"/assets/images/Schutzwerk_Logo_RZ.png" | relative_url }}){:width="150px"}
+![Schutzwerk GmbH]({{"/assets/2019/logos/Schutzwerk_Logo_RZ.svg" | relative_url }}){:width="150px"}
 ![Hamburg Port Authority]({{"/assets/2024/logos/Logo_HPA_Logo_RGB.svg" | relative_url }}){:width="150px"}
-![Holisticon]({{"/assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" | relative_url }}){:width="150px"}
-![PRESENSE Technologies GmbH]({{"/assets/images/Logo_Presense_EN_rgb_blue_www.png" | relative_url }}){:width="150px"}
-![Codemetrix GmbH]({{"/assets/images/codemetrix-logo.jpeg" | relative_url }}){:width="150px"}
-![sum.cumo GmbH]({{"/assets/images/sum.cumo-logo.png" | relative_url }}){:width="150px"}
+![Holisticon]({{"/assets/2019/logos/Holisticon-logo2016-white-on-sunrise-cmyk.png" | relative_url }}){:width="150px"}
+![PRESENSE Technologies GmbH]({{"/assets/2019/logos/Logo_Presense_DE_rgb_blue_www.svg" | relative_url }}){:width="150px"}
+![Codemetrix GmbH]({{"/assets/2019/logos/codemetrix-logo.jpeg" | relative_url }}){:width="150px"}
+![sum.cumo GmbH]({{"/assets/2019/logos/sum.cumo-logo.png" | relative_url }}){:width="150px"}
 ![Louis]({{"/assets/2024/logos/Logo_Louis.svg" | relative_url }}){:width="150px"}
-![Graylog]({{"/assets/images/Graylog_Logo_FINAL_color.png" | relative_url }}){:width="150px"}
-![Superluminar]({{"/assets/images/Superluminar-400px.png" | relative_url }}){:width="150px"}
-![Deloitte]({{"/assets/images/Deloitte-200px.png" | relative_url }}){:width="150px"}
-![Lotto24]({{"/assets/images/L24_Logo_Hoch_rgb_neg_200px.png" | relative_url }}){:width="150px"}
-![Yubico]({{"/assets/images/Yubico_Logo_Big.png" | relative_url }}){:width="25%"}
-![Allgeier CORE GmbH]({{"/assets/images/Allgeier-CORE-With-Claim-200px.png" | relative_url }}){:width="150px"}
-![Airbus]({{"/assets/images/AIRBUS_Blue.png" | relative_url }}){:width="150px"}
-![Google]({{"/assets/images/googlelogo_color_466x156dp.png" | relative_url }}){:width="150px"}
-![HERE]({{"/assets/images/HERE_Logo_2016_POS_cmyk_IsoCV2.jpg" | relative_url }}){:width="150px"}
+![Graylog]({{"/assets/2019/logos/Graylog_Logo_FINAL_color.png" | relative_url }}){:width="150px"}
+![Superluminar]({{"/assets/2019/logos/Superluminar-400px.png" | relative_url }}){:width="150px"}
+![Deloitte]({{"/assets/2019/logos/Deloitte-200px.png" | relative_url }}){:width="150px"}
+![Lotto24]({{"/assets/2019/logos/L24_Logo_Hoch_rgb_neg_200px.png" | relative_url }}){:width="150px"}
+![Yubico]({{"/assets/2019/logos/Yubico_Logo_Big.png" | relative_url }}){:width="25%"}
+![Allgeier CORE GmbH]({{"/assets/2019/logos/Allgeier-CORE-With-Claim-200px.png" | relative_url }}){:width="150px"}
+![Airbus]({{"/assets/2019/logos/AIRBUS_Blue.png" | relative_url }}){:width="150px"}
+![Google]({{"/assets/2019/logos/googlelogo_color_466x156dp.png" | relative_url }}){:width="150px"}
+![HERE]({{"/assets/2019/logos/HERE_Logo_2016_POS_cmyk_IsoCV2.jpg" | relative_url }}){:width="150px"}
 ![pure ISM GmbH]({{"/assets/images/pureISM_Logo_slogan.svg" | relative_url }}){:width="150px"}
 ![ZEAL Network SE]({{"/assets/images/ZEAL-Logo-Blue.svg" | relative_url }}){:width="150px"}
 ![MOIA]({{"/assets/images/MOIA.svg" | relative_url }}){:width="150px"}

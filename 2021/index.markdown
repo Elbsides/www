@@ -4,6 +4,8 @@ layout: page
 permalink: /2021/
 ---
 
+| [Call for Presentations](/2021/cfp/) | [Sponsors](/2021/sponsors) | [Program](/2021/programm) | [Team](/2021/team) | [FAQ](/2021/faq/) | [Code of Conduct](/2021/coc/) | [Registration](/2021/registration/) |
+
 <img src="{{ '/assets/images/elbsides_teaser_500x500.png' | relative_url}}" align="right" width="45%" >
 
 **Hamburg** has a thriving computer security community and [we](/about/) are bringing security professionals together.

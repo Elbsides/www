@@ -46,41 +46,40 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 
 <table>
     <tr>
-        <th colspan="2"><center>Gold Sponsors</center></th>
+        <th colspan="2" class="gold"><center>Gold Sponsors</center></th>
     </tr>
     <tr>
-        <td><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH" width="175px"></a></center></td>
-        <td><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/2024/logos/Logo_HPA_Logo_RGB.svg" alt="Hamburg Port Authority AöR" width="175px"></a></center></td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th colspan="2"><center>Silver Sponsors</center></th>
-    </tr>
-    <tr>
-        <td><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" width="150px"></a></center></td>
+        <td class="gold"><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH" class="gold"></a></center></td>
+        <td class="gold"><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/2024/logos/Logo_HPA_Logo_RGB.svg" alt="Hamburg Port Authority AöR" class="gold"></a></center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <th colspan="2"><center>Bronze Sponsors</center></th>
+        <th colspan="2" class="silver"><center>Silver Sponsors</center></th>
     </tr>
     <tr>
-        <td><center><a href="https://mogwailabs.de/"><img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" width="150px"></a></center></td>
-        <td><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk" width="150px"></a></center></td>
-
+        <td class="silver"><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" class="silver"></a></center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <th colspan="2"><center>Community Sponsors</center></th>
+        <th colspan="2" class="bronze"><center>Bronze Sponsors</center></th>
     </tr>
     <tr>
-        <td><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BsidesMunich.png" alt="BSidesMunich" width="100px"></a></center></td>
-        <td><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" width="100px"></a></center></td>
+        <td class="bronze"><center><a href="https://mogwailabs.de/"><img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" class="bronze"></a></center></td>
+        <td class="bronze"><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk" class="bronze"></a></center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th colspan="2" class="community"><center>Community Sponsors</center></th>
+    </tr>
+    <tr>
+        <td class="community"><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BsidesMunich.png" alt="BSidesMunich" class="community"></a></center></td>
+        <td class="community"><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" class="community"></a></center></td>
     </tr>
 </table>
 

@@ -4,6 +4,9 @@ layout: page
 permalink: /2019/
 ---
 
+| [Sponsors](/2019/sponsors) | [Team](/2019/team) |
+
+
 # It's a wrap!
 
 <img src="{{ '/assets/images/Room Elbe fisheye.jpg' | relative_url }}" align="center" width="100%" >

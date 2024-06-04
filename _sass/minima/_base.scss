@@ -59,7 +59,38 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
-
+img.gold {
+  width: 150px;
+  // width: 45%;
+}
+img.silver {
+  width: 130px;
+  // max-width: 40%;
+}
+img.bronze {
+  width: 120px;
+  // max-width: 15%;
+}
+img.krypton {
+  width: 150px;
+  // width: 45%;
+}
+img.argon {
+  width: 130px;
+  // max-width: 40%;
+}
+img.neon {
+  width: 120px;
+  // max-width: 15%;
+}
+img.helium {
+  width: 100px;
+  // max-width: 30%;
+}
+img.community {
+  width: 100px;
+  // max-width: 30%;
+}
 
 
 /**
@@ -224,11 +255,10 @@ pre {
 }
 
 
-
 /**
  * Tables
  */
-table {
+ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
@@ -250,10 +280,65 @@ table {
     border: 1px solid darken($background-color, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
+  th.gold {
+    background-color: gold;
+  }
+  th.silver {
+    background-color: silver;
+    /*border: 1px solid darken($grey-color-light, 4%);*/
+    border: 1px solid darken($background-color, 4%);
+    border-bottom-color: darken($grey-color-light, 12%);
+  }
+  th.bronze {
+    background-color: #cd7f32;
+  }
+  th.krypton {
+    background-color: silver;
+  }
+  th.argon {
+    background-color: rgb(196, 106, 248);
+  }
+  th.neon {
+    background-color: rgb(255, 44, 128);
+  }
+  th.helium {
+    background-color: rgb(252, 236, 92);
+  }
+  th.community {
+    background-color: darken($background-color, 25%);
+  }
+
+
   td {
     /*background-color: lighten($background-color, 40%);*/
     background-color: $background-color;
+    background-color: white;
     /*border: 1px solid $grey-color-light;*/
     border: 1px solid darken($background-color, 4%);
   }
+  td.gold {
+    height: 90px;
+  }
+  td.silver {
+    height: 80px;
+  }
+  td.bronze {
+    height: 70px;
+  }
+  td.krypton {
+    height: 100px;
+  }
+  td.argon {
+    height: 90px;
+  }
+  td.neon {
+    height: 80px;
+  }
+  td.helium {
+    height: 70px;
+  }
+  td.community {
+    height: 60px;
+  }
+
 }
