@@ -64,7 +64,7 @@ We hope to welcome many old and new sponsors to make this event possible with no
         <th colspan="2" class="gold"><center>Gold Sponsors</center></th>
     </tr>
     <tr>
-        <td class="gold"><center><a href="https://www.dfn-cert.de/"><img src="/assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH"  class="gold"></a></center></td>
+        <td class="gold"><center><a href="https://www.dfn-cert.de/"><img src="/assets/2023/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH"  class="gold"></a></center></td>
         <td class="gold"><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH"  class="gold"></a></center></td>
     </tr>
 </table>
@@ -75,16 +75,16 @@ We hope to welcome many old and new sponsors to make this event possible with no
         <th colspan="2" class="silver"><center>Silver Sponsors</center></th>
     </tr>
     <tr>
-        <td class="silver"><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="HPA" class="silver"></a></center></td>
-        <td class="silver"><center><a href="https://www.pre-sense.de/"><img src="/assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="Presense"  class="silver"></a></center></td>
+        <td class="silver"><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/2023/logos/Logo_HPA_Logo_RGB.svg" alt="HPA" class="silver"></a></center></td>
+        <td class="silver"><center><a href="https://www.pre-sense.de/"><img src="/assets/2023/logos/Logo_Presense_DE_rgb_blue_www.svg" alt="Presense"  class="silver"></a></center></td>
     </tr>
     <tr>
         <td class="silver"><center><a href="https://www.zealnetwork.de/"><img src="/assets/images/ZEAL-Logo-Blue.svg" alt="ZEAL" class="silver"></a></center></td>
-        <td class="silver"><center><a href="https://www.schutzwerk.com/"><img src="/assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk"  class="silver"></a></center></td>
+        <td class="silver"><center><a href="https://www.schutzwerk.com/"><img src="/assets/2023/logos/Schutzwerk_Logo_RZ.svg" alt="Schutzwerk"  class="silver"></a></center></td>
     </tr>
     <tr>
         <td class="silver"><center><a href="https://moia.io/"><img src="/assets/images/MOIA.svg" alt="MOIA" class="silver"></a></center></td>
-        <td class="silver"><center><a href="https://google.com/"><img src="/assets/images/googlelogo_color_466x156dp.png" alt="Google Ireland Limited" class="silver"></a></center></td>
+        <td class="silver"><center><a href="https://google.com/"><img src="/assets/2023/logos/logo_Google_FullColor_1x_722x237px.png" alt="Google Ireland Limited" class="silver"></a></center></td>
     </tr>
 </table>
 
@@ -104,7 +104,7 @@ We hope to welcome many old and new sponsors to make this event possible with no
     </tr>
     <tr>
         <td class="community"><center><a href="https://bsidesmunich.org/"><img src="/assets/images/BSidesMunich.svg.png" alt="BSidesMunich"  class="community"></a></center></td>
-        <td class="community"><center><a href="https://www.louis.de"><img src="/assets/images/louis-logo.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" class="community"></a></center></td>
+        <td class="community"><center><a href="https://www.louis.de"><img src="/assets/2023/logos/louis-logo.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" class="community"></a></center></td>
     </tr>
     <tr>
         <td class="community"><center><a href="https://www.stickermule.com"><img src="/assets/images/sticker-mule-logo-dark.png" alt="Sticker Mule"  class="community"></a></center></td>
