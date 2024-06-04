@@ -42,7 +42,7 @@ make this happen, we need sponsors to cover our costs.
 		<td class="silver"><center><a href="https://www.deloitte.com"><img src="/assets/2019/logos/Deloitte-200px.png" alt="Deloitte" class="silver"></a></center></td>
 	<tr>
 	</tr>
-		<td class="silver"><center><a href="https://www.allgeier-core.com"><img src="/assets/2019/logos/Allgeier-CORE-With-Claim-200px.png" alt="Allgeier CORE GmbH" class="silver"></a></center></td>
+		<td class="silver"><center><img src="/assets/2019/logos/Allgeier-CORE-With-Claim-200px.png" alt="Allgeier CORE GmbH" class="silver"></center></td>
 
 		<td class="silver"><center><a href="https://www.here.com"><img src="/assets/2019/logos/HERE_Logo_2016_POS_cmyk_IsoCV2.jpg" alt="HERE Global B.V." class="silver"></a></center></td>
 	</tr>
@@ -57,7 +57,7 @@ make this happen, we need sponsors to cover our costs.
 	<tr>
 		<td class="bronze"><center><a href="https://www.codemetrix.io"><img src="/assets/2019/logos/codemetrix-logo.jpeg" alt="Codemetrix GmbH" class="bronze"></a></center></td>
 
-		<td class="bronze"><center><a href="https://www.sumcumo.com"><img src="/assets/2019/logos/sum.cumo-logo.png" alt="sum.cumo GmbH" class="bronze"></a></center></td>
+		<td class="bronze"><center><img src="/assets/2019/logos/sum.cumo-logo.png" alt="sum.cumo GmbH" class="bronze"></center></td>
 	</tr>
 	<tr>
 		<td class="bronze"><center><a href="https://superluminar.io"><img src="/assets/2019/logos/Superluminar-400px.png" alt="Superluminar" class="bronze"></a></center></td>
