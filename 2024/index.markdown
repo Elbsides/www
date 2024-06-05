@@ -60,6 +60,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
     </tr>
     <tr>
         <td class="silver"><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" class="silver"></a></center></td>
+        <td class="silver"><center><a href="http://www.signal-iduna.de/"><img src="/assets/2024/logos/SI_Logo_Claim_RGB_Blue.svg" alt="SIGNAL IDUNA Gruppe" class="silver"></a></center></td>
     </tr>
 </table>
 
