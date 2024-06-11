@@ -41,13 +41,10 @@ The top regional and international sponsors of the [Elbsides](https://elbsides.e
 	</tr>
 	<tr>
 		<td class="neon"><center><a href="https://www.dfn-cert.de/"><img src="/assets/2019/logos/dfn-cert-logo.svg" alt="DFN-CERT Services GmbH" class="neon"></a></center></td>
-
 		<td class="neon"><center><a href="https://www.schutzwerk.com"><img src="/assets/2019/logos/Schutzwerk_Logo_RZ.svg" alt="Schutzwerk GmbH" class="neon"></a></center></td>
 	</tr>
 	<tr>
-
-		<td class="neon"><center><a href="https://www.google.com"><img src="/assets/2019/logos/logo_Google_FullColor_1x_722x237px.png" alt="Google Safety Center" class="neon"></a></center></td>
-
+		<td colspan="2" class="neon"><center><a href="https://www.google.com"><img src="/assets/2019/logos/logo_Google_FullColor_1x_722x237px.png" alt="Google Safety Center" class="neon"></a></center></td>
 	</tr>
 </table>
 

@@ -107,7 +107,7 @@ We hope to welcome many old and new sponsors to make this event possible with no
         <td class="community"><center><a href="https://www.louis.de"><img src="/assets/2023/logos/louis-logo.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" class="community"></a></center></td>
     </tr>
     <tr>
-        <td class="community"><center><a href="https://www.stickermule.com"><img src="/assets/images/sticker-mule-logo-dark.png" alt="Sticker Mule"  class="community"></a></center></td>
+        <td colspan="2" class="community"><center><a href="https://www.stickermule.com"><img src="/assets/images/sticker-mule-logo-dark.png" alt="Sticker Mule"  class="community"></a></center></td>
     </tr>
 </table>
 
