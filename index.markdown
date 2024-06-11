@@ -49,6 +49,7 @@ Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/i
 
 Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2024](/2024/).
 
+
 ![DFN-CERT Services GmbH]({{"/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" | relative_url }}){:width="150px"}
 ![Schutzwerk GmbH]({{"/assets/2019/logos/Schutzwerk_Logo_RZ.svg" | relative_url }}){:width="150px"}
 ![Hamburg Port Authority]({{"/assets/2024/logos/Logo_HPA_Logo_RGB.svg" | relative_url }}){:width="150px"}
@@ -72,3 +73,6 @@ Such an event cannot be organized without the support of a community of sponsors
 ![Mogwai Labs]({{"/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" | relative_url }}){:width="150px"}
 ![BSidesMunich]({{"/assets/2024/logos/BsidesMunich.png" | relative_url }}){:width="150px"}
 ![Stickermule]({{"/assets/images/sticker-mule-logo-dark.png" | relative_url }}){:width="150px"}
+![Signal Iduna]({{"/assets/2024/logos/SI_Logo_Claim_RGB_Blue.svg" | relative_url }}){:width="150px"}
+![Trend Micro]({{"/assets/2024/logos/TM_Global Leader Logo_RGB_Colour.jpg" | relative_url }}){:width="150px"}
+
