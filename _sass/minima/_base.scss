@@ -50,7 +50,17 @@ main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
+/**
+ * misusing aside for the logos walk of fame
+*/
 
+aside {
+  background-color: white;
+}
+
+aside img {
+  width: 180px;
+}
 
 /**
  * Images
