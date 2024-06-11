@@ -60,38 +60,37 @@ img {
   vertical-align: middle;
 }
 img.gold {
-  width: 150px;
+  width: 300px;
   // width: 45%;
 }
 img.silver {
-  width: 130px;
+  width: 290px;
   // max-width: 40%;
 }
 img.bronze {
-  width: 120px;
+  width: 280px;
   // max-width: 15%;
 }
 img.krypton {
-  width: 150px;
+  width: 300px;
   // width: 45%;
 }
 img.argon {
-  width: 130px;
+  width: 290px;
   // max-width: 40%;
 }
 img.neon {
-  width: 120px;
+  width: 280px;
   // max-width: 15%;
 }
 img.helium {
-  width: 100px;
+  width: 270px;
   // max-width: 30%;
 }
 img.community {
-  width: 100px;
+  width: 270px;
   // max-width: 30%;
 }
-
 
 /**
  * Figures
@@ -285,9 +284,6 @@ pre {
   }
   th.silver {
     background-color: silver;
-    /*border: 1px solid darken($grey-color-light, 4%);*/
-    border: 1px solid darken($background-color, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
   }
   th.bronze {
     background-color: #cd7f32;
@@ -317,13 +313,13 @@ pre {
     border: 1px solid darken($background-color, 4%);
   }
   td.gold {
-    height: 90px;
+    height: 100px;
   }
   td.silver {
-    height: 80px;
+    height: 90px;
   }
   td.bronze {
-    height: 70px;
+    height: 80px;
   }
   td.krypton {
     height: 100px;
@@ -338,7 +334,7 @@ pre {
     height: 70px;
   }
   td.community {
-    height: 60px;
+    height: 70px;
   }
 
 }
