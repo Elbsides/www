@@ -71,8 +71,6 @@ make this happen, we need sponsors to cover our costs.
 	</tr>
 </table>
 
-#  Sponsors #
-
 <table>
     <tr>
         <th colspan="2" class="community"><center>Community Sponsors</center></th>
