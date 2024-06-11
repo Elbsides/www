@@ -72,6 +72,9 @@ this event as inclusive as possible. If you are interested in sponsoring, please
         <td class="bronze"><center><a href="https://mogwailabs.de/"><img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" class="bronze"></a></center></td>
         <td class="bronze"><center><a href="https://www.schutzwerk.com/"><img src="/assets/2024/logos/Schutzwerk_Logo_RZ.svg" alt="Schutzwerk" class="bronze"></a></center></td>
     </tr>
+    <tr>
+        <td class="bronze"><center><a href="https://trendmicro.com/"><img src="/assets/2024/logos/TM_Logo_Primary_2c_300x64.png" alt="Mogwai Labs" class="bronze"></a></center></td>
+    </tr>
 </table>
 
 <table>
