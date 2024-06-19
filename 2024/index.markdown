@@ -17,7 +17,7 @@ carousels:
 
 The **Elbsides 2024** computer security community conference will be held in Hamburg, Germany on **Friday, the 13th of September**. Meanwhile, we need [sponsors](#sponsors) to make this event possible and keep the costs for the participants low. If you are interested in sponsoring, please contact us at **elbsides -at- gmail.com**.
 
-** The [Call for Papers](/2024/cfp/) is now open**, and we welcome your presentation submission.
+** The [Call for Papers](/2024/cfp/) is now open**, and we welcome your presentation submission until the end of July 7th.
 
 ## Location
 
