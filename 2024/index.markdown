@@ -73,7 +73,8 @@ this event as inclusive as possible. If you are interested in sponsoring, please
         <td class="bronze"><center><a href="https://www.schutzwerk.com/"><img src="/assets/2024/logos/Schutzwerk_Logo_RZ.svg" alt="Schutzwerk" class="bronze"></a></center></td>
     </tr>
     <tr>
-        <td colspan="2" class="bronze"><center><a href="https://trendmicro.com/"><img src="/assets/2024/logos/TM_Global Leader Logo_RGB_Colour.jpg" alt="Trend Micro" class="bronze"></a></center></td>
+        <td class="bronze"><center><a href="https://trendmicro.com/"><img src="/assets/2024/logos/TM_Global Leader Logo_RGB_Colour.jpg" alt="Trend Micro" class="bronze"></a></center></td>
+        <td class="bronze"><center><a href="https://www.iteratec.com/"><img src="/assets/2024/logos/Logo_iteratec_rgb_black_M_SZ_rz.png" alt="Iteratec" class="bronze"></a></center></td>
     </tr>
 </table>
 
