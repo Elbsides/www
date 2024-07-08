@@ -87,7 +87,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
         <td class="community"><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" class="community"></a></center></td>
     </tr>
     <tr>
-        <td colspan="2" class="community"><center><a href="https://dpunkt.de"><img src="/assets/2024/logos/dpunkt_logo rot_schwarz.jpg" alt="dpunkt.verlag GmbH" class="community"></a></center></td>
+        <td colspan="2" class="community"><center><a href="https://dpunkt.de"><img src="/assets/2024/logos/dpunkt.logo rot_schwarz.svg" alt="dpunkt.verlag GmbH" class="community"></a></center></td>
 
     </tr>
 </table>
