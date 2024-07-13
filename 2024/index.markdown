@@ -9,7 +9,7 @@ carousels:
     - image: /assets/2024/images/Ballroom - Tagung II.jpg
     - image: /assets/2024/images/Ballroom - Tagung IV.JPG
 ---
-[General](#general-information) | [Call for Presentations](/2024/cfp/) | [Sponsors](#sponsors) | [Team](#team)
+[General](#general-information) | [Program](#program) | [Call for Presentations](/2024/cfp/) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
