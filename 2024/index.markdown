@@ -94,8 +94,30 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 
 # Program
 
-# Speakers
 
+| Time | Speaker | Title |
+| ---- | ------- | ----- |
+| 8:00	|		Registration	|
+| 9:00	|		Opening	|
+| 9:15	|		Katharine Jarmul | KEYNOTE: AI (In)security: How to (Still) Successfully Attack and AI System	|
+| 9:45	|		Candid Wüest | Unveiling the Reality: The True Impact of GenAI on Cybercrime	|
+| 10:30	|		Break	|
+| 11:00	|		Stefan Hager | Far beyond the perimeter - exploring external attack surfaces	|
+| 11:30	|		Timo Pagel | Key Steps to Achieving an Application Security Program	|
+| 12:00	|		TBA | TBA |
+| 12:30	|		Sam Macdonald | Dealing With Imposter Syndrome
+| 13:00	|		Lunch	|
+| 14:00	|		Christian Kollee | Ready to Respond - Plan, Prepare, Try & Train	|
+| 14:30	|		Marc Ratfeld | Protecting the energy transition	|
+| 15:00	|		Michael Helwig, Álvaro Martínez | Help, my application is vulnerable, but how bad is it? - Practical vulnerability analysis for development teams	|
+| 15:40	|		Break |
+| 16:10	|		Hilko Bengen | Detection And Response for Linux without EDR	|
+| 16:55	|		Max Maaß, Tim Walter | Protectors of the Realm: Breaking and Fixing Keycloak Configurations	|
+| 17:25	|		Marit Hansen | KEYNOTE: TBA |
+| 17:55	|		Closing	|
+| 18:05	|		Networking hour begins	|
+
+# Speakers
 
 # Talks
 
