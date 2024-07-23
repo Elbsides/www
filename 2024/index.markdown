@@ -123,8 +123,26 @@ Backup talks:
 * [Thore Tiemann](#thore-tiemann): [“Act natural!”: Exchanging Private Messages on Public Blockchains](#act-natural-exchanging-private-messages-on-public-blockchains)
 
 
-
 # Speakers
+
+[Álvaro Martínez](#álvaro-martínez),
+[Candid Wüest](#candid-wüest),
+[Christian Kollee](#christian-kollee),
+[Hilko Bengen](#hilko-bengen),
+[Katharine Jarmul](#katharine-jarmul),
+[Marc Ratfeld](#marc-ratfeld),
+[Marit Hansen](#marit-hansen),
+[Max Maaß](#max-maaß),
+[Michael Helwig](#michael-helwig),
+[Sam Macdonald](#sam-macdonald),
+[Santi Abastante](#santi-abastante),
+[Stefan Hager](#stefan-hager),
+[Thore Tiemann](#thore-tiemann),
+[Tim Walter](#tim-walter),
+[Timo Pagel](#timo-pagel)
+
+
+
 
 ## Álvaro Martínez
 
