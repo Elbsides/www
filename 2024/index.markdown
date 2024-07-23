@@ -117,6 +117,13 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 17:55	|		Closing	|
 | 18:05	|		Networking hour begins	|
 
+Backup talks:
+
+* [Santi Abastante](#santi-abastante): [Dredge: A Open Source Framework for Cloud Incident Response](#dredge-a-open-source-framework-for-cloud-incident-response)
+* [Thore Tiemann](#thore-tiemann): [“Act natural!”: Exchanging Private Messages on Public Blockchains](#act-natural-exchanging-private-messages-on-public-blockchains)
+
+
+
 # Speakers
 
 ## Álvaro Martínez
@@ -204,6 +211,12 @@ Talk: [Far beyond the perimeter - exploring external attack surfaces](#far-beyon
 
 Stefan works for the Internet Security Team at German company DATEV eG. He started messing with computers in the 80s and turned it into a job as a programmer in the early 90s. Since 2000 he has been securing networks and computers for various enterprises in Germany and Scotland. His main focus nowadays is security research, raising security awareness, coming up with creative solutions to security problems and discussing new ideas concerning threat mitigation. When not trying to do any of the stuff mentioned above, he is either travelling, producing hacker music and other electronic beats or gardening.
 
+## Thore Tiemann
+
+<img src="/assets/2024/images/thore.tiemann.jpg" width="150" style="float: right;">
+
+Thore Tiemann is a research assistant and PhD student at the Institute for IT Security at the Universität zu Lübeck. His research interests are in the area of computer and systems security with a focus on microarchitectural side-channel attacks and defenses in heterogeneous cloud computing.
+
 ## Tim Walter
 
 <img src="/assets/2024/images/tim.walter.jpg" width="150" style="float: right;">
@@ -233,13 +246,13 @@ TBA
 
 Speaker: [Candid Wüest](#candid-wüest)
 
-Are we on the brink of a GenAI-powered cybercrime apocalypse? Sensational headlines may stoke fear, but the reality is more nuanced. Join us to explore the true impact of GenAI on cybercrime, debunk myths, and reveal insights from the frontlines.
+Are we on the brink of a GenAI-powered cybercrime apocalypse? Sensational headlines may stoke fear, but the reality is more nuanced. Join us to explore the true impact of GenAI on cybercrime, debunk myths, and reveal insights from the front lines.
 
 ## Far beyond the perimeter - exploring external attack surfaces
 
 Speaker: [Stefan Hager](#stefan)
 
-Looking for intel in all the right places is an art that adversaries seem to have mastered; but when it comes to their own data, many companies seem to lose interest in examining anything that's outside the "perimeter" - whatever that is suppossed to be nowadays. Credential leaks, shadow IT, unofficial websites with official info - the list of assets far outside the data centers of companies is long and those assets nevertheless pose risks. Instead of turning a blind eye, it's important (and necessary) to get an understanding of what kind of information is out there, ready to be used or abused and protect accordingly.
+Looking for intel in all the right places is an art that adversaries seem to have mastered; but when it comes to their own data, many companies seem to lose interest in examining anything that's outside the "perimeter" - whatever that is supposed to be nowadays. Credential leaks, shadow IT, unofficial websites with official info - the list of assets far outside the data centers of companies is long, and those assets nevertheless pose risks. Instead of turning a blind eye, it's important (and necessary) to get an understanding of what kind of information is out there, ready to be used or abused and protect accordingly.
 
 ## Key Steps to Achieving an Application Security Program
 
@@ -263,7 +276,7 @@ Speaker: [Christian Kollee](#christian-kollee)
 
 Speaker: [Marc Ratfeld](#marc-ratfeld)
 
-The renewable energy sector is one key factor within critical infrastructure of Europe and Germany. Protecting this industry against cyber attacks is a constant challenge. The rapid growth and increased security requirements are putting the industry under constant pressure to adapt. This talk will give you an insight view of actual attempts to protect IT and OT environments off- and onshore.
+The renewable energy sector is one key factor within critical infrastructure of Europe and Germany. Protecting this industry against cyberattacks is a constant challenge. The rapid growth and increased security requirements are putting the industry under constant pressure to adapt. This talk will give you an insight view of actual attempts to protect IT and OT environments off- and onshore.
 
 ## Help, my application is vulnerable, but how bad is it?
 
@@ -290,6 +303,14 @@ Speaker: [Santi Abastante](#santi-abastante)
 BACKUP TALK
 
 Cloud incident response can be daunting, requiring a plethora of tools and skills, while most Cloud Based Startups can’t allocate budget for preventive controls, there is less space for them to understand what to do if they are hacked.
+
+## “Act natural!”: Exchanging Private Messages on Public Blockchains
+
+Speaker: [Thore Tiemann](#thore-tiemann)
+
+BACKUP TALK
+
+Messengers have become an essential means of interpersonal interaction. Yet untraceable private communication remains an elusive goal, as most messengers hide content, but not communication patterns. The knowledge of communication patterns can by itself reveal too much, as happened, e.g., in the context of the Arab Spring. Subliminal channels in cryptographic systems enable untraceable private communication in plain sight. In this context, bulletin boards in the form of blockchains are a natural object for subliminal communication: accessing them is innocuous, as they rely on distributed access for verification and extension. At the same time, blockchain users generate hundreds of thousands of transactions per day that are individually signed and placed on the blockchain. Thus, blockchains may serve as innocuous repository for publicly accessible cryptographic transactions where subliminal channels can be placed. This significantly increases the availability of publicly accessible cryptographic transactions where subliminal channels can be placed.
 
 
 # Team
