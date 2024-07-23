@@ -168,7 +168,7 @@ Christian currently works as a Network Detection Engineer in the German finance 
 
 Talk: [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)
 
-Hilko Bengen has a degree in computer science and feels most comfortable when thinking about problems that touch systems programming, operations and IT security. Currently, he is part of a large transport and logistics company's CSIRT. For more than 25 years, he has taken free and open source software for granted and is still amazed whenever he learns where contributions are being used.
+Hilko works in the CSIRT for a transportation and logistics company. He feels most comfortable when thinking about problems that touch systems programming, operations and IT security. For more than 25 years, he has learned to take free and open source software for granted, and he is still amazed when he hears how others have found his contributions useful.
 
 ## Katharine Jarmul
 
@@ -309,7 +309,13 @@ With an increasing number of high and critical security vulnerabilities being di
 
 Speaker: [Hilko Bengen](#hilko-bengen)
 
-TBA
+In modern, networked, enterprise IT environments, the focus of defense teams has shifted from monitoring network infrastructure towards endpoints. Installing endpoint detection and response (EDR) software on user workstations and servers – and actually monitoring their activities and findings – has become an easy default choice.
+
+However, it appears that in development of most EDR products, with their heritage in antivirus software, a very Windows-centric worldview is retained. Support for other operating systems, especially Linux, seems to come as an afterthought, leaving visibility gaps that may be easily exploited by skilled attackers.
+
+After evaluating several EDR vendors' products specifically for use in a large, heterogeneous Linux server landscape, we found that the capabilities were no match to our existing near-real-time detection mechanisms. We couldn't even replicate our previous work using the products. Deciding against any EDR product meant that we need to find an alternative approach to building out response capabilities.
+
+This talk illustrates mostly home-grown approaches to detection and response engineering that provide analysts with tools for generating context and for large-scale threat hunting while making it as pleasant as possible for operations teams to integrate the required components into their systems.
 
 ## Protectors of the Realm: Breaking and Fixing Keycloak Configurations
 
