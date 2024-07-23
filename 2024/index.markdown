@@ -9,7 +9,7 @@ carousels:
     - image: /assets/2024/images/Ballroom - Tagung II.jpg
     - image: /assets/2024/images/Ballroom - Tagung IV.JPG
 ---
-[General](#general-information) | [Program](#program) | [Call for Presentations](/2024/cfp/) | [Sponsors](#sponsors) | [Team](#team)
+[General](#general-information) | [Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
@@ -99,7 +99,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | ---- | ------- | ----- |
 | 8:00	|		Registration	|
 | 9:00	|		Opening	|
-| 9:15	|		Katharine Jarmul | KEYNOTE: [AI (In)security: How to (Still) Successfully Attack and AI System](#ai-insecurity-how-to-still-successfully-attack-and-ai-system)	|
+| 9:15	|		Katharine Jarmul | KEYNOTE: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)	|
 | 9:45	|		[Candid Wüest](#candid-wüest) | [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime)	|
 | 10:30	|		Break	|
 | 11:00	|		[Stefan Hager](#stefan-hager) | [Far beyond the perimeter - exploring external attack surfaces](#far-beyond-the-perimeter---exploring-external-attack-surfaces)	|
@@ -157,7 +157,11 @@ Hilko Bengen has a degree in computer science and feels most comfortable when th
 
 ## Katharine Jarmul
 
-Talk: [AI (In)security: How to (Still) Successfully Attack and AI System](#ai-insecurity-how-to-still-successfully-attack-and-ai-system)
+<img src="/assets/2024/images/katharine.jarmul.jpg" width=150 style="float: right;">
+
+Keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)
+
+Katharine Jarmul is a privacy activist and an internationally recognized data scientist and lecturer who focuses her work and research on privacy and security in data science and machine learning. You can follow her work via her newsletter, [Probably Private](https://probablyprivate.com) or in her recently published book, "Practical Data Privacy" (O'Reilly 2023) now also available in German as "Data Privacy in der Praxis."
 
 ## Marc Ratfeld
 
@@ -236,11 +240,11 @@ Timo Pagel has been in the IT industry for over twentyfive years. After a career
 
 # Talks
 
-## AI (In)security: How to (Still) Successfully Attack and AI System
+## AI (In)security: How to (Still) Successfully Attack an AI System
 
 Speaker: [Katharine Jarmul](#katharine-jarmul)
 
-TBA
+In this talk, we'll review attacks on today's "AI" systems, and how fundamental aspects of adversarial examples are still relevant today. We'll explore how purple-teaming AI systems could work, and the latest research on potential preventative measures and a few common-sense tips, if your CEO tells you you have to deploy an AI-based application.
 
 ## Unveiling the Reality: The True Impact of GenAI on Cybercrime
 
