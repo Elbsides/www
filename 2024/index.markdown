@@ -99,7 +99,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | ---- | ------- | ----- |
 | 8:00	|		Registration	|
 | 9:00	|		Opening	|
-| 9:15	|		Katharine Jarmul | KEYNOTE: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)	|
+| 9:15	|		[Katharine Jarmul](#katharine-jarmul) | Opening keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)	|
 | 9:45	|		[Candid Wüest](#candid-wüest) | [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime)	|
 | 10:30	|		Break	|
 | 11:00	|		[Stefan Hager](#stefan-hager) | [Far beyond the perimeter - exploring external attack surfaces](#far-beyond-the-perimeter---exploring-external-attack-surfaces)	|
@@ -113,7 +113,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 15:40	|		Break |
 | 16:10	|		[Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)	|
 | 16:55	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 17:25	|		[Marit Hansen](#marit-hansen) | KEYNOTE: TBA |
+| 17:25	|		[Marit Hansen](#marit-hansen) | Closing keynote: TBA |
 | 17:55	|		Closing	|
 | 18:05	|		Networking hour begins	|
 
@@ -140,9 +140,6 @@ Backup talks:
 [Thore Tiemann](#thore-tiemann),
 [Tim Walter](#tim-walter),
 [Timo Pagel](#timo-pagel)
-
-
-
 
 ## Álvaro Martínez
 
@@ -259,6 +256,8 @@ Timo Pagel has been in the IT industry for over twentyfive years. After a career
 # Talks
 
 ## AI (In)security: How to (Still) Successfully Attack an AI System
+
+Opening Keynote
 
 Speaker: [Katharine Jarmul](#katharine-jarmul)
 
