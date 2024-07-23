@@ -309,7 +309,7 @@ With an increasing number of high and critical security vulnerabilities being di
 
 Speaker: [Hilko Bengen](#hilko-bengen)
 
-In modern, networked, enterprise IT environments, the focus of defense teams has shifted from monitoring network infrastructure towards endpoints. Installing endpoint detection and response (EDR) software on user workstations and servers – and actually monitoring their activities and findings – has become an easy default choice.
+TBA
 
 ## Protectors of the Realm: Breaking and Fixing Keycloak Configurations
 
