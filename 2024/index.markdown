@@ -112,10 +112,10 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 15:00	|		[Michael Helwig](#michael-helwig), [Álvaro Martínez](#álvaro-martínez) | [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)	|
 | 15:40	|		Break |
 | 16:10	|		[Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)	|
-| 16:55	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 17:25	|		[Marit Hansen](#marit-hansen) | Closing keynote: TBA |
-| 17:55	|		Closing	|
-| 18:05	|		Networking hour begins	|
+| 16:40	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
+| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: TBA |
+| 17:40	|		Closing	|
+| 18:00	|		Networking hour begins	|
 
 Backup talks:
 
