@@ -323,6 +323,10 @@ Speakers: [Max Maaß](#max-maaß), [Tim Walter](#tim-walter)
 
 Keycloak is a widely used tool for authentication and user management in many projects and is therefore often encountered in security audits. However, analyzing the security of an existing Keycloak instance is often a challenge due to the complexity of the software and its configuration options.
 
+Having been responsible for the security of a Keycloak instance in a large software project for almost two years, we share our insights on what to look for. We also present our open source Keycloak configuration auditor *kcwarden*, which we developed to facilitate our work. The tool can detect common security issues and can be easily customized to detect project-specific issues, such as dangerous role assignments or policy violations. This allows us to continuously monitor the configuration for dangerous changes that might otherwise go unnoticed.
+
+After attending this talk, you should have an overview of common Keycloak misconfigurations and how you can use *kcwarden* to support your work.
+
 ## Dredge: A Open Source Framework for Cloud Incident Response
 
 Speaker: [Santi Abastante](#santi-abastante)
