@@ -155,8 +155,8 @@ Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-applicat
 
 Talk: [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime)
 
-Candid Wueest is a seasoned cybersecurity expert with a strong blend of technical skills, leadership, and over 25 years of passion in the field of security. He currently serves as an independent security advisor for various companies and the Swiss government. Previously, he was the VP of Cyber Protection Research at Acronis, where he led the creation of the security department and the EDR product. Prior to that, he spent over sixteen years at Symantec, where he played a key role in building their global security response team as the technical lead, focusing on malware and threat analysis.
-Wueest has authored a book and several whitepapers and has been recognized as a security expert in top-tier media outlets. He frequently speaks at major security conferences, including RSAC and BlackHat and is an organizer of AREA41 & BSides Zurich. He began learning coding and English on a Commodore 64. He holds a Master’s degree in Computer Science from ETH Zurich and possesses various certifications and patents.
+Candid Wüest is a seasoned cybersecurity expert with a strong blend of technical skills, leadership, and over 25 years of passion in the field of security. He currently serves as an independent security advisor for various companies and the Swiss government. Previously, he was the VP of Cyber Protection Research at Acronis, where he led the creation of the security department and the EDR product. Prior to that, he spent over sixteen years at Symantec, where he played a key role in building their global security response team as the technical lead, focusing on malware and threat analysis.
+Wüest has authored a book and several white papers and has been recognized as a security expert in top-tier media outlets. He frequently speaks at major security conferences, including RSAC and BlackHat and is an organizer of AREA41 & BSides Zurich. He began learning coding and English on a Commodore 64. He holds a Master’s degree in Computer Science from ETH Zurich and possesses various certifications and patents.
 
 ## Christian Kollee
 
@@ -184,7 +184,7 @@ Katharine Jarmul is a privacy activist and an internationally recognized data sc
 
 Talk: [Protecting the energy transition](#protecting-the-energy-transition)
 
-Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. With over 25 years of experience in the field of information security, Mr. Ratfeld has worked in various industries as an information security officer and helps companies to implement and continously develop information management systems. In doing so, he pays particular attention to the practicability of implementation and has successfully brought ISMS implementation projects to the level of certification. Since 2023, he has also been an executive manager of pure ISM GmbH.
+Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. With over 25 years of experience in the field of information security, Mr. Ratfeld has worked in various industries as an information security officer and helps companies to implement and continuously develop information management systems. In doing so, he pays particular attention to the practicability of implementation and has successfully brought ISMS implementation projects to the level of certification. Since 2023, he has also been an executive manager of pure ISM GmbH.
 
 ## Marit Hansen
 
@@ -250,7 +250,7 @@ After working as a full-stack developer and software architect, Tim Walter now w
 
 Talk: [Key Steps to Achieving an Application Security Program](#key-steps-to-achieving-an-application-security-program)
 
-Timo Pagel has been in the IT industry for over twentyfive years. After a career as a system administrator and web developer, he advises customers as a DevSecOps consultant and trainer. His focus is on integrating security into the development lifecycle. For example with security test automation for software and infrastructure and assessment of complex applications in the cloud. In his spare time, he teaches "Web and Application Security" at various universities of applied sciences.
+Timo Pagel has been in the IT industry for over twenty five years. After a career as a system administrator and web developer, he advises customers as a DevSecOps consultant and trainer. His focus is on integrating security into the development lifecycle. For example with security test automation for software and infrastructure and assessment of complex applications in the cloud. In his spare time, he teaches "Web and Application Security" at various universities of applied sciences.
 
 
 # Talks
@@ -261,19 +261,25 @@ Opening Keynote
 
 Speaker: [Katharine Jarmul](#katharine-jarmul)
 
-In this talk, we'll review attacks on today's "AI" systems, and how fundamental aspects of adversarial examples are still relevant today. We'll explore how purple-teaming AI systems could work, and the latest research on potential preventative measures and a few common-sense tips, if your CEO tells you you have to deploy an AI-based application.
+In this talk, we'll review attacks on today's "AI" systems, and how fundamental aspects of adversarial examples are still relevant today. We'll explore how purple-teaming AI systems could work, and the latest research on potential preventative measures and a few common-sense tips, if your CEO tells you, you have to deploy an AI-based application.
 
 ## Unveiling the Reality: The True Impact of GenAI on Cybercrime
 
 Speaker: [Candid Wüest](#candid-wüest)
 
-Are we on the brink of a GenAI-powered cybercrime apocalypse? Sensational headlines may stoke fear, but the reality is more nuanced. Join us to explore the true impact of GenAI on cybercrime, debunk myths, and reveal insights from the front lines.
+Are we on the brink of a GenAI-powered cybercrime apocalypse? Sensational headlines may stoke fear, but the reality is more nuanced. Join us to explore the true impact of GenAI on cybercrime, debunk myths, and reveal insights from the frontlines.
+We'll start with the infamous $25 million BEC deepfake video conference scam, illustrating how deep fakes are weaponized. From son-in-trouble scams to 2-for-1 bitcoin videos, we'll uncover the various deepfake threat landscape.
+Next, discover how GenAI transforms phishing attacks, personalizing messages and orchestrating interactive schemes like romance scams. See how cybercriminals leverage GenAI for automation and efficiency, ramping up malicious operations.
+We'll demystify AI-generated, AI-supported, and AI-powered threats, showing how AI accelerates threat distribution through script creation and scaling. Real-world examples of GenAI-generated malware will be discussed. Like for example the polymorphic or rather metamorphic PoC malware Black Mamba, that dynamically adapts using LLMs. Even nation state APTs have played with it. We'll explain why these threats remain detectable with current methods and why the feared Terminator ransomware isn't on the horizon for this year.
+Discover the strategic shift from creating unfiltered LLMs, like FraudGPT, to offering proxied prompt injection into existing models, like LoopGPT. See how tools like FuzzAI help with new prompt injections.
+Finally, we'll touch on the MITRE ATLAS framework and discuss related techniques, e.g. adversarial AI attacks, setting the stage for future discussions. This talk separates hype from reality, providing a clear perspective on the evolving cyber threat landscape driven by GenAI.
 
 ## Far beyond the perimeter - exploring external attack surfaces
 
 Speaker: [Stefan Hager](#stefan)
 
 Looking for intel in all the right places is an art that adversaries seem to have mastered; but when it comes to their own data, many companies seem to lose interest in examining anything that's outside the "perimeter" - whatever that is supposed to be nowadays. Credential leaks, shadow IT, unofficial websites with official info - the list of assets far outside the data centers of companies is long, and those assets nevertheless pose risks. Instead of turning a blind eye, it's important (and necessary) to get an understanding of what kind of information is out there, ready to be used or abused and protect accordingly.
+What risks are "out there" and what is meant by "out there"? How can those risks be addressed? What tools are easily available?
 
 ## Key Steps to Achieving an Application Security Program
 
@@ -291,7 +297,12 @@ Imposter syndrome is a psychological phenomenon where individuals doubt their ac
 
 Speaker: [Christian Kollee](#christian-kollee)
 
-"Prevention eventually fails." and "Assume breach." are two statements the IT security community agreed on long ago. These statements are still valid, especially with the recent vulnerabilities in security devices from different vendors. According to Mandiant M-Trends 2024 Special Report, exploiting vulnerabilities is globally the initial access vector in 38% of all intrusions, followed by Phishing (17%) and access provided by a prior compromise (15%). Over the last two to three years, many of these vulnerabilities have also concerned security devices like firewalls, VPN gateways, and other Internet-connected devices.
+""Prevention eventually fails." and "Assume breach." are two statements the IT security community agreed on long ago. These statements are still valid, especially with the recent vulnerabilities in security devices from different vendors. According to Mandiant M-Trends 2024 Special Report, exploiting vulnerabilities is globally the initial access vector in 38% of all intrusions, followed by Phishing (17%) and access provided by a prior compromise (15%). Over the last two to three years, many of these vulnerabilities have also concerned security devices like firewalls, VPN gateways, and other Internet-connected devices.
+
+Therefore, being ready to respond to a cyberattack must be a priority for enterprises of every size. But what does "being ready" really mean? There are three distinct phases an enterprise needs to go through to be ready. The first phase is the usual You need a plan, which usually means creating documents that describe how to conduct an incident response, who is responsible, and who needs to be informed. However, more than just having a plan is required. Preparing your people, processes, and environment is the second step for a successful incident response. Do your people have the required skills? Are your processes aligned with suppliers and service providers? Do you have the tools in place to perform the incident response? Finally, you need to practice and train every emergency. There are different possibilities for conducting incident response engagements, from simple tabletop exercises to full-blown emergency exercises. Each of them has its advantages and drawbacks.
+
+In this talk, I'll review these three phases and present the essential points based on my experiences. From creating a plan to the preparation phase to implementation and training, we will look at the crucial steps in a brief overview.
+
 
 ## Protecting the energy transition
 
@@ -304,6 +315,10 @@ The renewable energy sector is one key factor within critical infrastructure of 
 Speakers: [Michael Helwig](#michael-helwig), [Álvaro Martínez](#alvaro-martinez)
 
 With an increasing number of high and critical security vulnerabilities being disclosed each year, it is a constant challenge for developers and project teams to respond quickly to serious vulnerabilities in their code base and projects. Often there is no structured process in place to deal with the issues and a decision needs to be made quickly. What can you do?
+
+In this presentation we will explore different approaches to quickly analyze vulnerabilities and estimate the potential impact in your specific context. CVSS scoring is often used as a first step in prioritization, but what is CVSS? Thanks to artificial intelligence, we now have EPSS scoring to help us prioritize, but does it really improve our situation? Ultimately, you have to take your architecture and technical context into account to come to the right conclusion? For this we will take a look at Cyber Kill Chains and how they can be used for this purpose.
+
+The goal of this presentation is to give developers practical insight into the vulnerability analysis process and to provide them with ideas and tools they can use when the next vulnerability appears.
 
 ## Detection And Response for Linux without EDR
 
@@ -335,6 +350,21 @@ BACKUP TALK
 
 Cloud incident response can be daunting, requiring a plethora of tools and skills, while most Cloud Based Startups can’t allocate budget for preventive controls, there is less space for them to understand what to do if they are hacked.
 
+That’s why I created Dredge, an Open Source framework designed to streamline cloud incident investigations, by allowing Cloud Engineers and Incident Responders to execute non-trivial response tasks effortlessly, irrespective of your familiarity with specific cloud platforms nor incident response tactics.
+
+The main idea is to empower engineers to respond to attacks no matter what preparation they had before, taking advantage of most of the out-of-the box security features cloud providers offer but not everybody is aware, like being able to retrieve a forensic image from a running server or getting logs that they didn’t know they had.
+
+Some Key Features that differentiate Dredge from existing tooling:
+- Python-based CLI
+- Retrieve logs seamlessly from Github, Kubernetes, AWS, GCP or Azure.
+- Take action: whether it's blocking an IP in an AWS tenant, disabling an AccessKey, isolating an EC2 instance, or strategically extracting crucial post-compromise user data.
+- Identify tactical misconfigurations that can be exploited by an attacker.
+- Create an attack timeline based on IOCs.
+- Analyze retrieved data effortlessly within your terminal, utilizing built-in capabilities from VirusTotal and Shodan.
+- Cloud Incident Response Guidelines for companies to embrace and build their playbooks.
+
+[Repo](https://github.com/solidarity-labs/dredge-mvp)
+
 ## “Act natural!”: Exchanging Private Messages on Public Blockchains
 
 Speaker: [Thore Tiemann](#thore-tiemann)
@@ -342,6 +372,8 @@ Speaker: [Thore Tiemann](#thore-tiemann)
 BACKUP TALK
 
 Messengers have become an essential means of interpersonal interaction. Yet untraceable private communication remains an elusive goal, as most messengers hide content, but not communication patterns. The knowledge of communication patterns can by itself reveal too much, as happened, e.g., in the context of the Arab Spring. Subliminal channels in cryptographic systems enable untraceable private communication in plain sight. In this context, bulletin boards in the form of blockchains are a natural object for subliminal communication: accessing them is innocuous, as they rely on distributed access for verification and extension. At the same time, blockchain users generate hundreds of thousands of transactions per day that are individually signed and placed on the blockchain. Thus, blockchains may serve as innocuous repository for publicly accessible cryptographic transactions where subliminal channels can be placed. This significantly increases the availability of publicly accessible cryptographic transactions where subliminal channels can be placed.
+
+In this paper, we propose a public-key subliminal channel using secret-recoverable splittable signature schemes on blockchains and prove that our construction is undetectable in the random oracle model under common cryptographic assumptions. Our approach is applicable to any secret-recoverable splittable signature scheme and introduces a constant overhead of a single signature per message. Such schemes are used by 98 of the top 100 cryptocurrencies. We also analyze the applicability of our approach to the Bitcoin, Monero, and RippleNet networks and present proof of concept implementations for Bitcoin and RippleNet.
 
 
 # Team
