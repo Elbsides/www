@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /2024/registration/
+title: Registration
 ---
-
-# Registration
 
 For your ticket to the Elbsides 2024 conference please register with [pretix](https://pretix.eu/elbsides/elbsides2024/).
 
