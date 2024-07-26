@@ -6,7 +6,7 @@ title: Registration
 
 For your ticket to the Elbsides 2024 conference please register with [pretix](https://pretix.eu/elbsides/elbsides2024/).
 
-<img src="/assets/2024/images/elbsides 2024 ticket.png" class="center">
+<img src="/assets/2024/images/elbsides 2024 ticket.png" class="center" width="25%">
 
 This year we offer two types of tickets: Supporter Ticket and Regular attendee ticket.
 
