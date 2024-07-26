@@ -9,7 +9,7 @@ carousels:
     - image: /assets/2024/images/Ballroom - Tagung II.jpg
     - image: /assets/2024/images/Ballroom - Tagung IV.JPG
 ---
-[General](#general-information) | [Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Team](#team)
+[Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Registration](/2024/registration) | [Team](#team)
 
 # General Information
 
