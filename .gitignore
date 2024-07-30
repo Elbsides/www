@@ -7,3 +7,5 @@ vendor
 .ruby-lsp
 **/.DS_Store
 www.code-workspace
+*.swp
+*.swo
