@@ -238,6 +238,8 @@ Stefan works for the Internet Security Team at German company DATEV eG. He start
 
 <img src="/assets/2024/images/thore.tiemann.jpg" width="150" style="float: right;">
 
+Talk: ["Act natural!": Exchanging Private Messages on Public Blockchains](#act-natural-exchanging-private-messages-on-public-blockchains)
+
 Thore Tiemann is a research assistant and PhD student at the Institute for IT Security at the Universität zu Lübeck. His research interests are in the area of computer and systems security with a focus on microarchitectural side-channel attacks and defenses in heterogeneous cloud computing.
 
 ## Tim Walter
