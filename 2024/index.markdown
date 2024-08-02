@@ -409,7 +409,7 @@ From June 2024, Debbie will be working as an Account Manager at AirITSystems. He
 
 Jonas' day job is in incident response and forensics at BlackBerry. During engagements he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents. In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests. In the great outdoors he enjoys geocaching and paddling. He also added aerial photography and semi-autonomous to fully manual flight with home-built UAVs and FPV drones to his outdoor activities.
 
-## David
+## [David](https://davidhamann.de)
 
 David is an independent software developer, penetration tester and IT consultant. He likes to build software, analyze systems and troubleshoot weird computer problems. When not in front of a screen he enjoys a good physical challenge, doing various kinds of sports.
 
