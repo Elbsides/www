@@ -59,7 +59,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
         <th colspan="2" class="silver"><center>Silver Sponsors</center></th>
     </tr>
     <tr>
-        <td class="silver"><center><a href="https://www.pure-ism.de"><img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" class="silver" height="120pt" ></a></center></td>
+        <td class="silver"><center><a href="https://www.pure-ism.de"><img src="/assets/2024/logos/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" class="silver" height="120pt" ></a></center></td>
         <td class="silver"><center><a href="http://www.signal-iduna.de/"><img src="/assets/2024/logos/SI_Logo_Claim_RGB_Blue.svg" alt="SIGNAL IDUNA Gruppe"  class="silver"></a></center></td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
         <td class="bronze"><center><a href="https://www.schutzwerk.com/"><img src="/assets/2024/logos/Schutzwerk_Logo_RZ.svg" alt="Schutzwerk" class="bronze"></a></center></td>
     </tr>
     <tr>
-        <td class="bronze"><center><a href="https://trendmicro.com/"><img src="/assets/2024/logos/TM_Global Leader Logo_RGB_Colour.jpg" alt="Trend Micro" class="bronze"></a></center></td>
+        <td class="bronze"><center><a href="https://trendmicro.com/"><img src="/assets/2024/logos/TM_Horizontal Logo_RGB_Colour.svg" alt="Trend Micro" class="bronze"></a></center></td>
         <td class="bronze"><center><a href="https://www.iteratec.com/"><img src="/assets/2024/logos/Logo_iteratec_rgb_black_M_SZ_rz.png" alt="Iteratec" class="bronze"></a></center></td>
     </tr>
 </table>
@@ -87,7 +87,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
         <th colspan="2" class="community"><center>Community Sponsors</center></th>
     </tr>
     <tr>
-        <td class="community"><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BsidesMunich.png" alt="BSidesMunich" class="community"></a></center></td>
+        <td class="community"><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BSidesMunich_Pixel_Logo.svg" alt="BSidesMunich" class="community"></a></center></td>
         <td class="community"><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" class="community"></a></center></td>
     </tr>
     <tr>
