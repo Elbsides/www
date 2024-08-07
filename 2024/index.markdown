@@ -117,7 +117,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 15:40	|		Break |
 | 16:10	|		[Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)	|
 | 16:40	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: TBA |
+| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: How to implement data protection – fulfilling the (not so new) requirement of the GDPR |
 | 17:40	|		Closing	|
 | 18:00	|		Networking hour begins	|
 
