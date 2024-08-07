@@ -192,7 +192,7 @@ Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. Wi
 
 ## Marit Hansen
 
-TBA
+Closing keynote: How to implement data protection – fulfilling the (not so new) requirement of the GDPR
 
 ## Max Maaß
 
