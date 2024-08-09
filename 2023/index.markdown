@@ -330,7 +330,7 @@ Coming from a non-technical background, Dagmar brings her knowledge of event org
 
 For all his professional business life (even years before that) Stefan has been involved in information security. In 1993 he was the first student to be hired by the freshly launched [DFN-CERT Services GmbH](https://www.dfn-cert.de/), the first Computer Emergency Response Team in Germany and also one of the first within Europe. After having spent a number of years in the PKI universe he worked as an IT security consultant for the next 15 years before re-joining the awesome crew at [DFN-CERT Services GmbH](https://www.dfn-cert.de/) in 2016. He likes IT forensics, Cyber Threat Intelligence, and malware analysis and loves helping people.
 
-## [Florian](https://twitter.com/shantycode)
+## [Florian](https://mastodon.social/@shantycode)
 
 A past interest in archaeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various aspects of the field, may it be user awareness, OS and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
 
