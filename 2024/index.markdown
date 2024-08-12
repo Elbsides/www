@@ -117,7 +117,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 15:40	|		Break |
 | 16:10	|		[Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)	|
 | 16:40	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: TBA |
+| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: How to implement data protection – fulfilling the (not so new) requirement of the GDPR |
 | 17:40	|		Closing	|
 | 18:00	|		Networking hour begins	|
 
@@ -192,7 +192,7 @@ Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. Wi
 
 ## Marit Hansen
 
-TBA
+Closing keynote: How to implement data protection – fulfilling the (not so new) requirement of the GDPR
 
 ## Max Maaß
 
@@ -396,7 +396,7 @@ Coming from a non-technical background, Dagmar brings her knowledge of event org
 
 For all his professional business life (even years before that) Stefan has been involved in information security. In 1993 he was the first student to be hired by the freshly launched [DFN-CERT Services GmbH](https://www.dfn-cert.de/), the first Computer Emergency Response Team in Germany and also one of the first within Europe. After having spent a number of years in the PKI universe he worked as an IT security consultant for the next 15 years before re-joining the awesome crew at [DFN-CERT Services GmbH](https://www.dfn-cert.de/) in 2016. He likes IT forensics, Cyber Threat Intelligence, and malware analysis and loves helping people.
 
-## [Florian](https://twitter.com/shantycode)
+## [Florian](https://mastodon.social/@shantycode)
 
 A past interest in archaeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various aspects of the field, may it be user awareness, OS and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
 
