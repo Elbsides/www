@@ -98,7 +98,6 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 
 # Program
 
-
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
 | 8:00	|		Registration	|
@@ -106,18 +105,18 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 9:15	|		[Katharine Jarmul](#katharine-jarmul) | Opening keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)	|
 | 9:45	|		[Candid Wüest](#candid-wüest) | [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime)	|
 | 10:30	|		Break	|
-| 11:00	|		[Stefan Hager](#stefan-hager) | [Far beyond the perimeter - exploring external attack surfaces](#far-beyond-the-perimeter---exploring-external-attack-surfaces)	|
-| 11:30	|		[Timo Pagel](#timo-pagel) | [Key Steps to Achieving an Application Security Program](#key-steps-to-achieving-an-application-security-program)	|
-| 12:00	|		TBA | TBA |
-| 12:30	|		[Sam Macdonald](#sam-macdonald) | [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)	|
-| 13:00	|		Lunch	|
-| 14:00	|		[Christian Kollee](#christian-kollee) | [Ready to Respond - Plan, Prepare, Try & Train](#ready-to-respond---plan-prepare-try--train)	|
-| 14:30	|		[Marc Ratfeld](#marc-ratfeld) | [Protecting the energy transition](#protecting-the-energy-transition)	|
-| 15:00	|		[Michael Helwig](#michael-helwig), [Álvaro Martínez](#álvaro-martínez) | [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)	|
+| 11:00	|		[Christian Kollee](#christian-kollee) | [Ready to Respond - Plan, Prepare, Try & Train](#ready-to-respond---plan-prepare-try--train)	|
+| 11:30	|		[Marc Ratfeld](#marc-ratfeld) | [Protecting the energy transition](#protecting-the-energy-transition)	|
+| 12:00	|		[Michael Helwig](#michael-helwig), [Álvaro Martínez](#álvaro-martínez) | [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)	|
+| 12:40	|		[Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)	|
+| 13:10	|		Lunch	|
+| 14:10	|		[Stefan Hager](#stefan-hager) | [Far beyond the perimeter - exploring external attack surfaces](#far-beyond-the-perimeter---exploring-external-attack-surfaces)	|
+| 14:40	|		[Timo Pagel](#timo-pagel) | [Key Steps to Achieving an Application Security Program](#key-steps-to-achieving-an-application-security-program)	|
+| 15:10	|		[Sam Macdonald](#sam-macdonald) | [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)	|
 | 15:40	|		Break |
-| 16:10	|		[Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)	|
-| 16:40	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: How to implement data protection – fulfilling the (not so new) requirement of the GDPR |
+| 16:10	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
+| 16:40	|		TBA | TBA |
+| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: [How to implement data protection – fulfilling the (not so new) requirement of the GDPR](#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr) |
 | 17:40	|		Closing	|
 | 18:00	|		Networking hour begins	|
 
@@ -192,13 +191,25 @@ Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. Wi
 
 ## Marit Hansen
 
-Closing keynote: How to implement data protection – fulfilling the (not so new) requirement of the GDPR
+<img src="/assets/2024/images/marit.hansen.jpg" width="150" style="float: right;">
+
+Closing keynote: [How to implement data protection – fulfilling the (not so new) requirement of the GDPR](#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr)
+
+Dr. h.c. Marit Hansen has been the State Data Protection Commissioner of
+Land Schleswig-Holstein and Chief of Unabhängiges Landeszentrum für
+Datenschutz (ULD) since 2015. Before being appointed Data Protection
+Commissioner, she had been Deputy Commissioner for seven years. After
+graduating with a diploma degree in computer science in 1995, Marit has
+been working on privacy and security aspects. Her focus is on “data
+protection by design” and “data protection by default” from both the
+technical and the legal perspectives.
+
 
 ## Max Maaß
 
 <img src="/assets/2024/images/max.maass.png" width="150" style="float: right;">
 
-Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm---breaking-and-fixing-keycloak-configurations)
+Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)
 
 Max Maaß works at the security team at iteratec. He spends his time with architecture reviews, threat modeling and pentesting for software development projects, and has contributed to the OWASP secureCodeBox. Previously, he conducted research into security and privacy issues at the Secure Mobile Networking Lab at TU Darmstadt.
 
@@ -246,7 +257,7 @@ Thore Tiemann is a research assistant and PhD student at the Institute for IT Se
 
 <img src="/assets/2024/images/tim.walter.jpg" width="150" style="float: right;">
 
-Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm---breaking-and-fixing-keycloak-configurations)
+Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)
 
 After working as a full-stack developer and software architect, Tim Walter now works as a security architect for iteratec. His primary task is to support teams in the development of secure software through threat modeling, security reviews of architecture concepts, vulnerability analyses and the integration and automation of security scans.
 
@@ -282,7 +293,7 @@ Finally, we'll touch on the MITRE ATLAS framework and discuss related techniques
 
 ## Far beyond the perimeter - exploring external attack surfaces
 
-Speaker: [Stefan Hager](#stefan)
+Speaker: [Stefan Hager](#stefan-hager)
 
 Looking for intel in all the right places is an art that adversaries seem to have mastered; but when it comes to their own data, many companies seem to lose interest in examining anything that's outside the "perimeter" - whatever that is supposed to be nowadays. Credential leaks, shadow IT, unofficial websites with official info - the list of assets far outside the data centers of companies is long, and those assets nevertheless pose risks. Instead of turning a blind eye, it's important (and necessary) to get an understanding of what kind of information is out there, ready to be used or abused and protect accordingly.
 What risks are "out there" and what is meant by "out there"? How can those risks be addressed? What tools are easily available?
@@ -380,6 +391,23 @@ BACKUP TALK
 Messengers have become an essential means of interpersonal interaction. Yet untraceable private communication remains an elusive goal, as most messengers hide content, but not communication patterns. The knowledge of communication patterns can by itself reveal too much, as happened, e.g., in the context of the Arab Spring. Subliminal channels in cryptographic systems enable untraceable private communication in plain sight. In this context, bulletin boards in the form of blockchains are a natural object for subliminal communication: accessing them is innocuous, as they rely on distributed access for verification and extension. At the same time, blockchain users generate hundreds of thousands of transactions per day that are individually signed and placed on the blockchain. Thus, blockchains may serve as innocuous repository for publicly accessible cryptographic transactions where subliminal channels can be placed. This significantly increases the availability of publicly accessible cryptographic transactions where subliminal channels can be placed.
 
 In this paper, we propose a public-key subliminal channel using secret-recoverable splittable signature schemes on blockchains and prove that our construction is undetectable in the random oracle model under common cryptographic assumptions. Our approach is applicable to any secret-recoverable splittable signature scheme and introduces a constant overhead of a single signature per message. Such schemes are used by 98 of the top 100 cryptocurrencies. We also analyze the applicability of our approach to the Bitcoin, Monero, and RippleNet networks and present proof of concept implementations for Bitcoin and RippleNet.
+
+## How to implement data protection – fulfilling the (not so new) requirement of the GDPR
+
+Closing Keynote
+
+Speaker: [Marit Hansen](#marit-hansen)
+
+The concept of "privacy by design" has been discussed for several
+decades. The same holds for "security by design". The general idea is to
+implement the requirements derived from privacy or security from the
+very beginning of the engineering process for software, and also
+hardware where appropriate. Meanwhile, Article 25 of the General Data
+Protection Regulation demands both "data Protection by design" and "data
+protection by default" from data controllers, i.e. the entities
+responsible for the processing of personal data. In the talk, Marit will
+clarify the legal obligation stemming from the GDPR and show how to
+fulfill this requirement in practice.
 
 
 # Team
