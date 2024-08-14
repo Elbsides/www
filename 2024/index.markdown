@@ -152,6 +152,9 @@ Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-applicat
 
 Álvaro Martínez holds a Bachelor of Engineering in Telecommunications and a Master’s degree in Information Security, graduated in 2018. After several years working as web developer, he decided to switch to his preferred area, cybersecurity, where he currently works at conducting vulnerability assessments and web penetration tests, integrating security tools into corporate environments and helping development teams to better understand and mitigate vulnerabilities in their applications.
 
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Candid Wüest
 
 <img src="/assets/2024/images/candid.wueest.png" width="150" style="float: right;">
@@ -161,17 +164,23 @@ Talk: [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling
 Candid Wüest is a seasoned cybersecurity expert with a strong blend of technical skills, leadership, and over 25 years of passion in the field of security. He currently serves as an independent security advisor for various companies and the Swiss government. Previously, he was the VP of Cyber Protection Research at Acronis, where he led the creation of the security department and the EDR product. Prior to that, he spent over sixteen years at Symantec, where he played a key role in building their global security response team as the technical lead, focusing on malware and threat analysis.
 Wüest has authored a book and several white papers and has been recognized as a security expert in top-tier media outlets. He frequently speaks at major security conferences, including RSAC and BlackHat and is an organizer of AREA41 & BSides Zurich. He began learning coding and English on a Commodore 64. He holds a Master’s degree in Computer Science from ETH Zurich and possesses various certifications and patents.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Christian Kollee
 
 Talk: [Ready to Respond - Plan, Prepare, Try & Train](#ready-to-respond---plan-prepare-try--train)
 
 Christian currently works as a Network Detection Engineer in the German finance sector. Previously, he worked as a forensic analyst and incident handler in international organizations and medium-sized German businesses. With more than ten years of experience in IT security, Christian knows the problems of all IT security types, from medium-sized companies to DAX30 corporations. Shortly, he will join a company doing Incident Response and Managed Detection & Response. Besides learning about new attacker tools and techniques, he tries desperately to reduce his ever-growing stack of articles and books in his spare time.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Hilko Bengen
 
 Talk: [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)
 
 Hilko works in the CSIRT for a transportation and logistics company. He feels most comfortable when thinking about problems that touch systems programming, operations and IT security. For more than 25 years, he has learned to take free and open source software for granted, and he is still amazed when he hears how others have found his contributions useful.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Katharine Jarmul
 
@@ -181,6 +190,11 @@ Keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-
 
 Katharine Jarmul is a privacy activist and an internationally recognized data scientist and lecturer who focuses her work and research on privacy and security in data science and machine learning. You can follow her work via her newsletter, [Probably Private](https://probablyprivate.com) or in her recently published book, "Practical Data Privacy" (O'Reilly 2023) now also available in German as "Data Privacy in der Praxis."
 
+<br>
+
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Marc Ratfeld
 
 <img src="/assets/2024/images/marc.ratfeld.jpg" width="150" style="float: right;">
@@ -188,6 +202,8 @@ Katharine Jarmul is a privacy activist and an internationally recognized data sc
 Talk: [Protecting the energy transition](#protecting-the-energy-transition)
 
 Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. With over 25 years of experience in the field of information security, Mr. Ratfeld has worked in various industries as an information security officer and helps companies to implement and continuously develop information management systems. In doing so, he pays particular attention to the practicability of implementation and has successfully brought ISMS implementation projects to the level of certification. Since 2023, he has also been an executive manager of pure ISM GmbH.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Marit Hansen
 
@@ -204,6 +220,7 @@ been working on privacy and security aspects. Her focus is on “data
 protection by design” and “data protection by default” from both the
 technical and the legal perspectives.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Max Maaß
 
@@ -213,6 +230,7 @@ Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#pr
 
 Max Maaß works at the security team at iteratec. He spends his time with architecture reviews, threat modeling and pentesting for software development projects, and has contributed to the OWASP secureCodeBox. Previously, he conducted research into security and privacy issues at the Secure Mobile Networking Lab at TU Darmstadt.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Michael Helwig
 
@@ -220,6 +238,14 @@ Max Maaß works at the security team at iteratec. He spends his time with archit
 
 Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Sam Macdonald
 
@@ -229,6 +255,12 @@ Talk: [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)
 
 A cybersecurity professional from the UK whereby imposter syndrome is a weekly bi-product of having changed careers midlife. Every day is a school day, now looking to tackle the inner fraud that takes so many in the community and share what I have learnt.
 
+<br>
+<br>
+
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Santi Abastante
 
 <img src="/assets/2024/images/santi.abastante.jpg" width="150" style="float: right;">
@@ -236,6 +268,12 @@ A cybersecurity professional from the UK whereby imposter syndrome is a weekly b
 Talk: [Dredge: A Open Source Framework for Cloud Incident Response](#dredge-a-open-source-framework-for-cloud-incident-response)
 
 Ex-Police Officer from Argentina, Cloud Incident Responder and Security Engineer with 10+ years of IT experience.
+
+<br>
+<br>
+
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Stefan Hager
 
@@ -245,6 +283,8 @@ Talk: [Far beyond the perimeter - exploring external attack surfaces](#far-beyon
 
 Stefan works for the Internet Security Team at German company DATEV eG. He started messing with computers in the 80s and turned it into a job as a programmer in the early 90s. Since 2000 he has been securing networks and computers for various enterprises in Germany and Scotland. His main focus nowadays is security research, raising security awareness, coming up with creative solutions to security problems and discussing new ideas concerning threat mitigation. When not trying to do any of the stuff mentioned above, he is either travelling, producing hacker music and other electronic beats or gardening.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Thore Tiemann
 
 <img src="/assets/2024/images/thore.tiemann.jpg" width="150" style="float: right;">
@@ -252,6 +292,13 @@ Stefan works for the Internet Security Team at German company DATEV eG. He start
 Talk: ["Act natural!": Exchanging Private Messages on Public Blockchains](#act-natural-exchanging-private-messages-on-public-blockchains)
 
 Thore Tiemann is a research assistant and PhD student at the Institute for IT Security at the Universität zu Lübeck. His research interests are in the area of computer and systems security with a focus on microarchitectural side-channel attacks and defenses in heterogeneous cloud computing.
+
+<br>
+<br>
+<br>
+
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Tim Walter
 
@@ -261,6 +308,8 @@ Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#pr
 
 After working as a full-stack developer and software architect, Tim Walter now works as a security architect for iteratec. His primary task is to support teams in the development of secure software through threat modeling, security reviews of architecture concepts, vulnerability analyses and the integration and automation of security scans.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Timo Pagel
 
 <img src="/assets/2024/images/timo.pagel.png" width="150" style="float: right;">
@@ -269,6 +318,10 @@ Talk: [Key Steps to Achieving an Application Security Program](#key-steps-to-ach
 
 Timo Pagel has been in the IT industry for over twenty five years. After a career as a system administrator and web developer, he advises customers as a DevSecOps consultant and trainer. His focus is on integrating security into the development lifecycle. For example with security test automation for software and infrastructure and assessment of complex applications in the cloud. In his spare time, he teaches "Web and Application Security" at various universities of applied sciences.
 
+<br>
+
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 # Talks
 
@@ -279,6 +332,8 @@ Opening Keynote
 Speaker: [Katharine Jarmul](#katharine-jarmul)
 
 In this talk, we'll review attacks on today's "AI" systems, and how fundamental aspects of adversarial examples are still relevant today. We'll explore how purple-teaming AI systems could work, and the latest research on potential preventative measures and a few common-sense tips, if your CEO tells you, you have to deploy an AI-based application.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Unveiling the Reality: The True Impact of GenAI on Cybercrime
 
@@ -291,6 +346,8 @@ We'll demystify AI-generated, AI-supported, and AI-powered threats, showing how 
 Discover the strategic shift from creating unfiltered LLMs, like FraudGPT, to offering proxied prompt injection into existing models, like LoopGPT. See how tools like FuzzAI help with new prompt injections.
 Finally, we'll touch on the MITRE ATLAS framework and discuss related techniques, e.g. adversarial AI attacks, setting the stage for future discussions. This talk separates hype from reality, providing a clear perspective on the evolving cyber threat landscape driven by GenAI.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Far beyond the perimeter - exploring external attack surfaces
 
 Speaker: [Stefan Hager](#stefan-hager)
@@ -298,17 +355,23 @@ Speaker: [Stefan Hager](#stefan-hager)
 Looking for intel in all the right places is an art that adversaries seem to have mastered; but when it comes to their own data, many companies seem to lose interest in examining anything that's outside the "perimeter" - whatever that is supposed to be nowadays. Credential leaks, shadow IT, unofficial websites with official info - the list of assets far outside the data centers of companies is long, and those assets nevertheless pose risks. Instead of turning a blind eye, it's important (and necessary) to get an understanding of what kind of information is out there, ready to be used or abused and protect accordingly.
 What risks are "out there" and what is meant by "out there"? How can those risks be addressed? What tools are easily available?
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Key Steps to Achieving an Application Security Program
 
 Speaker: [Timo Pagel](#timo-pagel)
 
 This talk outlines a practical approach to building and optimizing application security (AppSec) programs for organizations of all sizes. While briefly touching on foundational elements, the presentation focuses on developing and implementing a custom organizational maturity model that resonates with development and operations teams. Moving beyond traditional frameworks, attendees will learn to design tailored models that account for diverse operating environments. The talk provides strategies for avoiding common pitfalls, implementing effective metrics, and creating a scalable AppSec approach adaptable to an organization's evolving needs. Through actionable advice and real-world examples, participants will gain insights applicable to both new and existing AppSec programs.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Dealing With Imposter Syndrome
 
 Speaker: [Sam Macdonald](#sam-macdonald)
 
 Imposter syndrome is a psychological phenomenon where individuals doubt their accomplishments and fear being exposed as a "fraud," despite evidence of their competence and success. It can affect anyone, regardless of their career stage, background, or achievements.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Ready to Respond - Plan, Prepare, Try & Train
 
@@ -320,12 +383,15 @@ Therefore, being ready to respond to a cyberattack must be a priority for enterp
 
 In this talk, I'll review these three phases and present the essential points based on my experiences. From creating a plan to the preparation phase to implementation and training, we will look at the crucial steps in a brief overview.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Protecting the energy transition
 
 Speaker: [Marc Ratfeld](#marc-ratfeld)
 
 The renewable energy sector is one key factor within critical infrastructure of Europe and Germany. Protecting this industry against cyberattacks is a constant challenge. The rapid growth and increased security requirements are putting the industry under constant pressure to adapt. This talk will give you an insight view of actual attempts to protect IT and OT environments off- and onshore.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Help, my application is vulnerable, but how bad is it?
 
@@ -336,6 +402,8 @@ With an increasing number of high and critical security vulnerabilities being di
 In this presentation we will explore different approaches to quickly analyze vulnerabilities and estimate the potential impact in your specific context. CVSS scoring is often used as a first step in prioritization, but what is CVSS? Thanks to artificial intelligence, we now have EPSS scoring to help us prioritize, but does it really improve our situation? Ultimately, you have to take your architecture and technical context into account to come to the right conclusion? For this we will take a look at Cyber Kill Chains and how they can be used for this purpose.
 
 The goal of this presentation is to give developers practical insight into the vulnerability analysis process and to provide them with ideas and tools they can use when the next vulnerability appears.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Detection And Response for Linux without EDR
 
@@ -349,6 +417,8 @@ After evaluating several EDR vendors' products specifically for use in a large, 
 
 This talk illustrates mostly home-grown approaches to detection and response engineering that provide analysts with tools for generating context and for large-scale threat hunting while making it as pleasant as possible for operations teams to integrate the required components into their systems.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## Protectors of the Realm: Breaking and Fixing Keycloak Configurations
 
 Speakers: [Max Maaß](#max-maaß), [Tim Walter](#tim-walter)
@@ -358,6 +428,8 @@ Keycloak is a widely used tool for authentication and user management in many pr
 Having been responsible for the security of a Keycloak instance in a large software project for almost two years, we share our insights on what to look for. We also present our open source Keycloak configuration auditor *kcwarden*, which we developed to facilitate our work. The tool can detect common security issues and can be easily customized to detect project-specific issues, such as dangerous role assignments or policy violations. This allows us to continuously monitor the configuration for dangerous changes that might otherwise go unnoticed.
 
 After attending this talk, you should have an overview of common Keycloak misconfigurations and how you can use *kcwarden* to support your work.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## Dredge: A Open Source Framework for Cloud Incident Response
 
@@ -382,6 +454,8 @@ Some Key Features that differentiate Dredge from existing tooling:
 
 [Repo](https://github.com/solidarity-labs/dredge-mvp)
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
 ## “Act natural!”: Exchanging Private Messages on Public Blockchains
 
 Speaker: [Thore Tiemann](#thore-tiemann)
@@ -391,6 +465,8 @@ BACKUP TALK
 Messengers have become an essential means of interpersonal interaction. Yet untraceable private communication remains an elusive goal, as most messengers hide content, but not communication patterns. The knowledge of communication patterns can by itself reveal too much, as happened, e.g., in the context of the Arab Spring. Subliminal channels in cryptographic systems enable untraceable private communication in plain sight. In this context, bulletin boards in the form of blockchains are a natural object for subliminal communication: accessing them is innocuous, as they rely on distributed access for verification and extension. At the same time, blockchain users generate hundreds of thousands of transactions per day that are individually signed and placed on the blockchain. Thus, blockchains may serve as innocuous repository for publicly accessible cryptographic transactions where subliminal channels can be placed. This significantly increases the availability of publicly accessible cryptographic transactions where subliminal channels can be placed.
 
 In this paper, we propose a public-key subliminal channel using secret-recoverable splittable signature schemes on blockchains and prove that our construction is undetectable in the random oracle model under common cryptographic assumptions. Our approach is applicable to any secret-recoverable splittable signature scheme and introduces a constant overhead of a single signature per message. Such schemes are used by 98 of the top 100 cryptocurrencies. We also analyze the applicability of our approach to the Bitcoin, Monero, and RippleNet networks and present proof of concept implementations for Bitcoin and RippleNet.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 ## How to implement data protection – fulfilling the (not so new) requirement of the GDPR
 
@@ -409,6 +485,7 @@ responsible for the processing of personal data. In the talk, Marit will
 clarify the legal obligation stemming from the GDPR and show how to
 fulfill this requirement in practice.
 
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
 # Team
 
