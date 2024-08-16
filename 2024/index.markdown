@@ -260,17 +260,13 @@ Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-applicat
 
 ## Paul Vixie
 
-<img src="/assets/2019/photos/Paul-Vixie.jpg" width="150" style="float: right;">
+<img src="/assets/2024/images/paul.vixie.jpg" width="150" style="float: right;">
 
 Talk: [The evolution of cloud security](#the-evolution-of-cloud-security)
 
 * Twitter: [@paulvixie](https://twitter.com/paulvixie)
 
-[Paul Vixie](https://en.wikipedia.org/wiki/Paul_Vixie) is the VP of Security at Amazon Web Services. Before that, he was the Founder and CEO of Farsight Security from July 2013 to November 2021. He is the author of several RFCs and well-known UNIX system programs, among them, SENDS, proxynet, rtty, and Vixie cron. He was elected to ARIN's board of trustees in 2004 and reelected in 2007 and 2010. Paul was elected chairman in 2009 and 2010 but did not seek chairmanship in 2011.
-
-Vixie is a co-founder of ISC and worked as its CEO and President before transitioning to his role at Farsight Security. At the time of that transition, ISC sold its security-related assets to Farsight.
-
-In 2014, Vixie was inducted into the Internet Hall of Fame as an "Internet Innovator."
+Paul Vixie is a VP and Distinguished Engineer who joined AWS Security after a 29-year career as the founder and CEO of five startup companies covering the fields of DNS, anti-spam, Internet exchange, Internet carriage and hosting, and Internet security. Vixie earned his Ph.D. in Computer Science from Keio University in 2011 and was inducted into the Internet Hall of Fame in 2014. He is also known as an author of open-source software including Cron. As a VP, Distinguished Engineer and Deputy CISO at AWS, Paul and his team in the Office of the CISO use leadership and technical expertise to provide guidance and collaboration on the development and implementation of advanced security strategies, risk management, and helping customers be secure in the cloud.
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
