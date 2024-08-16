@@ -126,7 +126,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 15:10	|		[Sam Macdonald](#sam-macdonald) | [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)	|
 | 15:40	|		Break |
 | 16:10	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 16:40	|		[Paul Vixie](#paul-vixie) | TBA |
+| 16:40	|		[Paul Vixie](#paul-vixie) | [The evolution of cloud security](#the-evolution-of-cloud-security) |
 | 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: [How to implement data protection – fulfilling the (not so new) requirement of the GDPR](#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr) |
 | 17:40	|		Closing	|
 | 18:00	|		Networking hour begins	|
@@ -148,6 +148,7 @@ Backup talks:
 [Marit Hansen](#marit-hansen),
 [Max Maaß](#max-maaß),
 [Michael Helwig](#michael-helwig),
+[Paul Vixie](#paul-vixie),
 [Sam Macdonald](#sam-macdonald),
 [Santi Abastante](#santi-abastante),
 [Stefan Hager](#stefan-hager),
@@ -261,6 +262,8 @@ Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-applicat
 ## Paul Vixie
 
 <img src="/assets/2019/photos/Paul-Vixie.jpg" width="150" style="float: right;">
+
+Talk: [The evolution of cloud security](#the-evolution-of-cloud-security)
 
 * Twitter: [@paulvixie](https://twitter.com/paulvixie)
 
@@ -490,6 +493,16 @@ BACKUP TALK
 Messengers have become an essential means of interpersonal interaction. Yet untraceable private communication remains an elusive goal, as most messengers hide content, but not communication patterns. The knowledge of communication patterns can by itself reveal too much, as happened, e.g., in the context of the Arab Spring. Subliminal channels in cryptographic systems enable untraceable private communication in plain sight. In this context, bulletin boards in the form of blockchains are a natural object for subliminal communication: accessing them is innocuous, as they rely on distributed access for verification and extension. At the same time, blockchain users generate hundreds of thousands of transactions per day that are individually signed and placed on the blockchain. Thus, blockchains may serve as innocuous repository for publicly accessible cryptographic transactions where subliminal channels can be placed. This significantly increases the availability of publicly accessible cryptographic transactions where subliminal channels can be placed.
 
 In this paper, we propose a public-key subliminal channel using secret-recoverable splittable signature schemes on blockchains and prove that our construction is undetectable in the random oracle model under common cryptographic assumptions. Our approach is applicable to any secret-recoverable splittable signature scheme and introduces a constant overhead of a single signature per message. Such schemes are used by 98 of the top 100 cryptocurrencies. We also analyze the applicability of our approach to the Bitcoin, Monero, and RippleNet networks and present proof of concept implementations for Bitcoin and RippleNet.
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
+## The evolution of cloud security
+
+Special Guest talk
+
+Speaker: [Paul Vixie](#paul-vixie)
+
+There was a time when it was reasonable to ask how an organization's data and processing could possibly be as secure running on someone else's computer (in the cloud) as it would be in privately owned and operated servers, days centers, and networks. These days that question has been inverted, and we must ask how hosting a workload within privately operated infrastructure could possibly be as secure as putting that workload into the cloud. Let's discuss.
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
