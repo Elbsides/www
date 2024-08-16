@@ -69,6 +69,9 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
+img.platinum {
+  width: 300px;
+}
 img.gold {
   width: 300px;
 }
@@ -288,6 +291,20 @@ pre {
     border: 1px solid darken($background-color, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
+  th.platinum {
+    // background-color: #797979;
+    // background-color: #E5E4E2;
+    background: linear-gradient(
+    45deg,
+    #E5E4E2 5%,
+    #fff 10%,
+    #bcbcbb 30%,
+    #ddd 50%,
+    #bcbcbb 70%,
+    #fff 80%,
+    #E5E4E2 95%
+  );
+  }
   th.gold {
     background-color: gold;
   }
@@ -320,6 +337,9 @@ pre {
     background-color: white;
     /*border: 1px solid $grey-color-light;*/
     border: 1px solid darken($background-color, 4%);
+  }
+  td.platinum {
+    height: 100px;
   }
   td.gold {
     height: 100px;

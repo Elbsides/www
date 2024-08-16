@@ -46,6 +46,17 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 
 <table>
     <tr>
+        <th colspan="2" class="platinum"><center>Platinum Sponsors</center></th>
+    </tr>
+    <tr>
+        <td colspan=2 class="platinum"><center><a href="https://aws.amazon.com"><img src="/assets/2024/logos/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services, Inc" class="platinum"></a></center></td>
+
+    </tr>
+</table>
+
+
+<table>
+    <tr>
         <th colspan="2" class="gold"><center>Gold Sponsors</center></th>
     </tr>
     <tr>
