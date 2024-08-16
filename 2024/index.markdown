@@ -126,7 +126,7 @@ this event as inclusive as possible. If you are interested in sponsoring, please
 | 15:10	|		[Sam Macdonald](#sam-macdonald) | [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)	|
 | 15:40	|		Break |
 | 16:10	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 16:40	|		TBA | TBA |
+| 16:40	|		[Paul Vixie](#paul-vixie) | TBA |
 | 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: [How to implement data protection – fulfilling the (not so new) requirement of the GDPR](#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr) |
 | 17:40	|		Closing	|
 | 18:00	|		Networking hour begins	|
@@ -255,6 +255,20 @@ Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-applicat
 <br>
 <br>
 <br>
+
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
+
+## Paul Vixie
+
+<img src="/assets/2019/photos/Paul-Vixie.jpg" width="150" style="float: right;">
+
+* Twitter: [@paulvixie](https://twitter.com/paulvixie)
+
+[Paul Vixie](https://en.wikipedia.org/wiki/Paul_Vixie) is the VP of Security at Amazon Web Services. Before that, he was the Founder and CEO of Farsight Security from July 2013 to November 2021. He is the author of several RFCs and well-known UNIX system programs, among them, SENDS, proxynet, rtty, and Vixie cron. He was elected to ARIN's board of trustees in 2004 and reelected in 2007 and 2010. Paul was elected chairman in 2009 and 2010 but did not seek chairmanship in 2011.
+
+Vixie is a co-founder of ISC and worked as its CEO and President before transitioning to his role at Farsight Security. At the time of that transition, ISC sold its security-related assets to Farsight.
+
+In 2014, Vixie was inducted into the Internet Hall of Fame as an "Internet Innovator."
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
