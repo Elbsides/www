@@ -249,12 +249,7 @@ Max Maaß works at the security team at iteratec. He spends his time with archit
 
 Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+With a background in software development, Michael is a cybersecurity strategist and expert on a wide range of product and cybersecurity topics. He is the co-founder of a security consulting firm that helps clients across industries implement product security programs, adopt DevSecOps, and achieve compliance with information security standards and privacy requirements. He is currently exploring the impact and potential of AI on secure development-related security practices. He believes that people and communication are at least as important and effective in moving organizations forward as tools and technology, and that security is best achieved when linked to software development and business interests.
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
