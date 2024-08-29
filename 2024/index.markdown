@@ -44,91 +44,15 @@ We hope to welcome many old and new sponsors to make this event possible with mi
 this event as inclusive as possible. If you are interested in sponsoring, please contact us at
 **elbsides -at- gmail.com**.
 
-<table>
-    <tr>
-        <th colspan="2" class="platinum"><center>Platinum Sponsor</center></th>
-    </tr>
-    <tr>
-        <td colspan=2 class="platinum"><center><a href="https://aws.amazon.com"><img src="/assets/2024/logos/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services, Inc" class="platinum"></a></center></td>
-    </tr>
-</table>
-
-
-<table>
-    <tr>
-        <th colspan="2" class="gold"><center>Gold Sponsors</center></th>
-    </tr>
-    <tr>
-        <td class="gold"><center><a href="https://www.dfn-cert.de/"><img src="/assets/2024/logos/dfn_cert-logo-registered-blue_rgb.svg" alt="DFN-CERT Services GmbH" class="gold"></a></center></td>
-        <td class="gold"><center><a href="https://www.hamburg-port-authority.de/"><img src="/assets/2024/logos/Logo_HPA_Logo_RGB.svg" alt="Hamburg Port Authority AöR" class="gold"></a></center></td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th colspan="2" class="silver"><center>Silver Sponsors</center></th>
-    </tr>
-    <tr>
-        <td class="silver"><center><a href="https://www.pure-ism.de"><img src="/assets/2024/logos/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" class="silver" height="120pt" ></a></center></td>
-        <td class="silver"><center><a href="http://www.signal-iduna.de/"><img src="/assets/2024/logos/SI_Logo_Claim_RGB_Blue.svg" alt="SIGNAL IDUNA Gruppe"  class="silver"></a></center></td>
-    </tr>
-    <tr>
-        <td class="silver"><center><a href="https://www.google.de"><img src="/assets/2024/logos/logo_Google_FullColor_830x271px.svg" alt="Google LLC" class="silver"></a></center></td>
-        <td class="silver"><center><a href="https://www.dcso.de"><img src="/assets/2024/logos/DCSO_Logo_RZ_Marine_RGB.svg" alt="DCSO Deutsche Cyber-Sicherheitsorganisation GmbH" class="silver"></a></center></td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th colspan="2" class="bronze"><center>Bronze Sponsors</center></th>
-    </tr>
-    <tr>
-        <td class="bronze"><center><a href="https://mogwailabs.de/"><img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" class="bronze"></a></center></td>
-        <td class="bronze"><center><a href="https://www.schutzwerk.com/"><img src="/assets/2024/logos/Schutzwerk_Logo_RZ.svg" alt="Schutzwerk" class="bronze"></a></center></td>
-    </tr>
-    <tr>
-        <td class="bronze"><center><a href="https://trendmicro.com/"><img src="/assets/2024/logos/TM_Horizontal Logo_RGB_Colour.svg" alt="Trend Micro" class="bronze"></a></center></td>
-        <td class="bronze"><center><a href="https://www.iteratec.com/"><img src="/assets/2024/logos/Logo_iteratec_rgb_black_M_SZ_rz.png" alt="Iteratec" class="bronze"></a></center></td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th colspan="2" class="community"><center>Community Sponsors</center></th>
-    </tr>
-    <tr>
-        <td class="community"><center><a href="https://bsidesmunich.org/"><img src="/assets/2024/logos/BSidesMunich_Pixel_Logo.svg" alt="BSidesMunich" class="community"></a></center></td>
-        <td class="community"><center><a href="https://www.louis.de"><img src="/assets/2024/logos/Logo_Louis.svg" alt="Detlev Louis Motorrad-Vertriebsgesellschaft mbH" class="community"></a></center></td>
-    </tr>
-    <tr>
-        <td colspan="2" class="community"><center><a href="https://dpunkt.de"><img src="/assets/2024/logos/dpunkt.logo rot_schwarz.svg" alt="dpunkt.verlag GmbH" class="community"></a></center></td>
-
-    </tr>
-</table>
+{% include_relative includes/platinum.html %}
+{% include_relative includes/gold.html %}
+{% include_relative includes/silver.html %}
+{% include_relative includes/bronze.html %}
+{% include_relative includes/community.html %}
 
 # Program
 
-| Time | Speaker | Title |
-| ---- | ------- | ----- |
-| 8:00	|		Registration	|
-| 9:00	|		Opening	|
-| 9:15	|		[Katharine Jarmul](#katharine-jarmul) | Opening keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)	|
-| 9:45	|		[Candid Wüest](#candid-wüest) | [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime)	|
-| 10:30	|		Break	|
-| 11:00	|		[Christian Kollee](#christian-kollee) | [Ready to Respond - Plan, Prepare, Try & Train](#ready-to-respond---plan-prepare-try--train)	|
-| 11:30	|		[Marc Ratfeld](#marc-ratfeld) | [Protecting the energy transition](#protecting-the-energy-transition)	|
-| 12:00	|		[Michael Helwig](#michael-helwig), [Álvaro Martínez](#álvaro-martínez) | [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)	|
-| 12:40	|		[Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)	|
-| 13:10	|		Lunch	|
-| 14:10	|		[Stefan Hager](#stefan-hager) | [Far beyond the perimeter - exploring external attack surfaces](#far-beyond-the-perimeter---exploring-external-attack-surfaces)	|
-| 14:40	|		[Timo Pagel](#timo-pagel) | [Key Steps to Achieving an Application Security Program](#key-steps-to-achieving-an-application-security-program)	|
-| 15:10	|		[Sam Macdonald](#sam-macdonald) | [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)	|
-| 15:40	|		Break |
-| 16:10	|		[Max Maaß](#max-maaß), [Tim Walter](#tim-walter) | [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)	|
-| 16:40	|		[Paul Vixie](#paul-vixie) | [The evolution of cloud security](#the-evolution-of-cloud-security) |
-| 17:10	|		[Marit Hansen](#marit-hansen) | Closing keynote: [How to implement data protection – fulfilling the (not so new) requirement of the GDPR](#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr) |
-| 17:40	|		Closing	|
-| 18:00	|		Networking hour begins	|
+{% include_relative includes/schedule.md %}
 
 Backup talks:
 
