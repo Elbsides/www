@@ -73,8 +73,8 @@ def main(input_file):
                     end_hour += 1
                     end_minute -= 60
 
-                end_time = f"{end_hour:02d}:{end_minute:02d}"
-                start_to_end = f"{record['start']}-{end_time}"
+                # end_time = f"{end_hour:02d}:{end_minute:02d}"
+                start_to_end = f"{start_hour:02d}:{start_minute:02d}-{end_hour:02d}:{end_minute:02d}"
                 video_schedule += [f"{start_to_end}\t{title_line}" for title_line in title_lines]
                 video_schedule.append(f"{start_to_end}\t - {render_speakers(record['speaker'])}")
                 video_schedule.append("")

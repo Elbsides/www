@@ -1,13 +1,13 @@
-9:00-09:15	Opening
-9:00-09:15	 - Morton Swimmer
+09:00-09:15	Opening
+09:00-09:15	 - Morton Swimmer
 
-9:15-09:45	AI (In)security: How to (Still)
-9:15-09:45	Successfully Attack an AI System
-9:15-09:45	 - Katharine Jarmul
+09:15-09:45	AI (In)security: How to (Still)
+09:15-09:45	Successfully Attack an AI System
+09:15-09:45	 - Katharine Jarmul
 
-9:45-10:30	Unveiling the Reality: The True Impact
-9:45-10:30	of GenAI on Cybercrime
-9:45-10:30	 - Candid Wüest
+09:45-10:30	Unveiling the Reality: The True Impact
+09:45-10:30	of GenAI on Cybercrime
+09:45-10:30	 - Candid Wüest
 
 11:00-11:30	Ready to Respond - Plan, Prepare, Try &
 11:00-11:30	Train
