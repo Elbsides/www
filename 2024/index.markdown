@@ -83,7 +83,7 @@ Backup talks:
 
 <img src="/assets/2024/images/alvaro.martinez.png" width="150"  style="float: right;">
 
-Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)
+* Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)
 
 Álvaro Martínez holds a Bachelor of Engineering in Telecommunications and a Master’s degree in Information Security, graduated in 2018. After several years working as web developer, he decided to switch to his preferred area, cybersecurity, where he currently works at conducting vulnerability assessments and web penetration tests, integrating security tools into corporate environments and helping development teams to better understand and mitigate vulnerabilities in their applications.
 
@@ -94,7 +94,8 @@ Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-applicat
 
 <img src="/assets/2024/images/candid.wueest.png" width="150" style="float: right;">
 
-Talk: [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime)
+* X: [@mylaocoon](https://x.com/mylaocoon)
+* Talk: [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime)
 
 Candid Wüest is a seasoned cybersecurity expert with a strong blend of technical skills, leadership, and over 25 years of passion in the field of security. He currently serves as an independent security advisor for various companies and the Swiss government. Previously, he was the VP of Cyber Protection Research at Acronis, where he led the creation of the security department and the EDR product. Prior to that, he spent over sixteen years at Symantec, where he played a key role in building their global security response team as the technical lead, focusing on malware and threat analysis.
 Wüest has authored a book and several white papers and has been recognized as a security expert in top-tier media outlets. He frequently speaks at major security conferences, including RSAC and BlackHat and is an organizer of AREA41 & BSides Zurich. He began learning coding and English on a Commodore 64. He holds a Master’s degree in Computer Science from ETH Zurich and possesses various certifications and patents.
@@ -103,7 +104,7 @@ Wüest has authored a book and several white papers and has been recognized as a
 
 ## Christian Kollee
 
-Talk: [Ready to Respond - Plan, Prepare, Try & Train](#ready-to-respond---plan-prepare-try--train)
+* Talk: [Ready to Respond - Plan, Prepare, Try & Train](#ready-to-respond---plan-prepare-try--train)
 
 Christian currently works as a Network Detection Engineer in the German finance sector. Previously, he worked as a forensic analyst and incident handler in international organizations and medium-sized German businesses. With more than ten years of experience in IT security, Christian knows the problems of all IT security types, from medium-sized companies to DAX30 corporations. Shortly, he will join a company doing Incident Response and Managed Detection & Response. Besides learning about new attacker tools and techniques, he tries desperately to reduce his ever-growing stack of articles and books in his spare time.
 
@@ -111,7 +112,7 @@ Christian currently works as a Network Detection Engineer in the German finance 
 
 ## Hilko Bengen
 
-Talk: [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)
+* Talk: [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr)
 
 Hilko works in the CSIRT for a transportation and logistics company. He feels most comfortable when thinking about problems that touch systems programming, operations and IT security. For more than 25 years, he has learned to take free and open source software for granted, and he is still amazed when he hears how others have found his contributions useful.
 
@@ -121,7 +122,7 @@ Hilko works in the CSIRT for a transportation and logistics company. He feels mo
 
 <img src="/assets/2024/images/katharine.jarmul.jpg" width=150 style="float: right;">
 
-Keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)
+* Keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system)
 
 Katharine Jarmul is a privacy activist and an internationally recognized data scientist and lecturer who focuses her work and research on privacy and security in data science and machine learning. You can follow her work via her newsletter, [Probably Private](https://probablyprivate.com) or in her recently published book, "Practical Data Privacy" (O'Reilly 2023) now also available in German as "Data Privacy in der Praxis."
 
@@ -134,7 +135,8 @@ Katharine Jarmul is a privacy activist and an internationally recognized data sc
 
 <img src="/assets/2024/images/marc.ratfeld.jpg" width="150" style="float: right;">
 
-Talk: [Protecting the energy transition](#protecting-the-energy-transition)
+* LinkedIn: [Marc Ratfeld](https://www.linkedin.com/in/marc-ratfeld)
+* Talk: [Protecting the energy transition](#protecting-the-energy-transition)
 
 Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. With over 25 years of experience in the field of information security, Mr. Ratfeld has worked in various industries as an information security officer and helps companies to implement and continuously develop information management systems. In doing so, he pays particular attention to the practicability of implementation and has successfully brought ISMS implementation projects to the level of certification. Since 2023, he has also been an executive manager of pure ISM GmbH.
 
@@ -144,7 +146,7 @@ Marc Ratfeld is a computer scientist, CISSP, GIAC and ISMS Senior Consultant. Wi
 
 <img src="/assets/2024/images/marit.hansen.jpg" width="150" style="float: right;">
 
-Closing keynote: [How to implement data protection – fulfilling the (not so new) requirement of the GDPR](#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr)
+* Closing keynote: [How to implement data protection – fulfilling the (not so new) requirement of the GDPR](#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr)
 
 Dr. h.c. Marit Hansen has been the State Data Protection Commissioner of
 Land Schleswig-Holstein and Chief of Unabhängiges Landeszentrum für
@@ -161,7 +163,8 @@ technical and the legal perspectives.
 
 <img src="/assets/2024/images/max.maass.png" width="150" style="float: right;">
 
-Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)
+* Mastodon: [@hacksilon@infosec.exchange](https://infosec.exchange/@hacksilon)
+* Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)
 
 Max Maaß works at the security team at iteratec. He spends his time with architecture reviews, threat modeling and pentesting for software development projects, and has contributed to the OWASP secureCodeBox. Previously, he conducted research into security and privacy issues at the Secure Mobile Networking Lab at TU Darmstadt.
 
@@ -171,7 +174,7 @@ Max Maaß works at the security team at iteratec. He spends his time with archit
 
 <img src="/assets/2024/images/michael.helwig.jpg" width="150" style="float: right;">
 
-Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)
+* Talk: [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it)
 
 With a background in software development, Michael is a cybersecurity strategist and expert on a wide range of product and cybersecurity topics. He is the co-founder of a security consulting firm that helps clients across industries implement product security programs, adopt DevSecOps, and achieve compliance with information security standards and privacy requirements. He is currently exploring the impact and potential of AI on secure development-related security practices. He believes that people and communication are at least as important and effective in moving organizations forward as tools and technology, and that security is best achieved when linked to software development and business interests.
 
@@ -181,8 +184,7 @@ With a background in software development, Michael is a cybersecurity strategist
 
 <img src="/assets/2024/images/paul.vixie.jpg" width="150" style="float: right;">
 
-Talk: [The evolution of cloud security](#the-evolution-of-cloud-security)
-
+* Talk: [The evolution of cloud security](#the-evolution-of-cloud-security)
 * Twitter: [@paulvixie](https://twitter.com/paulvixie)
 
 Paul Vixie is a VP and Distinguished Engineer who joined AWS Security after a 29-year career as the founder and CEO of five startup companies covering the fields of DNS, anti-spam, Internet exchange, Internet carriage and hosting, and Internet security. Vixie earned his Ph.D. in Computer Science from Keio University in 2011 and was inducted into the Internet Hall of Fame in 2014. He is also known as an author of open-source software including Cron. As a VP, Distinguished Engineer and Deputy CISO at AWS, Paul and his team in the Office of the CISO use leadership and technical expertise to provide guidance and collaboration on the development and implementation of advanced security strategies, risk management, and helping customers be secure in the cloud.
@@ -193,7 +195,7 @@ Paul Vixie is a VP and Distinguished Engineer who joined AWS Security after a 29
 
 <img src="/assets/2024/images/sam.mcdonald.jpg" width="150" style="float: right;">
 
-Talk: [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)
+* Talk: [Dealing With Imposter Syndrome](#dealing-with-imposter-syndrome)
 
 A cybersecurity professional from the UK whereby imposter syndrome is a weekly bi-product of having changed careers midlife. Every day is a school day, now looking to tackle the inner fraud that takes so many in the community and share what I have learnt.
 
@@ -207,7 +209,7 @@ A cybersecurity professional from the UK whereby imposter syndrome is a weekly b
 
 <img src="/assets/2024/images/santi.abastante.jpg" width="150" style="float: right;">
 
-Talk: [Dredge: A Open Source Framework for Cloud Incident Response](#dredge-a-open-source-framework-for-cloud-incident-response)
+* Talk: [Dredge: A Open Source Framework for Cloud Incident Response](#dredge-a-open-source-framework-for-cloud-incident-response)
 
 Ex-Police Officer from Argentina, Cloud Incident Responder and Security Engineer with 10+ years of IT experience.
 
@@ -221,7 +223,7 @@ Ex-Police Officer from Argentina, Cloud Incident Responder and Security Engineer
 
 <img src="/assets/2024/images/stefan.hager.png" width="150" style="float: right;">
 
-Talk: [Far beyond the perimeter - exploring external attack surfaces](#far-beyond-the-perimeter---exploring-external-attack-surfaces)
+* Talk: [Far beyond the perimeter - exploring external attack surfaces](#far-beyond-the-perimeter---exploring-external-attack-surfaces)
 
 Stefan works for the Internet Security Team at German company DATEV eG. He started messing with computers in the 80s and turned it into a job as a programmer in the early 90s. Since 2000 he has been securing networks and computers for various enterprises in Germany and Scotland. His main focus nowadays is security research, raising security awareness, coming up with creative solutions to security problems and discussing new ideas concerning threat mitigation. When not trying to do any of the stuff mentioned above, he is either travelling, producing hacker music and other electronic beats or gardening.
 
@@ -231,14 +233,13 @@ Stefan works for the Internet Security Team at German company DATEV eG. He start
 
 <img src="/assets/2024/images/thore.tiemann.jpg" width="150" style="float: right;">
 
-Talk: ["Act natural!": Exchanging Private Messages on Public Blockchains](#act-natural-exchanging-private-messages-on-public-blockchains)
+* Mastodon: [@thoretiemann@infosec.exchange](https://infosec.exchange/@thoretiemann)
+* Talk: ["Act natural!": Exchanging Private Messages on Public Blockchains](#act-natural-exchanging-private-messages-on-public-blockchains)
 
 Thore Tiemann is a research assistant and PhD student at the Institute for IT Security at the Universität zu Lübeck. His research interests are in the area of computer and systems security with a focus on microarchitectural side-channel attacks and defenses in heterogeneous cloud computing.
 
 <br>
 <br>
-<br>
-
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -246,7 +247,7 @@ Thore Tiemann is a research assistant and PhD student at the Institute for IT Se
 
 <img src="/assets/2024/images/tim.walter.jpg" width="150" style="float: right;">
 
-Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)
+* Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)
 
 After working as a full-stack developer and software architect, Tim Walter now works as a security architect for iteratec. His primary task is to support teams in the development of secure software through threat modeling, security reviews of architecture concepts, vulnerability analyses and the integration and automation of security scans.
 
@@ -256,7 +257,7 @@ After working as a full-stack developer and software architect, Tim Walter now w
 
 <img src="/assets/2024/images/timo.pagel.png" width="150" style="float: right;">
 
-Talk: [Key Steps to Achieving an Application Security Program](#key-steps-to-achieving-an-application-security-program)
+* Talk: [Key Steps to Achieving an Application Security Program](#key-steps-to-achieving-an-application-security-program)
 
 Timo Pagel has been in the IT industry for over twenty five years. After a career as a system administrator and web developer, he advises customers as a DevSecOps consultant and trainer. His focus is on integrating security into the development lifecycle. For example with security test automation for software and infrastructure and assessment of complex applications in the cloud. In his spare time, he teaches "Web and Application Security" at various universities of applied sciences.
 
