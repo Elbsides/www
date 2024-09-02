@@ -1,0 +1,51 @@
+9:00-09:15	Opening
+9:00-09:15	 - Morton Swimmer
+
+9:15-09:45	AI (In)security: How to (Still)
+9:15-09:45	Successfully Attack an AI System
+9:15-09:45	 - Katharine Jarmul
+
+9:45-10:30	Unveiling the Reality: The True Impact
+9:45-10:30	of GenAI on Cybercrime
+9:45-10:30	 - Candid Wüest
+
+11:00-11:30	Ready to Respond - Plan, Prepare, Try &
+11:00-11:30	Train
+11:00-11:30	 - Christian Kollee
+
+11:30-12:00	Protecting the energy transition
+11:30-12:00	 - Marc Ratfeld
+
+12:00-12:40	Help, my application is vulnerable, but
+12:00-12:40	how bad is it?
+12:00-12:40	 - Michael Helwig, Álvaro Martínez
+
+12:40-13:10	Detection And Response for Linux
+12:40-13:10	without EDR
+12:40-13:10	 - Hilko Bengen
+
+14:10-14:40	Far beyond the perimeter - exploring
+14:10-14:40	external attack surfaces
+14:10-14:40	 - Stefan Hager
+
+14:40-15:10	Key Steps to Achieving an Application
+14:40-15:10	Security Program
+14:40-15:10	 - Timo Pagel
+
+15:10-15:40	Dealing With Imposter Syndrome
+15:10-15:40	 - Sam Macdonald
+
+16:10-16:40	Protectors of the Realm: Breaking and
+16:10-16:40	Fixing Keycloak Configurations
+16:10-16:40	 - Max Maaß, Tim Walter
+
+16:40-17:10	The evolution of cloud security
+16:40-17:10	 - Paul Vixie
+
+17:10-17:40	How to implement data protection -
+17:10-17:40	fulfilling the (not so new) requirement
+17:10-17:40	of the GDPR
+17:10-17:40	 - Marit Hansen
+
+17:40-18:00	Closing
+17:40-18:00	 - 

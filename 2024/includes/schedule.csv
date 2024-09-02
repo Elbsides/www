@@ -1,0 +1,20 @@
+start,duration,speaker,speakerlink,title,titlelink,type
+8:00,1:00,,,Registration,,break
+9:00,0:15,"Morton Swimmer",#morton,Opening,,administrivia
+9:15,0:30,"Katharine Jarmul",#katharine-jarmul,"AI (In)security: How to (Still) Successfully Attack an AI System","#ai-insecurity-how-to-still-successfully-attack-an-ai-system",keynote
+9:45,0:45,"Candid Wüest",#candid-wüest,"Unveiling the Reality: The True Impact of GenAI on Cybercrime","#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime",talk
+10:30,0:30,,,Break,,break
+11:00,0:30,"Christian Kollee",#christian-kollee,"Ready to Respond - Plan, Prepare, Try & Train", "#ready-to-respond---plan-prepare-try--train",talk
+11:30,0:30,"Marc Ratfeld","#marc-ratfeld","Protecting the energy transition","#protecting-the-energy-transition",talk
+12:00,0:40,"Michael Helwig|Álvaro Martínez","#michael-helwig|#álvaro-martínez","Help, my application is vulnerable, but how bad is it?","#help-my-application-is-vulnerable-but-how-bad-is-it",talk
+12:40,0:30,"Hilko Bengen","#hilko-bengen","Detection And Response for Linux without EDR","#detection-and-response-for-linux-without-edr",talk
+13:10,1:00,,,Lunch,,break
+14:10,0:30,"Stefan Hager","#stefan-hager","Far beyond the perimeter - exploring external attack surfaces","#far-beyond-the-perimeter---exploring-external-attack-surfaces",talk
+14:40,0:30,"Timo Pagel","#timo-pagel","Key Steps to Achieving an Application Security Program","#key-steps-to-achieving-an-application-security-program",talk
+15:10,0:30,"Sam Macdonald","#sam-macdonald","Dealing With Imposter Syndrome","#dealing-with-imposter-syndrome",talk
+15:40,0:30,,,Break,,break
+16:10,0:30,"Max Maaß|Tim Walter","#max-maaß|#tim-walter","Protectors of the Realm: Breaking and Fixing Keycloak Configurations","#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations",talk
+16:40,0:30,"Paul Vixie","#paul-vixie","The evolution of cloud security","#the-evolution-of-cloud-security",talk
+17:10,0:30,"Marit Hansen","#marit-hansen","How to implement data protection - fulfilling the (not so new) requirement of the GDPR","#how-to-implement-data-protection--fulfilling-the-not-so-new-requirement-of-the-gdpr",keynote
+17:40,0:20,,,Closing,,administrivia
+18:00,1:00,,,"Networking hour",,break
