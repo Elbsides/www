@@ -247,6 +247,7 @@ Thore Tiemann is a research assistant and PhD student at the Institute for IT Se
 
 <img src="/assets/2024/images/tim.walter.jpg" width="150" style="float: right;">
 
+* Mastodon: [@twwd@infosec.exchange](https://infosec.exchange/@twwd)
 * Talk: [Protectors of the Realm: Breaking and Fixing Keycloak Configurations](#protectors-of-the-realm-breaking-and-fixing-keycloak-configurations)
 
 After working as a full-stack developer and software architect, Tim Walter now works as a security architect for iteratec. His primary task is to support teams in the development of secure software through threat modeling, security reviews of architecture concepts, vulnerability analyses and the integration and automation of security scans.
