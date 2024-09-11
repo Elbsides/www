@@ -481,6 +481,6 @@ Fabian currently works as an embedded software engineer for a small company in N
 Matthias has more than 25 years of experience in various industries, disciplines and roles in the world of IT. He now uses this experience as a freelance cybersecurity culture evangelist to support organisations on their way to becoming secure and resilient organisms. This has a lot to do with the agile mindset, where people take centre stage - processes ensure smooth interaction and technology is seen as a tool, not an end in itself!
 Apart from that, he likes to spend his time outdoors, preferably exploring new holiday destinations or cycling in the surrounding area.
 
-## [Peddy](www.peddy.net)
+## [Peddy](https://www.peddy.net)
 
 Peddy has been working with Unix systems since the early 1990s and set up and operated one of the first web servers in Germany. He was the first to introduce Hamburg teachers to the Internet and installed the first Linux servers in Hamburg schools.  He did the same in a software company for private health insurance. Security during implementation, as well as training, was always an issue. At his current employer, a media company, security in the cloud environment is a top priority.
