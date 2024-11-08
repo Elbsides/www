@@ -45,7 +45,7 @@ Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/i
 
 # Past Sponsors
 
-Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2024](/2024/).
+Such an event cannot be organized without the support of a community of sponsors. In the past, we have been lucky to have a number of sponsors who have supported us in various ways. We are very grateful for their support and hope that we can count on them again in [2025](/2025/).
 
 
 <aside>
