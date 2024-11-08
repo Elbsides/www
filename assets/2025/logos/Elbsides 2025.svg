@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg version="1.1" id="svg1" width="2126" height="2126" viewBox="0 0 2126 2126" xml:space="preserve"
   xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
@@ -162,14 +162,12 @@
       id="path512" />
   </g>
   <g id="g371" transform="translate(-29.707865,152.4041)" style="display:inline">
-    <g id="layer1"
-      style="display:inline;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
+    <g id="layer1" style="display:inline;stroke:#000000;stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
       transform="translate(0,5.1)">
-      <g id="g3"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g3" style="stroke:#000000;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path
           d="m 980.4353,609.6937 v -38.252 l -25.64,-25.64 h -72.867 l -15.685,15.685 v 175.696 l 30.844,30.844 h 75.047 l 18.103,-18.102 v -57.329 l -18.942,-18.942"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath122)" id="path307" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -178,11 +176,10 @@
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
           id="path252-1-6-55" cx="1284.0822" cy="887.96002" r="17" />
       </g>
-      <g id="g4"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g4" style="stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path
           d="m 891.4382,696.9597 h -11.661 v 34.792 l 23.503,23.504 h 58.824 l 12.172,-12.173 v -37.822 l -30.067,-30.068 h -15.969"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000 ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath123)" id="path308" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -191,11 +188,10 @@
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
           id="path252-1-6-8" cx="1203.3591" cy="930.87848" r="17" />
       </g>
-      <g id="g2"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g2" style="stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path
           d="m 889.1853,602.7073 -9.408,-9.408 v -15.31 l 17.778,-17.779 h 33.051 l 33.024,33.024 v 44.787 l -16.896,16.895 h -33.309 l -9.795,-9.795"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000 ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath121)" id="path306" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -205,13 +201,11 @@
           id="path252-1-6-17" cx="1196.6924" cy="813.72742" r="17" />
       </g>
     </g>
-    <g id="layer2"
-      style="display:inline;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
+    <g id="layer2" style="display:inline;stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
       transform="translate(0,5.1)">
-      <g id="g24"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g24" style="stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path d="m 563.0291,669.345 -9.818,9.818 v 55.043 l 19.207,19.207 h 52.006 l 12.41,-12.41"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000 ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath118)" id="path303" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -220,11 +214,10 @@
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
           id="path252-1-6-7" cx="761.13904" cy="883.79645" r="17" />
       </g>
-      <g id="g25"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g25" style="stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path
           d="m 585.7009,564.012 -4.397,-4.397 h -14.558 l -14.437,14.437 v 59.843 l 11.718,11.718 h 29.104 l 6.885,6.886"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000 ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath117)" id="path302" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -233,10 +226,9 @@
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
           id="path252-1-6-3" cx="792.58551" cy="762.41309" r="17" />
       </g>
-      <g id="g23"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g23" style="stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path d="m 656.6716,551.7421 h -93.266 l -20.044,20.044 v 166.011 l 25.498,25.498 h 78.88"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000 ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath137)" id="path322" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -246,13 +238,11 @@
           id="path252-1-6-0" cx="890.16589" cy="739.20837" r="17" />
       </g>
     </g>
-    <g id="layer3"
-      style="display:inline;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
+    <g id="layer3" style="display:inline;stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
       transform="translate(0,5.1)">
-      <g id="g21"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g21" style="stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path d="m 802.3352,748.8856 -6.381,6.381 -41.562,0.945 -19.795,-19.795 v -142.773 l 12.653,-12.653"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000 ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath120)" id="path305" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -261,10 +251,9 @@
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
           id="path252-1-6-1" cx="1009.3149" cy="763.59552" r="17" />
       </g>
-      <g id="g22"
-        style="stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
+      <g id="g22" style="stroke:#000000 ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path d="m 710.3962,555.741 13.704,13.704 v 185.286 l 12.144,12.145 h 85.901"
-          style="display:inline;fill:none;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0, 0, 0);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#000000 ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath119)" id="path304" />
         <circle
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -443,8 +432,7 @@
           id="path252-1-6-849-008" cx="1431.4106" cy="1195.9208" r="17" />
       </g>
     </g>
-    <g id="layer8"
-      style="display:inline;stroke:#ffffff icc-color(sRGB-IEC61966-2, 0.1, 1, 1, 1);stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
+    <g id="layer8" style="display:inline;stroke:#ffffff ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
       transform="translate(0,5.1)">
       <g id="g28" style="stroke:#000000;stroke-width:6;stroke-dasharray:none;stroke-opacity:1">
         <path d="m 1172.962,941.9832 11.489,-11.489 h 16.979 l 40.636,40.635 -9.548,9.548"
@@ -469,12 +457,11 @@
           style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
           id="path252-1-6-30" cx="1535.7239" cy="1314.0923" r="17" />
       </g>
-      <g id="g26"
-        style="display:inline;stroke:#ffffff icc-color(sRGB-IEC61966-2, 0.1, 1, 1, 1);stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
+      <g id="g26" style="display:inline;stroke:#ffffff ;stroke-width:6;stroke-dasharray:none;stroke-opacity:1"
         transform="translate(1.0363039,-3.7783062)">
         <path
           d="m 1144.024,1137.553 16.124,16.124 h 91.596 V 959.6106 l -42.189,-42.189 h -51.622 l -25.078,25.077 v 85.4254 l 21.436,21.436"
-          style="display:inline;fill:none;stroke:#ffffff icc-color(sRGB-IEC61966-2, 0.1, 1, 1, 1);stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+          style="display:inline;fill:none;stroke:#ffffff ;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
           transform="scale(1.3333333)" clip-path="url(#clipPath52)" id="path237" />
         <circle
           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
