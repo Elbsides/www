@@ -371,6 +371,10 @@ Speaker: [Marc Ratfeld](#marc-ratfeld)
 
 The renewable energy sector is one key factor within critical infrastructure of Europe and Germany. Protecting this industry against cyberattacks is a constant challenge. The rapid growth and increased security requirements are putting the industry under constant pressure to adapt. This talk will give you an insight view of actual attempts to protect IT and OT environments off- and onshore.
 
+### Slides
+
+[![Slides](/assets/2024/presentations/Protecting_the_energy_transition_Elbsides_2024.png)](/assets/2024/presentations/Protecting_the_energy_transition_Elbsides_2024.pdf)
+
 ### Video
 
 [![Protecting the energy transition](/assets/2024/images/8GfIgVYWkno.jpg)](https://youtu.be/8GfIgVYWkno)
