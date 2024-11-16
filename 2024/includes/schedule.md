@@ -5,7 +5,7 @@
 | 9:15 | [Katharine Jarmul](#katharine-jarmul) | Keynote: [AI (In)security: How to (Still) Successfully Attack an AI System](#ai-insecurity-how-to-still-successfully-attack-an-ai-system) |
 | 9:45 | [Candid Wüest](#candid-wüest) | [Unveiling the Reality: The True Impact of GenAI on Cybercrime](#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime) |
 | 10:30 | | Break |
-| 11:00 | [Christian Kollee](#christian-kollee) | [Ready to Respond - Plan, Prepare, Try & Train]( "#ready-to-respond---plan-prepare-try--train") |
+| 11:00 | [Christian Kollee](#christian-kollee) | [Ready to Respond - Plan, Prepare, Try & Train](#ready-to-respond---plan-prepare-try--train) |
 | 11:30 | [Marc Ratfeld](#marc-ratfeld) | [Protecting the energy transition](#protecting-the-energy-transition) |
 | 12:00 | [Michael Helwig](#michael-helwig), [Álvaro Martínez](#álvaro-martínez) | [Help, my application is vulnerable, but how bad is it?](#help-my-application-is-vulnerable-but-how-bad-is-it) |
 | 12:40 | [Hilko Bengen](#hilko-bengen) | [Detection And Response for Linux without EDR](#detection-and-response-for-linux-without-edr) |

@@ -4,7 +4,7 @@ start,duration,speaker,speakerlink,title,titlelink,type
 9:15,0:30,"Katharine Jarmul",#katharine-jarmul,"AI (In)security: How to (Still) Successfully Attack an AI System","#ai-insecurity-how-to-still-successfully-attack-an-ai-system",keynote
 9:45,0:45,"Candid Wüest",#candid-wüest,"Unveiling the Reality: The True Impact of GenAI on Cybercrime","#unveiling-the-reality-the-true-impact-of-genai-on-cybercrime",talk
 10:30,0:30,,,Break,,break
-11:00,0:30,"Christian Kollee",#christian-kollee,"Ready to Respond - Plan, Prepare, Try & Train", "#ready-to-respond---plan-prepare-try--train",talk
+11:00,0:30,"Christian Kollee",#christian-kollee,"Ready to Respond - Plan, Prepare, Try & Train","#ready-to-respond---plan-prepare-try--train",talk
 11:30,0:30,"Marc Ratfeld","#marc-ratfeld","Protecting the energy transition","#protecting-the-energy-transition",talk
 12:00,0:40,"Michael Helwig|Álvaro Martínez","#michael-helwig|#álvaro-martínez","Help, my application is vulnerable, but how bad is it?","#help-my-application-is-vulnerable-but-how-bad-is-it",talk
 12:40,0:30,"Hilko Bengen","#hilko-bengen","Detection And Response for Linux without EDR","#detection-and-response-for-linux-without-edr",talk

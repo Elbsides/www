@@ -8,7 +8,8 @@ import sys
 
 def render_speakers(speakers, links=None):
     """
-    Render the speakers in the markdown format either with a link as markdown or without a link in plain text
+    Render the speakers in the markdown format either with a link as markdown or
+    without a link in plain text
     """
     if speakers == '':
         return ''
@@ -16,7 +17,10 @@ def render_speakers(speakers, links=None):
         speakers = speakers.split('|')
         if links:
             links = links.split('|')
-            return ', '.join([f"[{speaker.strip()}]({link.strip()})" for speaker, link in zip(speakers, links)])
+            return ', '.join([
+                f"[{speaker.strip()}]({link.strip()})"
+                for speaker, link in zip(speakers, links)
+                ])
         else:
             return ', '.join([f"{speaker.strip()}" for speaker in speakers])
     if links:
@@ -71,7 +75,8 @@ def main(input_file):
                 md_schedule.append(md_administrivia_line(record))
 
             # convert the record to the video schedule format
-            if record["type"] == "administrivia" or record["type"] == "talk" or record["type"] == "keynote":
+            if record["type"] == "administrivia" or record["type"] == "talk" \
+                or record["type"] == "keynote":
                 title_lines = []
                 title = record['title']
                 while len(title) > 40:
