@@ -313,7 +313,7 @@ What risks are "out there" and what is meant by "out there"? How can those risks
 
 ### Slides
 
-[![Slides](/assets/2024/presentations/EASM2024_sm.png)](/assets/2024/presentations/EASM2024_sm.pdf)
+[![Slides](/assets/2024/presentations/EASM2024_sm.png)](/assets/2024/presentations/EASM2024_reduced.pdf)
 
 ### Video
 
