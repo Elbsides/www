@@ -277,7 +277,7 @@ Speaker: [Katharine Jarmul](#katharine-jarmul)
 
 In this talk, we'll review attacks on today's "AI" systems, and how fundamental aspects of adversarial examples are still relevant today. We'll explore how purple-teaming AI systems could work, and the latest research on potential preventative measures and a few common-sense tips, if your CEO tells you, you have to deploy an AI-based application.
 
-[![AI (In)security: How to (Still) Successfully Attack an AI System](https://img.youtube.com/vi/stBUxfo0G74/hqdefault.jpg)](https://youtu.be/stBUxfo0G74)
+[![AI (In)security: How to (Still) Successfully Attack an AI System](/assets/2024/images/stBUxfo0G74.jpg)](https://youtu.be/stBUxfo0G74)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -292,7 +292,7 @@ We'll demystify AI-generated, AI-supported, and AI-powered threats, showing how 
 Discover the strategic shift from creating unfiltered LLMs, like FraudGPT, to offering proxied prompt injection into existing models, like LoopGPT. See how tools like FuzzAI help with new prompt injections.
 Finally, we'll touch on the MITRE ATLAS framework and discuss related techniques, e.g. adversarial AI attacks, setting the stage for future discussions. This talk separates hype from reality, providing a clear perspective on the evolving cyber threat landscape driven by GenAI.
 
-[![Unveiling the Reality: The True Impact of GenAI on Cybercrime](https://img.youtube.com/vi/f2JsSfXs2FM/hqdefault.jpg)](https://youtu.be/f2JsSfXs2FM)
+[![Unveiling the Reality: The True Impact of GenAI on Cybercrime](/assets/2024/images/f2JsSfXs2FM.jpg)](https://youtu.be/f2JsSfXs2FM)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -303,7 +303,7 @@ Speaker: [Stefan Hager](#stefan-hager)
 Looking for intel in all the right places is an art that adversaries seem to have mastered; but when it comes to their own data, many companies seem to lose interest in examining anything that's outside the "perimeter" - whatever that is supposed to be nowadays. Credential leaks, shadow IT, unofficial websites with official info - the list of assets far outside the data centers of companies is long, and those assets nevertheless pose risks. Instead of turning a blind eye, it's important (and necessary) to get an understanding of what kind of information is out there, ready to be used or abused and protect accordingly.
 What risks are "out there" and what is meant by "out there"? How can those risks be addressed? What tools are easily available?
 
-[![Far beyond the perimeter - exploring external attack surfaces](https://img.youtube.com/vi/KVS063Y2yU4/hqdefault.jpg)](https://youtu.be/KVS063Y2yU4)
+[![Far beyond the perimeter - exploring external attack surfaces](/assets/2024/images//KVS063Y2yU4.jpg)](https://youtu.be/KVS063Y2yU4)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -313,7 +313,7 @@ Speaker: [Timo Pagel](#timo-pagel)
 
 This talk outlines a practical approach to building and optimizing application security (AppSec) programs for organizations of all sizes. While briefly touching on foundational elements, the presentation focuses on developing and implementing a custom organizational maturity model that resonates with development and operations teams. Moving beyond traditional frameworks, attendees will learn to design tailored models that account for diverse operating environments. The talk provides strategies for avoiding common pitfalls, implementing effective metrics, and creating a scalable AppSec approach adaptable to an organization's evolving needs. Through actionable advice and real-world examples, participants will gain insights applicable to both new and existing AppSec programs.
 
-[![Key Steps to Achieving an Application Security Program](https://img.youtube.com/vi/0DkErZGUnWc/hqdefault.jpg)](https://youtu.be/0DkErZGUnWc)
+[![Key Steps to Achieving an Application Security Program](/assets/2024/images/0DkErZGUnWc.jpg)](https://youtu.be/0DkErZGUnWc)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -323,7 +323,7 @@ Speaker: [Sam Macdonald](#sam-macdonald)
 
 Imposter syndrome is a psychological phenomenon where individuals doubt their accomplishments and fear being exposed as a "fraud," despite evidence of their competence and success. It can affect anyone, regardless of their career stage, background, or achievements.
 
-[![Dealing With Imposter Syndrome](https://img.youtube.com/vi/m88rcEyj6mE/hqdefault.jpg)](https://youtu.be/m88rcEyj6mE)
+[![Dealing With Imposter Syndrome](/assets/2024/images//m88rcEyj6mE.jpg)](https://youtu.be/m88rcEyj6mE)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -337,7 +337,7 @@ Therefore, being ready to respond to a cyberattack must be a priority for enterp
 
 In this talk, I'll review these three phases and present the essential points based on my experiences. From creating a plan to the preparation phase to implementation and training, we will look at the crucial steps in a brief overview.
 
-[![Ready to Respond - Plan, Prepare, Try & Train](https://img.youtube.com/vi/W10vXL8qSEA/hqdefault.jpg)](https://youtu.be/W10vXL8qSEA)
+[![Ready to Respond - Plan, Prepare, Try & Train](/assets/2024/images/W10vXL8qSEA.jpg)](https://youtu.be/W10vXL8qSEA)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -347,7 +347,7 @@ Speaker: [Marc Ratfeld](#marc-ratfeld)
 
 The renewable energy sector is one key factor within critical infrastructure of Europe and Germany. Protecting this industry against cyberattacks is a constant challenge. The rapid growth and increased security requirements are putting the industry under constant pressure to adapt. This talk will give you an insight view of actual attempts to protect IT and OT environments off- and onshore.
 
-[![Protecting the energy transition](https://img.youtube.com/vi/8GfIgVYWkno/hqdefault.jpg)](https://youtu.be/8GfIgVYWkno)
+[![Protecting the energy transition](/assets/2024/images/8GfIgVYWkno.jpg)](https://youtu.be/8GfIgVYWkno)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -361,7 +361,7 @@ In this presentation we will explore different approaches to quickly analyze vul
 
 The goal of this presentation is to give developers practical insight into the vulnerability analysis process and to provide them with ideas and tools they can use when the next vulnerability appears.
 
-[![Help, my application is vulnerable, but how bad is it?](https://img.youtube.com/vi/f0DF9tmPcZ8/hqdefault.jpg)](https://youtu.be/f0DF9tmPcZ8)
+[![Help, my application is vulnerable, but how bad is it?](/assets/2024/images/f0DF9tmPcZ8.jpg)](https://youtu.be/f0DF9tmPcZ8)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -377,7 +377,7 @@ After evaluating several EDR vendors' products specifically for use in a large, 
 
 This talk illustrates mostly home-grown approaches to detection and response engineering that provide analysts with tools for generating context and for large-scale threat hunting while making it as pleasant as possible for operations teams to integrate the required components into their systems.
 
-[![Detection And Response for Linux without EDR](https://img.youtube.com/vi/SG9cxf_yJ_U/hqdefault.jpg)](https://youtu.be/SG9cxf_yJ_U)
+[![Detection And Response for Linux without EDR](/assets/2024/images/SG9cxf_yJ_U.jpg)](https://youtu.be/SG9cxf_yJ_U)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -391,7 +391,7 @@ Having been responsible for the security of a Keycloak instance in a large softw
 
 After attending this talk, you should have an overview of common Keycloak misconfigurations and how you can use *kcwarden* to support your work.
 
-[![Protectors of the Realm: Breaking and Fixing Keycloak Configurations](https://img.youtube.com/vi/PRvHLx5oCj4/hqdefault.jpg)](https://youtu.be/PRvHLx5oCj4)
+[![Protectors of the Realm: Breaking and Fixing Keycloak Configurations](/assets/2024/images/PRvHLx5oCj4.jpg)](https://youtu.be/PRvHLx5oCj4)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -441,7 +441,7 @@ Speaker: [Paul Vixie](#paul-vixie)
 
 There was a time when it was reasonable to ask how an organization's data and processing could possibly be as secure running on someone else's computer (in the cloud) as it would be in privately owned and operated servers, days centers, and networks. These days that question has been inverted, and we must ask how hosting a workload within privately operated infrastructure could possibly be as secure as putting that workload into the cloud. Let's discuss.
 
-[![The evolution of cloud security](https://img.youtube.com/vi/IuwLv7gph9E/hqdefault.jpg)](https://youtu.be/IuwLv7gph9E)
+[![The evolution of cloud security](/assets/2024/images/IuwLv7gph9E.jpg)](https://youtu.be/IuwLv7gph9E)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
@@ -462,7 +462,7 @@ responsible for the processing of personal data. In the talk, Marit will
 clarify the legal obligation stemming from the GDPR and show how to
 fulfill this requirement in practice.
 
-[![How to implement data protection – fulfilling the (not so new) requirement of the GDPR](https://img.youtube.com/vi/TGozF3P3bXE/hqdefault.jpg)](https://youtu.be/TGozF3P3bXE)
+[![How to implement data protection – fulfilling the (not so new) requirement of the GDPR](/assets/2024/images/TGozF3P3bXE.jpg)](https://youtu.be/TGozF3P3bXE)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
 
