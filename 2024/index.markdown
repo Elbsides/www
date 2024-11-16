@@ -311,6 +311,10 @@ Speaker: [Stefan Hager](#stefan-hager)
 Looking for intel in all the right places is an art that adversaries seem to have mastered; but when it comes to their own data, many companies seem to lose interest in examining anything that's outside the "perimeter" - whatever that is supposed to be nowadays. Credential leaks, shadow IT, unofficial websites with official info - the list of assets far outside the data centers of companies is long, and those assets nevertheless pose risks. Instead of turning a blind eye, it's important (and necessary) to get an understanding of what kind of information is out there, ready to be used or abused and protect accordingly.
 What risks are "out there" and what is meant by "out there"? How can those risks be addressed? What tools are easily available?
 
+### Slides
+
+[![Slides](/assets/2024/presentations/EASM2024_sm.png)](/assets/2024/presentations/EASM2024_sm.pdf)
+
 ### Video
 
 [![Far beyond the perimeter - exploring external attack surfaces](/assets/2024/images//KVS063Y2yU4.jpg)](https://youtu.be/KVS063Y2yU4)
