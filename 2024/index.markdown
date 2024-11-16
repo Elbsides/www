@@ -337,6 +337,8 @@ Therefore, being ready to respond to a cyberattack must be a priority for enterp
 
 In this talk, I'll review these three phases and present the essential points based on my experiences. From creating a plan to the preparation phase to implementation and training, we will look at the crucial steps in a brief overview.
 
+[![Slides](/assets/2024/presentations/Kollee-Ready_To_Respond.svg)](/assets/2024/presentations/Kollee-Ready_To_Respond.pdf)
+
 [![Ready to Respond - Plan, Prepare, Try & Train](/assets/2024/images/W10vXL8qSEA.jpg)](https://youtu.be/W10vXL8qSEA)
 
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2024/)</span>
