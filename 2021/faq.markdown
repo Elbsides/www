@@ -8,10 +8,6 @@ permalink: /2021/faq/
 How do I keep up-to-date about the latest conference developments?
 Watch our websites and follow us on Twitter!
 
-Twitter:
-- [@elbsides](https://twitter.com/elbsides)
-- [@BSidesMunich](https://twitter.com/BSidesMunich)
-
 Web:
 - [Elbsides Stream](https://elbsides.de/2021/stream/)
 - [BSidesMunich Stream](https://2021.bsidesmunich.org/stream/)

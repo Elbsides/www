@@ -15,8 +15,6 @@ permalink: /2019/
 
 To keep in touch with us and all the other participants, we have a few great options:
 
-* Twitter: [@elbsides](https://twitter.com/elbsides) event hashtag: #elbsides2019
-* Xing: ~~Xing group~~
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
 Videos are available soon at:

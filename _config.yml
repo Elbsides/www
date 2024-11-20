@@ -10,7 +10,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the home of Elbsides, Hamburg's premier security community driven security conference.
 # baseurl: "/www" # the subpath of your site, e.g. /blog
 url: "https://www.elbsides.eu/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: elbsides
 # mastodon_username: elbsides
 
 # Build settings
@@ -49,12 +48,11 @@ social_links:
     title: linkedin.com/company/elbsides
     user_url: "https://www.linkedin.com/company/elbsides/?viewAsMember=true"
   -
-    platform: x
-    title: "@elbsides"
-    user_url: "https://twitter.com/elbsides"
-  -
     platform: youtube
     user_url: "https://www.youtube.com/@elbsides78"
   -
     platform: mastodon
     user_url: "https://infosec.exchange/@elbsides"
+  -
+    platform: bluesky
+    user_url: "https://bsky.app/profile/elbsides.bsky.social"

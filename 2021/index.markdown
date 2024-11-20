@@ -15,6 +15,5 @@ This year Elbsides joins forces with BSidesMunich - [#BSidesMEsh21](https://twit
 
 Check out the [programm](/2021/programm/) brought to you by the [Elbsides team](/2021/team/). Make sure you adhere to the [Code of Conduct](/2021/coc/) and if you have any questions, first check out the [FAQ](/2021/faq/). Most importantly, we couldn't do this without our [sponsors](/2021/sponsors/). Please check them out!
 
-Follow us on [@elbsides](https://twitter.com/elbsides) for updates.
 
 <img src="{{ '/assets/images/BSidesMEsh21 logo.jpg' | relative_url}}" align="center" alt="logo by Felix Swimmer">

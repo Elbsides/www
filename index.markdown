@@ -33,11 +33,9 @@ Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/i
 
 # Follow us at
 
-* X: [@elbsides](https://twitter.com/elbsides)
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
-
 
 ## Gallery
 
