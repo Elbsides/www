@@ -19,8 +19,6 @@ carousels:
     - image: /assets/2019/photos/20190916 - elbsides 59.jpg
 ---
 
-![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
-
 
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
@@ -78,3 +76,4 @@ Such an event cannot be organized without the support of a community of sponsors
   <img src="/assets/2024/logos/dpunkt.logo rot_schwarz.svg" alt="dpunkt Verlag" style="max-height: 70px; max-width: 120px;">
 </aside>
 
+![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
