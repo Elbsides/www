@@ -2,6 +2,18 @@
 title: 2025
 layout: page
 permalink: /2025/
+carousels:
+  - images:
+    - image: /assets/2025/images/Elbkuppel 90 Theaterbestuhlung.jpg
+    - image: /assets/2025/images/Elbkuppel mit Bühne + Rednerpult.jpg
+    - image: /assets/2025/images/Elbkuppel_Parlament©RuthPlein.jpg
+    - image: /assets/2025/images/Elbkuppel_Sitzecken©RuthPlein.jpg
+    - image: /assets/2025/images/Foyer.jpg
+    - image: /assets/2025/images/Garderobe.jpg
+    - image: /assets/2025/images/Kaffee- und Buffetstation 2.jpg
+    - image: /assets/2025/images/KonferenzraumI-I.jpg
+    - image: /assets/2025/images/Sitzbereich Foyer.jpg
+
 ---
 [Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Registration](#registration) | [Team](#team)
 
@@ -9,11 +21,15 @@ permalink: /2025/
 
 ![Elbsides 2025](/assets/2025/logos/Elbsides 2025.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany towards the end of 2025H1. Stay tuned for the exact date and location.
+The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany on Fridy, the 13th of June 2025. We will be announcing the call for presentations and are actively looking for [sponsors](#sponsors). Stay tuned for more information.
 
 ## Location
 
-tba
+The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
+
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
 
 ## Follow us
 
@@ -22,6 +38,10 @@ tba
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
 # Sponsors
+
+Elbsides cannot exist without sponsors because we are trying to be as inclusive as possible by keeping the ticket price to a nominal charge that doesn't even start to cover our costs. If you are interested in sponsoring Elbsides 2025, please contact us at elbsides \<at\> gmail.com.
+
+We encourage sponsors from the local community, even if you are not a security company. In fact, since security is everyone's concern, we would love to have sponsors from all walks of life.
 
 # Program
 

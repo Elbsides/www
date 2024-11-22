@@ -22,13 +22,14 @@ carousels:
 
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
+
 ![Elbsides 2025](/assets/2025/logos/Elbsides 2025.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany towards the end of 2025H1. Stay tuned for the exact date and location.
+The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany on Fridy, the 13th of June 2025. It will he held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor.
 
-**For more information about this year's conference, check out the [Elbsides 2025](/2025/) page.**
+**For more information about the upcoming conference, check out the [Elbsides 2025](/2025/) page.**
 
-Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/), [Thomas Fricke](https://thomasfricke.de), [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/) and [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner).
+Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/), [Thomas Fricke](https://thomasfricke.de), [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/), [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), and [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen).
 
 
 # Follow us at
@@ -76,4 +77,6 @@ Such an event cannot be organized without the support of a community of sponsors
   <img src="/assets/2024/logos/dpunkt.logo rot_schwarz.svg" alt="dpunkt Verlag" style="max-height: 70px; max-width: 120px;">
 </aside>
 
-![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }}){:width="35%" align="right" style="padding: 10px;"}
+![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }})
+
+<!-- {:width="35%" align="center" style="padding: 10px;"} -->
