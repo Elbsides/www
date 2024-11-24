@@ -26,13 +26,15 @@ carousels:
 ![Elbsides 2025](/assets/2025/logos/Elbsides 2025.svg){:width="35%" align="right" style="padding: 10px;"}
 
 The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany 
-on Friday, the 13th of June 2025 at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) 
-in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), 
-a unique event location in the heart of Hamburg overlooking the harbor.
+on Friday, the 13th of June 2025 at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) overlooking the harbor.
 
 **For more information about the upcoming conference, check out the [Elbsides 2025](/2025/) page.**
 
-Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/), [Thomas Fricke](https://thomasfricke.de), [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/), [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), and [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen).
+Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/), 
+[Thomas Fricke](https://thomasfricke.de), 
+[Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/), 
+[Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), 
+[Katharine Jarmul](https://probablyprivate.com) and [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen).
 
 
 # Follow us at
