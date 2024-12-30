@@ -15,7 +15,7 @@ carousels:
     - image: /assets/2025/images/Sitzbereich Foyer.jpg
 
 ---
-[Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Registration](#registration) | [Team](#team)
+[CfP](/2025/cfp.markdown) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
