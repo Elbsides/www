@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2024/cfp/
+permalink: /2025/cfp/
 ---
 
 **Call for Papers**
