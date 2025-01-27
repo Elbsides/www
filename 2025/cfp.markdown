@@ -5,8 +5,6 @@ permalink: /2025/cfp/
 
 **Call for Papers**
 
-**The Call for Papers is not open yet!** Please check back later.
-
 Elbsides is a community computer security event and we want to include security professionals, software engineers, students, researchers and visionaries. The conference gathers the security community in one event to share and discuss novel ideas, initiatives and advancements. We are open to all relevant topics in the field of computer security. If you are a new speaker, we have limited capacity to mentor you and help you prepare your talk.
 
 We are soliciting talks on all computer security topics. For inspiration, here are a few ideas::
