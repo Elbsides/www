@@ -45,6 +45,7 @@ We encourage sponsors from the local community, even if you are not a security c
 
 {% include_relative includes/gold.html %}
 
+{% include_relative includes/bronze.html %}
 
 # Program
 
