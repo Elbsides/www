@@ -21,7 +21,7 @@ carousels:
 
 ![Elbsides 2025](/assets/2025/logos/Elbsides 2025.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany on Fridy, the 13th of June 2025. We will be announcing the call for presentations and are actively looking for [sponsors](#sponsors). Stay tuned for more information.
+The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany on Fridy, the 13th of June 2025. Our [call for presentations](/2025/cfp) **is now open** and we would love to see your proposal submitted before April 14. We are also actively looking for [sponsors](#sponsors) so that we can afford the venue and the food.
 
 ## Location
 
