@@ -96,12 +96,3 @@ Apart from that, he likes to spend his time outdoors, preferably exploring new h
 ## [Peddy](https://www.peddy.net)
 
 Peddy has been working with Unix systems since the early 1990s and set up and operated one of the first web servers in Germany. He was the first to introduce Hamburg teachers to the Internet and installed the first Linux servers in Hamburg schools.  He did the same in a software company for private health insurance. Security during implementation, as well as training, was always an issue. At his current employer, a media company, security in the cloud environment is a top priority.
-
-## Georg
-
-- LinkedIn [linkedin.com/in/georgpheheise](https://www.linkedin.com/in/georgpheheise)
-- X: [@gpheheise](https://twitter.com/gpheheise)
-
-Georg is the Lead Penetration Tester and Technical Head of the Advanced Cyber Security Team at Lufthansa Industry Solutions. With a strong passion for Red-Teaming and Active Directory testing, he has led his team to deliver many security assessments, including vulnerability scans, web application tests, corporate network audits, and advanced Red Team engagements.
-
-Georg’s extensive experience spans German and Australian markets, where he has worked with major multinational corporations and Fortune 500 companies.
