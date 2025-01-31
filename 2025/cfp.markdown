@@ -5,7 +5,7 @@ permalink: /2025/cfp/
 
 **Call for Papers**
 
-Elbsides is a community computer security event and we want to include security professionals, software engineers, students, researchers and visionaries. The conference gathers the security community in one event to share and discuss novel ideas, initiatives and advancements. We are open to all relevant topics in the field of computer security. If you are a new speaker, we have limited capacity to mentor you and help you prepare your talk.
+Elbsides is a community computer security event, and we want to include security professionals, software engineers, students, researchers and visionaries. The conference gathers the security community in one event to share and discuss novel ideas, initiatives and advancements. We are open to all relevant topics in the field of computer security. If you are a new speaker, we have limited capacity to mentor you and help you prepare your talk.
 
 We are soliciting talks on all computer security topics. For inspiration, here are a few ideas::
 
@@ -13,10 +13,11 @@ We are soliciting talks on all computer security topics. For inspiration, here a
 * Access & Identity Management
 * Digital Forensics & Incident Response
 * Threat Intelligence & Threat Hunting
+* Security and Forensics of Agentic AI and other AI-based systems
 * Cryptography
 * Security Operations
 * Software Development Security
-* Cloud, Kubernetes, and Infrastructure as Code Security
+* Cloud, Kubernetes, and Infrastructure-as-Code Security
 * Security Engineering
 * Risk, Compliance & Security Management
 * Asset Security
