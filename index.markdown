@@ -25,15 +25,22 @@ carousels:
 
 ![Elbsides 2025](/assets/2025/logos/Elbsides 2025.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany 
+The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany
 on Friday, the 13th of June 2025 at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) overlooking the harbor.
 
 **For more information about the upcoming conference, check out the [Elbsides 2025](/2025/) page.**
 
-Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/), 
-[Thomas Fricke](https://thomasfricke.de), 
-[Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/), 
-[Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), 
+**Announcing Mikko Hypponen as our keynote speaker!**
+
+<img src="/assets/2025/images/ted-mikko.hypponen.png" width="250" style="float: left; margin: 15px;">
+
+We are excited to announce that Mikko Hypponen will be our keynote speaker at Elbsides 2025. Mikko is a cyber security researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. He is well known for his legendary TED talks and advanced research presentations. His experience reaches back over 3 decades giving him a unique perspective on the evolution of the security industry.
+
+
+Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/),
+[Thomas Fricke](https://thomasfricke.de),
+[Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/),
+[Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner),
 [Katharine Jarmul](https://probablyprivate.com) and [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen).
 
 

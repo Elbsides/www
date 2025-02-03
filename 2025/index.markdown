@@ -23,6 +23,14 @@ carousels:
 
 The **Elbsides 2025** computer security community conference will be held in Hamburg, Germany on Friday, the 13th of June 2025. Our [call for presentations](/2025/cfp) **is now open**, and we would love to see your proposal submitted before April 12. We are also actively looking for [sponsors](#sponsors) so that we can afford the venue and the food.
 
+**Announcing Mikko Hypponen as our keynote speaker!**
+
+<img src="/assets/2025/images/ted-mikko.hypponen.png" width="250" style="float: left; margin: 15px;">
+
+We are excited to announce that Mikko Hypponen will be our keynote speaker at Elbsides 2025. Mikko is a cyber security researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. He is well known for his legendary TED talks and advanced research presentations. His experience reaches back over 3 decades giving him a unique perspective on the evolution of the security industry.
+
+
+
 ## Location
 
 The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
@@ -52,9 +60,32 @@ We encourage sponsors from the local community, even if you are not a security c
 
 # Program
 
+{% include_relative includes/schedule.md %}
+
+
 # Speakers
 
+## Mikko Hypponen
+
+
+<img src="/assets/2025/images/photo-mikko.hypponen.jpg" width="150" style="float: right;">
+
+Chief Research Officer, WithSecure
+
+* Keynote: [What I've Learned](#what-ive-learned)
+
+Mikko Hypponen is a cyber security researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. Mikko has also lectured at top universities, including Harvard, Oxford, and MIT. His latest book has been published in five languages.
+
+
 # Talks
+
+## What I've Learned
+
+* Speaker: [Mikko Hypponen](#mikko-hypponen)
+
+TBA
+
+
 
 
 # Team
