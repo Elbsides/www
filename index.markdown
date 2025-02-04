@@ -34,7 +34,7 @@ on Friday, the 13th of June 2025 at the [Hotel Hafen Hamburg](https://www.hotel-
 
 <img src="/assets/2025/images/ted-mikko.hypponen.png" width="250" style="float: left; margin: 15px;">
 
-We are excited to announce that Mikko Hypponen will be our keynote speaker at Elbsides 2025. Mikko is a cyber security researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. He is well known for his legendary TED talks and advanced research presentations. His experience reaches back over 3 decades giving him a unique perspective on the evolution of the security industry.
+We are thrilled to announce that Mikko Hypponen, CRO at [WithSecure](https://www.withsecure.com/), will be our keynote speaker at Elbsides 2025. Mikko is a cybersecurity researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. He is well known for his legendary TED talks and advanced research presentations. His experience reaches back over 3 decades giving him a unique perspective on the evolution of the security industry.
 
 
 Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/),
