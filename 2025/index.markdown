@@ -51,11 +51,10 @@ Elbsides cannot exist without sponsors because we are trying to be as inclusive 
 
 We encourage sponsors from the local community, even if you are not a security company. In fact, since security is everyone's concern, we would love to have sponsors from all walks of life.
 
+{% include_relative includes/platinum.html %}
 {% include_relative includes/gold.html %}
 {% include_relative includes/silver.html %}
 {% include_relative includes/bronze.html %}
-
-
 {% include_relative includes/community.html %}
 
 # Program
