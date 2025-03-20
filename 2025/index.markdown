@@ -132,3 +132,6 @@ Apart from that, he likes to spend his time outdoors, preferably exploring new h
 ## [Peddy](https://www.peddy.net)
 
 Peddy has been working with Unix systems since the early 1990s and set up and operated one of the first web servers in Germany. He was the first to introduce Hamburg teachers to the Internet and installed the first Linux servers in Hamburg schools.  He did the same in a software company for private health insurance. Security during implementation, as well as training, was always an issue. At his current employer, a media company, security in the cloud environment is a top priority.
+
+## Garlef
+Garlefs dayjob has been fixing all kinds of of IT-problems for over a decade in various roles, companies and industries. His current dayjob includes looking at logfiles and asking unpleasent questions for money and coffee. He enjoys simple and reliable Systems and has been loosely involved in various IT-Sec related events in germany for a number of years.
