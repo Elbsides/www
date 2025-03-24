@@ -79,6 +79,7 @@ Such an event cannot be organized without the support of a community of sponsors
   <img src="/assets/images/pureISM_Logo_slogan.svg" alt="pure ISM GmbH" style="max-height: 70px; max-width: 70px;">
   <img src="/assets/images/ZEAL-Logo-Blue.svg" alt="ZEAL Network SE" style="max-height: 70px; max-width: 120px;">
   <img src="/assets/images/MOIA.svg" alt="MOIA" style="max-height: 70px; max-width: 120px;">
+  <img src="/assets/2024/logos/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services, Inc" style="max-height: 70px; max-width: 120px;">
   <img src="/assets/2024/logos/mogwai-labs-logo-blaugrau.svg" alt="Mogwai Labs" style="max-height: 70px; max-width: 120px;">
   <img src="/assets/2024/logos/BsidesMunich.png" alt="BSidesMunich" style="max-height: 70px; max-width: 120px;">
   <img src="/assets/images/sticker-mule-logo-dark.png" alt="Stickermule" style="max-height: 70px; max-width: 120px;">
@@ -86,6 +87,10 @@ Such an event cannot be organized without the support of a community of sponsors
   <img src="/assets/2024/logos/TM_Horizontal Logo_RGB_Colour.svg" alt="Trend Micro" style="max-height: 70px; max-width: 120px;">
   <img src="/assets/2024/logos/Logo_iteratec.svg" alt="Iteratec" style="max-height: 70px; max-width: 120px;">
   <img src="/assets/2024/logos/dpunkt.logo rot_schwarz.svg" alt="dpunkt Verlag" style="max-height: 70px; max-width: 120px;">
+  <img src="/assets/2025/logos/VMRay_Logo.svg" alt="VMRay GmbH" style="max-height: 70px; max-width: 120px;">
+  <img src="/assets/2025/logos/Barracuda_Logo.svg" alt="Barracuda Networks, Inc" style="max-height: 70px; max-width: 120px;">
+  <img src="/assets/2025/logos/ISACA_logo_Germany.svg" alt="ISACA Germany" style="max-height: 70px; max-width: 120px;">
+  <img src="/assets/2025/logos/bsides-frankfurt-logo-a3.png" alt="BSides Frankfurt" style="max-height: 70px; max-width: 120px;">
 </aside>
 
 ![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }})
