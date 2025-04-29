@@ -1,130 +1,158 @@
-"""
-Convert the CSV schedule to the a markdown file and to Cooper's video file format
-"""
-import csv
+"""Fetch and convert pretalx conference schedule XML to Markdown format."""
+import xml.etree.ElementTree as ET
+import re
 import os
-import sys
+from html import unescape
 
+def escape_md(text):
+    """Escape Markdown table cell content as needed."""
+    # Only | is problematic in table cells; escape it
+    return text.replace('|', '&#124;')
 
-def render_speakers(speakers, links=None):
-    """
-    Render the speakers in the markdown format either with a link as markdown or
-    without a link in plain text
-    """
-    if speakers == '':
-        return ''
-    if '|' in speakers:
-        speakers = speakers.split('|')
-        if links:
-            links = links.split('|')
-            return ', '.join([
-                f"[{speaker.strip()}]({link.strip()})"
-                for speaker, link in zip(speakers, links)
-                ])
-        else:
-            return ', '.join([f"{speaker.strip()}" for speaker in speakers])
-    if links:
-        return f"[{speakers}]({links})"
-    else:
-        return f"{speakers}"
+def strip_html(text):
+    """Remove HTML tags and unescape entities."""
+    # Remove tags
+    text = re.sub(r'<[^>]+>', '', text)
+    return unescape(text).strip()
 
+def make_speaker_link(person_id, name, base_url, conference_acronym):
+    # /[name](base_url/acronym/speaker/person_id/)
+    info_url = f"{base_url}/{conference_acronym}/speaker/{person_id}/"
+    return f"[{escape_md(name)}]({info_url})"
 
-def ms_break_line(record):
-    """
-    Convert the record to the markdown table format for a break
-    """
-    return f"| {record['start']} | | {record['title']} |"
+def make_internal_reference(name):
+    """Create an internal Markdown link for a given name."""
+    # Convert name to lowercase, replace spaces with hyphens, and remove non-alphanumeric characters
+    link = make_internal_link(name)
+    return f"[{escape_md(name)}]({link})"
 
-def md_talk_line(record):
-    """
-    Convert the record to the markdown table format for a talk
-    """
-    return f"| {record['start']} | {render_speakers(record['speaker'], record['speakerlink'])} | [{record['title']}]({record['titlelink']}) |"
+def make_talk_link(title, url):
+    return f"[{escape_md(title)}]({url})"
 
-def md_administrivia_line(record):
-    """
-    Convert the record to the markdown table format for an administrivia
-    """
-    return f"| {record['start']} | {render_speakers(record['speaker'], record['speakerlink'])} | {record['title']} |"
+def make_internal_link(heading_title):
+    """Create an internal Markdown link for a given heading title."""
+    # Convert heading title to lowercase, replace spaces with hyphens, and remove non-alphanumeric characters
+    anchor = heading_title.lower()
+    # Remove characters that are not alphanumeric, spaces, or dashes
+    anchor = re.sub(r'[^\w\s-]', '', anchor)
+    # Replace spaces with dashes
+    anchor = anchor.replace(' ', '-')
 
-def md_keynote_line(record):
-    """
-    Convert the record to the markdown table format for a keynote
-    """
-    return f"| {record['start']} | {render_speakers(record['speaker'], record['speakerlink'])} | Keynote: [{record['title']}]({record['titlelink']}) |"
+    # link = re.sub(r'[^a-z0-9\-]', '', heading_title.lower().replace(' ', '-'))
+    return f"#{anchor}"
 
-def main(input_file):
-    """
-    Convert the CSV schedule to the a markdown file and to Cooper's video file format
-    """
-    md_schedule = ["| Time | Speaker | Title |","| ---- | ------- | ----- |"]
-    video_schedule = []
-    directory = os.path.dirname(input_file)
-    file_name = os.path.splitext(os.path.basename(input_file))[0]
-    with open(input_file, 'r', encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for record in list(reader):
-            # Convert the record to the appropriate markdown table format
-            if record["type"] == "talk":
-                md_schedule.append(md_talk_line(record))
-            elif record["type"] == "keynote":
-                md_schedule.append(md_keynote_line(record))
-            elif record["type"] == "break":
-                md_schedule.append(ms_break_line(record))
-            elif record["type"] == "administrivia":
-                md_schedule.append(md_administrivia_line(record))
+def main(xml_file, year):
+    tree = ET.parse(xml_file)
+    root = tree.getroot()
 
-            # convert the record to the video schedule format
-            if record["type"] == "administrivia" or record["type"] == "talk" \
-                or record["type"] == "keynote":
-                title_lines = []
-                title = record['title']
-                while len(title) > 40:
-                    split_index = title[:40].rfind(' ')
-                    if split_index == -1:
-                        split_index = 40
-                    title_lines.append(title[:split_index].strip())
-                    title = title[split_index:].strip()
-                title_lines.append(title)
+    # Get conference info
+    conf_info = root.find("conference")
+    base_url = conf_info.find("base_url").text.strip()
+    acronym = conf_info.find("acronym").text.strip()
 
-                start_time = record['start']
-                duration = record['duration']
-                start_hour, start_minute = map(int, start_time.split(':'))
-                duration_hour, duration_minute = map(int, duration.split(':'))
+    # Index all speakers: {person_id: set(name, ...)}
+    speaker_info = {} # id: name
 
-                end_hour = start_hour + duration_hour
-                end_minute = start_minute + duration_minute
+    # Will store event table rows and full info blocks
+    events = []
 
-                if end_minute >= 60:
-                    end_hour += 1
-                    end_minute -= 60
+    # Index for later reference in info sections
+    speaker_event_map = {}  # person_id: set(event_guids)
+    event_speaker_map = {}  # event_guid: [person_id1, ...]
 
-                start_to_end = f"{start_hour:02d}:{start_minute:02d}-{end_hour:02d}:{end_minute:02d}"
-                video_schedule += [f"{start_to_end}\t{title_line}" for title_line in title_lines]
-                video_schedule.append(f"{start_to_end}\t - {render_speakers(record['speaker'])}")
-                video_schedule.append("")
+    # Parse event data
+    for day in root.findall(".//day"):
+        for room in day.findall("room"):
+            for event in room.findall("event"):
+                event_dict = {}
+                event_dict['guid'] = event.get('guid')
+                event_dict['id'] = event.get('id')
+                event_dict['start'] = event.find('start').text
+                event_dict['title'] = event.find('title').text
+                event_dict['url'] = event.find('url').text
+                event_dict['abstract'] = (event.find('abstract').text or "").strip()
+                event_dict['type'] = event.find('type').text or ""
+                event_dict['slug'] = event.find('slug').text or ""
+                event_dict['duration'] = event.find('duration').text or ""
+                event_dict['room'] = event.find('room').text or ""
+                persons = []
+                for person in event.find('persons').findall('person'):
+                    pid = person.get('id')
+                    name = strip_html(person.text or "")
+                    speaker_info[pid] = name
+                    persons.append(pid)
+                    # Map speaker -> events
+                    speaker_event_map.setdefault(pid, set()).add(event_dict['guid'])
+                event_speaker_map[event_dict['guid']] = persons
+                event_dict['persons'] = persons
+                events.append(event_dict)
 
-    # write the markdown schedule to a file in the same directory as the input file
-    with open(os.path.join(directory, f"{file_name}.md"), 'w', encoding="utf-8") as f:
-        f.write("\n".join(md_schedule))
+    with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
+        # Markdown Table Header
+        f.write("# Program\n\n")
+        f.write("| start time | speaker | title |\n")
+        f.write("| ------------ | --------- | ----- |\n")
 
-    # write the video schedule to a file in the same directory as the input file
-    with open(os.path.join(directory, f"{file_name}.txt"), 'w', encoding="utf-8") as f:
-        f.write("\n".join(video_schedule))
+        for ev in events:
+            # Compose speakers column
+            if ev['persons']:
+                speakers_column = ", ".join(
+                    # make_speaker_link(pid, speaker_info[pid], base_url, acronym)
+                    make_internal_reference(speaker_info[pid])
+                    for pid in ev['persons']
+                )
+            else:
+                speakers_column = ""
+            # Compose title column
+            # title_column = make_talk_link(ev['title'], ev['url'])
+            title_column = make_internal_reference(ev['title'])
+            # Compose time
+            start_column = ev['start']
+            # Print row
+            f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
 
-if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        input_file = sys.argv[1]
-        if not os.path.exists(input_file):
-            print(f"File {input_file} does not exist.")
-            sys.exit(1)
-        if not os.path.isfile(input_file):
-            print(f"{input_file} is not a file.")
-            sys.exit(1)
-        if not os.path.splitext(input_file)[1] == '.csv':
-            print("Please provide a CSV file as input.")
-            sys.exit(1)
-    else:
-        print("Please provide the input file path as a command line argument.")
-        sys.exit(1)
-    main(input_file)
+        # --- Speaker Info Sections ---
+        f.write("\n# Speakers\n\n")
+        for pid, name in speaker_info.items():
+            f.write(f"## {name}\n\n")
+            print(make_internal_link(name))
+            url = f"{base_url}/{acronym}/speaker/{pid}/"
+            # f.write(f"- **Profile:** [{url}]({url})\n")
+            # List talks this speaker is in
+            guids = speaker_event_map.get(pid, [])
+            if guids:
+                f.write("- **Talks:**\n")
+                for guid in guids:
+                    # Find event by guid
+                    evs = [ev for ev in events if ev['guid'] == guid]
+                    for ev in evs:
+                        # talk_url = ev['url']
+                        # f.write(f"  - [{ev['title']}]({talk_url}) ({ev['start']})\n")
+                        f.write(f"  - {make_internal_reference(ev['title'])} ({ev['start']})\n")
+            f.write("\n")
+            f.write(f'---\n<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/{year}/)</span>\n\n')
+
+        # --- Talk Info Sections ---
+        f.write("\n# Talks\n\n")
+        for ev in events:
+            f.write(f"## {ev['title']}\n\n")
+            print(make_internal_link(ev['title']))
+            f.write(f"**Start time:** {ev['start']}\n")
+            f.write(f"\n**Duration:** {ev['duration']}\n")
+            # f.write(f"\n**Room:** {ev['room']}\n")
+            # Speakers
+            if ev['persons']:
+                f.write("\n**Speaker(s):**\n")
+                for pid in ev['persons']:
+                    f.write(f"- {make_internal_reference(speaker_info[pid])}\n")
+            # Abstract
+            f.write("\n**Abstract:**\n")
+            f.write(strip_html(ev['abstract'])+"\n")
+            f.write("\n")
+            # f.write(f"\n**Talk info:** [{ev['url']}]({ev['url']})\n\n")
+            f.write(f'---\n<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/{year}/)</span>\n\n')
+            # f.write("---\n\n")
+
+if __name__ == "__main__":
+    # Change to your input XML file, e.g. 'schedule.xml'
+    main('schedule.xml', 2025)
