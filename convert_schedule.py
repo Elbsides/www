@@ -2,6 +2,7 @@
 import xml.etree.ElementTree as ET
 import re
 import os
+import urllib.request
 from html import unescape
 
 def escape_md(text):
@@ -15,10 +16,10 @@ def strip_html(text):
     text = re.sub(r'<[^>]+>', '', text)
     return unescape(text).strip()
 
-def make_speaker_link(person_id, name, base_url, conference_acronym):
-    # /[name](base_url/acronym/speaker/person_id/)
-    info_url = f"{base_url}/{conference_acronym}/speaker/{person_id}/"
-    return f"[{escape_md(name)}]({info_url})"
+# def make_speaker_link(person_id, name, base_url, conference_acronym):
+#     # /[name](base_url/acronym/speaker/person_id/)
+#     info_url = f"{base_url}/{conference_acronym}/speaker/{person_id}/"
+#     return f"[{escape_md(name)}]({info_url})"
 
 def make_internal_reference(name):
     """Create an internal Markdown link for a given name."""
@@ -26,8 +27,8 @@ def make_internal_reference(name):
     link = make_internal_link(name)
     return f"[{escape_md(name)}]({link})"
 
-def make_talk_link(title, url):
-    return f"[{escape_md(title)}]({url})"
+# def make_talk_link(title, url):
+#     return f"[{escape_md(title)}]({url})"
 
 def make_internal_link(heading_title):
     """Create an internal Markdown link for a given heading title."""
@@ -41,14 +42,15 @@ def make_internal_link(heading_title):
     # link = re.sub(r'[^a-z0-9\-]', '', heading_title.lower().replace(' ', '-'))
     return f"#{anchor}"
 
-def main(xml_file, year):
-    tree = ET.parse(xml_file)
-    root = tree.getroot()
+def main(xml_str: str, year):
+    # tree = ET.fromstring(xml_str)
+    root = ET.fromstring(xml_str)
+    # root = tree.getroot()
 
     # Get conference info
-    conf_info = root.find("conference")
-    base_url = conf_info.find("base_url").text.strip()
-    acronym = conf_info.find("acronym").text.strip()
+    # conf_info = root.find("conference")
+    # base_url = conf_info.find("base_url").text.strip()
+    # acronym = conf_info.find("acronym").text.strip()
 
     # Index all speakers: {person_id: set(name, ...)}
     speaker_info = {} # id: name
@@ -115,8 +117,7 @@ def main(xml_file, year):
         f.write("\n# Speakers\n\n")
         for pid, name in speaker_info.items():
             f.write(f"## {name}\n\n")
-            print(make_internal_link(name))
-            url = f"{base_url}/{acronym}/speaker/{pid}/"
+            # url = f"{base_url}/{acronym}/speaker/{pid}/"
             # f.write(f"- **Profile:** [{url}]({url})\n")
             # List talks this speaker is in
             guids = speaker_event_map.get(pid, [])
@@ -136,7 +137,6 @@ def main(xml_file, year):
         f.write("\n# Talks\n\n")
         for ev in events:
             f.write(f"## {ev['title']}\n\n")
-            print(make_internal_link(ev['title']))
             f.write(f"**Start time:** {ev['start']}\n")
             f.write(f"\n**Duration:** {ev['duration']}\n")
             # f.write(f"\n**Room:** {ev['room']}\n")
@@ -154,5 +154,21 @@ def main(xml_file, year):
             # f.write("---\n\n")
 
 if __name__ == "__main__":
+    year = 2025
+    PRETALX_TOKEN = os.getenv('PRETALX_TOKEN')
+    # download the data
+    url = f'https://pretalx.com/elbsides-{year}/schedule/export/schedule.xml'
+    headers = {
+        'Authorization': f'Token {PRETALX_TOKEN}'
+    }
+    # urllib.request.urlretrieve(url, file_path)
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req) as response:
+        data = response.read()
+
+    with open('schedule.xml', 'wb') as f:
+        f.write(data)
+    print("Data downloaded successfully!")
+
     # Change to your input XML file, e.g. 'schedule.xml'
-    main('schedule.xml', 2025)
+    main(data.decode('utf-8'), 2025)
