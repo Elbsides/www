@@ -19,6 +19,8 @@
 
 # Speakers
 
+[Andrey Voitenko](#andrey-voitenko), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh)
+
 ## Mikko Hyppönen
 
 - **Talks:**

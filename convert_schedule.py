@@ -90,6 +90,10 @@ def main(xml_str: str, year):
                 events.append(event_dict)
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
+
+        speaker_list = set()
+
+
         # Markdown Table Header
         f.write("# Program\n\n")
         f.write("| start time | speaker | title |\n")
@@ -103,6 +107,7 @@ def main(xml_str: str, year):
                     make_internal_reference(speaker_info[pid])
                     for pid in ev['persons']
                 )
+                speaker_list.update(speaker_info[pid] for pid in ev['persons'])
             else:
                 speakers_column = ""
             # Compose title column
@@ -115,6 +120,9 @@ def main(xml_str: str, year):
 
         # --- Speaker Info Sections ---
         f.write("\n# Speakers\n\n")
+
+        f.write(', '.join([make_internal_reference(s) for s in sorted(speaker_list)])+"\n\n")
+
         for pid, name in speaker_info.items():
             f.write(f"## {name}\n\n")
             # url = f"{base_url}/{acronym}/speaker/{pid}/"

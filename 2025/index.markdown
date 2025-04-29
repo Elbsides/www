@@ -15,7 +15,7 @@ carousels:
     - image: /assets/2025/images/Sitzbereich Foyer.jpg
 
 ---
-[CfP](/2025/cfp/) | [Sponsors](#sponsors) | [Team](#team)
+[Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Team](#team) | [CfP](/2025/cfp/)
 
 # General Information
 
@@ -57,37 +57,7 @@ We encourage sponsors from the local community, even if you are not a security c
 {% include_relative includes/bronze.html %}
 {% include_relative includes/community.html %}
 
-# Program
-
 {% include_relative includes/schedule.md %}
-
-
-# Speakers
-
-## Mikko Hypponen
-
-
-<img src="/assets/2025/images/photo-mikko.hypponen.jpg" width="150" style="float: right;">
-
-Chief Research Officer, [WithSecure](https://www.withsecure.com/de/home)
-
-* LinkedIn: [Mikko Hypponen](https://www.linkedin.com/in/hypponen/)
-
-* Keynote: [What I've Learned](#what-ive-learned)
-
-Mikko Hypponen is a cybersecurity researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. Mikko has also lectured at top universities, including Harvard, Oxford, and MIT. His latest book has been published in five languages.
-
-
-# Talks
-
-## What I've Learned
-
-* Speaker: [Mikko Hypponen](#mikko-hypponen)
-
-TBA
-
-
-
 
 # Team
 
