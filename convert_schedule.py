@@ -16,19 +16,11 @@ def strip_html(text):
     text = re.sub(r'<[^>]+>', '', text)
     return unescape(text).strip()
 
-# def make_speaker_link(person_id, name, base_url, conference_acronym):
-#     # /[name](base_url/acronym/speaker/person_id/)
-#     info_url = f"{base_url}/{conference_acronym}/speaker/{person_id}/"
-#     return f"[{escape_md(name)}]({info_url})"
-
 def make_internal_reference(name):
     """Create an internal Markdown link for a given name."""
     # Convert name to lowercase, replace spaces with hyphens, and remove non-alphanumeric characters
     link = make_internal_link(name)
     return f"[{escape_md(name)}]({link})"
-
-# def make_talk_link(title, url):
-#     return f"[{escape_md(title)}]({url})"
 
 def make_internal_link(heading_title):
     """Create an internal Markdown link for a given heading title."""
@@ -38,12 +30,9 @@ def make_internal_link(heading_title):
     anchor = re.sub(r'[^\w\s-]', '', anchor)
     # Replace spaces with dashes
     anchor = anchor.replace(' ', '-')
-
-    # link = re.sub(r'[^a-z0-9\-]', '', heading_title.lower().replace(' ', '-'))
     return f"#{anchor}"
 
 def main(xml_str: str, year):
-    # tree = ET.fromstring(xml_str)
     root = ET.fromstring(xml_str)
     # root = tree.getroot()
 
@@ -79,6 +68,7 @@ def main(xml_str: str, year):
                 event_dict['room'] = event.find('room').text or ""
                 persons = []
                 for person in event.find('persons').findall('person'):
+                    # print(person.keys())
                     pid = person.get('id')
                     name = strip_html(person.text or "")
                     speaker_info[pid] = name
@@ -101,21 +91,21 @@ def main(xml_str: str, year):
 
         for ev in events:
             # Compose speakers column
+            # print(ev['room'])
+            speaker_list.update(speaker_info[pid] for pid in ev.get('persons', []))
+            if not ev['room'] == "Elbkuppel":
+                continue
             if ev['persons']:
                 speakers_column = ", ".join(
-                    # make_speaker_link(pid, speaker_info[pid], base_url, acronym)
                     make_internal_reference(speaker_info[pid])
                     for pid in ev['persons']
                 )
-                speaker_list.update(speaker_info[pid] for pid in ev['persons'])
             else:
                 speakers_column = ""
             # Compose title column
-            # title_column = make_talk_link(ev['title'], ev['url'])
             title_column = make_internal_reference(ev['title'])
             # Compose time
             start_column = ev['start']
-            # Print row
             f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
 
         # --- Speaker Info Sections ---
@@ -123,7 +113,9 @@ def main(xml_str: str, year):
 
         f.write(', '.join([make_internal_reference(s) for s in sorted(speaker_list)])+"\n\n")
 
-        for pid, name in speaker_info.items():
+        # Sort speaker_info by name
+        sorted_speaker_info = dict(sorted(speaker_info.items(), key=lambda item: item[1]))
+        for pid, name in sorted_speaker_info.items():
             f.write(f"## {name}\n\n")
             # url = f"{base_url}/{acronym}/speaker/{pid}/"
             # f.write(f"- **Profile:** [{url}]({url})\n")
@@ -137,7 +129,7 @@ def main(xml_str: str, year):
                     for ev in evs:
                         # talk_url = ev['url']
                         # f.write(f"  - [{ev['title']}]({talk_url}) ({ev['start']})\n")
-                        f.write(f"  - {make_internal_reference(ev['title'])} ({ev['start']})\n")
+                        f.write(f"  - {'Backup talk: ' if ev['room'] == 'Backup' else ''}{make_internal_reference(ev['title'])} ({ev['start']})\n")
             f.write("\n")
             f.write(f'---\n<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/{year}/)</span>\n\n')
 
@@ -145,6 +137,8 @@ def main(xml_str: str, year):
         f.write("\n# Talks\n\n")
         for ev in events:
             f.write(f"## {ev['title']}\n\n")
+            if ev['room'] == 'Backup':
+                f.write("**Backup talk**\n\n")
             f.write(f"**Start time:** {ev['start']}\n")
             f.write(f"\n**Duration:** {ev['duration']}\n")
             # f.write(f"\n**Room:** {ev['room']}\n")

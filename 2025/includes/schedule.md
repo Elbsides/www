@@ -19,57 +19,49 @@
 
 # Speakers
 
-[Andrey Voitenko](#andrey-voitenko), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh)
+[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
 
-## Mikko Hyppönen
+## Andrea Ercolino
 
 - **Talks:**
-  - [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) (09:30)
+  - Backup talk: [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) (09:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Max Maaß
+## Andrey Voitenko
 
 - **Talks:**
-  - [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) (10:00)
+  - [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) (14:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Lars Fischer
+## Axelle Apvrille
 
 - **Talks:**
-  - [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) (10:30)
+  - [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) (17:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Sewar Khalifeh
+## Chris Traynor
 
 - **Talks:**
-  - [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) (11:30)
+  - [Pentest Pains](#pentest-pains) (16:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Santi Abastante
+## Christian Kollee
 
 - **Talks:**
-  - [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) (12:00)
+  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise) (09:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
 ## Igor Stepansky
-
-- **Talks:**
-  - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:30)
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Michael Goberman
 
 - **Talks:**
   - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:30)
@@ -85,18 +77,10 @@
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Andrey Voitenko
+## Lars Fischer
 
 - **Talks:**
-  - [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) (14:45)
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Sarah Pauli
-
-- **Talks:**
-  - [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) (15:15)
+  - [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) (10:30)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -109,18 +93,58 @@
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Chris Traynor
+## Max Maaß
 
 - **Talks:**
-  - [Pentest Pains](#pentest-pains) (16:45)
+  - [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) (10:00)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Axelle Apvrille
+## Michael Goberman
 
 - **Talks:**
-  - [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) (17:15)
+  - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:30)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Mikko Hyppönen
+
+- **Talks:**
+  - [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) (09:30)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Santi Abastante
+
+- **Talks:**
+  - [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) (12:00)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Sarah Pauli
+
+- **Talks:**
+  - [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) (15:15)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Sewar Khalifeh
+
+- **Talks:**
+  - [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) (11:30)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Yasin Tas
+
+- **Talks:**
+  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise) (09:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -135,7 +159,7 @@
 **Duration:** 00:15
 
 **Abstract:**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome and housekeeping statements
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -150,7 +174,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Mikko Hyppönen](#mikko-hyppönen)
 
 **Abstract:**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mikko will teach us what he learned in over 35 years of working in the computer security field. This spans the beginnings of the computer virus problem through the dawn of the computer crime age until now in its maturity.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -368,7 +392,68 @@ In this keynote, we'll explore moments where AI shines and fails. We'll also dis
 **Duration:** 00:10
 
 **Abstract:**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It's a wrap! See you at the networking hour and next year.
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## A tale of nefarious usage: IPv6 based Covert Channels
+
+**Backup talk**
+
+**Start time:** 09:15
+
+**Duration:** 00:30
+
+**Speaker(s):**
+- [Andrea Ercolino](#andrea-ercolino)
+
+**Abstract:**
+Like steganographic techniques that embed messages in unstructured data, network-based covert channels exploit communication protocols to conceal data. By hijacking legitimate traffic, these channels provide a stealthy means of communication and data exfiltration.
+
+The growing adoption of IPv6, driven by major ISPs and tech companies, introduces new security risks. One such risk is the ease of implementing covert channels within IPv6 communications, which remain undetected by common open-source IDS tools like Suricata, Zeek, and Snort.
+
+Using high-level programming languages like Python and open-source libraries such as Scapy, it is possible to inject covert data into IPv6 packets without disrupting application-level communication. This technique applies to on-premises, hybrid-cloud, and commercial cloud environments, including AWS, Azure, and Vultr, leveraging an IPv6 network stack.
+
+Six covert channels have been implemented and tested in virtual and cloud environments to evaluate their feasibility. To prevent interference with legitimate traffic, packets are cleaned before delivery, ensuring injected data is removed and restoring packets to their original form.
+
+Various IPv6 fields and extension headers can carry covert messages without affecting overt communication. The Flow Label and Traffic Class fields, as well as the Authentication, Routing, Destination Options, and Fragment headers, can be exploited. The bandwidth of a covert channel depends on the bits that can be safely manipulated. For instance, the Flow Label field allows a bandwidth of 20 bits per packet, offering an efficient and hard-to-detect method when high bandwidth is not required. In contrast, the Authentication Header, introduced in this work, can carry 32 bits per packet while maintaining stealth. The Destination Options Header, though rarely used, can transport up to 256 bits per packet.
+
+Ensuring successful message delivery while preserving communication integrity requires a communication strategy at both ends of the covert channel. Three strategies have been implemented: naive, marked, and reliable, each offering increasing levels of complexity, reliability, and efficiency.
+
+The naive strategy simply transmits n covert-data packets followed by y legitimate packets, with both sender and receiver preconfigured accordingly. However, it lacks reliability in cases of packet loss or reordering. The marked strategy improves upon this by employing cryptographic marking to ensure correct packet identification and reassembly. The reliable strategy applies when TCP is used at Layer 6, allowing the sender to retransmit covert bits associated with missing TCP sequence numbers.
+
+Beyond academic research, the proposed tool enables man-in-the-middle data exfiltration, allowing a compromised router to participate in an attack chain. Covert channel performance has been evaluated in terms of bandwidth and message loss rates. Their effectiveness has been tested against Suricata, Snort, and Zeek to assess whether standard detection rules trigger alerts when scanning IPv6 traffic modified to carry covert data.
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## From OneDrive Access to System Compromise
+
+**Backup talk**
+
+**Start time:** 09:45
+
+**Duration:** 00:30
+
+**Speaker(s):**
+- [Christian Kollee](#christian-kollee)
+- [Yasin Tas](#yasin-tas)
+
+**Abstract:**
+With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces. 
+
+With the increased importance of digital identities, they have become a target for criminals. Using adversary-in-the-middle (AitM) attacks, these criminals try to compromise business e-mail addresses, and after successfully obtaining valid credentials, the threat actor can access the user's cloud environment, launching business e-mail compromise (BEC) attacks. Additionally, these credentials allow a threat actor to access the user's cloud storage environments, like OneDrive. This access provides many opportunities for a threat actor, including:
+
+1. Direct access to valuable information  
+2. A trusted repository to host malware for distribution 
+3. A trusted command and control (C2) channel  
+4. Data exfiltration via a trusted channel 
+5. Synchronisation misuse
+
+Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.        
+
+This talk will illustrate briefly how threat actors use AitM attacks to obtain access to Microsoft M365 credentials and show a proof-of-concept of how a threat actor can use these credentials to compromise a user's system via the OneDrives sync feature.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
