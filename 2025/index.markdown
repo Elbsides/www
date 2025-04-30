@@ -15,13 +15,14 @@ carousels:
     - image: /assets/2025/images/Sitzbereich Foyer.jpg
 
 ---
-[CfP](/2025/cfp/) | [Sponsors](#sponsors) | [Team](#team)
+[Registration](/2025/registration/) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
 ![Elbsides 2025](/assets/2025/logos/Elbsides 2025.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2025** computer security community conference will be held in **Hamburg, Germany on Friday, the 13th of June 2025**. ~~Our [call for presentations](/2025/cfp) is now open, and we would love to see your proposal submitted before April 12.~~ **The Call for Presentations is now closed.** We are also actively looking for [sponsors](#sponsors) so that we can afford the venue and the food.
+The **Elbsides 2025** computer security community conference will be held in **Hamburg, Germany on Friday, the 13th of June 2025**. [Registration](/2025/registration/) is now open!
+
 
 **Announcing Mikko Hypponen as our keynote speaker!**
 
