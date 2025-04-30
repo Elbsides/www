@@ -51,6 +51,9 @@ def main(xml_str: str, year):
     speaker_event_map = {}  # person_id: set(event_guids)
     event_speaker_map = {}  # event_guid: [person_id1, ...]
 
+    # Get the version of the conference
+    version = root.find(".//version").text.strip()
+
     # Parse event data
     for day in root.findall(".//day"):
         for room in day.findall("room"):
@@ -80,9 +83,7 @@ def main(xml_str: str, year):
                 events.append(event_dict)
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
-
         speaker_list = set()
-
 
         # Markdown Table Header
         f.write("# Program\n\n")
@@ -107,6 +108,7 @@ def main(xml_str: str, year):
             # Compose time
             start_column = ev['start']
             f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
+        f.write(f"\nThis is version {version} of the schedule.\n")
 
         # --- Speaker Info Sections ---
         f.write("\n# Speakers\n\n")
@@ -156,6 +158,7 @@ def main(xml_str: str, year):
             f.write(f'---\n<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/{year}/)</span>\n\n')
             # f.write("---\n\n")
 
+
 if __name__ == "__main__":
     year = 2025
     PRETALX_TOKEN = os.getenv('PRETALX_TOKEN')
@@ -169,9 +172,9 @@ if __name__ == "__main__":
     with urllib.request.urlopen(req) as response:
         data = response.read()
 
-    with open('schedule.xml', 'wb') as f:
-        f.write(data)
-    print("Data downloaded successfully!")
+    # with open('schedule.xml', 'wb') as f:
+        # f.write(data)
+    # print("Data downloaded successfully!")
 
     # Change to your input XML file, e.g. 'schedule.xml'
     main(data.decode('utf-8'), 2025)
