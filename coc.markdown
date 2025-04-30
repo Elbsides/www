@@ -22,7 +22,7 @@ Be mindful of your surroundings and of your fellow participants. Alert community
 
 Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; harassment of these patrons of these venues is also unacceptable.
 
-Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual  attention.
+Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention; intentional use of improper/incorrect pronouns.
 
 In addition, the consumption of alcoholic beverages on the conference premises during the conference days from the starting times in the mornings to the end times in the evenings is prohibited.
 
@@ -38,7 +38,7 @@ Additionally, community organizers are available to help community members engag
 
 ### Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance. Your grievance will be reviewed by an independent third party.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance. Your grievance will be reviewed by an independent third party, who will be introduced during the course of the conference.
 
 
 ### License and attribution
