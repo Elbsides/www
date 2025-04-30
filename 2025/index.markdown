@@ -15,7 +15,7 @@ carousels:
     - image: /assets/2025/images/Sitzbereich Foyer.jpg
 
 ---
-[Registration](/2025/registration/) | [Sponsors](#sponsors) | [Team](#team)
+[Program](#program) | [Speakers](#speakers) | [Registration](/2025/registration/) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
@@ -28,7 +28,7 @@ The **Elbsides 2025** computer security community conference will be held in **H
 
 <img src="/assets/2025/images/ted-mikko.hypponen.png" width="250" style="float: left; margin: 15px;">
 
-We are thrilled to announce that Mikko Hypponen, CRO at [WithSecure](https://www.withsecure.com/), will be our keynote speaker at Elbsides 2025. Mikko is a cybersecurity researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. He is well known for his legendary TED talks and advanced research presentations. His experience reaches back over 3 decades giving him a unique perspective on the evolution of the security industry.
+We are thrilled to announce that Mikko Hyppönen, CRO at [WithSecure](https://www.withsecure.com/), will be our keynote speaker at Elbsides 2025. Mikko is a cybersecurity researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. He is well known for his legendary TED talks and advanced research presentations. His experience reaches back over 3 decades giving him a unique perspective on the evolution of the security industry.
 
 
 
@@ -58,37 +58,7 @@ We encourage sponsors from the local community, even if you are not a security c
 {% include_relative includes/bronze.html %}
 {% include_relative includes/community.html %}
 
-# Program
-
 {% include_relative includes/schedule.md %}
-
-
-# Speakers
-
-## Mikko Hypponen
-
-
-<img src="/assets/2025/images/photo-mikko.hypponen.jpg" width="150" style="float: right;">
-
-Chief Research Officer, [WithSecure](https://www.withsecure.com/de/home)
-
-* LinkedIn: [Mikko Hypponen](https://www.linkedin.com/in/hypponen/)
-
-* Keynote: [What I've Learned](#what-ive-learned)
-
-Mikko Hypponen is a cybersecurity researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. Mikko has also lectured at top universities, including Harvard, Oxford, and MIT. His latest book has been published in five languages.
-
-
-# Talks
-
-## What I've Learned
-
-* Speaker: [Mikko Hypponen](#mikko-hypponen)
-
-TBA
-
-
-
 
 # Team
 
