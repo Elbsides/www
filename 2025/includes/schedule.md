@@ -401,9 +401,6 @@ It's a wrap! See you at the networking hour and next year.
 
 **Backup talk**
 
-**Start time:** 09:15
-
-**Duration:** 00:30
 
 **Speaker(s):**
 - [Andrea Ercolino](#andrea-ercolino)
@@ -432,9 +429,6 @@ Beyond academic research, the proposed tool enables man-in-the-middle data exfil
 
 **Backup talk**
 
-**Start time:** 09:45
-
-**Duration:** 00:30
 
 **Speaker(s):**
 - [Christian Kollee](#christian-kollee)

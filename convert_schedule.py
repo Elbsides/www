@@ -139,8 +139,9 @@ def main(xml_str: str, year):
             f.write(f"## {ev['title']}\n\n")
             if ev['room'] == 'Backup':
                 f.write("**Backup talk**\n\n")
-            f.write(f"**Start time:** {ev['start']}\n")
-            f.write(f"\n**Duration:** {ev['duration']}\n")
+            else:
+                f.write(f"**Start time:** {ev['start']}\n")
+                f.write(f"\n**Duration:** {ev['duration']}\n")
             # f.write(f"\n**Room:** {ev['room']}\n")
             # Speakers
             if ev['persons']:
