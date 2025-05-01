@@ -4,7 +4,7 @@
 | ------------ | --------- | ----- |
 | 09:15 |  | [Conference Opening](#conference-opening) |
 | 09:30 | [Mikko Hyppönen](#mikko-hyppönen) | [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) |
-| 10:00 | [Max Maaß](#max-maaß) | [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) |
+| 10:00 | [Andrea Ercolino](#andrea-ercolino) | [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) |
 | 10:30 | [Lars Fischer](#lars-fischer) | [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) |
 | 11:30 | [Sewar Khalifeh](#sewar-khalifeh) | [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) |
 | 12:00 | [Santi Abastante](#santi-abastante) | [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) |
@@ -17,7 +17,7 @@
 | 17:15 | [Axelle Apvrille](#axelle-apvrille) | [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) |
 | 17:45 |  | [Conference Closing](#conference-closing) |
 
-This is version 0.4 of the schedule.
+This is version 0.5 of the schedule.
 
 # Speakers
 
@@ -26,7 +26,7 @@ This is version 0.4 of the schedule.
 ## Andrea Ercolino
 
 - **Talks:**
-  - Backup talk: [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) (09:15)
+  - [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) (10:00)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -98,7 +98,7 @@ This is version 0.4 of the schedule.
 ## Max Maaß
 
 - **Talks:**
-  - [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) (10:00)
+  - Backup talk: [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) (09:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -181,21 +181,31 @@ Mikko will teach us what he learned in over 35 years of working in the computer 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math
+## A tale of nefarious usage: IPv6 based Covert Channels
 
 **Start time:** 10:00
 
 **Duration:** 00:30
 
 **Speaker(s):**
-- [Max Maaß](#max-maaß)
+- [Andrea Ercolino](#andrea-ercolino)
 
 **Abstract:**
-People talk a lot about defensive software architecture, but does it really make a difference?
+Like steganographic techniques that embed messages in unstructured data, network-based covert channels exploit communication protocols to conceal data. By hijacking legitimate traffic, these channels provide a stealthy means of communication and data exfiltration.
 
-In this presentation, I give an example from a security audit we performed, in which a simple misuse of a cryptographic primitive led to the compromise of an entire customer service tool for a payment provider, which would have allowed us full administrative access to their backends.
+The growing adoption of IPv6, driven by major ISPs and tech companies, introduces new security risks. One such risk is the ease of implementing covert channels within IPv6 communications, which remain undetected by common open-source IDS tools like Suricata, Zeek, and Snort.
 
-By stepping through the architecture of the system from the highest level down to the exact vulnerable code, this example allows us to illustrate the advantages of defensive software architectures with multiple layers of security. By the end of the presentation, you will have a new appreciation for defensive software architectures. As a bonus, you will also have learned about a neat cryptographic trick that exploits unauthenticated encryption.
+Using high-level programming languages like Python and open-source libraries such as Scapy, it is possible to inject covert data into IPv6 packets without disrupting application-level communication. This technique applies to on-premises, hybrid-cloud, and commercial cloud environments, including AWS, Azure, and Vultr, leveraging an IPv6 network stack.
+
+Six covert channels have been implemented and tested in virtual and cloud environments to evaluate their feasibility. To prevent interference with legitimate traffic, packets are cleaned before delivery, ensuring injected data is removed and restoring packets to their original form.
+
+Various IPv6 fields and extension headers can carry covert messages without affecting overt communication. The Flow Label and Traffic Class fields, as well as the Authentication, Routing, Destination Options, and Fragment headers, can be exploited. The bandwidth of a covert channel depends on the bits that can be safely manipulated. For instance, the Flow Label field allows a bandwidth of 20 bits per packet, offering an efficient and hard-to-detect method when high bandwidth is not required. In contrast, the Authentication Header, introduced in this work, can carry 32 bits per packet while maintaining stealth. The Destination Options Header, though rarely used, can transport up to 256 bits per packet.
+
+Ensuring successful message delivery while preserving communication integrity requires a communication strategy at both ends of the covert channel. Three strategies have been implemented: naive, marked, and reliable, each offering increasing levels of complexity, reliability, and efficiency.
+
+The naive strategy simply transmits n covert-data packets followed by y legitimate packets, with both sender and receiver preconfigured accordingly. However, it lacks reliability in cases of packet loss or reordering. The marked strategy improves upon this by employing cryptographic marking to ensure correct packet identification and reassembly. The reliable strategy applies when TCP is used at Layer 6, allowing the sender to retransmit covert bits associated with missing TCP sequence numbers.
+
+Beyond academic research, the proposed tool enables man-in-the-middle data exfiltration, allowing a compromised router to participate in an attack chain. Covert channel performance has been evaluated in terms of bandwidth and message loss rates. Their effectiveness has been tested against Suricata, Snort, and Zeek to assess whether standard detection rules trigger alerts when scanning IPv6 traffic modified to carry covert data.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -399,30 +409,20 @@ It's a wrap! See you at the networking hour and next year.
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## A tale of nefarious usage: IPv6 based Covert Channels
+## Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math
 
 **Backup talk**
 
 
 **Speaker(s):**
-- [Andrea Ercolino](#andrea-ercolino)
+- [Max Maaß](#max-maaß)
 
 **Abstract:**
-Like steganographic techniques that embed messages in unstructured data, network-based covert channels exploit communication protocols to conceal data. By hijacking legitimate traffic, these channels provide a stealthy means of communication and data exfiltration.
+People talk a lot about defensive software architecture, but does it really make a difference?
 
-The growing adoption of IPv6, driven by major ISPs and tech companies, introduces new security risks. One such risk is the ease of implementing covert channels within IPv6 communications, which remain undetected by common open-source IDS tools like Suricata, Zeek, and Snort.
+In this presentation, I give an example from a security audit we performed, in which a simple misuse of a cryptographic primitive led to the compromise of an entire customer service tool for a payment provider, which would have allowed us full administrative access to their backends.
 
-Using high-level programming languages like Python and open-source libraries such as Scapy, it is possible to inject covert data into IPv6 packets without disrupting application-level communication. This technique applies to on-premises, hybrid-cloud, and commercial cloud environments, including AWS, Azure, and Vultr, leveraging an IPv6 network stack.
-
-Six covert channels have been implemented and tested in virtual and cloud environments to evaluate their feasibility. To prevent interference with legitimate traffic, packets are cleaned before delivery, ensuring injected data is removed and restoring packets to their original form.
-
-Various IPv6 fields and extension headers can carry covert messages without affecting overt communication. The Flow Label and Traffic Class fields, as well as the Authentication, Routing, Destination Options, and Fragment headers, can be exploited. The bandwidth of a covert channel depends on the bits that can be safely manipulated. For instance, the Flow Label field allows a bandwidth of 20 bits per packet, offering an efficient and hard-to-detect method when high bandwidth is not required. In contrast, the Authentication Header, introduced in this work, can carry 32 bits per packet while maintaining stealth. The Destination Options Header, though rarely used, can transport up to 256 bits per packet.
-
-Ensuring successful message delivery while preserving communication integrity requires a communication strategy at both ends of the covert channel. Three strategies have been implemented: naive, marked, and reliable, each offering increasing levels of complexity, reliability, and efficiency.
-
-The naive strategy simply transmits n covert-data packets followed by y legitimate packets, with both sender and receiver preconfigured accordingly. However, it lacks reliability in cases of packet loss or reordering. The marked strategy improves upon this by employing cryptographic marking to ensure correct packet identification and reassembly. The reliable strategy applies when TCP is used at Layer 6, allowing the sender to retransmit covert bits associated with missing TCP sequence numbers.
-
-Beyond academic research, the proposed tool enables man-in-the-middle data exfiltration, allowing a compromised router to participate in an attack chain. Covert channel performance has been evaluated in terms of bandwidth and message loss rates. Their effectiveness has been tested against Suricata, Snort, and Zeek to assess whether standard detection rules trigger alerts when scanning IPv6 traffic modified to carry covert data.
+By stepping through the architecture of the system from the highest level down to the exact vulnerable code, this example allows us to illustrate the advantages of defensive software architectures with multiple layers of security. By the end of the presentation, you will have a new appreciation for defensive software architectures. As a bonus, you will also have learned about a neat cryptographic trick that exploits unauthenticated encryption.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
