@@ -2,6 +2,7 @@
 import xml.etree.ElementTree as ET
 import re
 import os
+from datetime import datetime, timedelta
 import urllib.request
 from html import unescape
 
@@ -69,6 +70,9 @@ def main(xml_str: str, year):
                 event_dict['slug'] = event.find('slug').text or ""
                 event_dict['duration'] = event.find('duration').text or ""
                 event_dict['room'] = event.find('room').text or ""
+                event_dict['start_time'] = datetime.strptime(event.find('start').text, "%H:%M")
+                d = datetime.strptime(event.find('duration').text, "%H:%M")
+                event_dict['duration_time'] = timedelta(minutes=d.minute, hours=d.hour)
                 persons = []
                 for person in event.find('persons').findall('person'):
                     # print(person.keys())
@@ -81,6 +85,26 @@ def main(xml_str: str, year):
                 event_speaker_map[event_dict['guid']] = persons
                 event_dict['persons'] = persons
                 events.append(event_dict)
+                # Add networking hour after the last event
+    if events:
+        last_event = max(events, key=lambda ev: ev['start_time'] + ev['duration_time'])
+        networking_start_time = last_event['start_time'] + last_event['duration_time']
+        networking_event = {
+            'guid': 'networking-hour',
+            'id': 'networking-hour',
+            'start': networking_start_time.strftime('%H:%M'),
+            'title': 'Networking Hour',
+            'url': '',
+            'abstract': 'An hour dedicated to networking, discussions and drinks.',
+            'type': 'Networking',
+            'slug': 'networking-hour',
+            'duration': '01:00',
+            'room': 'Elbkuppel',
+            'start_time': networking_start_time,
+            'duration_time': timedelta(hours=1),
+            'persons': []
+        }
+        events.append(networking_event)
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
         speaker_list = set()
@@ -90,12 +114,17 @@ def main(xml_str: str, year):
         f.write("| start time | speaker | title |\n")
         f.write("| ------------ | --------- | ----- |\n")
 
+        current_time = None
         for ev in events:
             # Compose speakers column
             # print(ev['room'])
             speaker_list.update(speaker_info[pid] for pid in ev.get('persons', []))
             if not ev['room'] == "Elbkuppel":
                 continue
+            if current_time and ev['start_time'] > current_time:
+                # Add empty row for breaks
+                f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | &nbsp; | &nbsp; |\n")
+                # f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | break |\n")
             if ev['persons']:
                 speakers_column = ", ".join(
                     make_internal_reference(speaker_info[pid])
@@ -108,6 +137,7 @@ def main(xml_str: str, year):
             # Compose time
             start_column = ev['start']
             f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
+            current_time = ev['start_time'] + ev['duration_time']
         f.write(f"\nThis is version {version} of the schedule.\n")
 
         # --- Speaker Info Sections ---
