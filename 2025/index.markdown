@@ -24,14 +24,6 @@ carousels:
 The **Elbsides 2025** computer security community conference will be held in **Hamburg, Germany on Friday, the 13th of June 2025**. [Registration](/2025/registration/) is now open!
 
 
-**Announcing Mikko Hypponen as our keynote speaker!**
-
-<img src="/assets/2025/images/ted-mikko.hypponen.png" width="250" style="float: left; margin: 15px;">
-
-We are thrilled to announce that Mikko Hyppönen, CRO at [WithSecure](https://www.withsecure.com/), will be our keynote speaker at Elbsides 2025. Mikko is a cybersecurity researcher and best-selling author. He has written for leading publications like The New York Times, Wired, and Scientific American. He is well known for his legendary TED talks and advanced research presentations. His experience reaches back over 3 decades giving him a unique perspective on the evolution of the security industry.
-
-
-
 ## Location
 
 The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
@@ -64,7 +56,7 @@ We encourage sponsors from the local community, even if you are not a security c
 
 ## [Morton](https://mastodon.acm.org/@Sifu)
 
-Morton is a researcher in the Forward-Looking Threat Research (FTR) team at Trend Micro, Inc. where he peers into the future of computers and society to identify the risks and vulnerabilities of the future. His past in computer security stretches back 30 years and he has been involved in most of the innovations in security, first at the University of Hamburg, Germany, then IBM Research and now Trend Micro. While originally active in malware analysis and computer forensics, recently his team has been focussing on massive threat data analysis for spotting new types of attacks quantitatively and also on modelling future threats to society that will accompany its inevitable march towards tighter integration in smart cities, intelligent transportation, supply chains and manufacturing. Morton, a native of New York City, has a Computer Science PhD degree from the University of Hamburg, and resides in the Hamburg, Germany area.
+Morton is a researcher in the Forward-Looking Threat Research (FTR) team at Trend Micro, Inc. where he peers into the future of computers and society to identify the risks and vulnerabilities of the future. His past in computer security stretches back 30 years, and he has been involved in most of the innovations in security, first at the University of Hamburg, Germany, then IBM Research and now Trend Micro. While originally active in malware analysis and computer forensics, recently his team has been focussing on massive threat data analysis for spotting new types of attacks quantitatively and also on modelling future threats to society that will accompany its inevitable march towards tighter integration in smart cities, intelligent transportation, supply chains and manufacturing. Morton, a native of New York City, has a Computer Science PhD degree from the University of Hamburg, and resides in the Hamburg, Germany area.
 
 ## [Dagmar](https://twitter.com/wisecrackling)
 
@@ -81,11 +73,12 @@ A past interest in archaeology brought Florian to the field of security. To him,
 ## [Debbie](https://de.linkedin.com/in/deborahkuhntopf)
 
 Debbie is also a non-techie. Her passion for working in IT security started in 2019 with SCHUTZWERK, where she came into contact with Elbsides. She has been involved in the community ever since. Inspired by her former colleagues at SCHUTZWERK, she also started studying business informatics part-time in March 2021 to gain more IT knowledge. During her studies, which will end in fall 2024, she has left no opportunity to combine all topics with IT security.
-From June 2024, Debbie will be working as an Account Manager at AirITSystems. Her colleagues and her ensure that companies' business-critical IT functions securely and smoothly. She is very much looking forward to this as she will be delving even deeper into the IT world.
+
+From June 2024, Debbie will be working as an Account Manager at AirITSystems. Her colleagues and she ensures that companies' business-critical IT functions securely and smoothly. She is very much looking forward to this as she will be delving even deeper into the IT world.
 
 ## [Jonas](https://social.jonaskoeritz.de/@jonas)
 
-Jonas' day job is in incident response and forensics at BlackBerry. During engagements he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents. In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests. In the great outdoors he enjoys geocaching and paddling. He also added aerial photography and semi-autonomous to fully manual flight with home-built UAVs and FPV drones to his outdoor activities.
+Jonas' day job is in incident response and forensics at BlackBerry. During engagements, he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents. In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests. In the great outdoors he enjoys geocaching and paddling. He also added aerial photography and semi-autonomous to fully manual flight with home-built UAVs and FPV drones to his outdoor activities.
 
 ## [David](https://davidhamann.de)
 
@@ -97,7 +90,8 @@ Fabian currently works as an embedded software engineer for a small company in N
 
 ## [Matthias](https://matthiashammerschmidt.de)
 
-Matthias has more than 25 years of experience in various industries, disciplines and roles in the world of IT. He now uses this experience as a freelance cybersecurity culture evangelist to support organisations on their way to becoming secure and resilient organisms. This has a lot to do with the agile mindset, where people take centre stage - processes ensure smooth interaction and technology is seen as a tool, not an end in itself!
+Matthias has more than 25 years of experience in various industries, disciplines and roles in the world of IT. He now uses this experience as a freelance cybersecurity culture evangelist to support organizations on their way to becoming secure and resilient organisms. This has a lot to do with the agile mindset, where people take center stage - processes ensure smooth interaction and technology is seen as a tool, not an end in itself!
+
 Apart from that, he likes to spend his time outdoors, preferably exploring new holiday destinations or cycling in the surrounding area.
 
 ## [Peddy](https://www.peddy.net)
@@ -105,4 +99,5 @@ Apart from that, he likes to spend his time outdoors, preferably exploring new h
 Peddy has been working with Unix systems since the early 1990s and set up and operated one of the first web servers in Germany. He was the first to introduce Hamburg teachers to the Internet and installed the first Linux servers in Hamburg schools.  He did the same in a software company for private health insurance. Security during implementation, as well as training, was always an issue. At his current employer, a media company, security in the cloud environment is a top priority.
 
 ## Garlef
-Garlefs dayjob has been fixing all kinds of of IT-problems for over a decade in various roles, companies and industries. His current dayjob includes looking at logfiles and asking unpleasent questions for money and coffee. He enjoys simple and reliable Systems and has been loosely involved in various IT-Sec related events in germany for a number of years.
+
+Garlefs dayjob has been fixing all kinds of IT-problems for over a decade in various roles, companies and industries. His current day job includes looking at log files and asking unpleasant questions for money and coffee. He enjoys simple and reliable Systems and has been loosely involved in various IT-Sec related events in Germany for a number of years.
