@@ -123,7 +123,13 @@ def main(xml_str: str, year):
                 continue
             if current_time and ev['start_time'] > current_time:
                 # Add empty row for breaks
-                f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | &nbsp; | &nbsp; |\n")
+                if current_time.hour < 12:
+                    break_type = "morning"
+                elif 12 <= current_time.hour < 14:
+                    break_type = "lunch"
+                else:
+                    break_type = "afternoon"
+                f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | &nbsp; | {break_type} break |\n")
                 # f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | break |\n")
             if ev['persons']:
                 speakers_column = ", ".join(

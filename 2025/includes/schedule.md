@@ -6,15 +6,15 @@
 | 09:30 | [Mikko Hyppönen](#mikko-hyppönen) | [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) |
 | 10:00 | [Andrea Ercolino](#andrea-ercolino) | [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) |
 | 10:30 | [Lars Fischer](#lars-fischer) | [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) |
-| 11:00 | &nbsp; | &nbsp; |
+| 11:00 | &nbsp; | morning break |
 | 11:30 | [Sewar Khalifeh](#sewar-khalifeh) | [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) |
 | 12:00 | [Santi Abastante](#santi-abastante) | [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) |
 | 12:30 | [Igor Stepansky](#igor-stepansky), [Michael Goberman](#michael-goberman) | [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) |
-| 13:00 | &nbsp; | &nbsp; |
+| 13:00 | &nbsp; | lunch break |
 | 14:15 | [Jasmin Mair](#jasmin-mair) | [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) |
 | 14:45 | [Andrey Voitenko](#andrey-voitenko) | [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) |
 | 15:15 | [Sarah Pauli](#sarah-pauli) | [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) |
-| 15:45 | &nbsp; | &nbsp; |
+| 15:45 | &nbsp; | afternoon break |
 | 16:15 | [Malte Wessels](#malte-wessels) | [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) |
 | 16:45 | [Chris Traynor](#chris-traynor) | [Pentest Pains](#pentest-pains) |
 | 17:15 | [Axelle Apvrille](#axelle-apvrille) | [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) |
