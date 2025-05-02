@@ -2,35 +2,36 @@
 
 | start time | speaker | title |
 | ------------ | --------- | ----- |
-| 09:15 |  | [Conference Opening](#conference-opening) |
-| 09:30 | [Mikko Hyppönen](#mikko-hyppönen) | [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) |
-| 10:00 | [Andrea Ercolino](#andrea-ercolino) | [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) |
-| 10:30 | [Lars Fischer](#lars-fischer) | [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) |
-| 11:00 | &nbsp; | morning break |
-| 11:30 | [Sewar Khalifeh](#sewar-khalifeh) | [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) |
-| 12:00 | [Santi Abastante](#santi-abastante) | [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) |
-| 12:30 | [Igor Stepansky](#igor-stepansky), [Michael Goberman](#michael-goberman) | [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) |
-| 13:00 | &nbsp; | lunch break |
-| 14:15 | [Jasmin Mair](#jasmin-mair) | [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) |
-| 14:45 | [Andrey Voitenko](#andrey-voitenko) | [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) |
-| 15:15 | [Sarah Pauli](#sarah-pauli) | [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) |
-| 15:45 | &nbsp; | afternoon break |
-| 16:15 | [Malte Wessels](#malte-wessels) | [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) |
-| 16:45 | [Chris Traynor](#chris-traynor) | [Pentest Pains](#pentest-pains) |
+| 09:00 |  | [Conference Opening](#conference-opening) |
+| 09:15 | [Mikko Hyppönen](#mikko-hyppönen) | [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) |
+| 09:45 | [Andrea Ercolino](#andrea-ercolino) | [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) |
+| 10:15 | [Lars Fischer](#lars-fischer) | [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) |
+| 10:45 | &nbsp; | morning break |
+| 11:15 | [Sewar Khalifeh](#sewar-khalifeh) | [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) |
+| 11:45 | [Santi Abastante](#santi-abastante) | [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) |
+| 12:15 | [Igor Stepansky](#igor-stepansky), [Michael Goberman](#michael-goberman) | [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) |
+| 12:45 | &nbsp; | lunch break |
+| 13:45 | [Jasmin Mair](#jasmin-mair) | [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) |
+| 14:15 | [Andrey Voitenko](#andrey-voitenko) | [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) |
+| 14:45 | [Sarah Pauli](#sarah-pauli) | [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) |
+| 15:15 | &nbsp; | afternoon break |
+| 15:45 | [Malte Wessels](#malte-wessels) | [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) |
+| 16:15 | [Chris Traynor](#chris-traynor) | [Pentest Pains](#pentest-pains) |
+| 16:45 | [Asan Stefanski](#asan-stefanski) | [AI security and AI auditing: security risks and protective measures for modern AI systems](#ai-security-and-ai-auditing-security-risks-and-protective-measures-for-modern-ai-systems) |
 | 17:15 | [Axelle Apvrille](#axelle-apvrille) | [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) |
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.6 of the schedule.
+This is version 0.7 of the schedule.
 
 # Speakers
 
-[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
+[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
 
 ## Andrea Ercolino
 
 - **Talks:**
-  - [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) (10:00)
+  - [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) (09:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -38,7 +39,15 @@ This is version 0.6 of the schedule.
 ## Andrey Voitenko
 
 - **Talks:**
-  - [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) (14:45)
+  - [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) (14:15)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Asan Stefanski
+
+- **Talks:**
+  - [AI security and AI auditing: security risks and protective measures for modern AI systems](#ai-security-and-ai-auditing-security-risks-and-protective-measures-for-modern-ai-systems) (16:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -54,7 +63,7 @@ This is version 0.6 of the schedule.
 ## Chris Traynor
 
 - **Talks:**
-  - [Pentest Pains](#pentest-pains) (16:45)
+  - [Pentest Pains](#pentest-pains) (16:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -70,7 +79,7 @@ This is version 0.6 of the schedule.
 ## Igor Stepansky
 
 - **Talks:**
-  - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:30)
+  - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -78,7 +87,7 @@ This is version 0.6 of the schedule.
 ## Jasmin Mair
 
 - **Talks:**
-  - [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) (14:15)
+  - [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) (13:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -86,7 +95,7 @@ This is version 0.6 of the schedule.
 ## Lars Fischer
 
 - **Talks:**
-  - [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) (10:30)
+  - [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) (10:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -94,7 +103,7 @@ This is version 0.6 of the schedule.
 ## Malte Wessels
 
 - **Talks:**
-  - [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) (16:15)
+  - [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) (15:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -110,7 +119,7 @@ This is version 0.6 of the schedule.
 ## Michael Goberman
 
 - **Talks:**
-  - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:30)
+  - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -118,7 +127,7 @@ This is version 0.6 of the schedule.
 ## Mikko Hyppönen
 
 - **Talks:**
-  - [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) (09:30)
+  - [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) (09:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -126,7 +135,7 @@ This is version 0.6 of the schedule.
 ## Santi Abastante
 
 - **Talks:**
-  - [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) (12:00)
+  - [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) (11:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -134,7 +143,7 @@ This is version 0.6 of the schedule.
 ## Sarah Pauli
 
 - **Talks:**
-  - [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) (15:15)
+  - [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) (14:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -142,7 +151,7 @@ This is version 0.6 of the schedule.
 ## Sewar Khalifeh
 
 - **Talks:**
-  - [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) (11:30)
+  - [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) (11:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -160,7 +169,7 @@ This is version 0.6 of the schedule.
 
 ## Conference Opening
 
-**Start time:** 09:15
+**Start time:** 09:00
 
 **Duration:** 00:15
 
@@ -172,7 +181,7 @@ Welcome and housekeeping statements
 
 ## Opening Keynote: What I've Learned
 
-**Start time:** 09:30
+**Start time:** 09:15
 
 **Duration:** 00:30
 
@@ -187,7 +196,7 @@ Mikko will teach us what he learned in over 35 years of working in the computer 
 
 ## A tale of nefarious usage: IPv6 based Covert Channels
 
-**Start time:** 10:00
+**Start time:** 09:45
 
 **Duration:** 00:30
 
@@ -216,7 +225,7 @@ Beyond academic research, the proposed tool enables man-in-the-middle data exfil
 
 ## Internet Message-Protection using Certificates and (not yet) Transformation
 
-**Start time:** 10:30
+**Start time:** 10:15
 
 **Duration:** 00:30
 
@@ -231,7 +240,7 @@ The crucial stopping-gap of wide-spread secure communication over Email clearly 
 
 ## From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities
 
-**Start time:** 11:30
+**Start time:** 11:15
 
 **Duration:** 00:30
 
@@ -246,7 +255,7 @@ Unrestricted file uploads pose a significant threat to application security, all
 
 ## AWS Advanced Offensive Techniques, what defenders need to know.
 
-**Start time:** 12:00
+**Start time:** 11:45
 
 **Duration:** 00:30
 
@@ -261,7 +270,7 @@ In this technical, demo-driven session, we’ll explore the tactics and techniqu
 
 ## Breaking the CI/CD Chain: Security Risks in GitHub Actions
 
-**Start time:** 12:30
+**Start time:** 12:15
 
 **Duration:** 00:30
 
@@ -285,7 +294,7 @@ Attendees will gain a deeper understanding of GitHub Actions' security landscape
 
 ## SBOMs – A Tragicomedy in Three Acts
 
-**Start time:** 14:15
+**Start time:** 13:45
 
 **Duration:** 00:30
 
@@ -300,7 +309,7 @@ Increasing supply chain attacks have highlighted the need for greater transparen
 
 ## The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements
 
-**Start time:** 14:45
+**Start time:** 14:15
 
 **Duration:** 00:30
 
@@ -323,7 +332,7 @@ This session will include real-world examples of advanced phishing techniques, s
 
 ## Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?
 
-**Start time:** 15:15
+**Start time:** 14:45
 
 **Duration:** 00:30
 
@@ -343,7 +352,7 @@ I want to give an inspirational approach to improve the workplace, keeping profe
 
 ## HyTrack: Tracking You Across Apps and the Web Hydra-Style
 
-**Start time:** 16:15
+**Start time:** 15:45
 
 **Duration:** 00:30
 
@@ -367,7 +376,7 @@ Finally, we will recommend the next steps for you and the community to take to m
 
 ## Pentest Pains
 
-**Start time:** 16:45
+**Start time:** 16:15
 
 **Duration:** 00:30
 
@@ -380,6 +389,27 @@ Pentesting is meant to uncover security weaknesses, but sometimes the process it
 Whether you’re a seasoned pentester, a blue teamer trying to prepare for a test, or a purple teamer bridging the gap, understanding these challenges can help ensure your next engagement is smoother and more effective. We’ll cover the most common mistakes from all sides of the table, such as poor scoping, lack of communication, ineffective remediation, and unrealistic expectations.
 
 Beyond just the horror stories, this session provides actionable lessons to help security teams and consultants work together more efficiently. Learn how to avoid common traps, improve collaboration, and turn painful experiences into opportunities for a more productive outcome.
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## AI security and AI auditing: security risks and protective measures for modern AI systems
+
+**Start time:** 16:45
+
+**Duration:** 00:30
+
+**Speaker(s):**
+- [Asan Stefanski](#asan-stefanski)
+
+**Abstract:**
+Modern AI technologies such as RAG and AI agents open up enormous opportunities for
+companies, but also present them with considerable security and compliance
+challenges. The presentation “AI Security & AI Auditing” highlights typical points of
+attack of modern AI systems and presents practical protective measures that enable
+effective protection. It will also show how regulatory requirements can be met. Only
+through proactive security measures and transparent auditing processes can AI systems
+be designed to be not only innovative and efficient, but also secure and trustworthy.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
