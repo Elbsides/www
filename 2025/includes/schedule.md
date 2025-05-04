@@ -22,7 +22,7 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.7 of the schedule.
+This is version 0.8 of the schedule.
 
 # Speakers
 
@@ -185,6 +185,10 @@ Malte Wessels has been a PhD student at the Institute for Application Security a
 ## Max Maaß
 
 <img src="/assets/2025/avatars/7BMRPE_8PpmBtn.png" alt="Max Maaß" width="150"  style="float: right;">
+
+**Biography:**
+
+Max Maaß works at the security team at iteratec. He spends his time with architecture reviews, threat modeling and pentesting for software development projects, and has contributed to the OWASP secureCodeBox. Previously, he conducted research into security and privacy issues at the Secure Mobile Networking Lab at TU Darmstadt.
 
 - **Talks:**
   - Backup talk: [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math)
