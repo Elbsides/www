@@ -99,12 +99,30 @@ def write_program_header(f: TextIOWrapper) -> None:
     # f.write("---\n\n")
 
 
+def get_avatar(person: Dict, year) -> str:
+    """Download the avatar from pretalx to the correct directory and return a local link to it."""
+    if person['avatar']:
+        link = os.path.join('assets', str(year), 'avatars', person['avatar'].split('/')[-1])
+        if os.path.exists(link):
+            return link
+        # avatar_path = os.path.join('www', link)
+        os.makedirs(os.path.dirname(link), exist_ok=True)
+        print(f"Downloading {person['avatar']} to {link}")
+        r, message = urllib.request.urlretrieve(person['avatar'], link)
+        print(r)
+        return link
+    else:
+        return None
+
+
 def parse(data: Dict, year: int) -> None:
     """Parse JSON data and convert it to Markdown format."""
     speaker_info = {}  # id: name
     speaker_event_map: dict[str, Set] = {}  # person_id: set(event_guids)
     event_speaker_map = {}  # event_guid: [person_id1, ...]
+    avatars = {}  # person_id: avatar_url
     speaker_list = set()
+    biographies: Dict[str, str] = {} # person_id: biography
 
     # Parse the JSON data
     schedule = data['schedule']
@@ -120,6 +138,13 @@ def parse(data: Dict, year: int) -> None:
             speaker_info[pid] = strip_html(person["name"])
             persons.append(pid)
             speaker_list.add(person["name"])
+            if "avatar" in person and person["avatar"]:
+                # Download avatar
+                avatars[pid] = get_avatar(person, year)
+            if person.get('biography') is None or person.get('biography') == 'None':
+                pass
+            else:
+                biographies[pid] = strip_html(person.get("biography", ""))
             # Map speaker -> events
             speaker_event_map.setdefault(pid, set()).add(event['guid'])
         event_speaker_map[event['guid']] = persons
@@ -149,6 +174,14 @@ def parse(data: Dict, year: int) -> None:
         sorted_speaker_info = dict(sorted(speaker_info.items(), key=lambda item: item[1]))
         for pid, name in sorted_speaker_info.items():
             f.write(f"## {name}\n\n")
+
+            if pid in avatars:
+                f.write(f'<img src="/{avatars[pid]}" alt="{name}" width="150"  style="float: right;">\n\n')
+
+            if pid in biographies:
+                f.write("**Biography:**\n\n")
+                f.write(strip_html(biographies[pid])+"\n\n")
+
             # List talks this speaker is in
             guids: Set = speaker_event_map.get(pid, set())
             if guids:
