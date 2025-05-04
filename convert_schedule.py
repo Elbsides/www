@@ -2,28 +2,33 @@
 import json
 import re
 import os
+from io import TextIOWrapper
 from datetime import datetime, timedelta
 import urllib.request
 from html import unescape
 
-def escape_md(text):
+
+def escape_md(text: str) -> str:
     """Escape Markdown table cell content as needed."""
     # Only | is problematic in table cells; escape it
     return text.replace('|', '&#124;')
 
-def strip_html(text):
+
+def strip_html(text: str) -> str:
     """Remove HTML tags and unescape entities."""
     # Remove tags
     text = re.sub(r'<[^>]+>', '', text)
     return unescape(text).strip()
 
-def make_internal_reference(name):
+
+def make_internal_reference(name: str) -> str:
     """Create an internal Markdown link for a given name."""
     # Convert name to lowercase, replace spaces with hyphens, and remove non-alphanumeric characters
     link = make_internal_link(name)
     return f"[{escape_md(name)}]({link})"
 
-def make_internal_link(heading_title):
+
+def make_internal_link(heading_title: str) -> str:
     """Create an internal Markdown link for a given heading title."""
     # Convert heading title to lowercase, replace spaces with hyphens, and remove non-alphanumeric characters
     anchor = heading_title.lower()
@@ -33,11 +38,13 @@ def make_internal_link(heading_title):
     anchor = anchor.replace(' ', '-')
     return f"#{anchor}"
 
-def write_schedule_version(version, f):
+
+def write_schedule_version(version: str, f: TextIOWrapper) -> None:
     """Write the schedule version to the Markdown file."""
     f.write(f"\nThis is version {version} of the schedule.\n")
 
-def create_networking_event(last_event):
+
+def create_networking_event(last_event: dict) -> dict:
     """Create a networking event entry."""
     networking_start_time = last_event['start_time'] + last_event['duration_time']
     networking_event = {
@@ -57,7 +64,8 @@ def create_networking_event(last_event):
         }
     return networking_event
 
-def write_program_break(f, current_time):
+
+def write_program_break(f: TextIOWrapper, current_time: datetime) -> None:
     """Write a break entry in the program."""
     if current_time.hour < 12:
         break_type = "morning"
@@ -67,7 +75,8 @@ def write_program_break(f, current_time):
         break_type = "afternoon"
     f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | &nbsp; | {break_type} break |\n")
 
-def write_program_entry(f, ev):
+
+def write_program_entry(f: TextIOWrapper, ev: dict) -> None:
     """Write an event entry in the program."""
     if ev['persons']:
         speakers_column = ", ".join(
@@ -80,14 +89,16 @@ def write_program_entry(f, ev):
     title_column = make_internal_reference(ev['title'])
     f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
 
-def write_program_header(f):
+
+def write_program_header(f: TextIOWrapper) -> None:
     """Write the header for the program section."""
     f.write("# Program\n\n")
     f.write("| start time | speaker | title |\n")
     f.write("| ------------ | --------- | ----- |\n")
-            # f.write("---\n\n")
+    # f.write("---\n\n")
 
-def parse(data, year):
+
+def parse(data: dict, year: int) -> None:
     """Parse JSON data and convert it to Markdown format."""
     speaker_info = {}  # id: name
     speaker_event_map = {}  # person_id: set(event_guids)
@@ -111,7 +122,6 @@ def parse(data, year):
             # Map speaker -> events
             speaker_event_map.setdefault(pid, set()).add(event['guid'])
         event_speaker_map[event['guid']] = persons
-        # speaker_list.update(persons)
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
         # Markdown Table Header
@@ -119,7 +129,6 @@ def parse(data, year):
         current_time = None
         for ev in events:
             # Compose speakers column
-            # speaker_list.update([speaker_info[p['guid']] for p in ev['persons']])
             if current_time and ev['start_time'] > current_time:
                 # Add empty row for breaks
                 write_program_break(f, current_time)
@@ -139,8 +148,6 @@ def parse(data, year):
         sorted_speaker_info = dict(sorted(speaker_info.items(), key=lambda item: item[1]))
         for pid, name in sorted_speaker_info.items():
             f.write(f"## {name}\n\n")
-            # url = f"{base_url}/{acronym}/speaker/{pid}/"
-            # f.write(f"- **Profile:** [{url}]({url})\n")
             # List talks this speaker is in
             guids = speaker_event_map.get(pid, [])
             if guids:
@@ -179,14 +186,16 @@ def parse(data, year):
 
 
 if __name__ == "__main__":
-    year = 2025
-    url = f'https://pretalx.com/elbsides-{year}/schedule/export/schedule.json'
+    YEAR = 2025
 
     headers = {
         'Accept': 'application/json',
     }
-    req = urllib.request.Request(url, headers=headers)
+    req = urllib.request.Request(
+        f'https://pretalx.com/elbsides-{YEAR}/schedule/export/schedule.json',
+        headers=headers
+    )
     with urllib.request.urlopen(req) as response:
         data = json.loads(response.read().decode('utf-8'))
 
-    parse(data, year)
+    parse(data, YEAR)
