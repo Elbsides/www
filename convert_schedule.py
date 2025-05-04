@@ -1,4 +1,4 @@
-"""Fetch and convert pretalx conference schedule XML to Markdown format."""
+"""Fetch and convert pretalx conference schedule JSON to Markdown format."""
 import json
 import re
 import os

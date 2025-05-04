@@ -26,9 +26,18 @@ This is version 0.7 of the schedule.
 
 # Speakers
 
-[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
+[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh)
 
 ## Andrea Ercolino
+
+<img src="/assets/2025/avatars/RWSWL8_ZLpDXaV.jpg" alt="Andrea Ercolino" width="150"  style="float: right;">
+
+**Biography:**
+
+Andrea is a passionate Digital Security Specialist currently working at the European Central Bank.
+Navigating the challenging waters of cybersecurity, Andrea focuses on Identity and Access Management, security engineering, and security operations. During his academic journey, he developed a strong interest in network protocol security, secure coding practices, malware reverse engineering, and operational security (OpSec).
+
+Beyond his professional life, Andrea is an enthusiastic fan of The Legend of Zelda series, a saxophone player, and an avid home cook. He’s driven by a deep desire to keep learning, to share knowledge, and to help make the digital world a little bit more secure for everyone.
 
 - **Talks:**
   - [A tale of nefarious usage: IPv6 based Covert Channels](#a-tale-of-nefarious-usage-ipv6-based-covert-channels) (09:45)
@@ -38,6 +47,12 @@ This is version 0.7 of the schedule.
 
 ## Andrey Voitenko
 
+<img src="/assets/2025/avatars/R3F9BR_t5NV7tF.jpeg" alt="Andrey Voitenko" width="150"  style="float: right;">
+
+**Biography:**
+
+Andrey Voitenko is Senior Product Manager at VMRay, where he focuses on advanced threat detection and analysis technologies. With over 20 years of experience in cybersecurity, he has held leadership roles in both product development and product management at major international security vendors. Andrey holds a CISSP certification and a Master’s degree in Applied Mathematics and Information Security Technologies. He is a frequent speaker at industry conferences and technical community events.
+
 - **Talks:**
   - [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) (14:15)
 
@@ -45,6 +60,13 @@ This is version 0.7 of the schedule.
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
 ## Asan Stefanski
+
+<img src="/assets/2025/avatars/FB3EVJ_L1CFW6q.png" alt="Asan Stefanski" width="150"  style="float: right;">
+
+**Biography:**
+
+Asan Stefanski is Director of Digital Transformation at ADVISORI FTC GmbH and a recognized expert in Artificial Intelligence. With more than 12 years of experience in complex IT projects, he has successfully taken on key roles including Project Manager, Senior Software Architect, and Senior Software Engineer.
+Attached you will find the photo of Asan.
 
 - **Talks:**
   - [AI security and AI auditing: security risks and protective measures for modern AI systems](#ai-security-and-ai-auditing-security-risks-and-protective-measures-for-modern-ai-systems) (16:45)
@@ -54,6 +76,14 @@ This is version 0.7 of the schedule.
 
 ## Axelle Apvrille
 
+<img src="/assets/2025/avatars/ACG8SL_Swt1785.jpg" alt="Axelle Apvrille" width="150"  style="float: right;">
+
+**Biography:**
+
+Axelle Apvrille is a Principal Security Researcher at Fortinet, Fortiguard Labs. Her research interests are mobile and IoT malware that she reverses every day. In addition, she is the lead organizer of Ph0wn CTF, an on-site competition which focuses on ethical hacking of smart objects. In a prior life, Axelle used to implement cryptographic algorithms and security protocols.
+
+Axelle has spoken at many conferences such as Black Hat Europe, Confidence, Hack.Lu, Hacktivity, Insomni'hack, ShmooCon, Troopers, Virus Bulletin... NorthSec 2021 ;-) She has also published in academic journals such as IEEE Security & Privacy, or Journal in Computer Virology. She regularly writes in the French magazine MISC and Hackable, and has recently published in Phrack #71.
+
 - **Talks:**
   - [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) (17:15)
 
@@ -62,21 +92,31 @@ This is version 0.7 of the schedule.
 
 ## Chris Traynor
 
+<img src="/assets/2025/avatars/LNMUVK_EBLtVut.png" alt="Chris Traynor" width="150"  style="float: right;">
+
+**Biography:**
+
+Chris is a Pentester at Black Hills Information Security (BHIS), where he is responsible for Pen Testing web apps, mobile app, APIs, and networks. He is also the owner of Ridgeback InfoSec (ridgebackinfosec.com) and has authored two cybersecurity classes (Offensive Tooling Foundations and Offensive Tooling for Operators) which he teaches via Antisyphon Training. Chris has nearly two decades of experience in Web/Mobile development, QA automation, and Penetration Testing.
+
+Certifications:
+GSEC: GIAC Security Essentials
+GCIH: GIAC Certified Incident Handler
+GWAPT: GIAC Web Application Pen Tester
+GPEN: GIAC Penetration Tester
+
 - **Talks:**
   - [Pentest Pains](#pentest-pains) (16:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## Christian Kollee
-
-- **Talks:**
-  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise) (09:45)
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
 ## Igor Stepansky
+
+<img src="/assets/2025/avatars/NCXHWB_I2bP95d.jpeg" alt="Igor Stepansky" width="150"  style="float: right;">
+
+**Biography:**
+
+I'm Igor Stepansky, a Product Security Engineer at Axonius for more than 3 years with a background as a cybersecurity analyst. My expertise includes integrating security solutions such as SAST, IaC, SCA, secrets detection, malicious package identification, and more. I'm also responsible for penetration testing, securing cloud and Docker environments, GitHub hardening, and building cool tools to enhance security workflows. I'm passionate about sharing practical knowledge and insights gained from working with diverse security solutions in a modern enterprise environment like Axonius.
 
 - **Talks:**
   - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:15)
@@ -86,6 +126,12 @@ This is version 0.7 of the schedule.
 
 ## Jasmin Mair
 
+<img src="/assets/2025/avatars/DRJRYT_VWLC9pA.jpg" alt="Jasmin Mair" width="150"  style="float: right;">
+
+**Biography:**
+
+Jasmin Mair works as a Global Product Security Manager at Leica Microsystems. She brings a wealth of experience in application and product security. In her previous role as a security consultant at IBM, she helped clients across various industries implement security programs, establish DevSecOps practices, and generally secure the software development lifecycle (SDLC). However, her true passion lies in building bridges between interdisciplinary teams and finding new ways to improve collaboration between security, development, and product management.
+
 - **Talks:**
   - [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) (13:45)
 
@@ -93,6 +139,11 @@ This is version 0.7 of the schedule.
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
 ## Lars Fischer
+
+**Biography:**
+
+https://informatik.hs-bremerhaven.de/lafischer
+(more coming on acceptance of the talk)
 
 - **Talks:**
   - [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) (10:15)
@@ -102,16 +153,14 @@ This is version 0.7 of the schedule.
 
 ## Malte Wessels
 
+<img src="/assets/2025/avatars/JKYGVU_Hi8przD.jpg" alt="Malte Wessels" width="150"  style="float: right;">
+
+**Biography:**
+
+Malte Wessels has been a PhD student at the Institute for Application Security at TU Braunschweig since summer '22, where he researches web security and privacy.
+
 - **Talks:**
   - [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) (15:45)
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Max Maaß
-
-- **Talks:**
-  - Backup talk: [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) (09:15)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -126,6 +175,18 @@ This is version 0.7 of the schedule.
 
 ## Mikko Hyppönen
 
+<img src="/assets/2025/avatars/S9LPFF_5JGHoN9.png" alt="Mikko Hyppönen" width="150"  style="float: right;">
+
+**Biography:**
+
+Mikko Hypponen is a global security expert, speaker and author. He works as the Chief Research Officer at WithSecure and as the Principal Research Advisor at F-Secure.
+
+Mr. Hypponen has written on his research for the New York Times, Wired and Scientific American and he appears frequently on international TV. He has lectured at the universities of Stanford, Oxford and Cambridge.
+
+He was selected among the 50 most important people on the web by the PC World magazine and was included in the FP Global 100 Thinkers list.
+
+Mr. Hypponen sits in the advisory boards of t2 and Safeguard Cyber.
+
 - **Talks:**
   - [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) (09:15)
 
@@ -133,6 +194,12 @@ This is version 0.7 of the schedule.
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
 ## Santi Abastante
+
+<img src="/assets/2025/avatars/WJWN3S_60fhjjy.jpg" alt="Santi Abastante" width="150"  style="float: right;">
+
+**Biography:**
+
+Former Police Officer from Argentina, now a Cloud Incident Responder and Security Engineer with over 10 years of IT experience. A Digital Nomad an international speaker, I've presented on Cloud Security and Incident Response at Ekoparty, FIRST, Virus Bulletin (three times), Hack.Lu, and various BSides events worldwide. I hold a Bachelor's degree in Information Security and an MBA (Master in Business Administration).
 
 - **Talks:**
   - [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) (11:45)
@@ -142,6 +209,13 @@ This is version 0.7 of the schedule.
 
 ## Sarah Pauli
 
+<img src="/assets/2025/avatars/ZNCQVN_rxNplTb.jpg" alt="Sarah Pauli" width="150"  style="float: right;">
+
+**Biography:**
+
+Hi, I´m Sarah!
+I have been working over years in the business as a disciplinary and temporary leader in Customer Services, Supply Chain Management and IT. Whilst a Transformation Program, I found my passion for Informationsecurity and the Psychology behind. Some Years later, I am a future Cyberpsychologist, focusing on the human machine interaction. My aim is to give a better understanding what happens with us in the digital world and how we can gain the right benefit and limits for our digital future.
+
 - **Talks:**
   - [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) (14:45)
 
@@ -150,16 +224,16 @@ This is version 0.7 of the schedule.
 
 ## Sewar Khalifeh
 
+<img src="/assets/2025/avatars/QAZPDF_q4WONbv.png" alt="Sewar Khalifeh" width="150"  style="float: right;">
+
+**Biography:**
+
+Sewar Khalifeh is a cybersecurity consultant specializing in Secure by Design principles, with over three years of experience in the banking and telecommunications industries. She currently works as a Secure by Design consultant for CLOUDYRION, conducting security assessments for cloud/hybrid solutions, and leading security initiatives that pushes digital transformation journeys.
+
+Holding multiple certifications, including ECIH, CEH, and OCI Security Professional, she is passionate about advocating for security best practices and sharing insights through workshops and community engagements.
+
 - **Talks:**
   - [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) (11:15)
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Yasin Tas
-
-- **Talks:**
-  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise) (09:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -439,63 +513,6 @@ In this keynote, we'll explore moments where AI shines and fails. We'll also dis
 
 **Abstract:**
 It's a wrap! See you at the networking hour and next year.
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math
-
-**Backup talk**
-
-
-**Speaker(s):**
-- [Max Maaß](#max-maaß)
-
-**Abstract:**
-People talk a lot about defensive software architecture, but does it really make a difference?
-
-In this presentation, I give an example from a security audit we performed, in which a simple misuse of a cryptographic primitive led to the compromise of an entire customer service tool for a payment provider, which would have allowed us full administrative access to their backends.
-
-By stepping through the architecture of the system from the highest level down to the exact vulnerable code, this example allows us to illustrate the advantages of defensive software architectures with multiple layers of security. By the end of the presentation, you will have a new appreciation for defensive software architectures. As a bonus, you will also have learned about a neat cryptographic trick that exploits unauthenticated encryption.
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## From OneDrive Access to System Compromise
-
-**Backup talk**
-
-
-**Speaker(s):**
-- [Christian Kollee](#christian-kollee)
-- [Yasin Tas](#yasin-tas)
-
-**Abstract:**
-With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces. 
-
-With the increased importance of digital identities, they have become a target for criminals. Using adversary-in-the-middle (AitM) attacks, these criminals try to compromise business e-mail addresses, and after successfully obtaining valid credentials, the threat actor can access the user's cloud environment, launching business e-mail compromise (BEC) attacks. Additionally, these credentials allow a threat actor to access the user's cloud storage environments, like OneDrive. This access provides many opportunities for a threat actor, including:
-
-1. Direct access to valuable information  
-2. A trusted repository to host malware for distribution 
-3. A trusted command and control (C2) channel  
-4. Data exfiltration via a trusted channel 
-5. Synchronisation misuse
-
-Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.        
-
-This talk will illustrate briefly how threat actors use AitM attacks to obtain access to Microsoft M365 credentials and show a proof-of-concept of how a threat actor can use these credentials to compromise a user's system via the OneDrives sync feature.
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Networking Hour
-
-**Start time:** 18:00
-
-**Duration:** 01:00
-
-**Abstract:**
-An hour dedicated to networking, discussions and drinks.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
