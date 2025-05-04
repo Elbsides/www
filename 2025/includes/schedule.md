@@ -117,11 +117,12 @@ GPEN: GIAC Penetration Tester
 **Biography:**
 
 Christian has more than 13 years of experience in IT security (primarily CSIRT and SOC) and 8+ years in digital forensics and incident response.
-He has led the handling of numerous incidents involving small and medium-sized businesses, large corporations, hospitals, and universities.
+He has led the handling of numerous incidents involving small and medium-sized businesses, large corporations, hospitals, and universities. 
 
 Since October 2024, Christian has been the Principal Expert at Eye Security GmbH and is responsible for helping (primarily) German companies and organizations recover from incidents quickly and securely.
 
 - **Talks:**
+  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -186,6 +187,7 @@ Malte Wessels has been a PhD student at the Institute for Application Security a
 <img src="/assets/2025/avatars/7BMRPE_8PpmBtn.png" alt="Max Maaß" width="150"  style="float: right;">
 
 - **Talks:**
+  - Backup talk: [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -272,6 +274,7 @@ Holding multiple certifications, including ECIH, CEH, and OCI Security Professio
 From a young age Yasin had an affinity with Computers and Technology, and has been with Eye Security B.V. for the past 3 years improving his knowledge and skills in Digital Forensics and Incident Response.
 
 - **Talks:**
+  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -452,10 +455,10 @@ This session will include real-world examples of advanced phishing techniques, s
 - [Sarah Pauli](#sarah-pauli)
 
 **Abstract:**
-I would like to give an insightful exploration into the impact of Cybercrime on the mental health of SOC-Analysts and related roles which are connected to the upper management.
-As we delve into this critical topic, we recognize the increasing prevalence of cyberattacks and decresing availability in the workforce. SOC´s are at the forefront of defending organizations against these threats, yet the demanding nature of their work often leads to significant stress and burnout among SOC analysts and upper management dedicated in the field of Cybersecurity.
+I would like to give an insightful exploration into the impact of Cybercrime on the mental health of SOC-Analysts and related roles which are connected to the upper management. 
+As we delve into this critical topic, we recognize the increasing prevalence of cyberattacks and decresing availability in the workforce. SOC´s are at the forefront of defending organizations against these threats, yet the demanding nature of their work often leads to significant stress and burnout among SOC analysts and upper management dedicated in the field of Cybersecurity. 
 
-Most of the time, we try to reflect on the technical stability in this area. But we do not figure out how important structures and regulated processes are relevant in this area, similar to High-reliability organizations (e.g. Aviation or Medicine).
+Most of the time, we try to reflect on the technical stability in this area. But we do not figure out how important structures and regulated processes are relevant in this area, similar to High-reliability organizations (e.g. Aviation or Medicine). 
 
 I want to give an inspirational approach to improve the workplace, keeping professionals more resilient and longer in their workplace. My approach reflects not just on mental health and wellbeing, it´s partly a management calculation which should be added in the consideration of defending risks from organizations.
 
@@ -583,17 +586,17 @@ By stepping through the architecture of the system from the highest level down t
 - [Yasin Tas](#yasin-tas)
 
 **Abstract:**
-With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces.
+With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces. 
 
 With the increased importance of digital identities, they have become a target for criminals. Using adversary-in-the-middle (AitM) attacks, these criminals try to compromise business e-mail addresses, and after successfully obtaining valid credentials, the threat actor can access the user's cloud environment, launching business e-mail compromise (BEC) attacks. Additionally, these credentials allow a threat actor to access the user's cloud storage environments, like OneDrive. This access provides many opportunities for a threat actor, including:
 
-1. Direct access to valuable information
-2. A trusted repository to host malware for distribution
-3. A trusted command and control (C2) channel
-4. Data exfiltration via a trusted channel
+1. Direct access to valuable information  
+2. A trusted repository to host malware for distribution 
+3. A trusted command and control (C2) channel  
+4. Data exfiltration via a trusted channel 
 5. Synchronisation misuse
 
-Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.
+Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.        
 
 This talk will illustrate briefly how threat actors use AitM attacks to obtain access to Microsoft M365 credentials and show a proof-of-concept of how a threat actor can use these credentials to compromise a user's system via the OneDrives sync feature.
 

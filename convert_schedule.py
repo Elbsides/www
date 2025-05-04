@@ -176,38 +176,39 @@ def parse(data: Dict, year: int) -> None:
             # Compose time
             write_program_entry(f, ev)
             current_time = ev['start_time'] + ev['duration_time']
-        ne= create_networking_event(max(events, key=lambda ev: ev['start_time'] + ev['duration_time']))
-        write_program_entry(f, ne)
+        write_program_entry(
+            f,
+            create_networking_event(
+                max(events, key=lambda ev: ev['start_time'] + ev['duration_time'])
+            )
+        )
         write_schedule_version(version, f)
 
         # --- Speaker Info Sections ---
         f.write("\n# Speakers\n\n")
-
         f.write(', '.join([make_internal_reference(s) for s in sorted(speaker_list)])+"\n\n")
-
         # Sort speaker_info by name
         sorted_speaker_info = dict(sorted(speaker_info.items(), key=lambda item: item[1]))
         for pid, name in sorted_speaker_info.items():
             f.write(f"## {name}\n\n")
-
             if pid in avatars:
                 f.write(f'<img src="/{avatars[pid]}" alt="{name}" width="150"  style="float: right;">\n\n')
-
             if pid in biographies:
                 f.write("**Biography:**\n\n")
                 f.write(strip_html(biographies[pid])+"\n\n")
-
             # List talks this speaker is in
             guids: Set = speaker_event_map.get(pid, set())
-            if guids:
-                f.write("- **Talks:**\n")
-                for guid in guids:
-                    # Find event by guid
-                    evs = [ev for ev in events if ev['guid'] == guid]
-                    for ev in evs:
-                        # talk_url = ev['url']
-                        # f.write(f"  - [{ev['title']}]({talk_url}) ({ev['start']})\n")
-                        f.write(f"  - {'Backup talk: ' if ev['room'] == 'Backup' else ''}{make_internal_reference(ev['title'])} ({ev['start']})\n")
+            f.write("- **Talks:**\n")
+            for guid in guids:
+                # Find event by guid
+                evs = [ev for ev in events+backups if ev['guid'] == guid]
+                for ev in evs:
+                    # talk_url = ev['url']
+                    # f.write(f"  - [{ev['title']}]({talk_url}) ({ev['start']})\n")
+                    if ev['backup']:
+                        f.write(f"  - Backup talk: {make_internal_reference(ev['title'])}\n")
+                    else:
+                        f.write(f"  - {make_internal_reference(ev['title'])} ({ev['start']})\n")
             f.write("\n")
             f.write(f'---\n<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/{year}/)</span>\n\n')
 
