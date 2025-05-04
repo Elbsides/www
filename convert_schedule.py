@@ -1,5 +1,5 @@
 """Fetch and convert pretalx conference schedule XML to Markdown format."""
-import xml.etree.ElementTree as ET
+import json
 import re
 import os
 from datetime import datetime, timedelta
@@ -33,63 +33,14 @@ def make_internal_link(heading_title):
     anchor = anchor.replace(' ', '-')
     return f"#{anchor}"
 
-def main(xml_str: str, year):
-    root = ET.fromstring(xml_str)
-    # root = tree.getroot()
+def write_schedule_version(version, f):
+    """Write the schedule version to the Markdown file."""
+    f.write(f"\nThis is version {version} of the schedule.\n")
 
-    # Get conference info
-    # conf_info = root.find("conference")
-    # base_url = conf_info.find("base_url").text.strip()
-    # acronym = conf_info.find("acronym").text.strip()
-
-    # Index all speakers: {person_id: set(name, ...)}
-    speaker_info = {} # id: name
-
-    # Will store event table rows and full info blocks
-    events = []
-
-    # Index for later reference in info sections
-    speaker_event_map = {}  # person_id: set(event_guids)
-    event_speaker_map = {}  # event_guid: [person_id1, ...]
-
-    # Get the version of the conference
-    version = root.find(".//version").text.strip()
-
-    # Parse event data
-    for day in root.findall(".//day"):
-        for room in day.findall("room"):
-            for event in room.findall("event"):
-                event_dict = {}
-                event_dict['guid'] = event.get('guid')
-                event_dict['id'] = event.get('id')
-                event_dict['start'] = event.find('start').text
-                event_dict['title'] = event.find('title').text
-                event_dict['url'] = event.find('url').text
-                event_dict['abstract'] = (event.find('abstract').text or "").strip()
-                event_dict['type'] = event.find('type').text or ""
-                event_dict['slug'] = event.find('slug').text or ""
-                event_dict['duration'] = event.find('duration').text or ""
-                event_dict['room'] = event.find('room').text or ""
-                event_dict['start_time'] = datetime.strptime(event.find('start').text, "%H:%M")
-                d = datetime.strptime(event.find('duration').text, "%H:%M")
-                event_dict['duration_time'] = timedelta(minutes=d.minute, hours=d.hour)
-                persons = []
-                for person in event.find('persons').findall('person'):
-                    # print(person.keys())
-                    pid = person.get('id')
-                    name = strip_html(person.text or "")
-                    speaker_info[pid] = name
-                    persons.append(pid)
-                    # Map speaker -> events
-                    speaker_event_map.setdefault(pid, set()).add(event_dict['guid'])
-                event_speaker_map[event_dict['guid']] = persons
-                event_dict['persons'] = persons
-                events.append(event_dict)
-                # Add networking hour after the last event
-    if events:
-        last_event = max(events, key=lambda ev: ev['start_time'] + ev['duration_time'])
-        networking_start_time = last_event['start_time'] + last_event['duration_time']
-        networking_event = {
+def create_networking_event(last_event):
+    """Create a networking event entry."""
+    networking_start_time = last_event['start_time'] + last_event['duration_time']
+    networking_event = {
             'guid': 'networking-hour',
             'id': 'networking-hour',
             'start': networking_start_time.strftime('%H:%M'),
@@ -104,47 +55,80 @@ def main(xml_str: str, year):
             'duration_time': timedelta(hours=1),
             'persons': []
         }
-        events.append(networking_event)
+    return networking_event
+
+def write_program_break(f, current_time):
+    """Write a break entry in the program."""
+    if current_time.hour < 12:
+        break_type = "morning"
+    elif 12 <= current_time.hour < 14:
+        break_type = "lunch"
+    else:
+        break_type = "afternoon"
+    f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | &nbsp; | {break_type} break |\n")
+
+def write_program_entry(f, ev):
+    """Write an event entry in the program."""
+    if ev['persons']:
+        speakers_column = ", ".join(
+            make_internal_reference(p["name"])
+                for p in ev['persons']
+        )
+    else:
+        speakers_column = ""
+    start_column = ev['start']
+    title_column = make_internal_reference(ev['title'])
+    f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
+
+def write_program_header(f):
+    """Write the header for the program section."""
+    f.write("# Program\n\n")
+    f.write("| start time | speaker | title |\n")
+    f.write("| ------------ | --------- | ----- |\n")
+            # f.write("---\n\n")
+
+def parse(data, year):
+    """Parse JSON data and convert it to Markdown format."""
+    speaker_info = {}  # id: name
+    speaker_event_map = {}  # person_id: set(event_guids)
+    event_speaker_map = {}  # event_guid: [person_id1, ...]
+    speaker_list = set()
+
+    # Parse the JSON data
+    schedule = data['schedule']
+    version = schedule['version']
+    events = schedule['conference']['days'][0]['rooms']['Elbkuppel']
+    for event in events:
+        event['start_time'] = datetime.strptime(event['start'], "%H:%M")
+        d = datetime.strptime(event['duration'], "%H:%M")
+        event['duration_time'] = timedelta(minutes=d.minute, hours=d.hour)
+        persons = []
+        for person in event['persons']:
+            pid = person["guid"]
+            speaker_info[pid] = strip_html(person["name"])
+            persons.append(pid)
+            speaker_list.add(person["name"])
+            # Map speaker -> events
+            speaker_event_map.setdefault(pid, set()).add(event['guid'])
+        event_speaker_map[event['guid']] = persons
+        # speaker_list.update(persons)
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
-        speaker_list = set()
-
         # Markdown Table Header
-        f.write("# Program\n\n")
-        f.write("| start time | speaker | title |\n")
-        f.write("| ------------ | --------- | ----- |\n")
-
+        write_program_header(f)
         current_time = None
         for ev in events:
             # Compose speakers column
-            # print(ev['room'])
-            speaker_list.update(speaker_info[pid] for pid in ev.get('persons', []))
-            if not ev['room'] == "Elbkuppel":
-                continue
+            # speaker_list.update([speaker_info[p['guid']] for p in ev['persons']])
             if current_time and ev['start_time'] > current_time:
                 # Add empty row for breaks
-                if current_time.hour < 12:
-                    break_type = "morning"
-                elif 12 <= current_time.hour < 14:
-                    break_type = "lunch"
-                else:
-                    break_type = "afternoon"
-                f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | &nbsp; | {break_type} break |\n")
-                # f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | break |\n")
-            if ev['persons']:
-                speakers_column = ", ".join(
-                    make_internal_reference(speaker_info[pid])
-                    for pid in ev['persons']
-                )
-            else:
-                speakers_column = ""
-            # Compose title column
-            title_column = make_internal_reference(ev['title'])
+                write_program_break(f, current_time)
             # Compose time
-            start_column = ev['start']
-            f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
+            write_program_entry(f, ev)
             current_time = ev['start_time'] + ev['duration_time']
-        f.write(f"\nThis is version {version} of the schedule.\n")
+        ne= create_networking_event(max(events, key=lambda ev: ev['start_time'] + ev['duration_time']))
+        write_program_entry(f, ne)
+        write_schedule_version(version, f)
 
         # --- Speaker Info Sections ---
         f.write("\n# Speakers\n\n")
@@ -184,33 +168,25 @@ def main(xml_str: str, year):
             # Speakers
             if ev['persons']:
                 f.write("\n**Speaker(s):**\n")
-                for pid in ev['persons']:
-                    f.write(f"- {make_internal_reference(speaker_info[pid])}\n")
+                for p in ev['persons']:
+                    f.write(f"- {make_internal_reference(speaker_info[p['guid']])}\n")
             # Abstract
             f.write("\n**Abstract:**\n")
             f.write(strip_html(ev['abstract'])+"\n")
             f.write("\n")
             # f.write(f"\n**Talk info:** [{ev['url']}]({ev['url']})\n\n")
             f.write(f'---\n<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/{year}/)</span>\n\n')
-            # f.write("---\n\n")
 
 
 if __name__ == "__main__":
     year = 2025
-    PRETALX_TOKEN = os.getenv('PRETALX_TOKEN')
-    # download the data
-    url = f'https://pretalx.com/elbsides-{year}/schedule/export/schedule.xml'
+    url = f'https://pretalx.com/elbsides-{year}/schedule/export/schedule.json'
+
     headers = {
-        'Authorization': f'Token {PRETALX_TOKEN}'
+        'Accept': 'application/json',
     }
-    # urllib.request.urlretrieve(url, file_path)
     req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req) as response:
-        data = response.read()
+        data = json.loads(response.read().decode('utf-8'))
 
-    # with open('schedule.xml', 'wb') as f:
-        # f.write(data)
-    # print("Data downloaded successfully!")
-
-    # Change to your input XML file, e.g. 'schedule.xml'
-    main(data.decode('utf-8'), 2025)
+    parse(data, year)
