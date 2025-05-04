@@ -3,6 +3,7 @@ import json
 import re
 import os
 from io import TextIOWrapper
+from typing import Set, Dict
 from datetime import datetime, timedelta
 import urllib.request
 from html import unescape
@@ -44,7 +45,7 @@ def write_schedule_version(version: str, f: TextIOWrapper) -> None:
     f.write(f"\nThis is version {version} of the schedule.\n")
 
 
-def create_networking_event(last_event: dict) -> dict:
+def create_networking_event(last_event: Dict) -> Dict:
     """Create a networking event entry."""
     networking_start_time = last_event['start_time'] + last_event['duration_time']
     networking_event = {
@@ -76,7 +77,7 @@ def write_program_break(f: TextIOWrapper, current_time: datetime) -> None:
     f.write(f"| {escape_md(current_time.strftime('%H:%M'))} | &nbsp; | {break_type} break |\n")
 
 
-def write_program_entry(f: TextIOWrapper, ev: dict) -> None:
+def write_program_entry(f: TextIOWrapper, ev: Dict) -> None:
     """Write an event entry in the program."""
     if ev['persons']:
         speakers_column = ", ".join(
@@ -98,10 +99,10 @@ def write_program_header(f: TextIOWrapper) -> None:
     # f.write("---\n\n")
 
 
-def parse(data: dict, year: int) -> None:
+def parse(data: Dict, year: int) -> None:
     """Parse JSON data and convert it to Markdown format."""
     speaker_info = {}  # id: name
-    speaker_event_map = {}  # person_id: set(event_guids)
+    speaker_event_map: dict[str, Set] = {}  # person_id: set(event_guids)
     event_speaker_map = {}  # event_guid: [person_id1, ...]
     speaker_list = set()
 
@@ -149,7 +150,7 @@ def parse(data: dict, year: int) -> None:
         for pid, name in sorted_speaker_info.items():
             f.write(f"## {name}\n\n")
             # List talks this speaker is in
-            guids = speaker_event_map.get(pid, [])
+            guids: Set = speaker_event_map.get(pid, set())
             if guids:
                 f.write("- **Talks:**\n")
                 for guid in guids:
@@ -196,6 +197,6 @@ if __name__ == "__main__":
         headers=headers
     )
     with urllib.request.urlopen(req) as response:
-        data = json.loads(response.read().decode('utf-8'))
+        schedule_data = json.loads(response.read().decode('utf-8'))
 
-    parse(data, YEAR)
+    parse(schedule_data, YEAR)
