@@ -96,7 +96,6 @@ def write_program_header(f: TextIOWrapper) -> None:
     f.write("# Program\n\n")
     f.write("| start time | speaker | title |\n")
     f.write("| ------------ | --------- | ----- |\n")
-    # f.write("---\n\n")
 
 
 def get_avatar(person: Dict, year) -> str:
@@ -129,6 +128,7 @@ def parse(data: Dict, year: int) -> None:
     version = schedule['version']
     events = schedule['conference']['days'][0]['rooms']['Elbkuppel']
     for event in events:
+        event['backup'] = False
         event['start_time'] = datetime.strptime(event['start'], "%H:%M")
         d = datetime.strptime(event['duration'], "%H:%M")
         event['duration_time'] = timedelta(minutes=d.minute, hours=d.hour)
@@ -141,9 +141,24 @@ def parse(data: Dict, year: int) -> None:
             if "avatar" in person and person["avatar"]:
                 # Download avatar
                 avatars[pid] = get_avatar(person, year)
-            if person.get('biography') is None or person.get('biography') == 'None':
-                pass
-            else:
+            if not(person.get('biography') is None or person.get('biography') == 'None'):
+                biographies[pid] = strip_html(person.get("biography", ""))
+            # Map speaker -> events
+            speaker_event_map.setdefault(pid, set()).add(event['guid'])
+        event_speaker_map[event['guid']] = persons
+    backups = schedule['conference']['days'][0]['rooms']['Backup']
+    for event in backups:
+        event['backup'] = True
+        persons = []
+        for person in event['persons']:
+            pid = person["guid"]
+            speaker_info[pid] = strip_html(person["name"])
+            persons.append(pid)
+            speaker_list.add(person["name"])
+            if "avatar" in person and person["avatar"]:
+                # Download avatar
+                avatars[pid] = get_avatar(person, year)
+            if not(person.get('biography') is None or person.get('biography') == 'None'):
                 biographies[pid] = strip_html(person.get("biography", ""))
             # Map speaker -> events
             speaker_event_map.setdefault(pid, set()).add(event['guid'])
@@ -198,7 +213,7 @@ def parse(data: Dict, year: int) -> None:
 
         # --- Talk Info Sections ---
         f.write("\n# Talks\n\n")
-        for ev in events:
+        for ev in events+backups:
             f.write(f"## {ev['title']}\n\n")
             if ev['room'] == 'Backup':
                 f.write("**Backup talk**\n\n")
