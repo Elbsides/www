@@ -70,12 +70,6 @@ For all his professional business life (even years before that) Stefan has been 
 
 A past interest in archaeology brought Florian to the field of security. To him, both share a similar approach: recognizing the ideas of the past via its artefacts and the application of these lessons to form a better future. As a security engineer he tries to adopt this philosophy to the various aspects of the field, may it be user awareness, OS and network security or how to cloud securely. He also enjoys hot food, fast bikes and open source.
 
-## [Debbie](https://de.linkedin.com/in/deborahkuhntopf)
-
-Debbie is also a non-techie. Her passion for working in IT security started in 2019 with SCHUTZWERK, where she came into contact with Elbsides. She has been involved in the community ever since. Inspired by her former colleagues at SCHUTZWERK, she also started studying business informatics part-time in March 2021 to gain more IT knowledge. During her studies, which will end in fall 2024, she has left no opportunity to combine all topics with IT security.
-
-From June 2024, Debbie will be working as an Account Manager at AirITSystems. Her colleagues and she ensures that companies' business-critical IT functions securely and smoothly. She is very much looking forward to this as she will be delving even deeper into the IT world.
-
 ## [Jonas](https://social.jonaskoeritz.de/@jonas)
 
 Jonas' day job is in incident response and forensics at BlackBerry. During engagements, he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents. In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests. In the great outdoors he enjoys geocaching and paddling. He also added aerial photography and semi-autonomous to fully manual flight with home-built UAVs and FPV drones to his outdoor activities.
