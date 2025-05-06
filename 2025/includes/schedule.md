@@ -22,7 +22,7 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.8 of the schedule.
+This is version 0.9 of the schedule.
 
 # Speakers
 
@@ -197,6 +197,14 @@ Max Maaß works at the security team at iteratec. He spends his time with archit
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
 ## Michael Goberman
+
+<img src="/assets/2025/avatars/9FTU7B_NAEQ4nP.jpeg" alt="Michael Goberman" width="150"  style="float: right;">
+
+**Biography:**
+
+Michael Goberman is the Director of Product Security at Axonius, where he leads the Application Security department. He brings extensive industry experience across a diverse range of cybersecurity roles, demonstrating strong leadership in securing modern enterprise applications and infrastructure.
+
+https://www.linkedin.com/in/michael-goberman/
 
 - **Talks:**
   - [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) (12:15)
