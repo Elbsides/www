@@ -22,7 +22,7 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.9 of the schedule.
+This is version 0.10 of the schedule.
 
 # Speakers
 
@@ -316,7 +316,11 @@ Welcome and housekeeping statements
 - [Mikko Hyppönen](#mikko-hyppönen)
 
 **Abstract:**
-Mikko will teach us what he learned in over 35 years of working in the computer security field. This spans the beginnings of the computer virus problem through the dawn of the computer crime age until now in its maturity.
+Mikko brings over 35 years of deep, firsthand experience in the ever-evolving computer security landscape. In this talk, he will guide us through the formative stages of the industry - when the first self-replicating malicious code emerged, and security professionals were just beginning to recognize and contain the computer virus threat.
+ 
+Mikko will examine the transition from isolated virus outbreaks to organized, financially motivated cybercrime rings. He’ll recount his investigations of email-borne exploits, discuss the rise of botnets and distributed denial-of-service attacks, and share lessons learned about the interplay between attacker innovation and defender response.
+ 
+Finally, Mikko will reflect on the current state of cybersecurity as a mature, multi-billion-dollar ecosystem and how governments entered the picture. He'll finish with some educated guesses about where we will go next.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
