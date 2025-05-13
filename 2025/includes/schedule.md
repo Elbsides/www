@@ -22,7 +22,7 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.10 of the schedule.
+This is version 0.11 of the schedule.
 
 # Speakers
 
@@ -218,13 +218,13 @@ https://www.linkedin.com/in/michael-goberman/
 
 **Biography:**
 
-Mikko Hypponen is a global security expert, speaker and author. He works as the Chief Research Officer at WithSecure and as the Principal Research Advisor at F-Secure.
+Mikko Hyppönen is a global security expert, speaker and author. He works as the Chief Research Officer at WithSecure and as the Principal Research Advisor at F-Secure.
 
-Mr. Hypponen has written on his research for the New York Times, Wired and Scientific American and he appears frequently on international TV. He has lectured at the universities of Stanford, Oxford and Cambridge.
+Mr. Hyppönen has written on his research for the New York Times, Wired and Scientific American and he appears frequently on international TV. He has lectured at the universities of Stanford, Oxford and Cambridge.
 
 He was selected among the 50 most important people on the web by the PC World magazine and was included in the FP Global 100 Thinkers list.
 
-Mr. Hypponen sits in the advisory boards of t2 and Safeguard Cyber.
+Mr. Hyppönen sits in the advisory boards of t2 and Safeguard Cyber.
 
 - **Talks:**
   - [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) (09:15)
