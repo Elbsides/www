@@ -8,7 +8,7 @@
 | 10:15 | [Lars Fischer](#lars-fischer) | [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) |
 | 10:45 | &nbsp; | morning break |
 | 11:15 | [Sewar Khalifeh](#sewar-khalifeh) | [From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](#from-unrestricted-uploads-to-security-nightmares-preventing-and-mitigating-file-upload-vulnerabilities) |
-| 11:45 | [Santi Abastante](#santi-abastante) | [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) |
+| 11:45 | [Max Maaß](#max-maaß) | [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) |
 | 12:15 | [Igor Stepansky](#igor-stepansky), [Michael Goberman](#michael-goberman) | [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) |
 | 12:45 | &nbsp; | lunch break |
 | 13:45 | [Jasmin Mair](#jasmin-mair) | [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) |
@@ -22,11 +22,11 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.11 of the schedule.
+This is version 0.12 of the schedule.
 
 # Speakers
 
-[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Santi Abastante](#santi-abastante), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
+[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
 
 ## Andrea Ercolino
 
@@ -191,7 +191,7 @@ Malte Wessels has been a PhD student at the Institute for Application Security a
 Max Maaß works at the security team at iteratec. He spends his time with architecture reviews, threat modeling and pentesting for software development projects, and has contributed to the OWASP secureCodeBox. Previously, he conducted research into security and privacy issues at the Secure Mobile Networking Lab at TU Darmstadt.
 
 - **Talks:**
-  - Backup talk: [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math)
+  - [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) (11:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -228,20 +228,6 @@ Mr. Hyppönen sits in the advisory boards of t2 and Safeguard Cyber.
 
 - **Talks:**
   - [Opening Keynote: What I've Learned](#opening-keynote-what-ive-learned) (09:15)
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Santi Abastante
-
-<img src="/assets/2025/avatars/WJWN3S_60fhjjy.jpg" alt="Santi Abastante" width="150"  style="float: right;">
-
-**Biography:**
-
-Former Police Officer from Argentina, now a Cloud Incident Responder and Security Engineer with over 10 years of IT experience. A Digital Nomad an international speaker, I've presented on Cloud Security and Incident Response at Ekoparty, FIRST, Virus Bulletin (three times), Hack.Lu, and various BSides events worldwide. I hold a Bachelor's degree in Information Security and an MBA (Master in Business Administration).
-
-- **Talks:**
-  - [AWS Advanced Offensive Techniques, what defenders need to know.](#aws-advanced-offensive-techniques-what-defenders-need-to-know) (11:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -384,17 +370,21 @@ Unrestricted file uploads pose a significant threat to application security, all
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## AWS Advanced Offensive Techniques, what defenders need to know.
+## Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math
 
 **Start time:** 11:45
 
 **Duration:** 00:30
 
 **Speaker(s):**
-- [Santi Abastante](#santi-abastante)
+- [Max Maaß](#max-maaß)
 
 **Abstract:**
-In this technical, demo-driven session, we’ll explore the tactics and techniques attackers use to compromise infrastructures in Amazon Web Services (AWS), from initial access to achieving advanced persistence. Using known threat actor techniques in an adversary emulation approach, we’ll examine common attack vectors such as credential exploitation, privilege escalation, and lateral movement, along with advanced persistence methods that allow attackers to maintain control of compromised environments. Defensive and detection strategies will be highlighted, leveraging both AWS-native services and external tools, helping security teams strengthen their defenses. This session promises a practical, real-world experience for attendees.
+People talk a lot about defensive software architecture, but does it really make a difference?
+
+In this presentation, I give an example from a security audit we performed, in which a simple misuse of a cryptographic primitive led to the compromise of an entire customer service tool for a payment provider, which would have allowed us full administrative access to their backends.
+
+By stepping through the architecture of the system from the highest level down to the exact vulnerable code, this example allows us to illustrate the advantages of defensive software architectures with multiple layers of security. By the end of the presentation, you will have a new appreciation for defensive software architectures. As a bonus, you will also have learned about a neat cryptographic trick that exploits unauthenticated encryption.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -570,24 +560,6 @@ In this keynote, we'll explore moments where AI shines and fails. We'll also dis
 
 **Abstract:**
 It's a wrap! See you at the networking hour and next year.
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math
-
-**Backup talk**
-
-
-**Speaker(s):**
-- [Max Maaß](#max-maaß)
-
-**Abstract:**
-People talk a lot about defensive software architecture, but does it really make a difference?
-
-In this presentation, I give an example from a security audit we performed, in which a simple misuse of a cryptographic primitive led to the compromise of an entire customer service tool for a payment provider, which would have allowed us full administrative access to their backends.
-
-By stepping through the architecture of the system from the highest level down to the exact vulnerable code, this example allows us to illustrate the advantages of defensive software architectures with multiple layers of security. By the end of the presentation, you will have a new appreciation for defensive software architectures. As a bonus, you will also have learned about a neat cryptographic trick that exploits unauthenticated encryption.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
