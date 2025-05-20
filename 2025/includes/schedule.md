@@ -11,7 +11,7 @@
 | 11:45 | [Max Maaß](#max-maaß) | [Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](#why-defensive-software-architecture-is-important-or-how-to-compromise-a-payment-processor-using-math) |
 | 12:15 | [Igor Stepansky](#igor-stepansky), [Michael Goberman](#michael-goberman) | [Breaking the CI/CD Chain: Security Risks in GitHub Actions](#breaking-the-cicd-chain-security-risks-in-github-actions) |
 | 12:45 | &nbsp; | lunch break |
-| 13:45 | [Jasmin Mair](#jasmin-mair) | [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) |
+| 13:45 | [Jasmin Mair](#jasmin-mair), [Lukas Mika](#lukas-mika) | [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) |
 | 14:15 | [Andrey Voitenko](#andrey-voitenko) | [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) |
 | 14:45 | [Sarah Pauli](#sarah-pauli) | [Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](#effects-and-dynamics-of-cybercrime-on-cyberprofessionals-in-the-workfield-how-can-we-optimize-the-workplace-for-our-guards-in-cybersecurity) |
 | 15:15 | &nbsp; | afternoon break |
@@ -22,11 +22,11 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.12 of the schedule.
+This is version 0.13 of the schedule.
 
 # Speakers
 
-[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
+[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Lukas Mika](#lukas-mika), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
 
 ## Andrea Ercolino
 
@@ -147,7 +147,7 @@ I'm Igor Stepansky, a Product Security Engineer at Axonius for more than 3 years
 
 **Biography:**
 
-Jasmin Mair works as a Global Product Security Manager at Leica Microsystems. She brings a wealth of experience in application and product security. In her previous role as a security consultant at IBM, she helped clients across various industries implement security programs, establish DevSecOps practices, and generally secure the software development lifecycle (SDLC). However, her true passion lies in building bridges between interdisciplinary teams and finding new ways to improve collaboration between security, development, and product management.
+Jasmin Mair is the Head of Application Security at E.ON Digital Technology. Prior to this, she held the role of Global Product Security Manager at Leica Microsystems and led the Data & Application Security Competency at IBM Security. She brings extensive experience in both application and product security. Throughout her career, she has collaborated with diverse stakeholders across multiple industries to implement security programs, foster DevSecOps practices, and strengthen the security of the software development lifecycle (SDLC). Her true passion lies in connecting interdisciplinary teams and driving more effective collaboration between security, development, and product management.
 
 - **Talks:**
   - [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) (13:45)
@@ -164,6 +164,18 @@ https://informatik.hs-bremerhaven.de/lafischer
 
 - **Talks:**
   - [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) (10:15)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Lukas Mika
+
+**Biography:**
+
+Lukas Mika is the Lead Cyber Architect for Application Security at Maersk. He focuses on the strategic vision and architecture of a secure software supply chain that is seamlessly integrated into the company’s comprehensive secure software development lifecycle. With his extensive experience in solution development and enterprise architecture, as well as his passion for application security, he is deeply committed to the principles of “Secure by Design, by Default, and through Automation.”
+
+- **Talks:**
+  - [SBOMs – A Tragicomedy in Three Acts](#sboms--a-tragicomedy-in-three-acts) (13:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -421,6 +433,7 @@ Attendees will gain a deeper understanding of GitHub Actions' security landscape
 
 **Speaker(s):**
 - [Jasmin Mair](#jasmin-mair)
+- [Lukas Mika](#lukas-mika)
 
 **Abstract:**
 Increasing supply chain attacks have highlighted the need for greater transparency in software. As a result, more regulations now require software vendors to provide SBOMs (Software Bills of Materials) for their products. In this talk, we’ll take you on a journey into the world of CISOs and managers who hope that SBOMs can solve many problems in the areas of cybersecurity and cyber resilience. Our brave architect will address questions such as: Do SBOMs actually make products more secure? Can they help mitigate situations like Log4Shell? What exactly do they need to contain? Along the way, they’ll debunk inflated expectations and outline the prerequisites for using SBOMs effectively.
