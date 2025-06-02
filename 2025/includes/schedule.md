@@ -22,7 +22,7 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.13 of the schedule.
+This is version 0.14 of the schedule.
 
 # Speakers
 
@@ -157,10 +157,11 @@ Jasmin Mair is the Head of Application Security at E.ON Digital Technology. Prio
 
 ## Lars Fischer
 
+<img src="/assets/2025/avatars/U8DFZG_wvtSHYL.jpg" alt="Lars Fischer" width="150"  style="float: right;">
+
 **Biography:**
 
-https://informatik.hs-bremerhaven.de/lafischer
-(more coming on acceptance of the talk)
+Lars Fischer is professor for IT-Security at Bremerhaven University of Applied Sciences. He has worked on topics spanning privacy metrics, privacy preserving applications in location-based services as well as security in energy systems. Recently he has motivated his students to work on prototypes for credential management and adversarial agents.
 
 - **Talks:**
   - [Internet Message-Protection using Certificates and (not yet) Transformation](#internet-message-protection-using-certificates-and-not-yet-transformation) (10:15)
