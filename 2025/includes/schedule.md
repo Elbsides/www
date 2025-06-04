@@ -17,16 +17,16 @@
 | 15:15 | &nbsp; | afternoon break |
 | 15:45 | [Malte Wessels](#malte-wessels) | [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) |
 | 16:15 | [Chris Traynor](#chris-traynor) | [Pentest Pains](#pentest-pains) |
-| 16:45 | [Asan Stefanski](#asan-stefanski) | [AI security and AI auditing: security risks and protective measures for modern AI systems](#ai-security-and-ai-auditing-security-risks-and-protective-measures-for-modern-ai-systems) |
+| 16:45 | [Christian Kollee](#christian-kollee), [Yasin Tas](#yasin-tas) | [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise) |
 | 17:15 | [Axelle Apvrille](#axelle-apvrille) | [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) |
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.14 of the schedule.
+This is version 0.15 of the schedule.
 
 # Speakers
 
-[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Asan Stefanski](#asan-stefanski), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Lukas Mika](#lukas-mika), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
+[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Dennis Heinze](#dennis-heinze), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Lukas Mika](#lukas-mika), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
 
 ## Andrea Ercolino
 
@@ -55,21 +55,6 @@ Andrey Voitenko is Senior Product Manager at VMRay, where he focuses on advanced
 
 - **Talks:**
   - [The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](#the-ongoing-challenge-of-phishing-examining-attack-vectors-and-exploring-defense-improvements) (14:15)
-
----
-<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
-
-## Asan Stefanski
-
-<img src="/assets/2025/avatars/FB3EVJ_L1CFW6q.png" alt="Asan Stefanski" width="150"  style="float: right;">
-
-**Biography:**
-
-Asan Stefanski is Director of Digital Transformation at ADVISORI FTC GmbH and a recognized expert in Artificial Intelligence. With more than 12 years of experience in complex IT projects, he has successfully taken on key roles including Project Manager, Senior Software Architect, and Senior Software Engineer.
-Attached you will find the photo of Asan.
-
-- **Talks:**
-  - [AI security and AI auditing: security risks and protective measures for modern AI systems](#ai-security-and-ai-auditing-security-risks-and-protective-measures-for-modern-ai-systems) (16:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -122,7 +107,19 @@ He has led the handling of numerous incidents involving small and medium-sized b
 Since October 2024, Christian has been the Principal Expert at Eye Security GmbH and is responsible for helping (primarily) German companies and organizations recover from incidents quickly and securely.
 
 - **Talks:**
-  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise)
+  - [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise) (16:45)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Dennis Heinze
+
+**Biography:**
+
+Penetration Tester and Researcher in the Mobile and IoT Security Team at ERNW GmbH
+
+- **Talks:**
+  - Backup talk: [Bluetooth Auracast: Security as an Afterthought](#bluetooth-auracast-security-as-an-afterthought)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -285,7 +282,7 @@ Holding multiple certifications, including ECIH, CEH, and OCI Security Professio
 From a young age Yasin had an affinity with Computers and Technology, and has been with Eye Security B.V. for the past 3 years improving his knowledge and skills in Digital Forensics and Incident Response.
 
 - **Talks:**
-  - Backup talk: [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise)
+  - [From OneDrive Access to System Compromise](#from-onedrive-access-to-system-compromise) (16:45)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -528,23 +525,30 @@ Beyond just the horror stories, this session provides actionable lessons to help
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## AI security and AI auditing: security risks and protective measures for modern AI systems
+## From OneDrive Access to System Compromise
 
 **Start time:** 16:45
 
 **Duration:** 00:30
 
 **Speaker(s):**
-- [Asan Stefanski](#asan-stefanski)
+- [Christian Kollee](#christian-kollee)
+- [Yasin Tas](#yasin-tas)
 
 **Abstract:**
-Modern AI technologies such as RAG and AI agents open up enormous opportunities for
-companies, but also present them with considerable security and compliance
-challenges. The presentation “AI Security & AI Auditing” highlights typical points of
-attack of modern AI systems and presents practical protective measures that enable
-effective protection. It will also show how regulatory requirements can be met. Only
-through proactive security measures and transparent auditing processes can AI systems
-be designed to be not only innovative and efficient, but also secure and trustworthy.
+With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces. 
+
+With the increased importance of digital identities, they have become a target for criminals. Using adversary-in-the-middle (AitM) attacks, these criminals try to compromise business e-mail addresses, and after successfully obtaining valid credentials, the threat actor can access the user's cloud environment, launching business e-mail compromise (BEC) attacks. Additionally, these credentials allow a threat actor to access the user's cloud storage environments, like OneDrive. This access provides many opportunities for a threat actor, including:
+
+1. Direct access to valuable information  
+2. A trusted repository to host malware for distribution 
+3. A trusted command and control (C2) channel  
+4. Data exfiltration via a trusted channel 
+5. Synchronisation misuse
+
+Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.        
+
+This talk will illustrate briefly how threat actors use AitM attacks to obtain access to Microsoft M365 credentials and show a proof-of-concept of how a threat actor can use these credentials to compromise a user's system via the OneDrives sync feature.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -578,29 +582,20 @@ It's a wrap! See you at the networking hour and next year.
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
-## From OneDrive Access to System Compromise
+## Bluetooth Auracast: Security as an Afterthought
 
 **Backup talk**
 
 
 **Speaker(s):**
-- [Christian Kollee](#christian-kollee)
-- [Yasin Tas](#yasin-tas)
+- [Dennis Heinze](#dennis-heinze)
 
 **Abstract:**
-With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces. 
+Auracast, the new Bluetooth LE Broadcast Audio feature has gained some publicity in the last few months. The Bluetooth SIG has been working on the specification of this feature set in the past few years and vendors are only now starting to implement it. Auracast enables broadcasting audio to multiple devices. These broadcasts can also be encrypted. Unfortunately, the security properties of the protocol are vague and insufficient. It has already been shown that these broadcasts can be hijacked by anyone when unencrypted.
 
-With the increased importance of digital identities, they have become a target for criminals. Using adversary-in-the-middle (AitM) attacks, these criminals try to compromise business e-mail addresses, and after successfully obtaining valid credentials, the threat actor can access the user's cloud environment, launching business e-mail compromise (BEC) attacks. Additionally, these credentials allow a threat actor to access the user's cloud storage environments, like OneDrive. This access provides many opportunities for a threat actor, including:
+This talk aims to explain the state of (in)security of the protocol and add to it by showing that even when encrypted, broadcasts can often be cracked easily. Once equipped with the passcode, attackers can eavesdrop and hijack even encrypted broadcasts. The Bluetooth specification is very vague in what security goals it tries to achieve for (encrypted) broadcasts. Security for Auracast is only ever mentioned in terms of confidentiality, which is supposedly achievable by encrypting a broadcast. On a higher level, this also shows how the specification seemingly added security to the protocol as an afterthought.
 
-1. Direct access to valuable information  
-2. A trusted repository to host malware for distribution 
-3. A trusted command and control (C2) channel  
-4. Data exfiltration via a trusted channel 
-5. Synchronisation misuse
-
-Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.        
-
-This talk will illustrate briefly how threat actors use AitM attacks to obtain access to Microsoft M365 credentials and show a proof-of-concept of how a threat actor can use these credentials to compromise a user's system via the OneDrives sync feature.
+To examine whether the vague specification and the bad examples lead to real-world issues, we have surveyed several implementations of Auracast. We found that on popular devices the default configuration is weak and allows breaking the authenticity and confidentiality of the Auracast broadcast.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
