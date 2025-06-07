@@ -22,7 +22,7 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.15 of the schedule.
+This is version 0.16 of the schedule.
 
 # Speakers
 
@@ -114,9 +114,11 @@ Since October 2024, Christian has been the Principal Expert at Eye Security GmbH
 
 ## Dennis Heinze
 
+<img src="/assets/2025/avatars/AFBQPM_8qfDSR7.jpg" alt="Dennis Heinze" width="150"  style="float: right;">
+
 **Biography:**
 
-Penetration Tester and Researcher in the Mobile and IoT Security Team at ERNW GmbH
+Dennis Heinze is working as a Security Analyst & Researcher at ERNW Enno Rey Netzwerke GmbH. He earned his Master’s degree in IT-Security at TU Darmstadt with a focus on network and system security. In the past, he published research on the Bluetooth technology in the Apple ecosystem with a special focus on the analysis and security of Bluetooth protocol implementations. In his work at ERNW, the focus of his work is on pentesting mobile and embedded devices as well as their communication and back end systems.
 
 - **Talks:**
   - Backup talk: [Bluetooth Auracast: Security as an Afterthought](#bluetooth-auracast-security-as-an-afterthought)
