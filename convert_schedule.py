@@ -164,6 +164,26 @@ def parse(data: Dict, year: int) -> None:
             speaker_event_map.setdefault(pid, set()).add(event['guid'])
         event_speaker_map[event['guid']] = persons
 
+    with open(os.path.join(str(year), 'includes', 'schedule-only.md'), 'w', encoding='utf-8') as f:
+        # Markdown Table Header
+        write_program_header(f)
+        current_time = None
+        for ev in events:
+            # Compose speakers column
+            if current_time and ev['start_time'] > current_time:
+                # Add empty row for breaks
+                write_program_break(f, current_time)
+            # Compose time
+            write_program_entry(f, ev)
+            current_time = ev['start_time'] + ev['duration_time']
+        write_program_entry(
+            f,
+            create_networking_event(
+                max(events, key=lambda ev: ev['start_time'] + ev['duration_time'])
+            )
+        )
+        write_schedule_version(version, f)
+
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
         # Markdown Table Header
         write_program_header(f)
