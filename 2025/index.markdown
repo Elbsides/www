@@ -19,7 +19,7 @@ carousels:
 
 # General Information
 
-![Elbsides 2025](/assets/2025/logos/Elbsides 2025.svg){:width="35%" align="right" style="padding: 10px;"}
+![Elbsides 2025](/assets/2025/logos/Elbsides 2025 strong lines animated.svg){:width="35%" align="right" style="padding: 10px;"}
 
 The **Elbsides 2025** computer security community conference will be held in **Hamburg, Germany on Friday, the 13th of June 2025**. [Registration](/2025/registration/) is now open!
 
