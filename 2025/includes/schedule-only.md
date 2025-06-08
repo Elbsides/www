@@ -21,5 +21,3 @@
 | 17:15 | [Axelle Apvrille](#axelle-apvrille) | [Closing Keynote: Malware, Meet AI: Friend or Foe?](#closing-keynote-malware-meet-ai-friend-or-foe) |
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
-
-This is version 0.16 of the schedule.

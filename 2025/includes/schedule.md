@@ -22,11 +22,11 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 0.16 of the schedule.
+This is version 1.0 of the schedule.
 
 # Speakers
 
-[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Dennis Heinze](#dennis-heinze), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Lukas Mika](#lukas-mika), [Malte Wessels](#malte-wessels), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
+[Andrea Ercolino](#andrea-ercolino), [Andrey Voitenko](#andrey-voitenko), [Axelle Apvrille](#axelle-apvrille), [Chris Traynor](#chris-traynor), [Christian Kollee](#christian-kollee), [Dennis Heinze](#dennis-heinze), [Igor Stepansky](#igor-stepansky), [Jasmin Mair](#jasmin-mair), [Lars Fischer](#lars-fischer), [Lukas Mika](#lukas-mika), [Malte Wessels](#malte-wessels), [Martina Kohn](#martina-kohn), [Max Maaß](#max-maaß), [Michael Goberman](#michael-goberman), [Mikko Hyppönen](#mikko-hyppönen), [Sarah Pauli](#sarah-pauli), [Sewar Khalifeh](#sewar-khalifeh), [Yasin Tas](#yasin-tas)
 
 ## Andrea Ercolino
 
@@ -190,6 +190,20 @@ Malte Wessels has been a PhD student at the Institute for Application Security a
 
 - **Talks:**
   - [HyTrack: Tracking You Across Apps and the Web Hydra-Style](#hytrack-tracking-you-across-apps-and-the-web-hydra-style) (15:45)
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Martina Kohn
+
+<img src="/assets/2025/avatars/MDVC3P_lmBijZU.png" alt="Martina Kohn" width="150"  style="float: right;">
+
+**Biography:**
+
+I’m Martina Kohn, Director of Engineering at Graylog. While my focus is on core functionality and data management, my passion is improving the way we work as engineers. With a background in physics and experience across engineering, product, and project leadership roles, I care deeply about not just what we build - but how we build it.
+
+- **Talks:**
+  - Backup talk: [Beyond Scrum: Evolving Engineering practices for the Security Industry](#beyond-scrum-evolving-engineering-practices-for-the-security-industry)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -580,6 +594,24 @@ In this keynote, we'll explore moments where AI shines and fails. We'll also dis
 
 **Abstract:**
 It's a wrap! See you at the networking hour and next year.
+
+---
+<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
+
+## Beyond Scrum: Evolving Engineering practices for the Security Industry
+
+**Backup talk**
+
+
+**Speaker(s):**
+- [Martina Kohn](#martina-kohn)
+
+**Abstract:**
+Agility isn’t optional in cybersecurity. Engineering teams have to respond to emerging threats, shifting requirements, and constant technical change — often all at once. Many turn to Scrum to manage the chaos, drawn by its promise of speed, predictability, and team cohesion. But over time, that promise can wear thin: Teams suffer meeting overload, sprint fatigue, and a persistent tug-of-war between urgent fixes and long-term investment.
+
+At Graylog, we’re experimented with something different: Shape Up, a cycle-based framework designed to give teams high autonomy in a healthier cadence and with clearer boundaries. It’s not a cure-all, but it’s helped us rethink ownership, improve planning, and better balance new feature work with technical debt.
+
+This talk is part story, part strategy, and part invitation. I’ll give a quick method overview and share what’s worked (and what hasn’t) - depending on the team, the org and the context. Most importantly, I hope to kick off a conversation around how we structure technical work when the stakes are high, the timelines are short, and the backlog seems bottomless.
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>

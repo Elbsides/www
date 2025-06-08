@@ -182,7 +182,6 @@ def parse(data: Dict, year: int) -> None:
                 max(events, key=lambda ev: ev['start_time'] + ev['duration_time'])
             )
         )
-        write_schedule_version(version, f)
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
         # Markdown Table Header
