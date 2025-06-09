@@ -90,6 +90,56 @@ def write_program_entry(f: TextIOWrapper, ev: Dict) -> None:
     title_column = make_internal_reference(ev['title'])
     f.write(f"| {escape_md(start_column)} | {speakers_column} | {title_column} |\n")
 
+def write_video_program_entry(f: TextIOWrapper, ev: Dict) -> None:
+    """Write an event entry in the program."""
+    if ev['persons']:
+        speakers_column = ", ".join(
+            make_internal_reference(p["name"])
+                for p in ev['persons']
+        )
+    else:
+        speakers_column = ""
+    start_column = ev['start']
+    end_time = ev['start_time'] + ev['duration_time']
+    # ev['title']
+    title_column = ev['title']
+    # Split into chunks of max 40 chars at word boundaries
+    words = title_column.split()
+    chunks = []
+    current_chunk = []
+    current_length = 0
+
+    for word in words:
+        # Check if adding this word would exceed the limit
+        if current_length + len(word) + (1 if current_length > 0 else 0) > 40:
+            # Start a new chunk if the current one isn't empty
+            if current_length > 0:
+                chunks.append(" ".join(current_chunk))
+                current_chunk = [word]
+                current_length = len(word)
+            else:
+                # If a single word is longer than 40 chars, we have to include it
+                current_chunk.append(word)
+                chunks.append(" ".join(current_chunk))
+                current_chunk = []
+                current_length = 0
+        else:
+            # Add to current chunk
+            current_chunk.append(word)
+            current_length += len(word) + (1 if current_length > 0 else 0)
+
+    # Don't forget any remaining words
+    if current_chunk:
+        chunks.append(" ".join(current_chunk))
+
+    endtime = ev['start_time'] + ev['duration_time']
+    time_column = f"{ev['start_time'].time().hour:02d}:{ev['start_time'].time().minute:02d}-{endtime.time().hour:02d}:{endtime.time().minute:02d}"
+    for chunk in chunks:
+        f.write(f"{time_column}\t{chunk}\n")
+    if ev['persons']:
+        f.write(time_column + "\t - " + ", ".join([p["name"] for p in ev['persons']])  + "\n")
+    f.write("\n")
+
 
 def write_program_header(f: TextIOWrapper) -> None:
     """Write the header for the program section."""
@@ -164,24 +214,11 @@ def parse(data: Dict, year: int) -> None:
             speaker_event_map.setdefault(pid, set()).add(event['guid'])
         event_speaker_map[event['guid']] = persons
 
-    with open(os.path.join(str(year), 'includes', 'schedule-only.md'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(str(year), 'includes', 'schedule.txt'), 'w', encoding='utf-8') as f:
         # Markdown Table Header
-        write_program_header(f)
-        current_time = None
         for ev in events:
-            # Compose speakers column
-            if current_time and ev['start_time'] > current_time:
-                # Add empty row for breaks
-                write_program_break(f, current_time)
-            # Compose time
-            write_program_entry(f, ev)
-            current_time = ev['start_time'] + ev['duration_time']
-        write_program_entry(
-            f,
-            create_networking_event(
-                max(events, key=lambda ev: ev['start_time'] + ev['duration_time'])
-            )
-        )
+            write_video_program_entry(f, ev)
+
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
         # Markdown Table Header

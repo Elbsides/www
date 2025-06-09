@@ -202,6 +202,8 @@ Malte Wessels has been a PhD student at the Institute for Application Security a
 
 I’m Martina Kohn, Director of Engineering at Graylog. While my focus is on core functionality and data management, my passion is improving the way we work as engineers. With a background in physics and experience across engineering, product, and project leadership roles, I care deeply about not just what we build - but how we build it.
 
+LinkedIn: https://www.linkedin.com/in/martina-kohn-2b182498/
+
 - **Talks:**
   - Backup talk: [Beyond Scrum: Evolving Engineering practices for the Security Industry](#beyond-scrum-evolving-engineering-practices-for-the-security-industry)
 

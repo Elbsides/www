@@ -1,0 +1,59 @@
+09:00-09:15	Conference Opening
+
+09:15-09:45	Opening Keynote: What I've Learned
+09:15-09:45	 - Mikko Hyppönen
+
+09:45-10:15	A tale of nefarious usage: IPv6 based
+09:45-10:15	Covert Channels
+09:45-10:15	 - Andrea Ercolino
+
+10:15-10:45	Internet Message-Protection using
+10:15-10:45	Certificates and (not yet)
+10:15-10:45	Transformation
+10:15-10:45	 - Lars Fischer
+
+11:15-11:45	From Unrestricted Uploads to Security
+11:15-11:45	Nightmares: Preventing and Mitigating
+11:15-11:45	File Upload Vulnerabilities
+11:15-11:45	 - Sewar Khalifeh
+
+11:45-12:15	Why Defensive Software Architecture is
+11:45-12:15	Important, or: How to Compromise a
+11:45-12:15	Payment Processor using Math
+11:45-12:15	 - Max Maaß
+
+12:15-12:45	Breaking the CI/CD Chain: Security Risks
+12:15-12:45	in GitHub Actions
+12:15-12:45	 - Igor Stepansky, Michael Goberman
+
+13:45-14:15	SBOMs – A Tragicomedy in Three Acts
+13:45-14:15	 - Jasmin Mair, Lukas Mika
+
+14:15-14:45	The Ongoing Challenge of Phishing:
+14:15-14:45	Examining Attack Vectors and Exploring
+14:15-14:45	Defense Improvements
+14:15-14:45	 - Andrey Voitenko
+
+14:45-15:15	Effects and dynamics of Cybercrime on
+14:45-15:15	cyberprofessionals in the workfield. How
+14:45-15:15	can we optimize the workplace for our
+14:45-15:15	guards in Cybersecurity?
+14:45-15:15	 - Sarah Pauli
+
+15:45-16:15	HyTrack: Tracking You Across Apps and
+15:45-16:15	the Web Hydra-Style
+15:45-16:15	 - Malte Wessels
+
+16:15-16:45	Pentest Pains
+16:15-16:45	 - Chris Traynor
+
+16:45-17:15	From OneDrive Access to System
+16:45-17:15	Compromise
+16:45-17:15	 - Christian Kollee, Yasin Tas
+
+17:15-17:45	Closing Keynote: Malware, Meet AI:
+17:15-17:45	Friend or Foe?
+17:15-17:45	 - Axelle Apvrille
+
+17:45-18:00	Conference Closing
+
