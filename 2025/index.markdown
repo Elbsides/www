@@ -15,14 +15,13 @@ carousels:
     - image: /assets/2025/images/Sitzbereich Foyer.jpg
 
 ---
-[Program](#program) | [Speakers](#speakers) | [Registration](/2025/registration/) | [Sponsors](#sponsors) | [Team](#team)
+[Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
 ![Elbsides 2025](/assets/2025/logos/Elbsides 2025 strong lines animated.svg){:width="35%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2025** computer security community conference will be held in **Hamburg, Germany on Friday, the 13th of June 2025**. [Registration](/2025/registration/) is now open!
-
+The **Elbsides 2025** computer security community conference will be held in **Hamburg, Germany on Friday, the 13th of June 2025**. We are now completely sold out. We hope to see everyone who has a ticket at the conference!
 
 ## Location
 
@@ -37,6 +36,9 @@ The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
+
+Use the hashtag **#elbsides2025** to follow the conversation on social media or to post about the conference.
+
 
 # Sponsors
 

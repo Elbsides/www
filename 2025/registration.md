@@ -4,7 +4,7 @@ permalink: /2025/registration/
 title: Registration
 ---
 
-<a href="https://pretix.eu/elbsides/elbsides2025/" alt="Ticket Purchase Website"><img src="/assets/2025/images/Elbsides 2025 ticket stub.svg" class="center" width="50%"></a>
+** We are now completely sold out. We hope to see everyone who has a ticket at the conference! **
 
 This year we offer two types of tickets:
 
@@ -22,6 +22,5 @@ Payments will be accepted by PayPal.
 
 Food and beverages will be provided to all attendees and each ticket also includes the networking hour after the conference with drinks.
 
-**For your ticket to the Elbsides 2025 conference, please register [here at pretix](https://pretix.eu/elbsides/elbsides2025/).**
 
 If you have any further questions, contact us at **elbsides -at- gmail.com**.
