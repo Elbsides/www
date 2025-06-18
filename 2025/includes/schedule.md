@@ -22,7 +22,7 @@
 | 17:45 |  | [Conference Closing](#conference-closing) |
 | 18:00 |  | [Networking Hour](#networking-hour) |
 
-This is version 1.0 of the schedule.
+This is version 1.1 of the schedule.
 
 # Speakers
 
@@ -169,6 +169,8 @@ Lars Fischer is professor for IT-Security at Bremerhaven University of Applied S
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
 ## Lukas Mika
+
+<img src="/assets/2025/avatars/H8UCZV_0K5F0lB.jpg" alt="Lukas Mika" width="150"  style="float: right;">
 
 **Biography:**
 
