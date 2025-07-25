@@ -403,6 +403,10 @@ The crucial stopping-gap of wide-spread secure communication over Email clearly 
 **Speaker(s):**
 - [Sewar Khalifeh](#sewar-khalifeh)
 
+**Video:**
+
+[![From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](/assets/2025/keyframes/From_Unrestricted_Uploads_to_Security_Nightmares-_Preventing_and_Mitigating_File_Upload_Vulnerabilities.jpg)](https://youtu.be/YBg41G9_lEc)
+
 **Abstract:**
 Unrestricted file uploads pose a significant threat to application security, allowing attackers to exploit various vulnerabilities and gain unauthorised access to systems and data. And there are some potential risks associated with unrestricted file uploads, such as: Triggering vulnerabilities in libraries/applications, abusing real-time security tools, executing malicious code and unauthorised access to sensitive files. In addition to the standard security best practices for file uploads, such as restricting file size, types, and extensions; experts recommends security controls to further enhance protection and validate files. These technologies include Content Disarm and Reconstruction (CDR), multi-AV scanning, sandboxing, and single-AV scanning. The aim of this presentation is to provide a detailed walkthrough of the risks and attacks associated with unrestricted file upload vulnerabilities, review the protective technologies available, outline proper mitigation strategies, and give practical examples on how to secure your environment against malicious uploads.
 
