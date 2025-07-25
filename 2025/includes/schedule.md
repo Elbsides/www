@@ -102,7 +102,7 @@ GPEN: GIAC Penetration Tester
 **Biography:**
 
 Christian has more than 13 years of experience in IT security (primarily CSIRT and SOC) and 8+ years in digital forensics and incident response.
-He has led the handling of numerous incidents involving small and medium-sized businesses, large corporations, hospitals, and universities. 
+He has led the handling of numerous incidents involving small and medium-sized businesses, large corporations, hospitals, and universities.
 
 Since October 2024, Christian has been the Principal Expert at Eye Security GmbH and is responsible for helping (primarily) German companies and organizations recover from incidents quickly and securely.
 
@@ -333,9 +333,9 @@ Welcome and housekeeping statements
 
 **Abstract:**
 Mikko brings over 35 years of deep, firsthand experience in the ever-evolving computer security landscape. In this talk, he will guide us through the formative stages of the industry - when the first self-replicating malicious code emerged, and security professionals were just beginning to recognize and contain the computer virus threat.
- 
+
 Mikko will examine the transition from isolated virus outbreaks to organized, financially motivated cybercrime rings. He’ll recount his investigations of email-borne exploits, discuss the rise of botnets and distributed denial-of-service attacks, and share lessons learned about the interplay between attacker innovation and defender response.
- 
+
 Finally, Mikko will reflect on the current state of cybersecurity as a mature, multi-billion-dollar ecosystem and how governments entered the picture. He'll finish with some educated guesses about where we will go next.
 
 ---
@@ -349,6 +349,11 @@ Finally, Mikko will reflect on the current state of cybersecurity as a mature, m
 
 **Speaker(s):**
 - [Andrea Ercolino](#andrea-ercolino)
+
+**Video:**
+
+[![A tale of nefarious usage: IPv6 based Covert Channels](/assets/2025/keyframes/A_tale_of_nefarious_usage-_IPv6_based_Covert_Channels.jpg)](https://youtu.be/_gkemBiwepQ)
+
 
 **Abstract:**
 Like steganographic techniques that embed messages in unstructured data, network-based covert channels exploit communication protocols to conceal data. By hijacking legitimate traffic, these channels provide a stealthy means of communication and data exfiltration.
@@ -378,6 +383,10 @@ Beyond academic research, the proposed tool enables man-in-the-middle data exfil
 
 **Speaker(s):**
 - [Lars Fischer](#lars-fischer)
+
+**Video:**
+
+[![Internet Message-Protection using Certificates and (not yet) Transformation](/assets/2025/keyframes/Internet_Message-Protection_using_Certificates_and_(not_yet)_Transformation.jpg)](https://youtu.be/Bh15JnPcGhQ)
 
 **Abstract:**
 The crucial stopping-gap of wide-spread secure communication over Email clearly seems to be "usability". The difficult part arguably is "certificate management" which, at the core is the question of how to authenticate credentials. Many researchers and developers have taken their shot at improving the situation, while instant messenger applications seem to simply circumvent all obstacles and provide effortless end-to-end security — alas only for communication within their respective silos. And the situation for Email, i.e. combination of SMTP (RFC 5321) and Internet Text Messages, going back to RFC 724 and RFC 772, nowadays encapsulated by MIME, is anything but simple. But since 2015 ACME seemed to have solved the similar problem of distributing authenticated certificates for web-sites. In this work we take up the work on ACME for end-users and transfer the principles to OpenPGP and thus finally solving(?) this problem from the 1990s.
@@ -409,6 +418,10 @@ Unrestricted file uploads pose a significant threat to application security, all
 **Speaker(s):**
 - [Max Maaß](#max-maaß)
 
+**Video:**
+
+[![Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](/assets/2025/keyframes/Why_Defensive_Software_Architecture_is_Important,_or-_How_to_Compromise_a_Payment_Processor_using_Math.jpg)](https://youtu.be/2vvwGTGn5Tc)
+
 **Abstract:**
 People talk a lot about defensive software architecture, but does it really make a difference?
 
@@ -428,6 +441,10 @@ By stepping through the architecture of the system from the highest level down t
 **Speaker(s):**
 - [Igor Stepansky](#igor-stepansky)
 - [Michael Goberman](#michael-goberman)
+
+**Video:**
+
+[![Breaking the CI/CD Chain: Security Risks in GitHub Actions](/assets/2025/keyframes/Breaking_the_CI_CD_Chain-_Security_Risks_in_GitHub_Actions.jpg)](https://youtu.be/rSS426dC4NY)
 
 **Abstract:**
 GitHub Actions have become a critical part of CI/CD pipelines, but do you really know what's happening under the hood?
@@ -453,6 +470,10 @@ Attendees will gain a deeper understanding of GitHub Actions' security landscape
 - [Jasmin Mair](#jasmin-mair)
 - [Lukas Mika](#lukas-mika)
 
+**Video:**
+
+[![SBOMs – A Tragicomedy in Three Acts](/assets/2025/keyframes/SBOMs_–_A_Tragicomedy_in_Three_Acts.jpg)](https://youtu.be/6xekPkVUXTk)
+
 **Abstract:**
 Increasing supply chain attacks have highlighted the need for greater transparency in software. As a result, more regulations now require software vendors to provide SBOMs (Software Bills of Materials) for their products. In this talk, we’ll take you on a journey into the world of CISOs and managers who hope that SBOMs can solve many problems in the areas of cybersecurity and cyber resilience. Our brave architect will address questions such as: Do SBOMs actually make products more secure? Can they help mitigate situations like Log4Shell? What exactly do they need to contain? Along the way, they’ll debunk inflated expectations and outline the prerequisites for using SBOMs effectively.
 
@@ -467,6 +488,10 @@ Increasing supply chain attacks have highlighted the need for greater transparen
 
 **Speaker(s):**
 - [Andrey Voitenko](#andrey-voitenko)
+
+**Video:**
+
+[![The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](/assets/2025/keyframes/The_Ongoing_Challenge_of_Phishing-_Examining_Attack_Vectors_and_Exploring_Defense_Improvements.jpg)](https://youtu.be/WU072FDeatI)
 
 **Abstract:**
 Phishing attacks are evolving faster than traditional defenses can adapt. Despite significant investments in Secure Email Gateways (SEGs) and email security stacks, phishing remains one of the most effective initial access vectors. This session examines why phishing continues to succeed and introduces a practical, high-impact strategy to strengthen defenses.
@@ -491,11 +516,15 @@ This session will include real-world examples of advanced phishing techniques, s
 **Speaker(s):**
 - [Sarah Pauli](#sarah-pauli)
 
-**Abstract:**
-I would like to give an insightful exploration into the impact of Cybercrime on the mental health of SOC-Analysts and related roles which are connected to the upper management. 
-As we delve into this critical topic, we recognize the increasing prevalence of cyberattacks and decresing availability in the workforce. SOC´s are at the forefront of defending organizations against these threats, yet the demanding nature of their work often leads to significant stress and burnout among SOC analysts and upper management dedicated in the field of Cybersecurity. 
+**Videos:**
 
-Most of the time, we try to reflect on the technical stability in this area. But we do not figure out how important structures and regulated processes are relevant in this area, similar to High-reliability organizations (e.g. Aviation or Medicine). 
+[![Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](/assets/2025/keyframes/Effects_and_dynamics_of_Cybercrime_on_cyberprofessionals_in_the_workfield._How_can_we_optimize_the_workplace_for_our_guards_in_Cybersecurity.jpg)](https://youtu.be/PB-gvAismfQ)
+
+**Abstract:**
+I would like to give an insightful exploration into the impact of Cybercrime on the mental health of SOC-Analysts and related roles which are connected to the upper management.
+As we delve into this critical topic, we recognize the increasing prevalence of cyberattacks and decresing availability in the workforce. SOC´s are at the forefront of defending organizations against these threats, yet the demanding nature of their work often leads to significant stress and burnout among SOC analysts and upper management dedicated in the field of Cybersecurity.
+
+Most of the time, we try to reflect on the technical stability in this area. But we do not figure out how important structures and regulated processes are relevant in this area, similar to High-reliability organizations (e.g. Aviation or Medicine).
 
 I want to give an inspirational approach to improve the workplace, keeping professionals more resilient and longer in their workplace. My approach reflects not just on mental health and wellbeing, it´s partly a management calculation which should be added in the consideration of defending risks from organizations.
 
@@ -510,6 +539,10 @@ I want to give an inspirational approach to improve the workplace, keeping profe
 
 **Speaker(s):**
 - [Malte Wessels](#malte-wessels)
+
+**Video:**
+
+[![HyTrack: Tracking You Across Apps and the Web Hydra-Style](/assets/2025/keyframes/HyTrack-_Tracking_You_Across_Apps_and_the_Web_Hydra-Style.jpg)](https://youtu.be/GY8MmBbcDf0)
 
 **Abstract:**
 We found HyTrack, a robust new tracking Android tracking technique.
@@ -555,18 +588,22 @@ Beyond just the horror stories, this session provides actionable lessons to help
 - [Christian Kollee](#christian-kollee)
 - [Yasin Tas](#yasin-tas)
 
+**Video:**
+
+[![From OneDrive Access to System Compromise](/assets/2025/keyframes/From_OneDrive_Access_to_System_Compromise.jpg)](https://youtu.be/mLpTSIVtRac)
+
 **Abstract:**
-With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces. 
+With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces.
 
 With the increased importance of digital identities, they have become a target for criminals. Using adversary-in-the-middle (AitM) attacks, these criminals try to compromise business e-mail addresses, and after successfully obtaining valid credentials, the threat actor can access the user's cloud environment, launching business e-mail compromise (BEC) attacks. Additionally, these credentials allow a threat actor to access the user's cloud storage environments, like OneDrive. This access provides many opportunities for a threat actor, including:
 
-1. Direct access to valuable information  
-2. A trusted repository to host malware for distribution 
-3. A trusted command and control (C2) channel  
-4. Data exfiltration via a trusted channel 
+1. Direct access to valuable information
+2. A trusted repository to host malware for distribution
+3. A trusted command and control (C2) channel
+4. Data exfiltration via a trusted channel
 5. Synchronisation misuse
 
-Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.        
+Looking at the last tactic, sync misuse, we found a potential attack vector unknown to our knowledge. By combining sync misuse with another known tactic, replacing .lnk files, a threat actor can rapidly move from a compromised account to a compromised Windows host, from where they can move laterally to achieve their goals.
 
 This talk will illustrate briefly how threat actors use AitM attacks to obtain access to Microsoft M365 credentials and show a proof-of-concept of how a threat actor can use these credentials to compromise a user's system via the OneDrives sync feature.
 
@@ -581,6 +618,10 @@ This talk will illustrate briefly how threat actors use AitM attacks to obtain a
 
 **Speaker(s):**
 - [Axelle Apvrille](#axelle-apvrille)
+
+**Video:**
+
+[![Closing Keynote: Malware, Meet AI: Friend or Foe?](/assets/2025/keyframes/Closing_Keynote-_Malware,_Meet_AI-_Friend_or_Foe.jpg)](https://youtu.be/Rh58r9fMfBA)
 
 **Abstract:**
 Artificial Intelligence is capable of creating malware. Fortunately, it is also capable of analyzing them, summarizing and decompiling them with surprising clarity. But how much can we trust it?
