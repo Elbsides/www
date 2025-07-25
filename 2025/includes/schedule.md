@@ -356,6 +356,7 @@ Finally, Mikko will reflect on the current state of cybersecurity as a mature, m
 
 
 **Abstract:**
+
 Like steganographic techniques that embed messages in unstructured data, network-based covert channels exploit communication protocols to conceal data. By hijacking legitimate traffic, these channels provide a stealthy means of communication and data exfiltration.
 
 The growing adoption of IPv6, driven by major ISPs and tech companies, introduces new security risks. One such risk is the ease of implementing covert channels within IPv6 communications, which remain undetected by common open-source IDS tools like Suricata, Zeek, and Snort.
@@ -389,7 +390,12 @@ Beyond academic research, the proposed tool enables man-in-the-middle data exfil
 [![Internet Message-Protection using Certificates and (not yet) Transformation](/assets/2025/keyframes/Internet_Message-Protection_using_Certificates_and_(not_yet)_Transformation.jpg)](https://youtu.be/Bh15JnPcGhQ)
 
 **Abstract:**
+
 The crucial stopping-gap of wide-spread secure communication over Email clearly seems to be "usability". The difficult part arguably is "certificate management" which, at the core is the question of how to authenticate credentials. Many researchers and developers have taken their shot at improving the situation, while instant messenger applications seem to simply circumvent all obstacles and provide effortless end-to-end security — alas only for communication within their respective silos. And the situation for Email, i.e. combination of SMTP (RFC 5321) and Internet Text Messages, going back to RFC 724 and RFC 772, nowadays encapsulated by MIME, is anything but simple. But since 2015 ACME seemed to have solved the similar problem of distributing authenticated certificates for web-sites. In this work we take up the work on ACME for end-users and transfer the principles to OpenPGP and thus finally solving(?) this problem from the 1990s.
+
+**Slides:**
+
+[![Internet Message-Protection using Certificates and (not yet) Transformation](/assets/2025/slides/ACME_PGP.png)](https://informatik.hs-bremerhaven.de/lafischer/vault/2025-elbsides/acme-pgp.html)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -409,6 +415,10 @@ The crucial stopping-gap of wide-spread secure communication over Email clearly 
 
 **Abstract:**
 Unrestricted file uploads pose a significant threat to application security, allowing attackers to exploit various vulnerabilities and gain unauthorised access to systems and data. And there are some potential risks associated with unrestricted file uploads, such as: Triggering vulnerabilities in libraries/applications, abusing real-time security tools, executing malicious code and unauthorised access to sensitive files. In addition to the standard security best practices for file uploads, such as restricting file size, types, and extensions; experts recommends security controls to further enhance protection and validate files. These technologies include Content Disarm and Reconstruction (CDR), multi-AV scanning, sandboxing, and single-AV scanning. The aim of this presentation is to provide a detailed walkthrough of the risks and attacks associated with unrestricted file upload vulnerabilities, review the protective technologies available, outline proper mitigation strategies, and give practical examples on how to secure your environment against malicious uploads.
+
+**Slides:**
+
+<embed src="/assets/2025/slides/From-Unrestricted-Uploads-to-Security-Nightmares.pdf#page=1" width="600" height="500" type="application/pdf">
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -477,6 +487,12 @@ Attendees will gain a deeper understanding of GitHub Actions' security landscape
 **Abstract:**
 Increasing supply chain attacks have highlighted the need for greater transparency in software. As a result, more regulations now require software vendors to provide SBOMs (Software Bills of Materials) for their products. In this talk, we’ll take you on a journey into the world of CISOs and managers who hope that SBOMs can solve many problems in the areas of cybersecurity and cyber resilience. Our brave architect will address questions such as: Do SBOMs actually make products more secure? Can they help mitigate situations like Log4Shell? What exactly do they need to contain? Along the way, they’ll debunk inflated expectations and outline the prerequisites for using SBOMs effectively.
 
+**Slides:**
+
+[![SBOMs – A Tragicomedy in Three Acts](/assets/2025/slides/SBOM-A-Tragicomedy.png)](https://something-appsec.github.io/sbom-talk/)
+
+[GitHub repository](https://github.com/something-appsec/sbom-talk)
+
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
@@ -503,6 +519,11 @@ What can be done?
 One often overlooked opportunity to address these advanced threats lies in integrating the organization’s User-Reported Phising (URP) program with advanced sandboxing technology. Unlike SEGs, these sandboxes operate outside real-time delivery constraints. They simulate realistic user interaction, follow complex redirect paths, and expose evasive payloads in a save analysis environment. This enables faster triage, higher-confidence verdicts, and improved detection of phishing threats that bypass gateway-level defenses.
 
 This session will include real-world examples of advanced phishing techniques, such as redirect chains, QR code-based attacks, and SVG-based payloads, and show how advanced sandboxing can be used to detect them effectively.
+
+**Slides:**
+
+<embed src="/assets/2025/slides/Ongoing-Challenge-Of-Phishing.pdf#page=1" width="600" height="500" type="application/pdf">
+
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -575,6 +596,14 @@ Whether you’re a seasoned pentester, a blue teamer trying to prepare for a tes
 
 Beyond just the horror stories, this session provides actionable lessons to help security teams and consultants work together more efficiently. Learn how to avoid common traps, improve collaboration, and turn painful experiences into opportunities for a more productive outcome.
 
+**Slides:**
+
+- English version:
+<embed src="/assets/2025/slides/Pentest-Pains-English.pdf#page=1" width="600" height="500" type="application/pdf">
+
+- German version:
+<embed src="/assets/2025/slides/Pentest-Pains-German.pdf#page=1" width="600" height="500" type="application/pdf">
+
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
@@ -627,6 +656,11 @@ This talk will illustrate briefly how threat actors use AitM attacks to obtain a
 Artificial Intelligence is capable of creating malware. Fortunately, it is also capable of analyzing them, summarizing and decompiling them with surprising clarity. But how much can we trust it?
 
 In this keynote, we'll explore moments where AI shines and fails. We'll also discuss MCP security (Model Context Protocol): a modern protocol with no/little security? As AI and malware evolve together, what does the future hold, in terms of malware and anti-malware?
+
+**Slides:**
+
+<embed src="/assets/2025/slides/Malware-Meet-AI-Friend-or-Foe.pdf#page=1" width="600" height="500" type="application/pdf">
+
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
