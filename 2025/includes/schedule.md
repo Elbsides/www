@@ -338,6 +338,11 @@ Mikko will examine the transition from isolated virus outbreaks to organized, fi
 
 Finally, Mikko will reflect on the current state of cybersecurity as a mature, multi-billion-dollar ecosystem and how governments entered the picture. He'll finish with some educated guesses about where we will go next.
 
+**Video:**
+
+[![What I've Learned](/assets/2025/keyframes/Opening_Keynote-_What_I've_Learned.jpg)](https://youtu.be/wuIhoZ97UkE)
+
+
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
