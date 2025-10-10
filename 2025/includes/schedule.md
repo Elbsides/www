@@ -582,6 +582,11 @@ In short, HyTrack brings the full power of web tracking to native Android and is
 In this talk, we will discuss the mechanisms behind it, check which browsers and devices are affected, and discuss mitigations.
 Finally, we will recommend the next steps for you and the community to take to mitigate HyTrack and protect user privacy.
 
+***Slides:***
+
+<embed src="/assets/2025/slides/Elbsides__25___HyTrack__25min___5min_-3_nonotes.pdf" width="600" height="500" type="application/pdf">
+
+
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
 
