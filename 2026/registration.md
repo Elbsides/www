@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2025/registration/
+permalink: /2026/registration/
 title: Registration
 ---
 

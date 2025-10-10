@@ -1,5 +1,5 @@
 ---
-title: 2025
+title: 2026
 layout: page
 permalink: /2025/
 carousels:
