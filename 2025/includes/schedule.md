@@ -461,6 +461,12 @@ By stepping through the architecture of the system from the highest level down t
 - [Igor Stepansky](#igor-stepansky)
 - [Michael Goberman](#michael-goberman)
 
+
+**Video:**
+
+[![Breaking the CI/CD Chain: Security Risks in GitHub Actions](/assets/2025/keyframes/Breaking_the_CI_CD_Chain-_Security_Risks_in_GitHub_Actions.jpg)](https://youtu.be/rSS426dC4NY)
+
+
 **Abstract:**
 GitHub Actions have become a critical part of CI/CD pipelines, but do you really know what's happening under the hood?
 
