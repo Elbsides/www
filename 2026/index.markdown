@@ -1,7 +1,7 @@
 ---
 title: 2026
 layout: page
-permalink: /2025/
+permalink: /2026/
 carousels:
   - images:
     - image: /assets/2025/images/Elbkuppel 90 Theaterbestuhlung.jpg
@@ -15,12 +15,18 @@ carousels:
     - image: /assets/2025/images/Sitzbereich Foyer.jpg
 
 ---
-[Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Team](#team)
+
+[Call for Presentations](cfp) | [Sponsors](#sponsors) | [Team](#team)
 
 # General Information
 
 
 ## Location
+
+The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
+
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 
 ## Follow us
@@ -29,12 +35,12 @@ carousels:
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
-Use the hashtag **#elbsides2025** to follow the conversation on social media or to post about the conference.
+Use the hashtag **#elbsides2026** to follow the conversation on social media or to post about the conference.
 
 
 # Sponsors
 
-Elbsides cannot exist without sponsors because we are trying to be as inclusive as possible by keeping the ticket price to a nominal charge that doesn't even start to cover our costs. If you are interested in sponsoring Elbsides 2025, please contact us at elbsides \<at\> gmail.com.
+Elbsides cannot exist without sponsors because we are trying to be as inclusive as possible by keeping the ticket price to a nominal charge that doesn't even start to cover our costs. If you are interested in sponsoring Elbsides 2026, please contact us at elbsides \<at\> gmail.com.
 
 We encourage sponsors from the local community, even if you are not a security company. In fact, since security is everyone's concern, we would love to have sponsors from all walks of life.
 
