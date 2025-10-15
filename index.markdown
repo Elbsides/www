@@ -23,11 +23,14 @@ carousels:
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
 
-![Elbsides](/assets/images/elbsides_logo.svg){:width="35%" align="right" style="padding: 10px;"}
+![Elbsides](/assets/images/elbsides_logo.svg){:width="30%" align="right" style="padding: 10px;"}
 
-The **Elbsides 2025** computer security community conference was held in **Hamburg, Germany on Friday, the 13th of June 2025** at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) overlooking the harbor. It was keynoted by Mikko Hyppönen, computer security industry expert, now at drone defense company, Sensofusion. Our closing keynote was given by Axelle Apvrille, a well-known expert in the field of embedded systems security.
+The next Elbsides conference will be held in **[2026](/2026/) on June 5th.**. Stay tuned for the [Call for Presentations](/2026/cfp/) and other details.
+
+The **Elbsides 2025** computer security community conference was held in **Hamburg, Germany on Friday, the 13th of June 2025** at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) overlooking the harbor. It was keynoted by [Mikko Hyppönen](https://www.linkedin.com/in/hypponen/), computer security industry expert, now at drone defense company, Sensofusion. Our closing keynote was given by [Axelle Apvrille](https://www.linkedin.com/in/axelle-apvrille-7b99154/), a well-known expert in the field of embedded systems security.
 
 <img src="/assets/2025/images/ted-mikko.hypponen.png" width="250" style="float: left; margin: 15px;">
+
 
 Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/),
 [Thomas Fricke](https://thomasfricke.de),
@@ -86,6 +89,3 @@ Such an event cannot be organized without the support of a community of sponsors
   <img src="/assets/2025/logos/bsides-frankfurt-logo-a3.png" alt="BSides Frankfurt" style="max-height: 70px; max-width: 120px;">
 </aside>
 
-![Elbsides]({{ '/assets/images/elbsides_logo.svg' | relative_url }})
-
-<!-- {:width="35%" align="center" style="padding: 10px;"} -->

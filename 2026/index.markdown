@@ -20,6 +20,7 @@ carousels:
 
 # General Information
 
+**Elbsides 2026** will be held on **Friday, June 5th, 2026** in Hamburg, Germany.
 
 ## Location
 
