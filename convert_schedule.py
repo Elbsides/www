@@ -2,6 +2,7 @@
 import json
 import re
 import os
+import sys
 from io import TextIOWrapper
 from typing import Set, Dict
 from datetime import datetime, timedelta
@@ -148,7 +149,7 @@ def write_program_header(f: TextIOWrapper) -> None:
     f.write("| ------------ | --------- | ----- |\n")
 
 
-def get_avatar(person: Dict, year) -> str:
+def get_avatar(person: Dict, year) -> str|None:
     """Download the avatar from pretalx to the correct directory and return a local link to it."""
     if person['avatar']:
         link = os.path.join('assets', str(year), 'avatars', person['avatar'].split('/')[-1])
@@ -218,7 +219,6 @@ def parse(data: Dict, year: int) -> None:
         # Markdown Table Header
         for ev in events:
             write_video_program_entry(f, ev)
-
 
     with open(os.path.join(str(year), 'includes', 'schedule.md'), 'w', encoding='utf-8') as f:
         # Markdown Table Header
@@ -290,9 +290,8 @@ def parse(data: Dict, year: int) -> None:
             # f.write(f"\n**Talk info:** [{ev['url']}]({ev['url']})\n\n")
             f.write(f'---\n<span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/{year}/)</span>\n\n')
 
-
 if __name__ == "__main__":
-    YEAR = 2025
+    YEAR = 2026
 
     headers = {
         'Accept': 'application/json',
@@ -301,7 +300,28 @@ if __name__ == "__main__":
         f'https://pretalx.com/elbsides-{YEAR}/schedule/export/schedule.json',
         headers=headers
     )
-    with urllib.request.urlopen(req) as response:
-        schedule_data = json.loads(response.read().decode('utf-8'))
+
+    try:
+        with urllib.request.urlopen(req) as response:
+            response_bytes = response.read()
+    except Exception as e:
+        sys.stderr.write(f"Failed to fetch schedule: {e}\n")
+        sys.exit(1)
+
+    # Abort if no data was received
+    if not response_bytes or response_bytes.strip() == b'':
+        sys.stderr.write("No data received from schedule endpoint.\n")
+        sys.exit(1)
+
+    try:
+        schedule_data = json.loads(response_bytes.decode('utf-8'))
+    except json.JSONDecodeError as e:
+        sys.stderr.write(f"Failed to parse JSON schedule: {e}\n")
+        sys.exit(1)
+
+    # Ensure the expected 'schedule' key exists and is not empty
+    if not schedule_data or 'schedule' not in schedule_data or not schedule_data.get('schedule'):
+        sys.stderr.write("Schedule data is empty or missing 'schedule' key.\n")
+        sys.exit(1)
 
     parse(schedule_data, YEAR)
