@@ -3,6 +3,8 @@ layout: page
 permalink: /2026/cfp/
 ---
 
+[Call for Presentations](/2026/cfp) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
+
 **Call for Presentations**
 
 ## Instructions for Submission

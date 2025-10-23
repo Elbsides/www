@@ -3,6 +3,7 @@ layout: page
 permalink: /2026/registration/
 title: Registration
 ---
+[Call for Presentations](/2026/cfp) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
 TBA
 
