@@ -605,6 +605,10 @@ Finally, we will recommend the next steps for you and the community to take to m
 **Speaker(s):**
 - [Chris Traynor](#chris-traynor)
 
+**Video:**
+
+[![Pentest Pains](/assets/2025/keyframes/Pentest_Pains.jpg)](https://youtu.be/0K5UGVwEk9U)
+
 **Abstract:**
 Pentesting is meant to uncover security weaknesses, but sometimes the process itself becomes an exercise in frustration. From unclear scopes and unresponsive clients to network misconfigurations and unexpected legal roadblocks, every pentester has war stories of engagements gone wrong. This talk dives into real-world pentesting pain points, sharing firsthand experiences of what makes assessments more difficult than they need to be—and how to avoid these pitfalls.
 
