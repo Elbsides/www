@@ -75,19 +75,9 @@ A past interest in archaeology brought Florian to the field of security. To him,
 
 Jonas' day job is in incident response and forensics at BlackBerry. During engagements, he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents. In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests. In the great outdoors he enjoys geocaching and paddling. He also added aerial photography and semi-autonomous to fully manual flight with home-built UAVs and FPV drones to his outdoor activities.
 
-## [David](https://davidhamann.de)
-
-David is an independent software developer, penetration tester and IT consultant. He likes to build software, analyze systems and troubleshoot weird computer problems. When not in front of a screen he enjoys a good physical challenge, doing various kinds of sports.
-
 ## Fabian
 
 Fabian currently works as an embedded software engineer for a small company in Northern Germany. He was working as a financial consultant when his fascination for technology led him back to school to study electrical engineering and digital systems. During his bachelors and master’s thesis he was able to get deep into the weeds of reverse engineering and secure code as part of the vulnerability analysis department at NXP. Whenever he isn't sitting in front of a keyboard, he enjoys playing music and sports outdoors.
-
-## [Matthias](https://matthiashammerschmidt.de)
-
-Matthias has more than 25 years of experience in various industries, disciplines and roles in the world of IT. He now uses this experience as a freelance cybersecurity culture evangelist to support organizations on their way to becoming secure and resilient organisms. This has a lot to do with the agile mindset, where people take center stage - processes ensure smooth interaction and technology is seen as a tool, not an end in itself!
-
-Apart from that, he likes to spend his time outdoors, preferably exploring new holiday destinations or cycling in the surrounding area.
 
 ## [Peddy](https://www.peddy.net)
 
