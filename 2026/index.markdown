@@ -18,9 +18,13 @@ carousels:
 
 [Call for Presentations](cfp) | [Sponsors](#sponsors) | [Team](#team)
 
+![Elbsides 2026](/assets/2026/logos/Elbsides_Logo_2026.svg){:width="35%" align="right" style="padding: 10px;"}
+
 # General Information
 
+
 **Elbsides 2026** will be held on **Friday, June 5th, 2026** in Hamburg, Germany.
+
 
 ## Location
 
