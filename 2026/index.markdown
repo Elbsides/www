@@ -83,6 +83,10 @@ Jonas' day job is in incident response and forensics at BlackBerry. During engag
 
 Fabian currently works as an embedded software engineer for a small company in Northern Germany. He was working as a financial consultant when his fascination for technology led him back to school to study electrical engineering and digital systems. During his bachelors and master’s thesis he was able to get deep into the weeds of reverse engineering and secure code as part of the vulnerability analysis department at NXP. Whenever he isn't sitting in front of a keyboard, he enjoys playing music and sports outdoors.
 
+## [Debbie](https://de.linkedin.com/in/deborahkuhntopf)
+
+Debbie is also a non-techie. Her passion for working in IT security started in 2019 with SCHUTZWERK, where she came into contact with Elbsides. She has been involved in the community ever since. Inspired by her former colleagues at SCHUTZWERK, she also started studying business informatics part-time in March 2021 to gain more IT knowledge. During her studies, which ended in spring 2025, she has left no opportunity to combine all topics with IT security. Since June 2024, Debbie is working as an Account Manager at AirITSystems. Her colleagues and her ensure that companies’ business-critical IT functions securely and smoothly. 
+
 ## [Peddy](https://www.peddy.net)
 
 Peddy has been working with Unix systems since the early 1990s and set up and operated one of the first web servers in Germany. He was the first to introduce Hamburg teachers to the Internet and installed the first Linux servers in Hamburg schools.  He did the same in a software company for private health insurance. Security during implementation, as well as training, was always an issue. At his current employer, a media company, security in the cloud environment is a top priority.
