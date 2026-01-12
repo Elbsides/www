@@ -50,6 +50,8 @@ We also welcome non-technical and cross-disciplinary contributions that explore 
 
 If you have any questions, please contact us at elbsides -at- gmail.com.
 
+**[Submit your proposal here!](https://pretalx.com/elbsides-2026/submit/)**
+
 ## Program Committee
 
 - Andreas Peters
