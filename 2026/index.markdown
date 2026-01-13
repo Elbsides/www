@@ -95,6 +95,6 @@ Peddy has been working with Unix systems since the early 1990s and set up and op
 
 Garlefs dayjob has been fixing all kinds of IT-problems for over a decade in various roles, companies and industries. His current day job includes looking at log files and asking unpleasant questions for money and coffee. He enjoys simple and reliable Systems and has been loosely involved in various IT-Sec related events in Germany for a number of years.
 
-## Ingo Bente
+## [Ingo](https://www.linkedin.com/in/ingobente/)
 
 Ingo enjoys security, board games, and great coffee. He’s been part of Hamburg’s infosec community for years and helps make Elbsides a place where people can connect, share ideas, and have fun doing it.
