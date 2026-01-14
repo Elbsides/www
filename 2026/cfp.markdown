@@ -10,12 +10,12 @@ permalink: /2026/cfp/
 **Elbsides** is a community-driven computer security conference. We bring together security professionals, software engineers, students, researchers, and visionaries to share ideas, discuss innovations, and explore the latest advancements in the field.
 
 We welcome submissions on all topics related to computer security. If you have insights, research, or projects to share, we’d love to hear from you! For inspiration, [check out last year's program](https://www.elbsides.eu/2025/#program) for a few ideas:
--  Network Security
--  Identity & Access Management
--  Digital Forensics & Incident Response (DFIR)
+- Network Security
+- Identity & Access Management
+- Digital Forensics & Incident Response (DFIR)
 - Threat Intelligence & Threat Hunting
 - Security of AI
--  DevSecOps
+- DevSecOps
 - Security Engineering
 - Risk, Compliance & Security Management
 
