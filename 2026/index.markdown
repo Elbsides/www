@@ -81,7 +81,7 @@ Jonas' day job is in incident response and forensics at BlackBerry. During engag
 
 ## Fabian
 
-Fabian currently works as an embedded software engineer for a small company in Northern Germany. He was working as a financial consultant when his fascination for technology led him back to school to study electrical engineering and digital systems. During his bachelors and master’s thesis he was able to get deep into the weeds of reverse engineering and secure code as part of the vulnerability analysis department at NXP. Whenever he isn't sitting in front of a keyboard, he enjoys playing music and sports outdoors.
+Fabian specializes in embedded software development and currently works in cybersecurity for the rail industry. In his free time, he is actively involved in the CCC community and enjoys tinkering with microcontrollers.
 
 ## [Debbie](https://de.linkedin.com/in/deborahkuhntopf)
 
