@@ -98,3 +98,7 @@ Garlefs dayjob has been fixing all kinds of IT-problems for over a decade in var
 ## [Ingo](https://www.linkedin.com/in/ingobente/)
 
 Ingo enjoys security, board games, and great coffee. He’s been part of Hamburg’s infosec community for years and helps make Elbsides a place where people can connect, share ideas, and have fun doing it.
+
+## [Adina](https://adina.ca)
+
+Hey, I’m Adina! I am incessantly curious, work in renewable energy, and sometimes find vulnerabilities when I’m bored. I co-founded a hackerspace over a decade ago but have only just accepted that security is more than a hobby. At work, I’m a business architect with security leanings working in knowledge management for a major renewable energy company.
