@@ -44,7 +44,7 @@ We also welcome non-technical and cross-disciplinary contributions that explore 
 - Register in **Pretalx** using your **own email address** to ensure smooth communication. Using someone else’s email has caused issues in the past and may result in rejection.
 
 **Timeline**
-- **Submission Deadline:** 2025-03-20 23:59
+- **Submission Deadline:** 2026-03-20 23:59
 - **Notification of Acceptance:** TBA
 - **Final Confirmation Due:** TBA
 
