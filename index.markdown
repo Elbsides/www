@@ -5,39 +5,56 @@ carousels:
   - images:
     - image: /assets/2019/photos/20190916 - elbsides 6.jpg
     - image: /assets/2019/photos/20190916 - elbsides 8.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 10.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 20.jpg
     - image: /assets/2019/photos/20190916 - elbsides 26.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 28.jpg
     - image: /assets/2019/photos/20190916 - elbsides 33.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 40.jpg
     - image: /assets/2019/photos/20190916 - elbsides 45.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 49.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 50.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 53.jpg
-    - image: /assets/2019/photos/20190916 - elbsides 56.jpg
     - image: /assets/2019/photos/20190916 - elbsides 59.jpg
+    - image: /assets/2025/photos/P9132726-Enhanced-NR.jpg
+    - image: /assets/2023/images/PB170247.jpg
+    - image: /assets/2023/images/PB170428.jpg
+    - image: /assets/2023/images/PB170292.jpg
+    - image: /assets/2023/images/PB170343.jpg
+    - image: /assets/2023/images/PB170590.jpg
 ---
 
 
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
 
-![Elbsides](/assets/images/elbsides_logo.svg){:width="30%" align="right" style="padding: 10px;"}
+[![Elbsides](/assets/2026/logos/Elbsides_Logo_2026.svg){:width="30%" align="right" style="padding: 10px;"}](/2026/)
 
-The next Elbsides conference will be held in **[2026](/2026/) on June 5th.**. Stay tuned for the [Call for Presentations](/2026/cfp/) and other details.
+The next Elbsides conference will be held in **[2026](/2026/) on June 5th.**. The [Call for Presentations](/2026/cfp/) is now open. [![2026 Call for Presentations](/assets/images/cfp_megaphone.svg){:width="7%" style="padding: 10px;"}](/2026/cfp/) The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
 
-The **Elbsides 2025** computer security community conference was held in **Hamburg, Germany on Friday, the 13th of June 2025** at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) overlooking the harbor. It was keynoted by [Mikko Hyppönen](https://www.linkedin.com/in/hypponen/), computer security industry expert, now at drone defense company, Sensofusion. Our closing keynote was given by [Axelle Apvrille](https://www.linkedin.com/in/axelle-apvrille-7b99154/), a well-known expert in the field of embedded systems security.
+---
 
-<img src="/assets/2025/images/ted-mikko.hypponen.png" width="250" style="float: left; margin: 15px;">
+![Call for Sponsors](/assets/images/cfs_megaphone.svg){:width="30%" style="padding: 10px;"}
+
+# Sponsors
+
+Elbsides cannot exist without sponsors. If you are interested in sponsoring Elbsides 2026, please contact us at elbsides \<at\> gmail.com.
+
+We encourage sponsors from the local community, even if you are not a security company. In fact, since security is everyone's concern, we would love to have sponsors from all walks of life.
+
+{% include_relative /2026/includes/platinum.html %}
+{% include_relative /2026/includes/gold.html %}
+{% include_relative /2026/includes/silver.html %}
+{% include_relative /2026/includes/bronze.html %}
+{% include_relative /2026/includes/community.html %}
 
 
-Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/in/paulvixie/),
-[Thomas Fricke](https://thomasfricke.de),
-[Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/),
-[Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner),
-[Katharine Jarmul](https://probablyprivate.com) and [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen).
+---
 
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+
+Previous Keynote speakers have included:
+- [Paul Vixie](https://www.linkedin.com/in/paulvixie/),
+- [Thomas Fricke](https://thomasfricke.de),
+- [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/),
+- [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner),
+- [Katharine Jarmul](https://probablyprivate.com), [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen),
+- [Mikko Hyppönen](https://www.linkedin.com/in/hypponen/).
+- [Axelle Apvrille](https://www.linkedin.com/in/axelle-apvrille-7b99154/)
 
 # Follow us at
 
@@ -47,7 +64,6 @@ Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/i
 
 ## Gallery
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 # Past Sponsors
 
