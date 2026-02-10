@@ -65,3 +65,4 @@ If you have any questions, please contact us at elbsides -at- gmail.com.
 - Morton Swimmer (chair)
 - Stefan Kelm
 - Tim Sattler
+- Tonke Hanebuth
