@@ -1,11 +1,10 @@
 ---
+title: Call for Presentations 2026
 layout: page
 permalink: /2026/cfp/
 ---
 
-[Call for Presentations](/2026/cfp) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
-
-**Call for Presentations**
+[Conference](/2026/) | [Workshops](/2026/workshops/) | **Call for Presentations** | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
 **Elbsides** is a community-driven computer security conference. We bring together security professionals, software engineers, students, researchers, and visionaries to share ideas, discuss innovations, and explore the latest advancements in the field.
 

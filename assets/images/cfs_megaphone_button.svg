@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="5000"
+   height="2000"
+   viewBox="0 0 5000 2000"
+   preserveAspectRatio="xMidYMid"
+   id="svg3"
+   sodipodi:docname="cfs_megaphone_button.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <rect
+       x="1930"
+       y="370"
+       width="3240"
+       height="1390"
+       id="rect4" />
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.3128964;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <rect
+       x="346.70566"
+       y="451.09015"
+       width="1368.1826"
+       height="1010.2928"
+       id="rect1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="120.1"
+       y1="1020"
+       x2="4889.9"
+       y2="1020"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.1"
+     inkscape:cx="3750"
+     inkscape:cy="1330"
+     inkscape:window-width="1512"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <metadata
+     id="metadata1">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+</metadata>
+  <rect
+     style="display:inline;fill:url(#linearGradient4);stroke:#000000;stroke-width:79.8;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:2.20157;stroke-opacity:0.420765"
+     id="rect2"
+     width="4690"
+     height="1720"
+     x="160"
+     y="160"
+     ry="88.889336"
+     rx="118.51867"
+     inkscape:label="Background" />
+  <g
+     transform="matrix(0.1,0,0,-0.1,359.9987,1628)"
+     fill="#000000"
+     stroke="none"
+     id="g3"
+     style="display:inline;fill:#008080"
+     inkscape:label="megaphone">
+    <path
+       d="m 11008,12460 c -207,-52 -358,-163 -549,-400 -343,-428 -640,-1243 -804,-2207 -40,-233 -87,-584 -80,-591 5,-5 352,-52 1470,-196 433,-57 661,-90 682,-101 18,-9 73,-56 123,-106 108,-105 143,-172 190,-352 92,-354 101,-838 24,-1217 -25,-124 -84,-288 -126,-350 -42,-63 -161,-181 -205,-203 -16,-8 -80,-19 -143,-26 -63,-7 -308,-37 -545,-67 -236,-30 -610,-77 -830,-104 -463,-57 -639,-81 -643,-85 -2,-1 9,-92 23,-201 77,-599 194,-1130 342,-1564 71,-207 196,-517 242,-598 23,-40 46,-83 51,-96 5,-13 38,-71 73,-129 221,-361 418,-541 682,-625 78,-25 252,-22 340,6 210,65 423,252 608,532 133,202 315,594 417,900 108,323 229,808 284,1145 172,1038 211,2146 111,3205 -42,441 -140,1046 -226,1400 -246,1005 -618,1705 -1037,1951 -148,87 -326,117 -474,79 z"
+       id="path1"
+       style="fill:#008080" />
+    <path
+       d="m 9778,11192 c -116,-193 -347,-441 -558,-602 -298,-227 -681,-389 -1085,-460 -185,-33 -250,-39 -499,-50 C 6563,10033 4286,9782 2630,9529 1755,9395 461,9153 372,9106 300,9068 202,8935 156,8811 30,8476 -22,8044 10,7595 c 24,-332 79,-571 181,-780 85,-177 148,-231 304,-264 429,-89 563,-116 795,-160 146,-28 382,-71 524,-96 142,-24 260,-46 262,-48 2,-1 -3,-30 -11,-62 -74,-323 -256,-1207 -361,-1755 -225,-1180 -333,-1908 -421,-2835 -22,-231 -24,-583 -4,-665 16,-66 65,-215 92,-277 32,-74 108,-184 170,-245 94,-92 167,-121 384,-152 99,-14 365,-52 590,-85 C 3591,14 4032,-23 4250,24 c 316,68 582,254 684,478 63,138 65,173 37,628 -49,776 -56,2108 -16,2910 17,335 39,684 61,965 26,335 71,825 76,831 2,1 125,-10 273,-26 1000,-107 1763,-175 2150,-190 461,-19 720,-60 1035,-162 96,-31 320,-132 396,-178 36,-22 68,-40 70,-40 11,0 150,-96 234,-161 109,-83 296,-268 387,-380 71,-87 172,-236 199,-292 10,-20 21,-37 26,-37 5,0 -1,19 -13,43 -23,45 -191,544 -214,637 -182,727 -267,1283 -317,2085 -16,264 -16,1188 0,1445 37,573 74,888 153,1325 59,325 129,633 205,896 30,104 138,419 154,449 6,11 7,20 3,20 -4,-1 -29,-35 -55,-78 z m -5090,-5308 52,-6 v -36 c 0,-21 -11,-158 -25,-307 -135,-1498 -166,-2980 -94,-4560 12,-259 12,-260 -10,-311 -12,-28 -41,-69 -64,-92 -47,-45 -210,-147 -215,-133 -1,4 8,30 22,57 66,133 70,181 46,699 -19,428 -21,1980 -2,2425 30,710 75,1375 132,1954 17,164 30,305 30,313 0,11 9,14 38,9 20,-3 61,-8 90,-12 z"
+       id="path2"
+       style="fill:#008080" />
+    <path
+       d="m 11522,8758 c -55,-30 -68,-44 -110,-122 -98,-180 -145,-389 -158,-694 -19,-434 94,-889 245,-989 124,-82 244,23 330,287 95,291 107,792 28,1130 -41,173 -131,345 -200,382 -46,24 -95,26 -135,6 z"
+       id="path3"
+       style="fill:#008080" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.84511879,0,0,0.84511879,3087.6025,121.57698)"
+       id="text1"
+       style="font-size:53.3333px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:none;text-align:center;white-space:pre;shape-inside:url(#rect1);shape-padding:0;display:none"
+       inkscape:label="cfp"><tspan
+         x="653.74638"
+         y="841.59146"
+         id="tspan2"><tspan
+           style="font-size:433.333px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal'"
+           id="tspan1">CfP</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="font-size:53.3333px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:none;text-align:center;white-space:pre;shape-inside:url(#rect4);shape-padding:0"
+       inkscape:label="Call for Presentations"
+       transform="translate(-260,50)"><tspan
+         x="2740.7188"
+         y="788.13743"
+         id="tspan4"><tspan
+           style="font-size:464px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal'"
+           id="tspan3">Call for
+</tspan></tspan><tspan
+         x="2482.5508"
+         y="1368.1374"
+         id="tspan6"><tspan
+           style="font-size:464px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal'"
+           id="tspan5">Sponsors</tspan></tspan></text>
+  </g>
+</svg>

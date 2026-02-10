@@ -1,5 +1,5 @@
 ---
-title: 2026
+title: Elbsides Conference 2026
 layout: page
 permalink: /2026/
 carousels:
@@ -16,15 +16,18 @@ carousels:
 
 ---
 
-[Call for Presentations](cfp) | [Sponsors](#sponsors) | [Team](#team)
+**Conference** | [Workshops](/2026/workshops/) | [Call for Presentations](/2026/cfp/) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
 ![Elbsides 2026](/assets/2026/logos/Elbsides_Logo_2026.svg){:width="35%" align="right" style="padding: 10px;"}
 
 # General Information
 
-
 **Elbsides 2026** will be held on **Friday, June 5th, 2026** in Hamburg, Germany.
 
+We are currently looking for [sponsors](/2026/#sponsors), [workshop proposals](/2026/workshops/),
+and [presentation proposals](/2026/cfp/).
+
+[![2026 Call for Presentations](/assets/images/cfp_megaphone_button.svg){:width="50%" style="padding: 10px;"}](/2026/cfp/)
 
 ## Location
 
@@ -45,6 +48,7 @@ Use the hashtag **#elbsides2026** to follow the conversation on social media or 
 
 # Sponsors
 
+![Call for Sponsors](/assets/images/cfs_megaphone_button.svg){:width="30%" style="padding: 10px;" align="right"}
 Elbsides cannot exist without sponsors because we are trying to be as inclusive as possible by keeping the ticket price to a nominal charge that doesn't even start to cover our costs. If you are interested in sponsoring Elbsides 2026, please contact us at elbsides \<at\> gmail.com.
 
 We encourage sponsors from the local community, even if you are not a security company. In fact, since security is everyone's concern, we would love to have sponsors from all walks of life.
@@ -85,7 +89,7 @@ Fabian specializes in embedded software development and currently works in cyber
 
 ## [Debbie](https://de.linkedin.com/in/deborahkuhntopf)
 
-Debbie is also a non-techie. Her passion for working in IT security started in 2019 with SCHUTZWERK, where she came into contact with Elbsides. She has been involved in the community ever since. Inspired by her former colleagues at SCHUTZWERK, she also started studying business informatics part-time in March 2021 to gain more IT knowledge. During her studies, which ended in spring 2025, she has left no opportunity to combine all topics with IT security. Since June 2024, Debbie is working as an Account Manager at AirITSystems. Her colleagues and her ensure that companies’ business-critical IT functions securely and smoothly. 
+Debbie is also a non-techie. Her passion for working in IT security started in 2019 with SCHUTZWERK, where she came into contact with Elbsides. She has been involved in the community ever since. Inspired by her former colleagues at SCHUTZWERK, she also started studying business informatics part-time in March 2021 to gain more IT knowledge. During her studies, which ended in spring 2025, she has left no opportunity to combine all topics with IT security. Since June 2024, Debbie is working as an Account Manager at AirITSystems. Her colleagues and her ensure that companies’ business-critical IT functions securely and smoothly.
 
 ## [Peddy](https://www.peddy.net)
 

@@ -23,11 +23,17 @@ carousels:
 
 [![Elbsides](/assets/2026/logos/Elbsides_Logo_2026.svg){:width="30%" align="right" style="padding: 10px;"}](/2026/)
 
-The next Elbsides conference will be held in **[2026](/2026/) on June 5th.**. The [Call for Presentations](/2026/cfp/) is now open. [![2026 Call for Presentations](/assets/images/cfp_megaphone.svg){:width="7%" style="padding: 10px;"}](/2026/cfp/) The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
+The next Elbsides conference will be held in **[2026](/2026/) on June 5th.**. The [Call for Presentations](/2026/cfp/) is now open.
+
+[![2026 Call for Presentations](/assets/images/cfp_megaphone_button.svg){:width="60%" style="padding: 10px;"}](/2026/cfp/)
+
+The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
+
+**New for this year**: We are excited to be able to offer [workshops](/2026/workshops/) on the day before the conference, on June 4th. We are currently looking for workshop proposals, so if you have an idea for a workshop, please contact us dirctly at elbsides \<at\> gmail.com.
 
 ---
 
-![Call for Sponsors](/assets/images/cfs_megaphone.svg){:width="30%" style="padding: 10px;"}
+![Call for Sponsors](/assets/images/cfs_megaphone_button.svg){:width="30%" style="padding: 10px;" align="right"}
 
 # Sponsors
 
@@ -42,18 +48,19 @@ We encourage sponsors from the local community, even if you are not a security c
 {% include_relative /2026/includes/community.html %}
 
 
----
+## Gallery
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 
 Previous Keynote speakers have included:
-- [Paul Vixie](https://www.linkedin.com/in/paulvixie/),
-- [Thomas Fricke](https://thomasfricke.de),
-- [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/),
-- [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner),
-- [Katharine Jarmul](https://probablyprivate.com), [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen),
-- [Mikko Hyppönen](https://www.linkedin.com/in/hypponen/).
+- [Paul Vixie](https://www.linkedin.com/in/paulvixie/)
+- [Thomas Fricke](https://thomasfricke.de)
+- [Jenn Jennesko](https://www.linkedin.com/in/jenniferjanesko/)
+- [Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner)
+- [Katharine Jarmul](https://probablyprivate.com)
+- [Marit Hansen](https://de.wikipedia.org/wiki/Marit_Hansen)
+- [Mikko Hyppönen](https://www.linkedin.com/in/hypponen/)
 - [Axelle Apvrille](https://www.linkedin.com/in/axelle-apvrille-7b99154/)
 
 # Follow us at
@@ -62,7 +69,6 @@ Previous Keynote speakers have included:
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
-## Gallery
 
 
 # Past Sponsors
