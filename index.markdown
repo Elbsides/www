@@ -46,6 +46,7 @@ We encourage sponsors from the local community, even if you are not a security c
 {% include_relative /2026/includes/silver.html %}
 {% include_relative /2026/includes/bronze.html %}
 {% include_relative /2026/includes/community.html %}
+{% include_relative /2026/includes/partner.html %}
 
 
 ## Gallery

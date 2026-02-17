@@ -58,6 +58,7 @@ We encourage sponsors from the local community, even if you are not a security c
 {% include_relative includes/silver.html %}
 {% include_relative includes/bronze.html %}
 {% include_relative includes/community.html %}
+{% include_relative includes/partner.html %}
 
 {% include_relative includes/schedule.md %}
 

@@ -96,6 +96,9 @@ img.helium {
 img.community {
   width: 150px;
 }
+img.partner {
+  width: 150px;
+}
 
 .center {
   display: block;
@@ -329,6 +332,9 @@ pre {
   th.community {
     background-color: darken($background-color, 25%);
   }
+  th.partner {
+    background-color: lightblue;
+  }
 
 
   td {
@@ -363,6 +369,9 @@ pre {
     height: 70px;
   }
   td.community {
+    height: 70px;
+  }
+  td.partner {
     height: 70px;
   }
 
