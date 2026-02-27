@@ -36,6 +36,10 @@ Natalie Kilber is a quantum industry pioneer, former enterprise cybersecurity le
 As a researcher and technology advisor on quantum, AI and cybersecurity; she leads innovations fusing emergent technology defenses for hybrid compute ecosystems.
 
 
+- **LinkedIn**: [linkedin.com/company/hastesec/](https://www.linkedin.com/company/hastesec/)
+- **Website**: [hastesecurity.com](https://hastesecurity.com/)
+
+
 - **Talks:**
   - [Opening Keynote: Secrets don't age well: Cyber, Kyber, Quantum and the encryption time bombs](#opening-keynote-secrets-dont-age-well-cyber-kyber-quantum-and-the-encryption-time-bombs) (09:15)
 
@@ -66,6 +70,7 @@ Quantum is no longer a research topic for us; it is now a benchmark regulators a
 
 **Speaker(s):**
 - [Natalie Kilber](#natalie-kilber)
+
 
 
 ---
