@@ -13,7 +13,5 @@ The workshops will be hosted by [Jungheinrich AG](https://www.jungheinrich.com),
 <center><img src="/assets/2026/logos/Jungheinrich_Logo.JPG" alt="Jungheinrich AG" width="50%" style="padding:10px;"></center>
 
 
-Check back at this page for updates on the workshops that will be offered at Elbsides 2026. The location of the workshops
-will not be the same as the conference, but it will be in Hamburg and easily accessible by public transportation.
+Check back at this page for updates on the workshops that will be offered at Elbsides 2026.
 The ticketing process will also be separate from the conference, so you will need to purchase a separate ticket for the workshops. We will provide more information on the ticketing process and the workshop schedule as we get closer to the conference date.
-
