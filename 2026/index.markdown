@@ -4,15 +4,21 @@ layout: page
 permalink: /2026/
 carousels:
   - images:
-    - image: /assets/2025/images/Elbkuppel 90 Theaterbestuhlung.jpg
-    - image: /assets/2025/images/Elbkuppel mit Bühne + Rednerpult.jpg
-    - image: /assets/2025/images/Elbkuppel_Parlament©RuthPlein.jpg
-    - image: /assets/2025/images/Elbkuppel_Sitzecken©RuthPlein.jpg
-    - image: /assets/2025/images/Foyer.jpg
-    - image: /assets/2025/images/Garderobe.jpg
-    - image: /assets/2025/images/Kaffee- und Buffetstation 2.jpg
-    - image: /assets/2025/images/KonferenzraumI-I.jpg
-    - image: /assets/2025/images/Sitzbereich Foyer.jpg
+    - image: /assets/2025/photos/DSC_6720.jpeg
+    - image: /assets/2025/photos/DSC_6929.jpeg
+    - image: /assets/2025/photos/DSC_6442.jpeg
+    - image: /assets/2025/photos/DSC_6953.jpeg
+    - image: /assets/2025/photos/DSC_6965.jpeg
+    - image: /assets/2025/photos/DSC_6763.jpeg
+    - image: /assets/2025/photos/DSC_7000.jpeg
+    - image: /assets/2025/photos/DSC_6790.jpeg
+    - image: /assets/2025/photos/DSC_7029.jpeg
+    - image: /assets/2025/photos/DSC_6565.jpeg
+    - image: /assets/2025/photos/DSC_6818.jpeg
+    - image: /assets/2025/photos/DSC_6590.jpeg
+    - image: /assets/2025/photos/DSC_6912.jpeg
+    - image: /assets/2025/photos/DSC_6682.jpeg
+    - image: /assets/2025/photos/DSC_6917.jpeg
 
 ---
 
