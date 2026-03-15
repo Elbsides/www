@@ -32,7 +32,7 @@ The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen
 **New for this year**: We are excited to offer [workshops](/2026/workshops/) on June 4th. We are currently looking for workshop proposals, so if you have an idea for a workshop, please contact us dirctly at elbsides \<at\> gmail.com.
 
 # Keynote
-![Natalie Kilber](/assets/2026/photos/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}
+![Natalie Kilber](/assets/2026/images/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}
 **Natalie Kilber** is a cybersecurity and quantum industry researcher and technology advisor. She has kindly agreed to share her experience and thoughts on the state of quantum computing and how we need to adapt our cryptography to be quantum resistant. This is very topical as many organizations need to have a post-quantum roadmap ready this year and be PQC compliant by 2030. Apart from that, she is one of the most interesting people in the field and we are looking forward to her keynote and the discussions that will follow.
 
 
