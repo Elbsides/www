@@ -9,7 +9,7 @@ carousels:
     - image: /assets/2019/photos/20190916 - elbsides 33.jpg
     - image: /assets/2019/photos/20190916 - elbsides 45.jpg
     - image: /assets/2019/photos/20190916 - elbsides 59.jpg
-    - image: /assets/2025/photos/P9132726-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9132726-Enhanced-NR.jpg
     - image: /assets/2023/images/PB170247.jpg
     - image: /assets/2023/images/PB170428.jpg
     - image: /assets/2023/images/PB170292.jpg
