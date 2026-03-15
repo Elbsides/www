@@ -4,10 +4,20 @@ layout: page
 permalink: /2024/
 carousels:
   - images:
-    - image: /assets/2024/images/aussenansicht_stadt_und_elbe_empire_riverside_hotel.jpg
-    - image: /assets/2024/images/aussenansicht_timelapse_empire_riverside_hotel.jpg
-    - image: /assets/2024/images/Ballroom - Tagung II.jpg
-    - image: /assets/2024/images/Ballroom - Tagung IV.JPG
+    - image: /assets/2024/photos/P9132587-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9132726-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9132939.jpg
+    - image: /assets/2024/photos/P9132615-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9132749-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9133024-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9133333-Edit.jpg
+    - image: /assets/2024/photos/P9132624-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9132875-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9133069.jpg
+    - image: /assets/2024/photos/P9133359-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9132667.jpg
+    - image: /assets/2024/photos/P9132900-Enhanced-NR.jpg
+    - image: /assets/2024/photos/P9133104-Enhanced-NR.jpg
 ---
 [Program](#program) | [Speakers](#speakers) | [Sponsors](#sponsors) | [Registration](/2024/registration) | [Team](#team)
 
@@ -25,7 +35,6 @@ This year Elbsides will be at the river Elbe: at the [Empire Riverside Hotel](ht
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-Pictures &copy; Empire Riverside Hotel, Stefan Karstens and Andrea Flak
 
 ## Follow us
 
