@@ -28,7 +28,7 @@
 
 ## Natalie Kilber
 
-<img src="/assets/2026/photos/natalie_kilber.jpg" alt="Natalie Kilber" width="150"  style="float: right;">
+<img src="/assets/2026/images/natalie_kilber.jpg" alt="Natalie Kilber" width="150"  style="float: right;">
 
 **Biography:**
 

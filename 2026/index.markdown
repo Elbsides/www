@@ -35,7 +35,13 @@ and [presentation proposals](/2026/cfp/).
 
 [![2026 Call for Presentations](/assets/images/cfp_megaphone_button.svg){:width="50%" style="padding: 10px;"}](/2026/cfp/)
 
-## Location
+# Keynote
+
+![Natalie Kilber](/assets/2026/images/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}
+**Natalie Kilber** is a cybersecurity and quantum industry researcher and technology advisor. She has kindly agreed to share her experience and thoughts on the state of quantum computing and how we need to adapt our cryptography to be quantum resistant. This is very topical as many organizations need to have a post-quantum roadmap ready this year and be PQC compliant by 2030. Apart from that, she is one of the most interesting people in the field and we are looking forward to her keynote and the discussions that will follow.
+
+
+# Location
 
 The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
 
@@ -43,14 +49,13 @@ The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 
-## Follow us
+# Follow us
 
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
 Use the hashtag **#elbsides2026** to follow the conversation on social media or to post about the conference.
-
 
 # Sponsors
 
