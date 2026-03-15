@@ -29,14 +29,14 @@ The **Elbsides 2024** computer security community conference will be held in Ham
 
 The Call for Papers ~~is now open, and we welcome your presentation submission until the end of July 7th.~~ is now closed. Thank you for all your proposals, and we hope to see you in Hamburg!
 
-## Location
+# Location
 
 This year Elbsides will be at the river Elbe: at the [Empire Riverside Hotel](https://www.empire-riverside.de/en/), a 4-star hotel in the heart of Hamburg. The hotel is located in the St. Pauli district, near the Reeperbahn and overlooking the port of Hamburg. The conference will be held in the hotel's conference center.
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 
-## Follow us
+# Follow us
 
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)

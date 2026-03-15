@@ -23,7 +23,7 @@ carousels:
 
 The **Elbsides 2025** computer security community conference will be held in **Hamburg, Germany on Friday, the 13th of June 2025**. We are now completely sold out. We hope to see everyone who has a ticket at the conference!
 
-## Location
+# Location
 
 The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
 
@@ -31,7 +31,7 @@ The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 
-## Follow us
+# Follow us
 
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
