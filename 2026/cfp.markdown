@@ -6,6 +6,8 @@ permalink: /2026/cfp/
 
 [Conference](/2026/) | [Workshops](/2026/workshops/) | **Call for Presentations** | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
+**The Elbsides 2026 Call for Presentations is now closed!** For everyone who submitted, thank you so much! We are now in the process of reviewing all submissions and will notify everyone of the results as soon as possible.
+
 **Elbsides** is a community-driven computer security conference. We bring together security professionals, software engineers, students, researchers, and visionaries to share ideas, discuss innovations, and explore the latest advancements in the field.
 
 We welcome submissions on all topics related to computer security. If you have insights, research, or projects to share, we’d love to hear from you! For inspiration, [check out last year's program](https://www.elbsides.eu/2025/#program) for a few ideas:
@@ -49,7 +51,6 @@ We also welcome non-technical and cross-disciplinary contributions that explore 
 
 If you have any questions, please contact us at elbsides -at- gmail.com.
 
-**>>>>>>>> [Submit your proposal here!](https://pretalx.com/elbsides-2026/submit/) <<<<<<<<**
 
 ## Program Committee
 

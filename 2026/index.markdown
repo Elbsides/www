@@ -30,10 +30,9 @@ carousels:
 
 **Elbsides 2026** will be held on **Friday, June 5th, 2026** in Hamburg, Germany.
 
-We are currently looking for [sponsors](/2026/#sponsors), [workshop proposals](/2026/workshops/),
-and [presentation proposals](/2026/cfp/).
+We are currently looking for [sponsors](/2026/#sponsors), ~~[workshop proposals](/2026/workshops/)~~,
+~~and [presentation proposals](/2026/cfp/)~~.
 
-[![2026 Call for Presentations](/assets/images/cfp_megaphone_button.svg){:width="50%" style="padding: 10px;"}](/2026/cfp/)
 
 # Keynote
 
