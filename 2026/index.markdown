@@ -118,3 +118,8 @@ Ingo enjoys security, board games, and great coffee. He’s been part of Hamburg
 ## [Adina](https://adina.ca)
 
 Hey, I’m Adina! I am incessantly curious, work in renewable energy, and sometimes find vulnerabilities when I’m bored. I co-founded a hackerspace over a decade ago but have only just accepted that security is more than a hobby. At work, I’m a business architect with security leanings working in knowledge management for a major renewable energy company.
+
+## Georg Heise
+
+Georg Heise is a Senior Offensive Security Consultant and researcher working at the intersection of red and purple teaming, offensive tactics, and innovation. A regular speaker and contributor within the security community, he enjoys translating complex technical research into practical insights. Georg is a long-time supporter of the BSides community and frequently presents on emerging offensive security topics.
+
