@@ -54,6 +54,7 @@ If you have any questions, please contact us at elbsides -at- gmail.com.
 
 ## Program Committee
 
+- Adina Bogert-O'Brien
 - Andreas Peters
 - Fabian Huber
 - Garlef Uhde
