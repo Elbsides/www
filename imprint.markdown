@@ -9,7 +9,7 @@ gemäß §§ 5, 6 TMG und § 55 RStV:
 * Ernst-Barlach-Str.3
 * 22880 Wedel
 
-Telefon: ‭+49-4103-9050082
+Telefon: +49-4103-9050082
 
 Mail: elbsides - at - gmail.com
 
@@ -30,9 +30,6 @@ Jede Art des Missbrauchs dieses WWW-Servers oder darauf gespeicherter Informatio
 ## Beschwerden
 
 Sollten Sie Fehler oder problematische Inhalte feststellen, bitten wir um eine kurze Benachrichtigung per E-Mail. Dem Sachverhalt wird dann so schnell wie möglich nachgegangen und gegebenenfalls Abhilfe geschaffen.
-
-## Kennzeichenschutz
-
 
 ## Copyright
 
