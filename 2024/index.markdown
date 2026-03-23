@@ -67,6 +67,8 @@ Backup talks:
 * [Santi Abastante](#santi-abastante): [Dredge: A Open Source Framework for Cloud Incident Response](#dredge-a-open-source-framework-for-cloud-incident-response)
 * [Thore Tiemann](#thore-tiemann): [“Act natural!”: Exchanging Private Messages on Public Blockchains](#act-natural-exchanging-private-messages-on-public-blockchains)
 
+**Note**: We take no responsibility for the content of the talks, and the views expressed by the speakers do not necessarily reflect those of Elbsides or its organizers. We are committed to providing a platform for diverse perspectives and encourage open dialogue on all topics related to computer security. The content of the slides are also the responsibility of the speakers and all content in them is wholly the responsibility of the speakers and their affiliations. We do not endorse any specific products, services, or viewpoints expressed in the talks or slides. They are provided as a convenience for the attendees only. Any complaints about the content of the talks or slides should be directed to the speakers and their affiliations, not to Elbsides or its organizers.
+
 
 # Speakers
 
