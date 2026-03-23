@@ -39,6 +39,12 @@ We are currently looking for [sponsors](/2026/#sponsors), ~~[workshop proposals]
 ![Natalie Kilber](/assets/2026/images/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}
 **Natalie Kilber** is a cybersecurity and quantum industry researcher and technology advisor. She has kindly agreed to share her experience and thoughts on the state of quantum computing and how we need to adapt our cryptography to be quantum resistant. This is very topical as many organizations need to have a post-quantum roadmap ready this year and be PQC compliant by 2030. Apart from that, she is one of the most interesting people in the field and we are looking forward to her keynote and the discussions that will follow.
 
+---
+
+**Note**: We take no responsibility for the content of the talks, and the views expressed by the speakers do not necessarily reflect those of Elbsides or its organizers. We are committed to providing a platform for diverse perspectives and encourage open dialogue on all topics related to computer security. The content of the slides are also the responsibility of the speakers and all content in them is wholly the responsibility of the speakers and their affiliations. We do not endorse any specific products, services, or viewpoints expressed in the talks or slides. They are provided as a convenience for the attendees only. Any complaints about the content of the talks or slides should be directed to the speakers and their affiliations, not to Elbsides or its organizers.
+
+---
+
 
 # Location
 
