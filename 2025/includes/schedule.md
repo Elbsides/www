@@ -338,9 +338,6 @@ Mikko will examine the transition from isolated virus outbreaks to organized, fi
 
 Finally, Mikko will reflect on the current state of cybersecurity as a mature, multi-billion-dollar ecosystem and how governments entered the picture. He'll finish with some educated guesses about where we will go next.
 
-**Video:**
-
-[![What I've Learned](/assets/2025/keyframes/Opening_Keynote-_What_I've_Learned.jpg)](https://youtu.be/wuIhoZ97UkE)
 
 
 ---
@@ -354,10 +351,6 @@ Finally, Mikko will reflect on the current state of cybersecurity as a mature, m
 
 **Speaker(s):**
 - [Andrea Ercolino](#andrea-ercolino)
-
-**Video:**
-
-[![A tale of nefarious usage: IPv6 based Covert Channels](/assets/2025/keyframes/A_tale_of_nefarious_usage-_IPv6_based_Covert_Channels.jpg)](https://youtu.be/_gkemBiwepQ)
 
 
 **Abstract:**
@@ -390,17 +383,11 @@ Beyond academic research, the proposed tool enables man-in-the-middle data exfil
 **Speaker(s):**
 - [Lars Fischer](#lars-fischer)
 
-**Video:**
-
-[![Internet Message-Protection using Certificates and (not yet) Transformation](/assets/2025/keyframes/Internet_Message-Protection_using_Certificates_and_(not_yet)_Transformation.jpg)](https://youtu.be/Bh15JnPcGhQ)
 
 **Abstract:**
 
 The crucial stopping-gap of wide-spread secure communication over Email clearly seems to be "usability". The difficult part arguably is "certificate management" which, at the core is the question of how to authenticate credentials. Many researchers and developers have taken their shot at improving the situation, while instant messenger applications seem to simply circumvent all obstacles and provide effortless end-to-end security — alas only for communication within their respective silos. And the situation for Email, i.e. combination of SMTP (RFC 5321) and Internet Text Messages, going back to RFC 724 and RFC 772, nowadays encapsulated by MIME, is anything but simple. But since 2015 ACME seemed to have solved the similar problem of distributing authenticated certificates for web-sites. In this work we take up the work on ACME for end-users and transfer the principles to OpenPGP and thus finally solving(?) this problem from the 1990s.
 
-**Slides:**
-
-[![Internet Message-Protection using Certificates and (not yet) Transformation](/assets/2025/slides/ACME_PGP.png)](https://informatik.hs-bremerhaven.de/lafischer/vault/2025-elbsides/acme-pgp.html)
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -414,16 +401,10 @@ The crucial stopping-gap of wide-spread secure communication over Email clearly 
 **Speaker(s):**
 - [Sewar Khalifeh](#sewar-khalifeh)
 
-**Video:**
-
-[![From Unrestricted Uploads to Security Nightmares: Preventing and Mitigating File Upload Vulnerabilities](/assets/2025/keyframes/From_Unrestricted_Uploads_to_Security_Nightmares-_Preventing_and_Mitigating_File_Upload_Vulnerabilities.jpg)](https://youtu.be/YBg41G9_lEc)
 
 **Abstract:**
 Unrestricted file uploads pose a significant threat to application security, allowing attackers to exploit various vulnerabilities and gain unauthorised access to systems and data. And there are some potential risks associated with unrestricted file uploads, such as: Triggering vulnerabilities in libraries/applications, abusing real-time security tools, executing malicious code and unauthorised access to sensitive files. In addition to the standard security best practices for file uploads, such as restricting file size, types, and extensions; experts recommends security controls to further enhance protection and validate files. These technologies include Content Disarm and Reconstruction (CDR), multi-AV scanning, sandboxing, and single-AV scanning. The aim of this presentation is to provide a detailed walkthrough of the risks and attacks associated with unrestricted file upload vulnerabilities, review the protective technologies available, outline proper mitigation strategies, and give practical examples on how to secure your environment against malicious uploads.
 
-**Slides:**
-
-<embed src="/assets/2025/slides/From-Unrestricted-Uploads-to-Security-Nightmares.pdf#page=1" width="600" height="500" type="application/pdf">
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -437,9 +418,6 @@ Unrestricted file uploads pose a significant threat to application security, all
 **Speaker(s):**
 - [Max Maaß](#max-maaß)
 
-**Video:**
-
-[![Why Defensive Software Architecture is Important, or: How to Compromise a Payment Processor using Math](/assets/2025/keyframes/Why_Defensive_Software_Architecture_is_Important,_or-_How_to_Compromise_a_Payment_Processor_using_Math.jpg)](https://youtu.be/2vvwGTGn5Tc)
 
 **Abstract:**
 People talk a lot about defensive software architecture, but does it really make a difference?
@@ -460,11 +438,6 @@ By stepping through the architecture of the system from the highest level down t
 **Speaker(s):**
 - [Igor Stepansky](#igor-stepansky)
 - [Michael Goberman](#michael-goberman)
-
-
-**Video:**
-
-[![Breaking the CI/CD Chain: Security Risks in GitHub Actions](/assets/2025/keyframes/Breaking_the_CI_CD_Chain-_Security_Risks_in_GitHub_Actions.jpg)](https://youtu.be/rSS426dC4NY)
 
 
 **Abstract:**
@@ -491,16 +464,8 @@ Attendees will gain a deeper understanding of GitHub Actions' security landscape
 - [Jasmin Mair](#jasmin-mair)
 - [Lukas Mika](#lukas-mika)
 
-**Video:**
-
-[![SBOMs – A Tragicomedy in Three Acts](/assets/2025/keyframes/SBOMs_–_A_Tragicomedy_in_Three_Acts.jpg)](https://youtu.be/6xekPkVUXTk)
-
 **Abstract:**
 Increasing supply chain attacks have highlighted the need for greater transparency in software. As a result, more regulations now require software vendors to provide SBOMs (Software Bills of Materials) for their products. In this talk, we’ll take you on a journey into the world of CISOs and managers who hope that SBOMs can solve many problems in the areas of cybersecurity and cyber resilience. Our brave architect will address questions such as: Do SBOMs actually make products more secure? Can they help mitigate situations like Log4Shell? What exactly do they need to contain? Along the way, they’ll debunk inflated expectations and outline the prerequisites for using SBOMs effectively.
-
-**Slides:**
-
-[![SBOMs – A Tragicomedy in Three Acts](/assets/2025/slides/SBOM-A-Tragicomedy.png)](https://something-appsec.github.io/sbom-talk/)
 
 [GitHub repository](https://github.com/something-appsec/sbom-talk)
 
@@ -516,9 +481,6 @@ Increasing supply chain attacks have highlighted the need for greater transparen
 **Speaker(s):**
 - [Andrey Voitenko](#andrey-voitenko)
 
-**Video:**
-
-[![The Ongoing Challenge of Phishing: Examining Attack Vectors and Exploring Defense Improvements](/assets/2025/keyframes/The_Ongoing_Challenge_of_Phishing-_Examining_Attack_Vectors_and_Exploring_Defense_Improvements.jpg)](https://youtu.be/WU072FDeatI)
 
 **Abstract:**
 Phishing attacks are evolving faster than traditional defenses can adapt. Despite significant investments in Secure Email Gateways (SEGs) and email security stacks, phishing remains one of the most effective initial access vectors. This session examines why phishing continues to succeed and introduces a practical, high-impact strategy to strengthen defenses.
@@ -531,9 +493,6 @@ One often overlooked opportunity to address these advanced threats lies in integ
 
 This session will include real-world examples of advanced phishing techniques, such as redirect chains, QR code-based attacks, and SVG-based payloads, and show how advanced sandboxing can be used to detect them effectively.
 
-**Slides:**
-
-<embed src="/assets/2025/slides/Ongoing-Challenge-Of-Phishing.pdf#page=1" width="600" height="500" type="application/pdf">
 
 
 ---
@@ -548,9 +507,6 @@ This session will include real-world examples of advanced phishing techniques, s
 **Speaker(s):**
 - [Sarah Pauli](#sarah-pauli)
 
-**Videos:**
-
-[![Effects and dynamics of Cybercrime on cyberprofessionals in the workfield. How can we optimize the workplace for our guards in Cybersecurity?](/assets/2025/keyframes/Effects_and_dynamics_of_Cybercrime_on_cyberprofessionals_in_the_workfield._How_can_we_optimize_the_workplace_for_our_guards_in_Cybersecurity.jpg)](https://youtu.be/PB-gvAismfQ)
 
 **Abstract:**
 I would like to give an insightful exploration into the impact of Cybercrime on the mental health of SOC-Analysts and related roles which are connected to the upper management.
@@ -572,9 +528,6 @@ I want to give an inspirational approach to improve the workplace, keeping profe
 **Speaker(s):**
 - [Malte Wessels](#malte-wessels)
 
-**Video:**
-
-[![HyTrack: Tracking You Across Apps and the Web Hydra-Style](/assets/2025/keyframes/HyTrack-_Tracking_You_Across_Apps_and_the_Web_Hydra-Style.jpg)](https://youtu.be/GY8MmBbcDf0)
 
 **Abstract:**
 We found HyTrack, a robust new tracking Android tracking technique.
@@ -588,9 +541,6 @@ In short, HyTrack brings the full power of web tracking to native Android and is
 In this talk, we will discuss the mechanisms behind it, check which browsers and devices are affected, and discuss mitigations.
 Finally, we will recommend the next steps for you and the community to take to mitigate HyTrack and protect user privacy.
 
-***Slides:***
-
-<embed src="/assets/2025/slides/Elbsides__25___HyTrack__25min___5min_-3_nonotes.pdf" width="600" height="500" type="application/pdf">
 
 
 ---
@@ -605,9 +555,6 @@ Finally, we will recommend the next steps for you and the community to take to m
 **Speaker(s):**
 - [Chris Traynor](#chris-traynor)
 
-**Video:**
-
-[![Pentest Pains](/assets/2025/keyframes/Pentest_Pains.jpg)](https://youtu.be/0K5UGVwEk9U)
 
 **Abstract:**
 Pentesting is meant to uncover security weaknesses, but sometimes the process itself becomes an exercise in frustration. From unclear scopes and unresponsive clients to network misconfigurations and unexpected legal roadblocks, every pentester has war stories of engagements gone wrong. This talk dives into real-world pentesting pain points, sharing firsthand experiences of what makes assessments more difficult than they need to be—and how to avoid these pitfalls.
@@ -615,14 +562,6 @@ Pentesting is meant to uncover security weaknesses, but sometimes the process it
 Whether you’re a seasoned pentester, a blue teamer trying to prepare for a test, or a purple teamer bridging the gap, understanding these challenges can help ensure your next engagement is smoother and more effective. We’ll cover the most common mistakes from all sides of the table, such as poor scoping, lack of communication, ineffective remediation, and unrealistic expectations.
 
 Beyond just the horror stories, this session provides actionable lessons to help security teams and consultants work together more efficiently. Learn how to avoid common traps, improve collaboration, and turn painful experiences into opportunities for a more productive outcome.
-
-**Slides:**
-
-- English version:
-<embed src="/assets/2025/slides/Pentest-Pains-English.pdf#page=1" width="600" height="500" type="application/pdf">
-
-- German version:
-<embed src="/assets/2025/slides/Pentest-Pains-German.pdf#page=1" width="600" height="500" type="application/pdf">
 
 ---
 <span style="float: right">[&Sigma;](#speakers)&ensp;[&Pi;](#program)&ensp;[&Delta;](/2025/)</span>
@@ -637,9 +576,6 @@ Beyond just the horror stories, this session provides actionable lessons to help
 - [Christian Kollee](#christian-kollee)
 - [Yasin Tas](#yasin-tas)
 
-**Video:**
-
-[![From OneDrive Access to System Compromise](/assets/2025/keyframes/From_OneDrive_Access_to_System_Compromise.jpg)](https://youtu.be/mLpTSIVtRac)
 
 **Abstract:**
 With the move to cloud environments and Software as a Service (SaaS) offerings, digital identities are becoming more critical daily. Especially in the business context, these identities are connected to the business e-mail addresses and allow access to e-mails and documents via cloud applications in M365 and Google Workspaces.
@@ -668,18 +604,12 @@ This talk will illustrate briefly how threat actors use AitM attacks to obtain a
 **Speaker(s):**
 - [Axelle Apvrille](#axelle-apvrille)
 
-**Video:**
-
-[![Closing Keynote: Malware, Meet AI: Friend or Foe?](/assets/2025/keyframes/Closing_Keynote-_Malware,_Meet_AI-_Friend_or_Foe.jpg)](https://youtu.be/Rh58r9fMfBA)
 
 **Abstract:**
 Artificial Intelligence is capable of creating malware. Fortunately, it is also capable of analyzing them, summarizing and decompiling them with surprising clarity. But how much can we trust it?
 
 In this keynote, we'll explore moments where AI shines and fails. We'll also discuss MCP security (Model Context Protocol): a modern protocol with no/little security? As AI and malware evolve together, what does the future hold, in terms of malware and anti-malware?
 
-**Slides:**
-
-<embed src="/assets/2025/slides/Malware-Meet-AI-Friend-or-Foe.pdf#page=1" width="600" height="500" type="application/pdf">
 
 
 ---

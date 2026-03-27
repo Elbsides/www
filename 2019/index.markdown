@@ -17,6 +17,6 @@ To keep in touch with us and all the other participants, we have a few great opt
 
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
 
-Videos are available soon at:
+~~Videos are available soon at:~~
 
-Youtube: [Youtube channel](https://www.youtube.com/channel/UC1kRI13BZ6KMCwtGttD5Arg)
+~~Youtube: Youtube channel~~

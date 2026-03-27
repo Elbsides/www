@@ -3,7 +3,6 @@ layout: page
 permalink: /2021/programm/lekati/
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OzCAMRWrDBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Speaker
 

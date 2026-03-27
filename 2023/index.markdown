@@ -33,7 +33,7 @@ carousels:
 
 ~~This year we will welcome you to Elbsides light, a ½ day conference.~~
 
-You can find all the videos and some of the slides by clicking through to the talk description from the [program](#program) or you can check out the [playlist](https://www.youtube.com/watch?v=TTnAFXHmF1I&list=PL1d1CFJwRGVNfXvCrRViNoE7pLOReb6BV&pp=gAQBiAQB) on YouTube.
+~~You can find all the videos and some of the slides by clicking through to the talk description from the [program](#program) or you can check out the playlist on YouTube.~~
 
 
 # General Information
@@ -48,8 +48,6 @@ The computer security community from Hamburg and North Germany will meet on Nove
 * Mastodon: [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides)
 * Bluesky: [@elbsides.bsky.social](https://bsky.app/profile/elbsides.bsky.social)
 * LinkedIn: [linkedin.com/company/elbsides](https://www.linkedin.com/company/elbsides/?viewAsMember=true)
-
-If you haven't been to [Elbsides 2019](/2019/) - see what you missed and watch the talks on YouTube: [Youtube channel](https://www.youtube.com/channel/UC1kRI13BZ6KMCwtGttD5Arg)
 
 <hr>
 
@@ -116,7 +114,7 @@ We hope to welcome many old and new sponsors to make this event possible with no
 
 Preliminary program, subject to change. You can also jump to the [talks](#talks) directly or [speaker bios](#speakers).
 
-You can find the videos of the talks by clicking through to the talk or by going to the [playlist on YouTube](https://www.youtube.com/watch?v=TTnAFXHmF1I&list=PL1d1CFJwRGVNfXvCrRViNoE7pLOReb6BV&pp=gAQBiAQB).
+~~You can find the videos of the talks by clicking through to the talk or by going to the playlist on YouTube.~~
 
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
@@ -191,16 +189,10 @@ Hey, I'm Adina! I am incessantly curious, work in renewable energy, and sometime
 
 Speaker: [Morton Swimmer](#morton)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TTnAFXHmF1I?si=G0_WiQKkgTCbnZ8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ## 40 years Census Decision: The census and understanding privacy protection in the transition of time.
 
 Speaker: [Simone Fischer-Hübner](#prof-dr-simone-fischer-hübner)
-
-Slides: [PDF](/assets/2023/Simone - 40 Jahre VZ 2023-11-17.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kfwdja5wUUQ?si=wBsDn-p97Ntb-l2L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In 1983, the German Constitutional court stopped in its census decision the planned census, which according to the court was violating the individual right to informational self-determination. The court required a clear purpose limitation of census data as well as the requirement that census data must be (effectively) anonymized. While for the 1987 census, the German government and Census Bureau assumed that deleting directly identifying personal identifiers, such as name and address, would be sufficient for anonymisation, Klaus Brunnstein and Simone Fischer-Hübner demonstrated with a simple simulation model that a few additional personal data attributes would be sufficient to uniquely most individuals. 40 years later, the problem that it is basically impossible to anonymise personal data by simply suppressing some attributes is meanwhile very well understand. For effectively protecting statistical data, privacy-enhancing technologies, including k-anonymity and differential privacy, have been developed. Differential privacy has been used recently by the US census and is also used by tech giants, such as Apple, Google or Uber, for enhancing privacy for their data analyses - however, differential privacy provides privacy functionalities that are hard to convey to lay users and decision makers. This talk provides an overview of how the understanding of privacy, anonymity and privacy enhancing technologies for census and data analytics has developed over the last 40 years and discusses remaining challenges.
 
@@ -208,10 +200,6 @@ In 1983, the German Constitutional court stopped in its census decision the plan
 ## My CI/CD pipeline contains all security tools available! Now what...?
 
 Speaker: [Jasmin Mair](#jasmin-mair)
-
-Slides: [PDF](/assets/2023/Jasmin - My CICD pipeline contains all security tools available! Now what.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dK3SW-_u2mM?si=4135QkRpDCIXGySL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In today's fast-paced environment, teams are under constant pressure to deliver code, features, and applications at an unprecedented speed, thanks to the contributions of Agile and DevOps methodologies. While these approaches have significantly accelerated the time to market, the downside is that rapid development often comes at the cost of neglecting critical security considerations, potentially leaving systems vulnerable to cyber threats and compromises.
 
@@ -236,9 +224,6 @@ Using the Secure Software Development Lifecycle, this presentation will illustra
 
 Speaker: [Adina Bogert-O'Brien](#adina-bogert-obrien)
 
-Slides: [PDF](/assets/2023/Adina - SSO talk.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z2KwrZPhi48?si=FptfIjVtlpsY-ae1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 SSO is sold as a way to
 * centralize managing your organization's users,
@@ -257,11 +242,6 @@ I'm sharing this info because this year I got deeply involved in the SSO setup f
 
 Speaker: [Christian Kollee](#christian-kollee)
 
-Slides: [PDF](/assets/2023/Christian - You are not prepared.pdf)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K1aoLBDdKHg?si=X-ryrC8gHGQfZe3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Ransomware attacks are an ever-present menace for companies of all sizes. But they are especially devastating for small and medium-sized businesses. However, ransomware attacks typically consistently proceed similarly. The techniques used differ depending on the grouping and the infrastructure attacked.
 
 Looking at the Incident Response cycle, many companies omit the first phase at least partially: preparation. On the one hand, the preparation phase includes preventive measures, i.e., measures to reduce the likelihood of an incident. On the other hand, since preventive measures can fail, companies must also implement steps for when an incident does occur. Missing these preparations will lead to problems and delays during an incident.
@@ -279,10 +259,6 @@ You can do a lot before an actual incident; some to make it less likely to get h
 
 Speaker: [Nick Mahling](#nick-mahling)
 
-Slides: [PDF](/assets/2023/Nick - Reverse Engineering of Intel's Branch Prediction.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ArYCu3S-xRg?si=GaA-vwzC-hkmovbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Due to the rise of cloud computing, many applications share hardware resources with other applications in the cloud. While cloud computing offers numerous advantages, it has also introduced new security threats that need to be addressed. To reduce these risks, virtualization is used to isolate applications. A CPU involves a vast array of microarchitectural components dedicated to multiple tasks. If any of these underlying components possess a design flaw, it could potentially lead to security vulnerabilities, making the virtualization obsolete. One of these microarchitectural vulnerabilities is known as Spectre, which encompasses attacks capable of exploiting speculative execution to manipulate the control flow of an application. Speculative execution is a key feature in modern processors that leverages multiple microarchitectural elements to optimize runtime performance. This is achieved among other things by accurately predicting conditional branch outcomes. By analyzing the history of a branch, the processors can make guesses about the direction a program will take, enabling it to speculatively execute instructions ahead of time. Spectre variants targeting this mechanism have the ability to alter the program's execution path, potentially allowing an attacker to leak sensitive information. Due to limited knowledge about branch prediction on modern processors, some of those Spectre variants presented by researchers are impractical e.g. because of very long shellcodes. Furthermore, a deeper understanding of branch prediction can unveil more efficient defense mechanisms.
 
 Hence, this presentation which is based on my recent bachelor's thesis will focus on reverse engineering the branch prediction on modern Intel CPUs. Through the design and implementation of experiments, we aim to gain deeper insights into branch predictors. Specifically, our objective is to find pairs of branches that can interfere with each other's predictions. This acquired knowledge builds the foundation for developing a more reliable and efficient out-of-place Spectre attack.
@@ -292,8 +268,6 @@ By employing the information from that research, we successfully construct an at
 ## Broadcom router SDK vulnerabilities - the uncomfortable reality of the IoT Linux kernel space
 
 Speaker: [Attila Szasz](#attila-szasz)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rsebzn6Pq1I?si=12qrfPoPfHBsIjL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This research uncovers the CVE-2023-31070 vulnerability, a concerning issue within the IoT Linux kernel space, specifically affecting the Broadcom BCM47xx SDK. This vulnerability resides in the Efficient Multicast Forwarding (EMF) slab-out-of-bounds write, and it has significant implications for IoT device security. The Broadcom BCM47xx SDK serves as the reference implementation in numerous router models, making it a ubiquitous presence in the IoT landscape. In fact, the issue affects router devices from at least 14 manufacturers, and more than 50 popular models, therefore affecting a significant market share of small office home networking devices.
 
@@ -312,7 +286,6 @@ This presentation will provide an in-depth examination of CVE-2023-31070, offeri
 
 Speaker: [Florian Junge](#florian)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/udVDuj9x0wo?si=tLFno8ddXDkOgtuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
