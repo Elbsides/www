@@ -12,58 +12,64 @@ The workshops will be hosted by [Jungheinrich AG](https://www.jungheinrich.com),
 
 <center><img src="/assets/2026/logos/Jungheinrich_Logo.JPG" alt="Jungheinrich AG" width="50%" style="padding:10px;"></center>
 
-Check back at this page for updates on the workshops that will be offered at Elbsides 2026.
+Check back at this page for ticket sales. This will be seperate from the conference tickets!
 
 The ticketing process will also be separate from the conference, so you will need to purchase a separate ticket for the workshops. We will provide more information on the ticketing process and the workshop schedule as we get closer to the conference date.
 
+# Understanding Modern Application Security - Training Update 2026
+## Trainers
+- Juliane Reimann
+- Michael Helwig
+## Length
+- 8 hours
+## Room
+- Raum 3 (BILLE)
 
-Workshops for Elbsides 2026
+## Abstract
 
-
-1️⃣	Juliane Reimann / Michael Helwig - 8 hours  ✅
-	2 trainers - 18 participants (Raum 3 = BILLE)
-
-Understanding Modern Application Security - Training Update 2026
 The field of application security has evolved rapidly. Cloud-native architectures, APIs, AI-assisted development, increasing regulation and risks to the software supply chain have fundamentally changed the way we build and secure applications. Nevertheless, a secure software development lifecycle remains a best practice, and many traditional tools and processes continue to be relevant, even in the context of AI.
 This training course provides a structured, high-level overview of modern application security across the secure software development lifecycle (SSDLC). Rather than delving deeply into one specific tool or vulnerability class, we explore the key elements, including today's threat landscape, common vulnerabilities in web, API, and AI-based systems, secure architecture fundamentals, security-by-design principles, security tools, vulnerability management, and basic SDLC governance and cultural principles. We will share our insights and experiences, and also facilitate discussions with participants to identify effective strategies and lessons learned.
 To gain hands-on experience, we will conduct a practical threat modelling exercise and consider how to build our own SSDLC based on our threat model, as well as how to secure our CI/CD pipeline. We will explore common vulnerabilities in a vulnerable web application and attempt to relieve an LLM of its secrets. During the training, we will also consider the ways in which AI can enhance and automate processes throughout the SSDLC.
 Participants will gain:
-A clear overview of how modern application security works
-An understanding of the basics of secure architecture and threat modelling
-Insight into how security tools fit into CI/CD, and how to address problems in vulnerability management
-Practical experience through threat modelling and hands-on hacking
-Guidance on how to structure AppSec and Security Champion programmes within their organisation
-An understanding that there is rarely a one-size-fits-all solution (let alone tool) to their AppSec problems, but rather tailored solutions for their team
+- A clear overview of how modern application security works
+- An understanding of the basics of secure architecture and threat modelling
+- Insight into how security tools fit into CI/CD, and how to address problems in vulnerability management
+- Practical experience through threat modelling and hands-on hacking
+- Guidance on how to structure AppSec and Security Champion programmes within their organisation
+- An understanding that there is rarely a one-size-fits-all solution (let alone tool) to their AppSec problems, but rather tailored solutions for their team
 
-
-Target audience
+## Target audience
 Developers, architects, security managers, DevOps engineers, technical leads, and security practitioners who want a compact but structured overview of modern Application Security and practical starting points for their own environments.
 
+## Agenda
+- AppSec: Motivation, Regulation and Business Case
+- AppSec Threats – What can go wrong?
+- Secure Architecture Principles
+- Security By Design
+- Tools, AI and the AppSec Lifecycle
+- Vulnerability Management
+- Building the SSDLC – Program Strategy and Governance
+- Building Security Culture
 
-Agenda
-AppSec: Motivation, Regulation and Business Case
-AppSec Threats – What can go wrong?
-Secure Architecture Principles
-Security By Design
-Tools, AI and the AppSec Lifecycle
-Vulnerability Management
-Building the SSDLC – Program Strategy and Governance
-Building Security Culture
+## Trainer Bios
 
-1.Speaker Bio:
-Juliane Reimann, Founder & Security Community Expert @ FullCyrcle Security.
+### Juliane Reimann, Founder & Security Community Expert @ FullCyrcle Security.
+
 Juliane has worked as a cybersecurity consultant for large companies since 2019, with a focus on DevSecOps and community building. Her expertise includes building security communities among software developers and establishing developer-centric communication around secure software development topics. Before entering the cybersecurity field, she founded several companies in web development. Her web development background provides her with extensive knowledge of the software development lifecycle. Since 2024, she has been a core member of the OWASP Security Champions Guide Community.
 
+### Michael Helwig
 
-2. Speaker Bio:
 Michael Helwig is a senior security consultant, founder and director at the Munich based company secureIO GmbH. With a strong background in application security and building and managing application security programs, he is passionate about all things related to AppSec and DevSecOps. He is a member of the German OWASP Board.
 
+# Secure Development Lifecycle Applied - How to Make Things a Bit More Secure than Yesterday Every Day
+## Trainers
+- Lisi Hocke
+## Schedule
+- 4 hours  vormittags
+## Room
+- Raum 1 (ELBE)
 
-gg
-2️⃣.	Lisi Hocke - 4 hours  vormittags ✅
-	1 Trainer - 24  participants - Raum 1 (=ELBE)
-
-Secure Development Lifecycle Applied - How to Make Things a Bit More Secure than Yesterday Every Day
+## Abstract
 Building valuable solutions is a complex endeavor that requires a breadth of knowledge. That not being enough, we’re also getting asked to build secure solutions in a secure way - yet what does that even mean? How do we incorporate such a vast area of expertise into our everyday workflows?
 
 In this hands-on workshop, I will introduce you to core security concepts, like the CIA triad or defense in depth - and how we can apply them in everyday work. Based on a practical example, we will go through the development lifecycle with security in mind. You will learn about threat modeling to uncover risks early on, secure coding principles to bake security in, security testing approaches to make informed decisions depending on your risk appetite, and ways of detecting potentially malicious activity to protect against. Interactive exercises at each step will let you experience how security can neatly fit with what you’re already doing without adding artificial gates.
@@ -71,122 +77,65 @@ In this hands-on workshop, I will introduce you to core security concepts, like 
 Whether you want to keep your system secure or get a neglected one back in shape, this session is for you. Join us to gain fundamental security knowledge, hone your security skills, and get tactical advice to secure your development lifecycle. Let’s make things a bit more secure than yesterday every day!
 
 Needed from participant side:
-* Laptop with internet connection and permission to open a Miro board
-* At least one of the following two options:
-* GitHub account for using Codespaces to run the practice app
-* For local runs:
-* Git as well as the permission to clone a GitHub repository and run the practice app
-* A way to run bash scripts on their system (e.g. using git bash on Windows)
-* Docker and Docker Compose V2 (or an alternative way to run a Docker compose script)
-* API client (any choice)
+- Laptop with internet connection and permission to open a Miro board
+- At least one of the following two options:
+- GitHub account for using Codespaces to run the practice app
+- For local runs:
+- Git as well as the permission to clone a GitHub repository and run the practice app
+- A way to run bash scripts on their system (e.g. using git bash on Windows)
+- Docker and Docker Compose V2 (or an alternative way to run a Docker compose script)
+- API client (any choice)
+
+## Trainer Bios
+
+### Lisi Hocke
+Lisi Hocke found tech as her place to be in 2009 and has grown as a specialized generalist ever since. Building great products that deliver value together with great people motivates her and lets her thrive. As a security engineer, she’s now fully focusing on all things product security to help build more secure solutions. She's committed to testing and quality, passionate about whole-team approaches to increase effectiveness and resilience, and enjoys experimenting and learning continuously. Having received a lot from communities, Lisi is paying it forward by sharing her stories and learning in public. She posts on Mastodon as @lisihocke@mastodon.social and blogs at www.lisihocke.com. In her free time, she plays indoor volleyball or delves into computer games and stories of all kinds.
 
 
-
-
-
-
-
-
-
-
-
-
-Speaker Bio: Lisi Hocke found tech as her place to be in 2009 and has grown as a specialized generalist ever since. Building great products that deliver value together with great people motivates her and lets her thrive. As a security engineer, she’s now fully focusing on all things product security to help build more secure solutions. She's committed to testing and quality, passionate about whole-team approaches to increase effectiveness and resilience, and enjoys experimenting and learning continuously. Having received a lot from communities, Lisi is paying it forward by sharing her stories and learning in public. She posts on Mastodon as @lisihocke@mastodon.social and blogs at www.lisihocke.com. In her free time, she plays indoor volleyball or delves into computer games and stories of all kinds.
-
-
-
-
-
-
-
-
-
-
-
-
-
-3️⃣	Evgen Bohm - 4 h nachmittags
-	1 Trainer - 24 participants - Raum 1 (=ELBE)
-
-
-
-
-MacOS Investigation Workshop:
+# MacOS Investigation Workshop
+## Trainers
+- Evgen Bohm
+## Schedule
+- 4 h afternoon session
+## Room
+- Raum 1 (ELBE)
+## Abstract
 The goal of this workshop is to equip participants with the essential knowledge and practical skills needed to perform forensic analysis of macOS systems in the context of modern threats.
 Although macOS devices still account for a smaller share of enterprise environments than Windows, they are increasingly targeted by threat actors. As a result, macOS security and forensic analysis remain less mature and underrepresented in many organizations’ defensive strategies. Recent industry reports — including findings from Red Canary showing a 400% increase in macOS-related threats between 2023 and 2024 [1] — highlight the urgent need for improved visibility and expertise in this area.
 This workshop will guide participants through the fundamental steps of conducting macOS forensic investigations, including:
-Creating disk images of macOS devices
-Identifying and interpreting key system artifacts
-Investigating artifacts for evidence of threat actor activity
-Utilizing common forensic tools to support analysis
-Understanding the evolving macOS threat landscape
+- Creating disk images of macOS devices
+- Identifying and interpreting key system artifacts
+- Investigating artifacts for evidence of threat actor activity
+- Utilizing common forensic tools to support analysis
+- Understanding the evolving macOS threat landscape
 By the end of this workshop, participants will be able to independently conduct forensic investigations on macOS systems and will receive additional resources to support continued learning and future casework.
-[1] https://redcanary.com/threat-detection-report/trends/mac-malware/
 
+- https://redcanary.com/threat-detection-report/trends/mac-malware/
 
+# Let's make hackers cry ... with deception
+## Trainers
+- John Strand,	Antisyphon
+## Schedule
+- 4 h morning
+## Room
+- Raum 2 (ALSTER)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-4️⃣	Antisyphon - John Strand  - 4 h vormittags✅
-	1 Trainer -  24  participants - Raum 2 (=ALSTER)
-
-Title: Let's make hackers cry ... with deception
-
-
-Description: In this workshop we will be doing multiple hands-on labs that will help detect and halt attackers targeting your environment.  The students will also gain access to a full browser-based lab environment and a total of 16 hours of lab time.
-
+## Abstract
+In this workshop we will be doing multiple hands-on labs that will help detect and halt attackers targeting your environment.  The students will also gain access to a full browser-based lab environment and a total of 16 hours of lab time.
 
 We will show how it is important to collect hacker tears.  It makes the best wine.
 
+## Trainer Bios
+### John Strand
 
-John Strand - bio …..
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5️⃣	Superluminar - 4 hours nachmittags  ✅
-	3 trainers - 24 participants - Raum 2 (=ALSTER)
-
-Title:
-Exploiting and Securing AI Applications on AWS
-Description:
+# Exploiting and Securing AI Applications on AWS
+## Trainers
+- Superluminar
+## Schedule
+- 4 hours afternoon
+## Room
+- Raum 2 (ALSTER)
+## Abstract
 AI-powered assistants are becoming a standard feature in modern applications - but many are deployed with serious security flaws.
 
 In this interactive workshop, you’ll work with a deliberately vulnerable AI shopping assistant built on AWS. The application looks helpful, but underneath it hides prompt injection weaknesses, excessive permissions, insecure integrations, and other common AI security pitfalls.
@@ -195,17 +144,14 @@ Your mission is to exploit it, and then secure it.
 
 Through guided challenges, you’ll learn how attackers target AI systems and how to design safer architectures for real-world AI applications in AWS.
 
-Trainer:
+## Trainer Bios
+### Anne Stein
 
+Anne Stein is AWS Community Builder and Cloud Consultant at superluminar. With her passion for software development and cloud, she is always striving to learn more about the latest technologies and trends and to expand her skills.
 
- Anne Stein is AWS Community Builder and Cloud Consultant at superluminar. With her passion for software development and cloud, she is always striving to learn more about the latest technologies and trends and to expand her skills.
-
-
+### Rebecca Burnside
 Rebecca Burnside is a Cloud Consultant at superluminar. After transitioning into tech from neuropsychology, she now builds modern cloud infrastructure, with a growing focus on generative AI and its security challenges.
 
-
+### Robert von Massow
 Robert von Massow is a cloud consultant at superluminar working on cloud-native architectures and systems on AWS. His projects range from IoT platforms to data and AI workloads, which means he regularly encounters the full spectrum of modern tech buzzwords. At heart, he still considers himself a software engineer and prefers building real systems over just drawing architecture diagrams.
-
-
-
 
