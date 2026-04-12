@@ -21,14 +21,17 @@ carousels:
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
 
-The next Elbsides conference will be held in **[2026](/2026/) on June 5th.**.
+The next Elbsides conference will be held **on June 5th, [2026](/2026/)**.
 
 The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
 
-**New for this year**: We are excited to offer [workshops](/2026/workshops/) on June 4th.
+**New for this year**: We are excited to offer **[workshops](/2026/workshops/) on June 4th** at Jungheinrich, Hamburg-Wandsbek.
 
-_We've been forced to remove all slides and videos due to a complaint while we are investigating the issue. As a community conference, we do not have the resources to deal with legal issues and we apologize for the inconvenience. We hope to have the issue resolved soon and to be able to share the slides and videos again._
+---
 
+**NOTE:** _We've been forced to remove all slides and videos due to a complaint while we are investigating the issue. As a community conference, we do not have the resources to deal with legal issues and we apologize for the inconvenience. We hope to have the issue resolved soon and to be able to share the slides and videos again._
+
+---
 
 # Keynote
 ![Natalie Kilber](/assets/2026/images/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}

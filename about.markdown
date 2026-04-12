@@ -9,9 +9,11 @@ permalink: /about/
 
 ![Elbsides](/assets/images/elbsides_logo.svg){:width="30%" align="right" style="padding: 10px;"}
 
-The next Elbsides conference will be held in **[2026](/2026/) on June 5th.**.
+The next Elbsides conference will be held in **[2026](/2026/) on June 5th**.
 
-Elbsides is a computer security community conference that is held in **Hamburg, Germany**. This year, we will be at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) overlooking the harbor on June 5th, 2026. We will also have a [workshop day](/2026/workshops/) on June 4th, 2026.
+Elbsides is a computer security community conference that is held in **Hamburg, Germany**. This year, we will be at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) overlooking the harbor on June 5th, 2026.
+
+We will also offer a [workshop day](/2026/workshops/) on June 4th, 2026 at Jungheinrich, Hamburg-Wandsbek.
 
 Last year, we were keynoted by [Mikko Hyppönen](https://www.linkedin.com/in/hypponen/), computer security industry expert, now at drone defense company, Sensofusion. Our closing keynote was given by [Axelle Apvrille](https://www.linkedin.com/in/axelle-apvrille-7b99154/), a well-known expert in the field of embedded systems security.
 
@@ -33,6 +35,4 @@ Previous Keynote speakers have included: [Paul Vixie](https://www.linkedin.com/i
 
 Elbsides is derived from the successful [HH.Security](https://www.meetup.com/hh-security/) Meetup and some of the organizers of [BSidesMunich](https://bsidesmunich.org). The first event in [2019](/2019/) was successful with 150 participants, several talks, workshops and the legendary [Paul Vixie](https://www.linkedin.com/in/paulvixie/) as keynote speaker.
 
-To find out more about what BSides events mean to participants, see [Security BSides' What does BSides mean to me](http://www.securitybsides.com/w/page/87930010/What%20BSides%20Means) page. Other BSides events are listed at the [Security Bsides' Front Page](http://www.securitybsides.com/w/page/12194156/FrontPage).
-
-You can also join our [LinkedIn group](https://www.linkedin.com/groups/8828793/) to connect with us.
+To find out more about BSides events, see the [Security BSides](https://bsides.org) page.
