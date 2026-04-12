@@ -8,10 +8,10 @@ permalink: /2026/workshops/
 
 We are excited to announce that we will be offering workshops at Elbsides 2026 on the day before the conference, on June 4th. **NOTE:** _The workshops will not be in the same location as the conference._
 
-The closest bus stops to Jungheinrich are Helbingtwiete and Am Stadtrand, both of which are a short walk away (300 m.) The 171 and the 16 buses both run to these stops every 10 mins. Both bus routes connect with multiple S- and U-Bahn lines across the city. You can catch either bus from the U1 station Straßburger Straße, or you can catch the 16 (Rentenversicherung Nord) directly from Hauptbahnhof Hamburg.
+The closest bus stops to Jungheinrich are _Helbingtwiete_ and _Am Stadtrand_, both of which are a short walk away (300 m.) The **171** and the **16** buses both run to these stops every 10 mins. Both bus routes connect with multiple S- and U-Bahn lines across the city. You can catch either bus from the **U1** station _Straßburger Straße_, or you can catch the **16** (_Rentenversicherung Nord_) directly from _Hauptbahnhof_ Hamburg.
 Here’s a link to the [hvv trip planner](https://geofox.hvv.de/web/en/connections?execute=true&date=04.06.2026&time=08:45&start=Hauptbahnhof&startCity=Hamburg&startType=STATION&destination=Helbingtwiete&destinationCity=Hamburg&destinationType=STATION&timeIsDeparture=0&wayBy=train&desiredType=fasttrain%26extrafasttrain,longdistancebus:10000&toStartBy=FOOTPATH&toDestBy=FOOTPATH&forVisitors=0&useStationPosition=1&useBikeAndRide=0) which you can use to find the best route from where you’re staying.
 
-You can park in the parking garage of the UCI Cinema across the street. UCI Wandsbek, Friedrich-Ebert-Damm 134, 22047 Hamburg.
+You can park in the parking garage of the UCI Cinema across the street. Address: _UCI Wandsbek, Friedrich-Ebert-Damm 134, 22047 Hamburg_.
 
 The workshops will be hosted by [Jungheinrich AG](https://www.jungheinrich.com), a leading company in the field of intralogistics and material handling equipment. We are grateful for their support in hosting the workshops and providing a space for attendees to learn and collaborate.
 
