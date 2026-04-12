@@ -6,7 +6,8 @@ permalink: /2026/workshops/
 
 [Conference](/2026/) | **Workshops** | [Call for Presentations](/2026/cfp) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
-We are excited to announce that we will be offering workshops at Elbsides 2026 on the day before the conference, on June 4th. **NOTE:** _The workshops will not be in the same location as the conference._
+We are excited to announce that we will be offering workshops at Elbsides 2026 on the day before the conference, on June 4th. **NOTE:** _The workshops will not be in the same location as the conference._ The address is [Friedrich-Ebert-Damm 129, 22047 Hamburg](https://www.openstreetmap.org/way/595938690). The location is served by the 16 and 171 HVV buses and the stop is "Am Stadtrand" which can be connected to via the S1 and U1. The U1 subway stop "Trabrennbahn: is 1.4 km (about 20 minutes walking) away. The bus 16 connects the conference venue to the workshop venue in about 35 minutes.
+
 
 The workshops will be hosted by [Jungheinrich AG](https://www.jungheinrich.com), a leading company in the field of intralogistics and material handling equipment. We are grateful for their support in hosting the workshops and providing a space for attendees to learn and collaborate.
 
@@ -16,6 +17,40 @@ Check back at this page for ticket sales.
 The ticketing process will also be separate from the conference, so _you will need to purchase a separate ticket for the workshops_. We will provide more information on the ticketing process and the workshop schedule as we get closer to the conference date.
 
 # The workshops
+
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Alster</th>
+        <th>Bille</th>
+        <th>Elbe</th>
+    </tr>
+  <tr>
+    <td>9:00-13:00</td>
+    <td>
+        <a href="#lets-make-hackers-cry--with-deception">Let's make hackers cry ... with deception</a>
+    </td>
+    <td>
+        <a href="#understanding-modern-application-security---training-update-2026">
+        Understanding Modern Application Security - Training Update 2026
+        </a>
+    </td>
+    <td rowspan="2">
+        <a href="#secure-development-lifecycle-applied---how-to-make-things-a-bit-more-secure-than-yesterday-every-day">
+        Secure Development Lifecycle Applied - How to Make Things a Bit More Secure than Yesterday Every Day
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>14:00-18:00</td>
+    <td>
+        <a href="#exploiting-and-securing-ai-applications-on-aws">Exploiting and Securing AI Applications on AWS</a>
+    </td>
+    <td>
+        <a href="#macos-investigation-workshop">MacOS Investigation Workshop</a>
+    </td>
+  </tr>
+</table>
 
 
 ## Understanding Modern Application Security - Training Update 2026
@@ -59,15 +94,18 @@ Developers, architects, security managers, DevOps engineers, technical leads, an
 
 #### Juliane Reimann, Founder & Security Community Expert @ FullCyrcle Security.
 
+![Juliane Reimann](/assets/images/juliane-reimann-2026.jpg)
+
 Juliane has worked as a cybersecurity consultant for large companies since 2019, with a focus on DevSecOps and community building. Her expertise includes building security communities among software developers and establishing developer-centric communication around secure software development topics. Before entering the cybersecurity field, she founded several companies in web development. Her web development background provides her with extensive knowledge of the software development lifecycle. Since 2024, she has been a core member of the OWASP Security Champions Guide Community.
 
 #### Michael Helwig
 
+![Michael Helwig](/assets/images/michael-helwig-2026.jpg)
 Michael Helwig is a senior security consultant, founder and director at the Munich based company secureIO GmbH. With a strong background in application security and building and managing application security programs, he is passionate about all things related to AppSec and DevSecOps. He is a member of the German OWASP Board.
 
 ## Secure Development Lifecycle Applied - How to Make Things a Bit More Secure than Yesterday Every Day
 ### Trainers
-- Lisi Hocke
+- [Lisi Hocke](#lisi-hocke)
 ### Schedule
 - 4 hours
 - morning session
@@ -91,24 +129,27 @@ Needed from participant side:
 - Docker and Docker Compose V2 (or an alternative way to run a Docker compose script)
 - API client (any choice)
 
-### Trainer Bios
+### Trainer Bio
 
 #### Lisi Hocke
-Lisi Hocke found tech as her place to be in 2009 and has grown as a specialized generalist ever since. Building great products that deliver value together with great people motivates her and lets her thrive. As a security engineer, she’s now fully focusing on all things product security to help build more secure solutions. She's committed to testing and quality, passionate about whole-team approaches to increase effectiveness and resilience, and enjoys experimenting and learning continuously. Having received a lot from communities, Lisi is paying it forward by sharing her stories and learning in public. She posts on Mastodon as @lisihocke@mastodon.social and blogs at www.lisihocke.com. In her free time, she plays indoor volleyball or delves into computer games and stories of all kinds.
+
+![Lisi Hocke](/assets/images/lisi-hocke.jpg)
+
+Lisi Hocke found tech as her place to be in 2009 and has grown as a specialized generalist ever since. Building great products that deliver value together with great people motivates her and lets her thrive. As a security engineer, she’s now fully focusing on all things product security to help build more secure solutions. She's committed to testing and quality, passionate about whole-team approaches to increase effectiveness and resilience, and enjoys experimenting and learning continuously. Having received a lot from communities, Lisi is paying it forward by sharing her stories and learning in public. She posts on Mastodon as [@lisihocke@mastodon.social](https://mastodon.social/@lisihocke) and blogs at [www.lisihocke.com](www.lisihocke.com). In her free time, she plays indoor volleyball or delves into computer games and stories of all kinds.
 
 
 ## MacOS Investigation Workshop
 ### Trainers
 - Evgen Bohm
 ### Schedule
-- 4 h
+- 4 hours
 - afternoon session
 ### Room
 - ELBE (Raum 1)
 ### Abstract
 The goal of this workshop is to equip participants with the essential knowledge and practical skills needed to perform forensic analysis of macOS systems in the context of modern threats.
 
-Although macOS devices still account for a smaller share of enterprise environments than Windows, they are increasingly targeted by threat actors. As a result, macOS security and forensic analysis remain less mature and underrepresented in many organizations’ defensive strategies. Recent industry reports — including findings from Red Canary showing a 400% increase in macOS-related threats between 2023 and 2024 — highlight the urgent need for improved visibility and expertise in this area.
+Although macOS devices still account for a smaller share of enterprise environments than Windows, they are increasingly targeted by threat actors. As a result, macOS security and forensic analysis remain less mature and underrepresented in many organizations’ defensive strategies. Recent industry reports — including findings from Red Canary showing a 400% increase in macOS-related threats between 2023 and 2024 ([Mac Malware](https://redcanary.com/threat-detection-report/trends/mac-malware/)) — highlight the urgent need for improved visibility and expertise in this area.
 
 This workshop will guide participants through the fundamental steps of conducting macOS forensic investigations, including:
 - Creating disk images of macOS devices
@@ -119,13 +160,12 @@ This workshop will guide participants through the fundamental steps of conductin
 
 By the end of this workshop, participants will be able to independently conduct forensic investigations on macOS systems and will receive additional resources to support continued learning and future casework.
 
-https://redcanary.com/threat-detection-report/trends/mac-malware/
 
 ## Let's make hackers cry ... with deception
 ### Trainers
 - John Strand,	Antisyphon
 ### Schedule
-- 4 h
+- 4 hours
 - morning session
 ### Room
 - ALSTER (Raum 2)
@@ -135,12 +175,16 @@ In this workshop we will be doing multiple hands-on labs that will help detect a
 
 We will show how it is important to collect hacker tears.  It makes the best wine.
 
-### Trainer Bios
+### Trainer Bio
 #### John Strand
+
+John Strand has both consulted and taught hundreds of organizations in the areas of security, regulatory compliance, and penetration testing. He is a coveted speaker and much loved SANS teacher. John is a contributor to the industry-shaping Penetration Testing Execution Standard and 20 Critical Controls framework.
 
 ## Exploiting and Securing AI Applications on AWS
 ### Trainers
-- Superluminar
+- Anne Stein, Superluminar
+- Rebecca Burnside, Superluminar
+- Robert von Massow, Superluminar
 ### Schedule
 - 4 hours
 - afternoon session
