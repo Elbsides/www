@@ -6,6 +6,8 @@ permalink: /2026/workshops/
 
 [Conference](/2026/) | **Workshops** | [Call for Presentations](/2026/cfp) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
+![Elbsides 2026](/assets/2026/logos/Elbsides_Logo_2026.svg){:width="35%" align="right" style="padding: 10px;"}
+
 We are excited to announce that we will be offering workshops at Elbsides 2026 on the day before the conference, on June 4th. **NOTE:** _The workshops will not be in the same location as the conference._
 
 The closest bus stops to Jungheinrich are _Helbingtwiete_ and _Am Stadtrand_, both of which are a short walk away (300 m.) The **171** and the **16** buses both run to these stops every 10 mins. Both bus routes connect with multiple S- and U-Bahn lines across the city. You can catch either bus from the **U1** station _Straßburger Straße_, or you can catch the **16** (_Rentenversicherung Nord_) directly from _Hauptbahnhof_ Hamburg.
