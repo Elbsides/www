@@ -7,7 +7,7 @@ permalink: /about/
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
 
-![Elbsides](/assets/images/elbsides_logo.svg){:width="30%" align="right" style="padding: 10px;"}
+![Elbsides](/assets/2026/logos/Elbsides_Logo_Post_2026.svg){:width="30%" align="right" style="padding: 10px;"}
 
 The next Elbsides conference will be held in **[2026](/2026/) on June 5th**.
 
