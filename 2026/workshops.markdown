@@ -8,20 +8,11 @@ permalink: /2026/workshops/
 
 ![Elbsides 2026](/assets/2026/logos/Elbsides_Logo_2026.svg){:width="35%" align="right" style="padding: 10px;"}
 
-We are excited to announce that we will be offering workshops at Elbsides 2026 on the day before the conference, on June 4th. **NOTE:** _The workshops will not be in the same location as the conference._
+We are excited to announce that we will be offering workshops at Elbsides 2026 on the day before the conference, on June 4th. **NOTE:** _The workshops will not be in the same location as the conference._ See [Logistics](#logistics) below for more information on the workshop location and how to get there.
 
-The closest bus stops to Jungheinrich are _Helbingtwiete_ and _Am Stadtrand_, both of which are a short walk away (300 m.) The **171** and the **16** buses both run to these stops every 10 mins. Both bus routes connect with multiple S- and U-Bahn lines across the city. You can catch either bus from the **U1** station _Straßburger Straße_, or you can catch the **16** (_Rentenversicherung Nord_) directly from _Hauptbahnhof_ Hamburg.
-Here’s a link to the [hvv trip planner](https://geofox.hvv.de/web/en/connections?execute=true&date=04.06.2026&time=08:45&start=Hauptbahnhof&startCity=Hamburg&startType=STATION&destination=Helbingtwiete&destinationCity=Hamburg&destinationType=STATION&timeIsDeparture=0&wayBy=train&desiredType=fasttrain%26extrafasttrain,longdistancebus:10000&toStartBy=FOOTPATH&toDestBy=FOOTPATH&forVisitors=0&useStationPosition=1&useBikeAndRide=0) which you can use to find the best route from where you’re staying.
+Ticket sales will start on Friday, April 17th, 2026 at 10:00 CEST on [Pretix](https://pretix.eu/elbsides/elbsides-WS-2026/).
 
-You can park in the parking garage of the UCI Cinema across the street. Address: _UCI Wandsbek, Friedrich-Ebert-Damm 134, 22047 Hamburg_.
-
-The workshops will be hosted by [Jungheinrich AG](https://www.jungheinrich.com), a leading company in the field of intralogistics and material handling equipment. We are grateful for their support in hosting the workshops and providing a space for attendees to learn and collaborate.
-
-<center><img src="/assets/2026/logos/Jungheinrich_Logo.JPG" alt="Jungheinrich AG" width="50%" style="padding:10px;"></center>
-
-Check back at this page for ticket sales.
-
-The ticketing process will also be separate from the conference, so _you will need to purchase a separate ticket for the workshops_. We will provide more information on the ticketing process and the workshop schedule as we get closer to the conference date.
+**Note:** _you will need to purchase a separate ticket for the conference_. More details will follow.
 
 # The workshops
 
@@ -130,7 +121,7 @@ Michael Helwig is a senior security consultant, founder and director at the Muni
 
 ## Secure Development Lifecycle Applied - How to Make Things a Bit More Secure than Yesterday Every Day
 
-### Trainers
+### Trainer
 
 - [Lisi Hocke](#lisi-hocke)
 
@@ -173,7 +164,7 @@ Lisi Hocke found tech as her place to be in 2009 and has grown as a specialized 
 
 ## MacOS Investigation Workshop
 
-### Trainers
+### Trainer
 
 - Evgen Blohm
 
@@ -204,9 +195,9 @@ By the end of this workshop, participants will be able to independently conduct 
 
 ## Let's make hackers cry ... with deception
 
-### Trainers
+### Trainer
 
-- John Strand,	Antisyphon
+- John Strand,	Antisyphon Training
 
 ### Schedule
 
@@ -269,3 +260,14 @@ Rebecca Burnside is a Cloud Consultant at superluminar. After transitioning into
 #### Robert von Massow
 
 Robert von Massow is a cloud consultant at superluminar working on cloud-native architectures and systems on AWS. His projects range from IoT platforms to data and AI workloads, which means he regularly encounters the full spectrum of modern tech buzzwords. At heart, he still considers himself a software engineer and prefers building real systems over just drawing architecture diagrams.
+
+# Logistics
+
+The closest bus stops to Jungheinrich are _Helbingtwiete_ and _Am Stadtrand_, both of which are a short walk away (300 m.) The **171** and the **16** buses both run to these stops every 10 mins. Both bus routes connect with multiple S- and U-Bahn lines across the city. You can catch either bus from the **U1** station _Straßburger Straße_, or you can catch the **16** (_Rentenversicherung Nord_) directly from _Hauptbahnhof_ Hamburg.
+Here’s a link to the [hvv trip planner](https://geofox.hvv.de/web/en/connections?execute=true&date=04.06.2026&time=08:45&start=Hauptbahnhof&startCity=Hamburg&startType=STATION&destination=Helbingtwiete&destinationCity=Hamburg&destinationType=STATION&timeIsDeparture=0&wayBy=train&desiredType=fasttrain%26extrafasttrain,longdistancebus:10000&toStartBy=FOOTPATH&toDestBy=FOOTPATH&forVisitors=0&useStationPosition=1&useBikeAndRide=0) which you can use to find the best route from where you’re staying.
+
+You can park in the parking garage of the UCI Cinema across the street. Address: _UCI Wandsbek, Friedrich-Ebert-Damm 134, 22047 Hamburg_.
+
+The workshops will be hosted by [Jungheinrich AG](https://www.jungheinrich.com), a leading company in the field of intralogistics and material handling equipment. We are grateful for their support in hosting the workshops and providing a space for attendees to learn and collaborate.
+
+<center><img src="/assets/2026/logos/Jungheinrich_Logo.JPG" alt="Jungheinrich AG" width="50%" style="padding:10px;"></center>
