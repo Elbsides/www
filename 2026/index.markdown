@@ -32,6 +32,9 @@ The **Elbsides Conference 2026** will be held on **Friday, June 5th, 2026** in H
 
 We are still looking for support from [sponsors](/2026/#sponsors) to make the conference accessible to more people on a limited budget.
 
+# Registration
+
+See [registration page](/2026/registration/) for more information on how to register for the conference.
 
 # Keynote
 
