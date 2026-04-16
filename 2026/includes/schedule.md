@@ -354,3 +354,22 @@ Closing Remarks
 
 ---
 
+
+---
+
+## Backup Speakers
+
+#### Michel Messerschmidt
+Michel Messerschmidt is a Senior Key Expert for Industrial Cybersecurity at Siemens Gamesa Renewable Energy.
+<div style="clear: both;"></div>
+
+---
+
+#### Kaan Tolunay Kilic
+
+![Kaan Tolunay Kilic](/assets/2026/avatars/M7J3WT_ERSs1Ni.webp){:width="30%" style="padding: 10px; float: right;"}
+Kaan Tolunay Kilic is part of the cloud solutions and governance team and works at Otto Group one.O GmbH, where he is developing platform services for the product teams. He likes to learn and share his experience with others.
+<div style="clear: both;"></div>
+
+---
+
