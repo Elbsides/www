@@ -22,7 +22,7 @@
 
 ## Speakers
 
-[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Juliane Reimann](#juliane-reimann), [Kaan Tolunay Kilic](#kaan-tolunay-kilic), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [dead1nfluence](#dead1nfluence)
+[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Juliane Reimann](#juliane-reimann), [Kaan Tolunay Kilic](#kaan-tolunay-kilic), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei), [dead1nfluence](#dead1nfluence)
 
 ## Talks
 
@@ -369,6 +369,16 @@ Michel Messerschmidt is a Senior Key Expert for Industrial Cybersecurity at Siem
 
 ![Kaan Tolunay Kilic](/assets/2026/avatars/M7J3WT_ERSs1Ni.webp){:width="30%" style="padding: 10px; float: right;"}
 Kaan Tolunay Kilic is part of the cloud solutions and governance team and works at Otto Group one.O GmbH, where he is developing platform services for the product teams. He likes to learn and share his experience with others.
+<div style="clear: both;"></div>
+
+---
+
+#### Younes Ahmadzei
+
+![Younes Ahmadzei](/assets/2026/avatars/CHVHRC_u8yLfgf.webp){:width="30%" style="padding: 10px; float: right;"}
+Younes Ahmadzei is an Information Systems student at the Technical University of Munich (TUM) and an Information Security Consultant. His research centers around the EU's NIS-2 Directive and its real-world implications for mid-sized German companies.
+
+As part of his initial research, he created a pragmatic NIS-2 self-assessment tool, mapped the directive's requirements to ISO 27001, TISAX, and BSI IT-Grundschutz, and conducted a massive empirical outreach to 1,800 SMEs. He is currently extending this work through a longitudinal Phase 2 study (Q1 2026) to analyze the actual market reality and compliance barriers now that the national NIS-2 law is actively in effect.
 <div style="clear: both;"></div>
 
 ---
