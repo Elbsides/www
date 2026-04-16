@@ -18,7 +18,9 @@
 | 15:45 | [Juliane Reimann](#juliane-reimann) | [The Illusion of Finishability](#the-illusion-of-finishability) |
 | 16:15 | [André Lima](#andré-lima) | [Pull the Plug: Kernel-Level Surgery to Blind EDRs](#pull-the-plug-kernel-level-surgery-to-blind-edrs) |
 | 16:45 | [Lisa Froehlich](#lisa-froehlich) | [Your Traffic Is Lying to You](#your-traffic-is-lying-to-you) |
+| 17:15 |  | [TBA](#tba) |
 | 17:45 |  | [Closing](#closing) |
+| 18:00 |  | [Networking hour](#networking-hour) |
 
 ## Speakers
 
@@ -345,11 +347,26 @@ Lisa Fröhlich is Head of Corporate Communications at Link11, a European provide
 
 ---
 
+## TBA
+- **Time:** 17:15 - 17:45
+
+**Abstract:**
+To be announced
+<div style="clear: both;"></div>
+
+---
+
 ## Closing
 - **Time:** 17:45 - 17:50
 
 **Abstract:**
 Closing Remarks
+<div style="clear: both;"></div>
+
+---
+
+## Networking hour
+- **Time:** 18:00 - 20:00
 <div style="clear: both;"></div>
 
 ---
