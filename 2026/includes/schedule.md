@@ -50,8 +50,8 @@ Quantum is no longer a research topic for us; it is now a benchmark regulators a
 Natalie Kilber is a quantum industry pioneer, former enterprise cybersecurity leader and CEO of Haste, securing the future of compute. As a researcher and technology advisor on quantum, AI and cybersecurity; she leads innovations fusing emergent technology defenses for hybrid compute ecosystems.
 
 **Social Media:**
-- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: https://www.linkedin.com/company/hastesec/
-- ![Website](/assets/icons/www-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: https://hastesecurity.com/
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://www.linkedin.com/company/hastesec/](https://www.linkedin.com/company/hastesec/)
+- ![Website](/assets/icons/www-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://hastesecurity.com/](https://hastesecurity.com/)
 
 <div style="clear: both;"></div>
 
@@ -106,7 +106,7 @@ Michael is a Product Security Specialist at SAP, working with the SAP Cloud Infr
 He obtained multiple industry certifications such as OSCP, GCPN, and CISSP. A healthy dose of paranoia led him to explore OSINT and the surprising power of publicly available information. Beyond his day-to-day work, Michael is an active member of the cybersecurity community and helps organize BSides Luxembourg.
 
 **Social Media:**
-- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: https://linkedin.com/in/mreimsbach
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://linkedin.com/in/mreimsbach](https://linkedin.com/in/mreimsbach)
 
 #### Rishi (@rxerium)
 
