@@ -4,7 +4,7 @@ permalink: /2026/registration/
 title: Registration
 ---
 
-**Conference** | [Program](/2026/#program) | [Workshops](/2026/workshops/) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
+[Conference](/2026/) | [Program](/2026/#program) | [Workshops](/2026/workshops/) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
 This year we offer two types of tickets:
 
