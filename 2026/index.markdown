@@ -22,7 +22,7 @@ carousels:
 
 ---
 
-**Conference** | [Workshops](/2026/workshops/) | [Call for Presentations](/2026/cfp/) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
+**Conference** | [Program](/2026/#program) | [Workshops](/2026/workshops/) | [Sponsors](/2026/#sponsors) | [Team](/2026/#team)
 
 ![Elbsides 2026](/assets/2026/logos/Elbsides_Logo_2026.svg){:width="35%" align="right" style="padding: 10px;"}
 
