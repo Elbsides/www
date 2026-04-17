@@ -36,6 +36,8 @@ We are still looking for support from [sponsors](/2026/#sponsors) to make the co
 
 See [registration page](/2026/registration/) for more information on how to register for the conference.
 
+**Ticket sales will start on Monday, April 20th, 2026 at 11:00 CEST.**
+
 # Keynote
 
 ![Natalie Kilber](/assets/2026/images/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}
