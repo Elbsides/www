@@ -20,11 +20,11 @@
 | 16:45 | [Lisa Froehlich](#lisa-froehlich) | [Your Traffic Is Lying to You](#your-traffic-is-lying-to-you) |
 | 17:15 |  | [TBA](#tba) |
 | 17:45 |  | [Closing](#closing) |
-| 18:00 |  | [Networking hour](#networking-hour) |
+| 18:00 |  | [Networking hours](#networking-hours) |
 
 ## Speakers
 
-[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Juliane Reimann](#juliane-reimann), [Kaan Tolunay Kilic](#kaan-tolunay-kilic), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei), [dead1nfluence](#dead1nfluence)
+[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Juliane Reimann](#juliane-reimann), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei), [dead1nfluence](#dead1nfluence)
 
 ## Talks
 
@@ -114,9 +114,19 @@ He obtained multiple industry certifications such as OSCP, GCPN, and CISSP. A he
 
 ![Rishi (@rxerium)](/assets/2026/avatars/BUFJAD_qqqayWL.webp){:width="30%" style="padding: 10px; float: right;"}
 Rishi is a London-based security researcher with experience in vulnerability research, threat intelligence, and enterprise risk analysis. His work focuses on identifying zero-day vulnerabilities and emerging CVEs, with a particular interest in building detection logic before threats are publicly weaponised.
+
 He works across both offensive and defensive disciplines, developing threat models grounded in real-world TTPs, writing detection rules, and automating reconnaissance to uncover exposed assets at scale. Attack surface management and OSINT are areas he keeps coming back to, specifically the challenge of mapping exposure that organisations often don't know exists.
 
 Outside of his day job, Rishi contributes to open source security tooling through Project Discovery and OWASP, part of the leadership team of the UK OSINT Community, and occasionally speaks at community events including DEF CON and BSides.
+
+**Social Media:**
+- ![X](/assets/icons/x-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://x.com/rxerium](https://x.com/rxerium)
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://linkedin.com/in/rxerium](https://linkedin.com/in/rxerium)
+- bsky: [https://bsky.app/profile/rxerium.com](https://bsky.app/profile/rxerium.com)
+- ![Mastodon](/assets/icons/mastodon-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://infosec.exchange/@rxerium](https://infosec.exchange/@rxerium)
+- ![Discord](/assets/icons/discord-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://discord.com/users/1015266410332700755](https://discord.com/users/1015266410332700755)
+- ![Website](/assets/icons/www-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://rxerium.com](https://rxerium.com)
+- github: [https://github.com/rxerium](https://github.com/rxerium)
 
 <div style="clear: both;"></div>
 
@@ -134,7 +144,14 @@ In this talk, we challenge the assumption of *truthful preservation* by introduc
 ### Speakers
 
 #### Robin Kirchner
+
+![Robin Kirchner](/assets/2026/avatars/CBJW3B_UmQTa6O.webp){:width="30%" style="padding: 10px; float: right;"}
 Robin is a senior Phd student at TU Braunschweig with an interest in secure systems and large-scale web scanning. His research focuses on the security and integrity of complex web-based systems, including the discovery of hard-to-find flaws and vulnerabilities in web archives, and on defending web systems against attacks.
+
+**Social Media:**
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://www.linkedin.com/in/robin-kirchner-3073971a3/](https://www.linkedin.com/in/robin-kirchner-3073971a3/)
+- ![Website](/assets/icons/www-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://robinkirchner.de](https://robinkirchner.de)
+- github: [https://github.com/robinki](https://github.com/robinki)
 
 <div style="clear: both;"></div>
 
@@ -365,7 +382,7 @@ Closing Remarks
 
 ---
 
-## Networking hour
+## Networking hours
 - **Time:** 18:00 - 20:00
 <div style="clear: both;"></div>
 
@@ -377,15 +394,7 @@ Closing Remarks
 ## Backup Speakers
 
 #### Michel Messerschmidt
-Michel Messerschmidt is a Senior Key Expert for Industrial Cybersecurity at Siemens Gamesa Renewable Energy.
-<div style="clear: both;"></div>
-
----
-
-#### Kaan Tolunay Kilic
-
-![Kaan Tolunay Kilic](/assets/2026/avatars/M7J3WT_ERSs1Ni.webp){:width="30%" style="padding: 10px; float: right;"}
-Kaan Tolunay Kilic is part of the cloud solutions and governance team and works at Otto Group one.O GmbH, where he is developing platform services for the product teams. He likes to learn and share his experience with others.
+Michel Messerschmidt is a Senior Key Expert for Product Cybersecurity at Siemens Gamesa Renewable Energy.
 <div style="clear: both;"></div>
 
 ---
