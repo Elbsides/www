@@ -9,7 +9,7 @@
 | 10:50 | [Michael Reimsbach](#michael-reimsbach), [Rishi (@rxerium)](#rishi-rxerium) | [Ghost in the Hiring Machine: Catch Fake Personas Before They’re Hired](#ghost-in-the-hiring-machine-catch-fake-personas-before-theyre-hired) |
 | 11:20 | [Robin Kirchner](#robin-kirchner) | ['We Have Always Been at War With Eastasia': Attacks Against Web Archives](#we-have-always-been-at-war-with-eastasia-attacks-against-web-archives) |
 | 11:50 | [René Lößner](#rené-lößner) | [When Trust Breaks Under Pressure](#when-trust-breaks-under-pressure) |
-| 12:20 | [dead1nfluence](#dead1nfluence) | [Let Him Cook! Hacking the Meatmeet BBQ Probe](#let-him-cook-hacking-the-meatmeet-bbq-probe) |
+| 12:20 | [Julian (dead1nfluence)](#julian-dead1nfluence) | [Let Him Cook! Hacking the Meatmeet BBQ Probe](#let-him-cook-hacking-the-meatmeet-bbq-probe) |
 | 12:50 |  | [Lunch](#lunch) |
 | 13:50 | [Michael Helwig](#michael-helwig) | [The Map of Artificial Treasures: What to Automate in Security - and Why?](#the-map-of-artificial-treasures-what-to-automate-in-security---and-why) |
 | 14:20 | [Blessen Thomas](#blessen-thomas), [Wojciech Poparda](#wojciech-poparda) | [Safe Power Grid Pentest, Practitioner's Guide to Security Without Operational Downtime](#safe-power-grid-pentest-practitioners-guide-to-security-without-operational-downtime) |
@@ -24,7 +24,7 @@
 
 ## Speakers
 
-[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Juliane Reimann](#juliane-reimann), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei), [dead1nfluence](#dead1nfluence)
+[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Julian (dead1nfluence)](#julian-dead1nfluence), [Juliane Reimann](#juliane-reimann), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei)
 
 ## Talks
 
@@ -182,7 +182,7 @@ René works in IT security consulting with a focus on cyber resilience and incid
 ## Let Him Cook! Hacking the Meatmeet BBQ Probe
 - **Time:** 12:20 - 12:50
 - **Speakers:**
-  - [dead1nfluence](#dead1nfluence)
+  - [Julian (dead1nfluence)](#julian-dead1nfluence)
 
 **Abstract:**
 With grilling season quickly approaching, each and every grillmaster is eagerly preparing their tools… but little do some know, their “smart” meat probes may have some glaring vulnerabilities. In this 30 minute presentation we will disassemble, dump the flash, and decompile the mobile application of the Meatmeet BBQ probes to find countless vulnerabilities. 
@@ -190,8 +190,8 @@ With grilling season quickly approaching, each and every grillmaster is eagerly 
 From an open S3 bucket with the profile photo of every grill master, to never-before-seen devices, and even remote code execution, Julian will walk you through each vulnerability he found. This presentation will illustrate the importance of IoT security measures, because the last thing you want is for your beautiful BBQ to be burnt to a crisp!
 ### Speakers
 
-#### dead1nfluence
-As a Penetration Tester at Software Secured, Julian hunts for vulnerabilities across a range of clients and products. Off hours, he spends his time performing vulnerability research against IoT devices and FOSS, amassing over 40 CVEs in the past several years.
+#### Julian (dead1nfluence)
+As a Penetration Tester at Software Secured, Julian hunts for vulnerabilities across a range of clients and products. Off hours, he spends his time performing vulnerability research against IoT devices and FOSS, amassing over 50 CVEs in the past several years. Previous work includes exploiting the Furbo devices, to find 20+ vulnerabilities, discovering [more than 130,000 Claude, Grok, ChatGPT, and Other LLM Chats Readable on Archive.org](https://www.404media.co/more-than-130-000-claude-grok-chatgpt-and-other-llm-chats-readable-on-archive-org/), as well as being featured by 404Media in the article: [ Grok Exposes Underlying Prompts for Its AI Personas: ‘EVEN PUTTING THINGS IN YOUR ***’](https://www.404media.co/grok-exposes-underlying-prompts-for-its-ai-personas-even-putting-things-in-your-ass/)
 
 <div style="clear: both;"></div>
 
