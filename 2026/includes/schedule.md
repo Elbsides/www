@@ -269,19 +269,24 @@ Beyond the terminal, he channels the discipline, focus, and resilience required 
 **Abstract:**
 AI and automation are often used interchangeably, but they solve very different problems. But what if they can be used together to solve a single problem? This talk dives into lessons the presenter has learned while building a $0, fully self-hosted AI-assisted pentesting and bug bounty agent using a Raspberry Pi 5.
 
-Attendees will see how local hardware can be scaled without a VPS and how recon and testing workflows can be stitched together using open-source orchestration tools like n8n, moltbot, and other open-source tools. It also explores using a local LLM with Ollama to triage, prioritize, and reason through results instead of relying on blind automation. Common assumptions, and areas of failure are shared along the way.
+Attendees will see how local hardware can be scaled without a VPS and how recon and testing workflows can be stitched together using various open-sourced tools. It also explores using a local LLM with Ollama to triage, prioritize, and reason through results instead of relying on blind automation. Common assumptions, and areas of failure are shared along the way and there is a clear distinction to what exactly can a 0$ model do and where you need to pay.
 
 The session is designed for all experience levels, with a focus on mid-level hackers and developers who want practical, cost-efficient ways to build AI-assisted security workflows.
 ### Speakers
 
 #### Nithin Ravi
 
-![Nithin Ravi](/assets/2026/avatars/97K8WJ_cSva7Rp.webp){:width="30%" style="padding: 10px; float: right;"}
+![Nithin Ravi](/assets/2026/avatars/97K8WJ_K6YgCJp.webp){:width="30%" style="padding: 10px; float: right;"}
 Nithin Ravi is a security researcher and offensive security specialist working at Centripetal, Ireland. He holds multiple industry relevant certifications such as the Certified Red Team Professional (CRTP), a double masters in computer science and information systems management, 3 year work experience in cybersecurity and a published research paper to his name.
 
 He is also a speaker at various conferences and meetups such as BSides Galway, DevFest Ireland, IWCON, GDG Galway and does bug bounty hunting for fun and profit. He is currently invested and working on leveraging AI for offensive security.
 
 Outside work, Nithin plays chess, does photography and is a big time fiction reader.
+
+**Social Media:**
+- ![X](/assets/icons/x-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://x.com/thebinarybot](https://x.com/thebinarybot)
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://www.linkedin.com/in/nithinravi10/](https://www.linkedin.com/in/nithinravi10/)
+- ![Website](/assets/icons/www-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://nithinr.com/](https://nithinr.com/)
 
 <div style="clear: both;"></div>
 
@@ -405,6 +410,9 @@ Michel Messerschmidt is a Senior Key Expert for Product Cybersecurity at Siemens
 Younes Ahmadzei is an Information Systems student at the Technical University of Munich (TUM) and an Information Security Consultant. His research centers around the EU's NIS-2 Directive and its real-world implications for mid-sized German companies.
 
 As part of his initial research, he created a pragmatic NIS-2 self-assessment tool, mapped the directive's requirements to ISO 27001, TISAX, and BSI IT-Grundschutz, and conducted a massive empirical outreach to 1,800 SMEs. He is currently extending this work through a longitudinal Phase 2 study (Q1 2026) to analyze the actual market reality and compliance barriers now that the national NIS-2 law is actively in effect.
+
+**Social Media:**
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://de.linkedin.com/in/younes-ahmadzei-7536b42a3](https://de.linkedin.com/in/younes-ahmadzei-7536b42a3)
 <div style="clear: both;"></div>
 
 ---
