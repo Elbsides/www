@@ -270,4 +270,4 @@ You can park in the parking garage of the UCI Cinema across the street. Address:
 
 The workshops will be hosted by [Jungheinrich AG](https://www.jungheinrich.com), a leading company in the field of intralogistics and material handling equipment. We are grateful for their support in hosting the workshops and providing a space for attendees to learn and collaborate.
 
-<center><img src="/www/assets/2026/logos/Jungheinrich_Logo_Bildschirm.svg" alt="Jungheinrich AG" width="50%" style="padding:10px;"></center>
+<center><img src="/assets/2026/logos/Jungheinrich_Logo_Bildschirm.svg" alt="Jungheinrich AG" width="50%" style="padding:10px;"></center>
