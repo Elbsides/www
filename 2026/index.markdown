@@ -68,10 +68,7 @@ Use the hashtag **#elbsides2026** to follow the conversation on social media or 
 
 # Sponsors
 
-![Call for Sponsors](/assets/images/cfs_megaphone_button.svg){:width="30%" style="padding: 10px;" align="right"}
-Elbsides cannot exist without sponsors because we are trying to be as inclusive as possible by keeping the ticket price to a nominal charge that doesn't even start to cover our costs. If you are interested in sponsoring Elbsides 2026, please contact us at elbsides \<at\> gmail.com.
-
-We encourage sponsors from the local community, even if you are not a security company. In fact, since security is everyone's concern, we would love to have sponsors from all walks of life.
+Elbsides cannot exist without sponsors because we are trying to be as inclusive as possible by keeping the ticket price to a nominal charge that doesn't even start to cover our costs. Thanks to all the sponsors who have supported us and have made this event possible!
 
 {% include_relative includes/platinum.html %}
 {% include_relative includes/gold.html %}

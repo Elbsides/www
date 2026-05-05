@@ -42,13 +42,10 @@ The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen
 
 ---
 
-![Call for Sponsors](/assets/images/cfs_megaphone_button.svg){:width="30%" style="padding: 10px;" align="right"}
 
 # Sponsors
 
-Elbsides cannot exist without sponsors. If you are interested in sponsoring Elbsides 2026, please contact us at elbsides \<at\> gmail.com.
-
-We encourage sponsors from the local community, even if you are not a security company. In fact, since security is everyone's concern, we would love to have sponsors from all walks of life.
+Elbsides cannot exist without sponsors because we are trying to be as inclusive as possible by keeping the ticket price to a nominal charge that doesn't even start to cover our costs. Thanks to all the sponsors who have supported us and have made this event possible!
 
 {% include_relative /2026/includes/platinum.html %}
 {% include_relative /2026/includes/gold.html %}
