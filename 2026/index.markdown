@@ -30,7 +30,7 @@ carousels:
 
 The **Elbsides Conference 2026** will be held on **Friday, June 5th, 2026** in Hamburg, Germany at [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de). The conference will feature a keynote presentation, technical talks, and workshops on a variety of topics related to computer security.
 
-We are still looking for support from [sponsors](/2026/#sponsors) to make the conference accessible to more people on a limited budget.
+Check out our awesome [sponsors](/2026/#sponsors) that make this event possible and our [team](/2026/#team) that organizes the conference.
 
 # Registration
 
