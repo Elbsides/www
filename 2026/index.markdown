@@ -38,10 +38,18 @@ See [registration page](/2026/registration/) for more information on how to regi
 
 **Ticket sales will start on Monday, April 20th, 2026 at 11:00 CEST.**
 
-# Keynote
+# Keynotes
 
 ![Natalie Kilber](/assets/2026/images/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}
 **Natalie Kilber** is a cybersecurity and quantum industry researcher and technology advisor. She has kindly agreed to share her experience and thoughts on the state of quantum computing and how we need to adapt our cryptography to be quantum resistant. This is very topical as many organizations need to have a post-quantum roadmap ready this year and be PQC compliant by 2030. Apart from that, she is one of the most interesting people in the field and we are looking forward to her keynote and the discussions that will follow.
+
+![Brian Hein](/assets/2026/avatars/MMYYJG_2M4P41v.webp){:width="30%" style="padding: 10px; float: right;"}
+![Constantin Jacob](/assets/2026/avatars/RM8EDR_cCzOBcG.webp){:width="30%" style="padding: 10px; float: right;"}
+**Brian Hein** and **Constantin Jacob** both work at DNSFilter and will be giving the closing keynote. We solved what to share. We solved how fast to share it. We did not solve who comes next.
+Threat intelligence has run for two decades on an iron principle — KMT: Know, Met, Trust — enforced by physics. You had to be in the room. Then COVID closed the room. The room reopened. The travel budgets did not. The next generation is being raised by agentic tools that give them every answer except one: who do I call?
+Picking up the line that started in Montreal (Trust → Action) and continued in Munich (Action → Impact), this talk argues the next evolution is bench depth. Two calls to arms, a feeder-team model borrowed from professional sports, and a single demand: stop fighting like a Rolodex. Start fighting like an army.
+
+<div style="clear: both;"></div>
 
 ---
 

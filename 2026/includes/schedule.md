@@ -391,6 +391,8 @@ Brian Hein is Principal Threat Researcher at DNSFilter, Case Lead at the World E
 - bsky: [https://bsky.app/profile/heinbrian.bsky.social](https://bsky.app/profile/heinbrian.bsky.social)
 
 #### Constantin Jacob
+
+![Constantin Jacob](/assets/2026/avatars/RM8EDR_cCzOBcG.webp){:width="30%" style="padding: 10px; float: right;"}
 Constantin Jacob (CJ) is a software engineering manager at DNSFilter focused on protecting the privacy of multiple hundred thousand customers of the Guardian Firewall + VPN service and their OEM partners. CJ spent the last 8 years building the skills to operate and maintain secure & reliable core technologies which route multiple petabytes of customer traffic every week across a global network of public VPN servers, accessible to customers with a single tap through deep platform integrations
 
 <div style="clear: both;"></div>
