@@ -18,13 +18,13 @@
 | 15:45 | [Juliane Reimann](#juliane-reimann) | [The Illusion of Finishability](#the-illusion-of-finishability) |
 | 16:15 | [André Lima](#andré-lima) | [Pull the Plug: Kernel-Level Surgery to Blind EDRs](#pull-the-plug-kernel-level-surgery-to-blind-edrs) |
 | 16:45 | [Lisa Froehlich](#lisa-froehlich) | [Your Traffic Is Lying to You](#your-traffic-is-lying-to-you) |
-| 17:15 |  | [TBA](#tba) |
+| 17:15 | [Brian Hein](#brian-hein), [Constantin Jacob](#constantin-jacob) | [Keynote: Who comes next?](#keynote-who-comes-next) |
 | 17:45 |  | [Closing](#closing) |
 | 18:00 |  | [Networking hours](#networking-hours) |
 
 ## Speakers
 
-[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Julian (dead1nfluence)](#julian-dead1nfluence), [Juliane Reimann](#juliane-reimann), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei)
+[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Brian Hein](#brian-hein), [Constantin Jacob](#constantin-jacob), [Julian (dead1nfluence)](#julian-dead1nfluence), [Juliane Reimann](#juliane-reimann), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei)
 
 ## Talks
 
@@ -369,11 +369,30 @@ Lisa Fröhlich is Head of Corporate Communications at Link11, a European provide
 
 ---
 
-## TBA
+## Keynote: Who comes next?
 - **Time:** 17:15 - 17:45
+- **Speakers:**
+  - [Brian Hein](#brian-hein)
+  - [Constantin Jacob](#constantin-jacob)
 
 **Abstract:**
-To be announced
+We solved what to share. We solved how fast to share it. We did not solve who comes next.
+Threat intelligence has run for two decades on an iron principle — KMT: Know, Met, Trust — enforced by physics. You had to be in the room. Then COVID closed the room. The room reopened. The travel budgets did not. The next generation is being raised by agentic tools that give them every answer except one: who do I call?
+Picking up the line that started in Montreal (Trust → Action) and continued in Munich (Action → Impact), this talk argues the next evolution is bench depth. Two calls to arms, a feeder-team model borrowed from professional sports, and a single demand: stop fighting like a Rolodex. Start fighting like an army.
+### Speakers
+
+#### Brian Hein
+
+![Brian Hein](/assets/2026/avatars/MMYYJG_2M4P41v.webp){:width="30%" style="padding: 10px; float: right;"}
+Brian Hein is Principal Threat Researcher at DNSFilter, Case Lead at the World Economic Forum’s Cybercrime Atlas, a FIRST.org Liaison Member, and sits on the National Council of ISACs. Two decades of community-driven disruption work across HP, Flashpoint, DTAG, and Silobreaker. Co-authored How NOT to Be Your Adversary’s Best Friend at FIRST CTI 2026 in Munich.
+
+**Social Media:**
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://linkedin.com/in/heinbrian](https://linkedin.com/in/heinbrian)
+- bsky: [https://bsky.app/profile/heinbrian.bsky.social](https://bsky.app/profile/heinbrian.bsky.social)
+
+#### Constantin Jacob
+Constantin Jacob (CJ) is a software engineering manager at DNSFilter focused on protecting the privacy of multiple hundred thousand customers of the Guardian Firewall + VPN service and their OEM partners. CJ spent the last 8 years building the skills to operate and maintain secure & reliable core technologies which route multiple petabytes of customer traffic every week across a global network of public VPN servers, accessible to customers with a single tap through deep platform integrations
+
 <div style="clear: both;"></div>
 
 ---
