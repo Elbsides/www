@@ -3,7 +3,7 @@
 | Time | Speaker(s) | Talk |
 |------|------------|------|
 | 09:00 |  | [Opening](#opening) |
-| 09:10 | [Natalie Kilber](#natalie-kilber) | [Secrets don’t age well: Cyber, Kyber, Quantum and the encryption time bombs](#secrets-dont-age-well-cyber-kyber-quantum-and-the-encryption-time-bombs) |
+| 09:10 | [Natalie Kilber](#natalie-kilber) | [Keynote: Secrets don’t age well: Cyber, Kyber, Quantum and the encryption time bombs](#keynote-secrets-dont-age-well-cyber-kyber-quantum-and-the-encryption-time-bombs) |
 | 09:55 | [Leon Rickert](#leon-rickert) | [Harvest Now, Decrypt Later: Bringing Post-Quantum Cryptography to SSH](#harvest-now-decrypt-later-bringing-post-quantum-cryptography-to-ssh) |
 | 10:25 |  | [Morning break](#morning-break) |
 | 10:50 | [Michael Reimsbach](#michael-reimsbach), [Rishi (@rxerium)](#rishi-rxerium) | [Ghost in the Hiring Machine: Catch Fake Personas Before They’re Hired](#ghost-in-the-hiring-machine-catch-fake-personas-before-theyre-hired) |
@@ -37,7 +37,7 @@ Conference opening
 
 ---
 
-## Secrets don’t age well: Cyber, Kyber, Quantum and the encryption time bombs
+## Keynote: Secrets don’t age well: Cyber, Kyber, Quantum and the encryption time bombs
 - **Time:** 09:10 - 09:55
 - **Speakers:**
   - [Natalie Kilber](#natalie-kilber)

@@ -40,8 +40,12 @@ See [registration page](/2026/registration/) for more information on how to regi
 
 # Keynotes
 
+## Opening Keynote
+
 ![Natalie Kilber](/assets/2026/images/natalie_kilber.jpg){:width="30%" style="padding: 10px; float: right;"}
 **Natalie Kilber** is a cybersecurity and quantum industry researcher and technology advisor. She has kindly agreed to share her experience and thoughts on the state of quantum computing and how we need to adapt our cryptography to be quantum resistant. This is very topical as many organizations need to have a post-quantum roadmap ready this year and be PQC compliant by 2030. Apart from that, she is one of the most interesting people in the field and we are looking forward to her keynote and the discussions that will follow.
+
+## Closing Keynote
 
 ![Brian Hein](/assets/2026/avatars/MMYYJG_2M4P41v.webp){:width="30%" style="padding: 10px; float: right;"}
 ![Constantin Jacob](/assets/2026/avatars/RM8EDR_cCzOBcG.webp){:width="30%" style="padding: 10px; float: right;"}
