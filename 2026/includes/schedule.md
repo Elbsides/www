@@ -12,19 +12,19 @@
 | 12:20 | [Julian (dead1nfluence)](#julian-dead1nfluence) | [Let Him Cook! Hacking the Meatmeet BBQ Probe](#let-him-cook-hacking-the-meatmeet-bbq-probe) |
 | 12:50 |  | [Lunch](#lunch) |
 | 13:50 | [Michael Helwig](#michael-helwig) | [The Map of Artificial Treasures: What to Automate in Security - and Why?](#the-map-of-artificial-treasures-what-to-automate-in-security---and-why) |
-| 14:20 | [Blessen Thomas](#blessen-thomas), [Wojciech Poparda](#wojciech-poparda) | [Safe Power Grid Pentest, Practitioner's Guide to Security Without Operational Downtime](#safe-power-grid-pentest-practitioners-guide-to-security-without-operational-downtime) |
+| 14:20 | [André Lima](#andré-lima) | [Pull the Plug: Kernel-Level Surgery to Blind EDRs](#pull-the-plug-kernel-level-surgery-to-blind-edrs) |
 | 14:50 | [Nithin Ravi](#nithin-ravi) | [I Let My Pi5 Hack: Building a 0$ AI Pentesting Agent](#i-let-my-pi5-hack-building-a-0-ai-pentesting-agent) |
 | 15:20 |  | [Afternoon break](#afternoon-break) |
-| 15:45 | [Juliane Reimann](#juliane-reimann) | [The Illusion of Finishability](#the-illusion-of-finishability) |
-| 16:15 | [André Lima](#andré-lima) | [Pull the Plug: Kernel-Level Surgery to Blind EDRs](#pull-the-plug-kernel-level-surgery-to-blind-edrs) |
-| 16:45 | [Lisa Froehlich](#lisa-froehlich) | [Your Traffic Is Lying to You](#your-traffic-is-lying-to-you) |
+| 15:45 | [Lisa Froehlich](#lisa-froehlich) | [Your Traffic Is Lying to You](#your-traffic-is-lying-to-you) |
+| 16:15 | [Younes Ahmadzei](#younes-ahmadzei) | [Still Out of Sight? The NIS-2 Reality Check in German SMEs](#still-out-of-sight-the-nis-2-reality-check-in-german-smes) |
+| 16:45 | [Juliane Reimann](#juliane-reimann) | [The Illusion of Finishability](#the-illusion-of-finishability) |
 | 17:15 | [Brian Hein](#brian-hein), [Constantin Jacob](#constantin-jacob) | [Keynote: Who comes next?](#keynote-who-comes-next) |
 | 17:45 |  | [Closing](#closing) |
 | 18:00 |  | [Networking hours](#networking-hours) |
 
 ## Speakers
 
-[André Lima](#andré-lima), [Blessen Thomas](#blessen-thomas), [Brian Hein](#brian-hein), [Constantin Jacob](#constantin-jacob), [Julian (dead1nfluence)](#julian-dead1nfluence), [Juliane Reimann](#juliane-reimann), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Wojciech Poparda](#wojciech-poparda), [Younes Ahmadzei](#younes-ahmadzei)
+[André Lima](#andré-lima), [Brian Hein](#brian-hein), [Constantin Jacob](#constantin-jacob), [Julian (dead1nfluence)](#julian-dead1nfluence), [Juliane Reimann](#juliane-reimann), [Leon Rickert](#leon-rickert), [Lisa Froehlich](#lisa-froehlich), [Michael Helwig](#michael-helwig), [Michael Reimsbach](#michael-reimsbach), [Michel Messerschmidt](#michel-messerschmidt), [Natalie Kilber](#natalie-kilber), [Nithin Ravi](#nithin-ravi), [René Lößner](#rené-lößner), [Rishi (@rxerium)](#rishi-rxerium), [Robin Kirchner](#robin-kirchner), [Younes Ahmadzei](#younes-ahmadzei)
 
 ## Talks
 
@@ -227,35 +227,23 @@ I am a senior security consultant, founder and director at the Munich based comp
 
 ---
 
-## Safe Power Grid Pentest, Practitioner's Guide to Security Without Operational Downtime
+## Pull the Plug: Kernel-Level Surgery to Blind EDRs
 - **Time:** 14:20 - 14:50
 - **Speakers:**
-  - [Blessen Thomas](#blessen-thomas)
-  - [Wojciech Poparda](#wojciech-poparda)
+  - [André Lima](#andré-lima)
 
 **Abstract:**
-Pentesting critical infrastructure like a power grid is a high-stakes game where "move fast and break things" is a recipe for disaster. This session provides a transparent look on a regional grid, breaking down a repeatable, safety-first methodology that balances deep technical discovery with operational uptime.
-We start at the beginning: the Rules of Engagement (RoE) workshop. You’ll learn how to work with site operators to map the environment using digital twins and mirrored test benches before a single packet is sent. From there, we move into the data: leveraging passive traffic analysis and protocol-specific inspection to identify firmware CVEs and insecure "clear-text" command paths without touching a live PLC.
-The core of the talk demonstrates how to map the real-world effectiveness of the Purdue Model. We’ll walk through lateral movement scenarios—testing if guest or corporate Wi-Fi can jump the DMZ into Level 3,2,1,0 networks—and identify the "low-hanging fruit" that still plagues the grid, such as default credentials and unhardened ports.
-By the end of this session, you’ll have a blueprint for conducting OT assessments that satisfy both security auditors and plant engineers. We will conclude with a walkthrough of traffic analysis techniques and architectural reviews that reveal the "crown jewels" of an ICS network without risking a blackout.
+Modern EDR solutions are only as effective as the telemetry they can collect. This talk takes a methodical, kernel-level approach to understanding (and dismantling) every major sensor an EDR relies on to detect malicious activity. From ETW providers feeding threat intelligence data, to kernel callbacks registering process and image events, to minifilter drivers intercepting filesystem I/O, and WFP callouts gating network telemetry: each one is a wire that can be cut.
+This is not an attack on Microsoft. It's a surgical dissection of Windows' own defensive instrumentation, from the perspective of a Red Teamer who needs operational silence. Through live reverse engineering of Windows internals and hands-on demos, attendees will leave with a concrete, layered plan for achieving full "sensor deprivation" against EDR products.
 ### Speakers
 
-#### Blessen Thomas
+#### André Lima
 
-![Blessen Thomas](/assets/2026/avatars/SXY7RD_pVHYBHi.webp){:width="30%" style="padding: 10px; float: right;"}
-Blessen Thomas is an Independent Security Researcher. He has more than 13+ years of experience in Red Teaming, Appsec (Web, Thick, API & Mobile Apps), Smart Watch Wearable Application Penetration Testing, Mobile Penetration Test (iOS,Android,Windows platform), IoT,OT ,mainframes,SAP,SWIFT,RPA,Cloud,ATM,KIOSK,Vulnerability Assessment and Network Penetration Test,Physical Covert Entry,Wireless assessments,Telecom(2G,3G,USSD) etc. for several enterprise companies and financial institutions all across the globe.
-He is a B.Tech in Information Technology from Anna University and holds industry certifications such as SANS GPEN,CRTO,OPST,CREST CRT(PEN),CREST CPSA,OSCP,CRTP,OSWP,C)PTE,CEH,CHFI. He has been listed and acknowledged in various “HALL OF FAMES” for various companies such as Oracle,Sony, Kayako, Appcelerator, Hotgloo, Meldium, Splunk and many more for responsible disclosure. He has been a bug bounty hunter and contributor for the OWASP Mobile Testing Guide Project(MSTG),Tamer OS, Seclists, OWASP top 10 API, OSSTMM, Awesome Mainframe Hacking,RvR,WAVSEP Benchmark sectool projects.
-His research training/talks has been accepted into various security conferences like Hack in the Box-Dubai,Hacktivity -Hungary, CanSecWest -Canada,OWASP Appsec EU- London -UK,OWASP Appsec Europe-Italy, RootCon-Philippines ,OWASP PH,OWASP New Zealand Day, Infosec SouthWest,Austin,Texas, FSec-Croatia, Hackbeach, Hackfest, Shakacon,ITWeb-South Africa, Jordan Cyber Security Summit, HITCON-Taiwan, OWASP AppSec-Bucharest, OWASP Appsec Africa-Morocco, Bsides-London,CircleCityCon,OWASP Botswana,CactusCon and many more.
-He has been invited as Speaker for Radio Talk Shows for All India Radio. He spends his leisure time playing drumkit and percussion.
-
-#### Wojciech Poparda
-
-![Wojciech Poparda](/assets/2026/avatars/3JBJGA_rQaE0Hw.webp){:width="30%" style="padding: 10px; float: right;"}
-Wojciech Poparda is a cybersecurity consultant. He helps organizations proactively defend their digital infrastructure by thinking like an adversary. Leveraging a deep foundation in Offensive Security, he specializes in designing resilient Security Architectures that bridge the gap between complex attack vectors and enterprise defense, with a sharp focus on Cloud Security and Identity & Access Management (IAM).
-
-His approach is backed by rigorous technical validation, holding industry-leading certifications including OSCP, CRTE, CRTP, CRTO, CPTS, CWES, and AWS Certified Solutions Architect - Associate. He is also an Associate of ISC2, having successfully passed the CISSP exam.
-
-Beyond the terminal, he channels the discipline, focus, and resilience required for cybersecurity into his life as a triathlete. As an IRONMAN European and World Championships finisher, he brings the same endurance and dedication to solving complex security challenges as he does to the race course.
+![André Lima](/assets/2026/avatars/E7K9B8_z3lJVrm.webp){:width="30%" style="padding: 10px; float: right;"}
+Andre Lima is a Team Leader and Red Team operator doing it since 2011, who has worked in Portugal, Australia, and now leading the Red Team at Telenor CyberDefence in Oslo.
+He is also a researcher and tries to publish as often as possible at his [Youtube channel](https://www.youtube.com/@0x4ndr3), and [blog](https://0x4ndr3.github.io/), while also doing presentations at [security conferences](https://github.com/0x4ndr3/Presentations).
+His main areas of expertise are reverse engineering, exploit development, and malware development with a focus on EDR bypasses.
+When not working, he enjoys playing basketball, tennis, or simply watching Formula1.
 
 <div style="clear: both;"></div>
 
@@ -298,52 +286,8 @@ Outside work, Nithin plays chess, does photography and is a big time fiction rea
 
 ---
 
-## The Illusion of Finishability
-- **Time:** 15:45 - 16:15
-- **Speakers:**
-  - [Juliane Reimann](#juliane-reimann)
-
-**Abstract:**
-As security people we live in a world of "it depends", probabilities, and never-ending risk. At the same time we as humans crave clear answers. So when someone asks, „Is it secure now?” and the honest answer is „No”, it creates psychological friction.
-
-In this talk, we will explore the Need for Cognitive Closure, a psychological concept that explains why uncertainty is so uncomfortable and why teams often push for premature certainty in security decisions. We will take a close look at how this plays out in real life by rushing to close findings, over-trusting tools, or treating compliance checklists as proof of safety.
-
-Drawing from practical examples, I will share ways to design security work with human psychology in mind: from better risk communication and structured decision frameworks to Security Champions programs that turn ongoing uncertainty into shared ownership. We will stop chasing the illusion of finishability and start building teams that stay effective even when security can’t give final answers.
-### Speakers
-
-#### Juliane Reimann
-
-![Juliane Reimann](/assets/2026/avatars/VBBVRJ_jtIBNjI.webp){:width="30%" style="padding: 10px; float: right;"}
-Juliane Reimann is a Founder & Security Community Expert @ FullCyrcle Security. She has worked as a cyber security consultant for large companies since 2019 with focus on DevSecOps and Community Building. Her expertise includes building security communities of software developers and establishing developer centric communication about secure software development topics. Before going into the field of Cyber Security she founded different companies in the area of web development. Due to her background in web development she has extensive knowledge of the software development life cycle. Since 2024, she has been a core member of the OWASP Security Champions Guide Community.
-
-<div style="clear: both;"></div>
-
----
-
-## Pull the Plug: Kernel-Level Surgery to Blind EDRs
-- **Time:** 16:15 - 16:45
-- **Speakers:**
-  - [André Lima](#andré-lima)
-
-**Abstract:**
-Modern EDR solutions are only as effective as the telemetry they can collect. This talk takes a methodical, kernel-level approach to understanding (and dismantling) every major sensor an EDR relies on to detect malicious activity. From ETW providers feeding threat intelligence data, to kernel callbacks registering process and image events, to minifilter drivers intercepting filesystem I/O, and WFP callouts gating network telemetry: each one is a wire that can be cut.
-This is not an attack on Microsoft. It's a surgical dissection of Windows' own defensive instrumentation, from the perspective of a Red Teamer who needs operational silence. Through live reverse engineering of Windows internals and hands-on demos, attendees will leave with a concrete, layered plan for achieving full "sensor deprivation" against EDR products.
-### Speakers
-
-#### André Lima
-
-![André Lima](/assets/2026/avatars/E7K9B8_z3lJVrm.webp){:width="30%" style="padding: 10px; float: right;"}
-Andre Lima is a Team Leader and Red Team operator doing it since 2011, who has worked in Portugal, Australia, and now leading the Red Team at Telenor CyberDefence in Oslo.
-He is also a researcher and tries to publish as often as possible at his [Youtube channel](https://www.youtube.com/@0x4ndr3), and [blog](https://0x4ndr3.github.io/), while also doing presentations at [security conferences](https://github.com/0x4ndr3/Presentations).
-His main areas of expertise are reverse engineering, exploit development, and malware development with a focus on EDR bypasses.
-When not working, he enjoys playing basketball, tennis, or simply watching Formula1.
-
-<div style="clear: both;"></div>
-
----
-
 ## Your Traffic Is Lying to You
-- **Time:** 16:45 - 17:15
+- **Time:** 15:45 - 16:15
 - **Speakers:**
   - [Lisa Froehlich](#lisa-froehlich)
 
@@ -364,6 +308,57 @@ The second half of the talk offers practical advice on what meaningful traffic p
 
 ![Lisa Froehlich](/assets/2026/avatars/RVQ899_pP2jxUe.webp){:width="30%" style="padding: 10px; float: right;"}
 Lisa Fröhlich is Head of Corporate Communications at Link11, a European provider that specializes in DDoS mitigation and application-layer protection. With a background in science communication and over a decade of experience in technology public relations (PR), she translates complex threat data into actionable insights. Since 2023, she has hosted the IT security podcast Follow the White Rabbit. In 2025, she completed a professional cybersecurity program at the Eurobits Women Academy.
+
+<div style="clear: both;"></div>
+
+---
+
+## Still Out of Sight? The NIS-2 Reality Check in German SMEs
+- **Time:** 16:15 - 16:45
+- **Speakers:**
+  - [Younes Ahmadzei](#younes-ahmadzei)
+
+**Abstract:**
+The NIS-2 directive aims to elevate European cybersecurity, but its implementation often clashes with the reality of understaffed SME IT departments and organizational inertia.
+
+In my Phase 1 research (conducted before the law passed), reaching out to 1,800 SMEs yielded only 17 interviews, highlighting a widespread "wait-and-see" attitude. Now, as of December 2025, NIS-2 is active national law in Germany, including executive liability. Did this finally trigger the necessary compliance efforts in the German Mittelstand?
+
+This talk presents the findings of my Phase 2 longitudinal follow-up study (Q1 2026). Based on quantitative data and qualitative interviews with CISOs and IT leads, we will explore the current implementation barriers. The data shows that SMEs struggle significantly less with technical complexity than with the massive burden of proof and documentation.
+
+Furthermore, we will discuss why complex, state-sponsored standard frameworks often fail in practice. Instead, I will demonstrate how a pragmatic, Excel-based self-assessment tool, mapped to established standards like ISO 27001 and TISAX, helped companies overcome their initial compliance paralysis. Expect empirical data, real-world quotes from IT professionals, and actionable takeaways on how the InfoSec community can better support SMEs.
+### Speakers
+
+#### Younes Ahmadzei
+
+![Younes Ahmadzei](/assets/2026/avatars/CHVHRC_u8yLfgf.webp){:width="30%" style="padding: 10px; float: right;"}
+Younes Ahmadzei is an Information Systems student at the Technical University of Munich (TUM) and an Information Security Consultant. His research centers around the EU's NIS-2 Directive and its real-world implications for mid-sized German companies.
+
+As part of his initial research, he created a pragmatic NIS-2 self-assessment tool, mapped the directive's requirements to ISO 27001, TISAX, and BSI IT-Grundschutz, and conducted a massive empirical outreach to 1,800 SMEs. He is currently extending this work through a longitudinal Phase 2 study (Q1 2026) to analyze the actual market reality and compliance barriers now that the national NIS-2 law is actively in effect.
+
+**Social Media:**
+- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://de.linkedin.com/in/younes-ahmadzei-7536b42a3](https://de.linkedin.com/in/younes-ahmadzei-7536b42a3)
+
+<div style="clear: both;"></div>
+
+---
+
+## The Illusion of Finishability
+- **Time:** 16:45 - 17:15
+- **Speakers:**
+  - [Juliane Reimann](#juliane-reimann)
+
+**Abstract:**
+As security people we live in a world of "it depends", probabilities, and never-ending risk. At the same time we as humans crave clear answers. So when someone asks, „Is it secure now?” and the honest answer is „No”, it creates psychological friction.
+
+In this talk, we will explore the Need for Cognitive Closure, a psychological concept that explains why uncertainty is so uncomfortable and why teams often push for premature certainty in security decisions. We will take a close look at how this plays out in real life by rushing to close findings, over-trusting tools, or treating compliance checklists as proof of safety.
+
+Drawing from practical examples, I will share ways to design security work with human psychology in mind: from better risk communication and structured decision frameworks to Security Champions programs that turn ongoing uncertainty into shared ownership. We will stop chasing the illusion of finishability and start building teams that stay effective even when security can’t give final answers.
+### Speakers
+
+#### Juliane Reimann
+
+![Juliane Reimann](/assets/2026/avatars/VBBVRJ_jtIBNjI.webp){:width="30%" style="padding: 10px; float: right;"}
+Juliane Reimann is a Founder & Security Community Expert @ FullCyrcle Security. She has worked as a cyber security consultant for large companies since 2019 with focus on DevSecOps and Community Building. Her expertise includes building security communities of software developers and establishing developer centric communication about secure software development topics. Before going into the field of Cyber Security she founded different companies in the area of web development. Due to her background in web development she has extensive knowledge of the software development life cycle. Since 2024, she has been a core member of the OWASP Security Champions Guide Community.
 
 <div style="clear: both;"></div>
 
@@ -421,19 +416,6 @@ Closing Remarks
 
 #### Michel Messerschmidt
 Michel Messerschmidt is a Senior Key Expert for Product Cybersecurity at Siemens Gamesa Renewable Energy.
-<div style="clear: both;"></div>
-
----
-
-#### Younes Ahmadzei
-
-![Younes Ahmadzei](/assets/2026/avatars/CHVHRC_u8yLfgf.webp){:width="30%" style="padding: 10px; float: right;"}
-Younes Ahmadzei is an Information Systems student at the Technical University of Munich (TUM) and an Information Security Consultant. His research centers around the EU's NIS-2 Directive and its real-world implications for mid-sized German companies.
-
-As part of his initial research, he created a pragmatic NIS-2 self-assessment tool, mapped the directive's requirements to ISO 27001, TISAX, and BSI IT-Grundschutz, and conducted a massive empirical outreach to 1,800 SMEs. He is currently extending this work through a longitudinal Phase 2 study (Q1 2026) to analyze the actual market reality and compliance barriers now that the national NIS-2 law is actively in effect.
-
-**Social Media:**
-- ![LinkedIn](/assets/icons/linkedin-icon.svg){:width="18px" :height="18px" style="vertical-align: middle;"}: [https://de.linkedin.com/in/younes-ahmadzei-7536b42a3](https://de.linkedin.com/in/younes-ahmadzei-7536b42a3)
 <div style="clear: both;"></div>
 
 ---
