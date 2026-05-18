@@ -12,7 +12,6 @@ We are excited to announce that we will be offering workshops at Elbsides 2026 o
 
 **Ticket sales will start on Friday, April 17th, 2026 at 10:00 CEST on [Pretix](https://pretix.eu/elbsides/elbsides-WS-2026/).**
 
-**Note:** _you will need to purchase a separate ticket for the conference_. More details will follow.
 
 # The workshops
 
