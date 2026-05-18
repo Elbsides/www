@@ -23,6 +23,8 @@ carousels:
 
 The next Elbsides conference will be held **on June 5th, [2026](/2026/)**.
 
+**We are sold out for 2026. Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who are supporting us and making this event possible!**
+
 The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
 
 **New for this year**: We are excited to offer **[workshops](/2026/workshops/) on June 4th** at Jungheinrich, Hamburg-Wandsbek.

@@ -34,9 +34,10 @@ Check out our awesome [sponsors](/2026/#sponsors) that make this event possible 
 
 # Registration
 
-See [registration page](/2026/registration/) for more information on how to register for the conference.
+**We are sold out for 2026. Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who are supporting us and making this event possible!**
 
-**Ticket sales will start on Monday, April 20th, 2026 at 11:00 CEST.**
+~~See [registration page](/2026/registration/) for more information on how to register for the conference.~~
+
 
 # Keynotes
 
