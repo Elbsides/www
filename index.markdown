@@ -36,6 +36,11 @@ The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen
 **New for this year**: We are excited to offer **[workshops](/2026/workshops/) on June 4th** at Jungheinrich, Hamburg-Wandsbek.
 
 ---
+**NOTE:** _Some people have reported receiving email with offers to buy the attendee list of Elbsides. Just to be clear, we never have and never will share the attendee list with anyone. If you receive such an email, please ignore it and do not respond to it. It is a scam._
+
+---
+
+---
 
 **NOTE:** _We've been forced to remove all slides and videos due to a complaint while we are investigating the issue. As a community conference, we do not have the resources to deal with legal issues and we apologize for the inconvenience. We hope to have the issue resolved soon and to be able to share the slides and videos again._
 
