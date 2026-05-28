@@ -34,13 +34,15 @@ Check out our awesome [sponsors](/2026/#sponsors) that make this event possible 
 
 # Registration
 
-**We are sold out for 2026. Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who are supporting us and making this event possible!**
+**The conference is sold out for 2026. However, there are still a few workshop tickets available.**
 
-~~See [registration page](/2026/registration/) for more information on how to register for the conference.~~
-
-However, there are still a few workshop tickets available. Check out the [workshops page](/2026/workshops/) for more information on how to register for the workshops. Keep in mind, that the workshops are sold separately from the conference and require a separate ticket. If you want to attend both the conference and the workshops, you will need both tickets.
+Check out the [workshops page](/2026/workshops/) for more information on how to register for the workshops. Keep in mind, that the workshops are sold separately from the conference and require a separate ticket. If you want to attend both the conference and the workshops, you will need both tickets.
 
 [![Workshop Tickets](/assets/2026/images/Elbsides-2026-workshop-ticket.png){:width="20%" style="padding: 10px;"}](https://pretix.eu/elbsides/elbsides-WS-2026/).
+
+Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who are supporting us and making this event possible!
+
+~~See [registration page](/2026/registration/) for more information on how to register for the conference.~~
 
 
 # Keynotes
