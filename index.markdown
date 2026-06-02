@@ -23,11 +23,9 @@ carousels:
 
 The next Elbsides conference will be held **on June 5th, [2026](/2026/)**.
 
-**The conference is sold out for 2026. However, there are still a few workshop tickets available.**
+**The conference is sold out for 2026.**
 
-Check out the [workshops page](/2026/workshops/) for more information on how to register for the workshops. Keep in mind, that the workshops are sold separately from the conference and require a separate ticket. If you want to attend both the conference and the workshops, you will need both tickets.
-
-[![Workshop Tickets](/assets/2026/images/Elbsides-2026-workshop-ticket.png){:width="20%" style="padding: 10px;"}](https://pretix.eu/elbsides/elbsides-WS-2026/).
+~~Check out the [workshops page](/2026/workshops/) for more information on how to register for the workshops. Keep in mind, that the workshops are sold separately from the conference and require a separate ticket. If you want to attend both the conference and the workshops, you will need both tickets.~~
 
 Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who are supporting us and making this event possible!
 
