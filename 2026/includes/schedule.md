@@ -48,7 +48,7 @@ Quantum is no longer a research topic for us; it is now a benchmark regulators a
 
 #### Natalie Kilber
 
-![Natalie Kilber](/assets/2026/avatars/V7Z3QU_BIhoVXh.webp/V7Z3QU_BIhoVXh.webp){:width="30%" style="padding: 10px; float: right;"}
+![Natalie Kilber](/assets/2026/avatars/V7Z3QU_BIhoVXh.webp){:width="30%" style="padding: 10px; float: right;"}
 Natalie Kilber is a quantum industry pioneer, former enterprise cybersecurity leader and CEO of Haste, securing the future of compute. As a researcher and technology advisor on quantum, AI and cybersecurity; she leads innovations fusing emergent technology defenses for hybrid compute ecosystems.
 
 **Social Media:**
@@ -76,7 +76,7 @@ You'll leave with a clear technical picture of where things stand today, which r
 
 #### Leon Rickert
 
-![Leon Rickert](/assets/2026/avatars/KP7ZBG_9WV2ON7.webp/KP7ZBG_9WV2ON7.webp){:width="30%" style="padding: 10px; float: right;"}
+![Leon Rickert](/assets/2026/avatars/KP7ZBG_9WV2ON7.webp){:width="30%" style="padding: 10px; float: right;"}
 Leon Rickert is a Security Consultant at NVISO, where he specializes in vulnerability management and the development of security tooling. His current focus lies at the intersection of cryptographic protocol security and the practical challenge of migrating production infrastructure to post-quantum cryptography.
 
 <div style="clear: both;"></div>
@@ -103,7 +103,7 @@ These techniques not only help attendees detect fake personas but also provide p
 
 #### Michael Reimsbach
 
-![Michael Reimsbach](/assets/2026/avatars/VXJCB9_70NdTuv.webp/VXJCB9_70NdTuv.webp){:width="30%" style="padding: 10px; float: right;"}
+![Michael Reimsbach](/assets/2026/avatars/VXJCB9_70NdTuv.webp){:width="30%" style="padding: 10px; float: right;"}
 Michael is a Product Security Specialist at SAP, working with the SAP Cloud Infrastructure security team. His focus areas include vulnerability management, secrets management, and building secure internal services.
 He obtained multiple industry certifications such as OSCP, GCPN, and CISSP. A healthy dose of paranoia led him to explore OSINT and the surprising power of publicly available information. Beyond his day-to-day work, Michael is an active member of the cybersecurity community and helps organize BSides Luxembourg.
 
@@ -112,7 +112,7 @@ He obtained multiple industry certifications such as OSCP, GCPN, and CISSP. A he
 
 #### Rishi (@rxerium)
 
-![Rishi (@rxerium)](/assets/2026/avatars/BUFJAD_qqqayWL.webp/BUFJAD_qqqayWL.webp){:width="30%" style="padding: 10px; float: right;"}
+![Rishi (@rxerium)](/assets/2026/avatars/BUFJAD_qqqayWL.webp){:width="30%" style="padding: 10px; float: right;"}
 Rishi is a London-based security researcher with experience in vulnerability research, threat intelligence, and enterprise risk analysis. His work focuses on identifying zero-day vulnerabilities and emerging CVEs, with a particular interest in building detection logic before threats are publicly weaponised.
 
 He works across both offensive and defensive disciplines, developing threat models grounded in real-world TTPs, writing detection rules, and automating reconnaissance to uncover exposed assets at scale. Attack surface management and OSINT are areas he keeps coming back to, specifically the challenge of mapping exposure that organisations often don't know exists.
@@ -145,7 +145,7 @@ In this talk, we challenge the assumption of *truthful preservation* by introduc
 
 #### Robin Kirchner
 
-![Robin Kirchner](/assets/2026/avatars/CBJW3B_UmQTa6O.webp/CBJW3B_UmQTa6O.webp){:width="30%" style="padding: 10px; float: right;"}
+![Robin Kirchner](/assets/2026/avatars/CBJW3B_UmQTa6O.webp){:width="30%" style="padding: 10px; float: right;"}
 Robin is a senior Phd student at TU Braunschweig with an interest in secure systems and large-scale web scanning. His research focuses on the security and integrity of complex web-based systems, including the discovery of hard-to-find flaws and vulnerabilities in web archives, and on defending web systems against attacks.
 
 **Social Media:**
@@ -172,7 +172,7 @@ The goal is not perfect truth-detection. It is better operational judgment when 
 
 #### René Lößner
 
-![René Lößner](/assets/2026/avatars/KHA8DY_jWqroS6.webp/KHA8DY_jWqroS6.webp){:width="30%" style="padding: 10px; float: right;"}
+![René Lößner](/assets/2026/avatars/KHA8DY_jWqroS6.webp){:width="30%" style="padding: 10px; float: right;"}
 René works in IT security consulting with a focus on cyber resilience and incident readiness. He is particularly interested in threat intelligence, OSINT, and operational impact of manipulated or misleading information on incident and crisis response. His work explores how defenders can make better decision when trust, evidence, and narrative pressure collide.
 
 <div style="clear: both;"></div>
@@ -220,7 +220,7 @@ Using industry data, real-world experience, and structured criteria, this talk p
 
 #### Michael Helwig
 
-![Michael Helwig](/assets/2026/avatars/VTB8G9_QAkfiRs.webp/VTB8G9_QAkfiRs.webp){:width="30%" style="padding: 10px; float: right;"}
+![Michael Helwig](/assets/2026/avatars/VTB8G9_QAkfiRs.webp){:width="30%" style="padding: 10px; float: right;"}
 I am a senior security consultant, founder and director at the Munich based company secureIO GmbH. With a strong background in application security and building and managing application security programs, I am passionate about all things related to AppSec and DevSecOps.
 
 <div style="clear: both;"></div>
@@ -239,7 +239,7 @@ This is not an attack on Microsoft. It's a surgical dissection of Windows' own d
 
 #### André Lima
 
-![André Lima](/assets/2026/avatars/E7K9B8_z3lJVrm.webp/E7K9B8_z3lJVrm.webp){:width="30%" style="padding: 10px; float: right;"}
+![André Lima](/assets/2026/avatars/E7K9B8_z3lJVrm.webp){:width="30%" style="padding: 10px; float: right;"}
 Andre Lima is a Team Leader and Red Team operator doing it since 2011, who has worked in Portugal, Australia, and now leading the Red Team at Telenor CyberDefence in Oslo.
 He is also a researcher and tries to publish as often as possible at his [Youtube channel](https://www.youtube.com/@0x4ndr3), and [blog](https://0x4ndr3.github.io/), while also doing presentations at [security conferences](https://github.com/0x4ndr3/Presentations).
 His main areas of expertise are reverse engineering, exploit development, and malware development with a focus on EDR bypasses.
@@ -264,7 +264,7 @@ The session is designed for all experience levels, with a focus on mid-level hac
 
 #### Nithin Ravi
 
-![Nithin Ravi](/assets/2026/avatars/97K8WJ_K6YgCJp.webp/97K8WJ_K6YgCJp.webp){:width="30%" style="padding: 10px; float: right;"}
+![Nithin Ravi](/assets/2026/avatars/97K8WJ_K6YgCJp.webp){:width="30%" style="padding: 10px; float: right;"}
 Nithin Ravi is a security researcher and offensive security specialist working at Centripetal, Ireland. He holds multiple industry relevant certifications such as the Certified Red Team Professional (CRTP), a double masters in computer science and information systems management, 3 year work experience in cybersecurity and a published research paper to his name.
 
 He is also a speaker at various conferences and meetups such as BSides Galway, DevFest Ireland, IWCON, GDG Galway and does bug bounty hunting for fun and profit. He is currently invested and working on leveraging AI for offensive security.
@@ -306,7 +306,7 @@ The second half of the talk offers practical advice on what meaningful traffic p
 
 #### Lisa Froehlich
 
-![Lisa Froehlich](/assets/2026/avatars/RVQ899_pP2jxUe.webp/RVQ899_pP2jxUe.webp){:width="30%" style="padding: 10px; float: right;"}
+![Lisa Froehlich](/assets/2026/avatars/RVQ899_pP2jxUe.webp){:width="30%" style="padding: 10px; float: right;"}
 Lisa Fröhlich is Head of Corporate Communications at Link11, a European provider that specializes in DDoS mitigation and application-layer protection. With a background in science communication and over a decade of experience in technology public relations (PR), she translates complex threat data into actionable insights. Since 2023, she has hosted the IT security podcast Follow the White Rabbit. In 2025, she completed a professional cybersecurity program at the Eurobits Women Academy.
 
 <div style="clear: both;"></div>
@@ -330,7 +330,7 @@ Furthermore, we will discuss why complex, state-sponsored standard frameworks of
 
 #### Younes Ahmadzei
 
-![Younes Ahmadzei](/assets/2026/avatars/CHVHRC_u8yLfgf.webp/CHVHRC_u8yLfgf.webp){:width="30%" style="padding: 10px; float: right;"}
+![Younes Ahmadzei](/assets/2026/avatars/CHVHRC_u8yLfgf.webp){:width="30%" style="padding: 10px; float: right;"}
 Younes Ahmadzei is an Information Systems student at the Technical University of Munich (TUM) and an Information Security Consultant. His research centers around the EU's NIS-2 Directive and its real-world implications for mid-sized German companies.
 
 As part of his initial research, he created a pragmatic NIS-2 self-assessment tool, mapped the directive's requirements to ISO 27001, TISAX, and BSI IT-Grundschutz, and conducted a massive empirical outreach to 1,800 SMEs. He is currently extending this work through a longitudinal Phase 2 study (Q1 2026) to analyze the actual market reality and compliance barriers now that the national NIS-2 law is actively in effect.
@@ -357,7 +357,7 @@ Drawing from practical examples, I will share ways to design security work with 
 
 #### Juliane Reimann
 
-![Juliane Reimann](/assets/2026/avatars/VBBVRJ_jtIBNjI.webp/VBBVRJ_jtIBNjI.webp){:width="30%" style="padding: 10px; float: right;"}
+![Juliane Reimann](/assets/2026/avatars/VBBVRJ_jtIBNjI.webp){:width="30%" style="padding: 10px; float: right;"}
 Juliane Reimann is a Founder & Security Community Expert @ FullCyrcle Security. She has worked as a cyber security consultant for large companies since 2019 with focus on DevSecOps and Community Building. Her expertise includes building security communities of software developers and establishing developer centric communication about secure software development topics. Before going into the field of Cyber Security she founded different companies in the area of web development. Due to her background in web development she has extensive knowledge of the software development life cycle. Since 2024, she has been a core member of the OWASP Security Champions Guide Community.
 
 <div style="clear: both;"></div>
@@ -378,7 +378,7 @@ Picking up the line that started in Montreal (Trust → Action) and continued in
 
 #### Brian Hein
 
-![Brian Hein](/assets/2026/avatars/MMYYJG_2M4P41v.webp/MMYYJG_2M4P41v.webp){:width="30%" style="padding: 10px; float: right;"}
+![Brian Hein](/assets/2026/avatars/MMYYJG_2M4P41v.webp){:width="30%" style="padding: 10px; float: right;"}
 Brian Hein is Principal Threat Researcher at DNSFilter, Case Lead at the World Economic Forum’s Cybercrime Atlas, a FIRST.org Liaison Member, and sits on the National Council of ISACs. Two decades of community-driven disruption work across HP, Flashpoint, DTAG, and Silobreaker. Co-authored How NOT to Be Your Adversary’s Best Friend at FIRST CTI 2026 in Munich.
 
 **Social Media:**
@@ -387,7 +387,7 @@ Brian Hein is Principal Threat Researcher at DNSFilter, Case Lead at the World E
 
 #### Constantin Jacob
 
-![Constantin Jacob](/assets/2026/avatars/RM8EDR_cCzOBcG.webp/RM8EDR_cCzOBcG.webp){:width="30%" style="padding: 10px; float: right;"}
+![Constantin Jacob](/assets/2026/avatars/RM8EDR_cCzOBcG.webp){:width="30%" style="padding: 10px; float: right;"}
 Constantin Jacob (CJ) is a software engineering manager at DNSFilter focused on protecting the privacy of multiple hundred thousand customers of the Guardian Firewall + VPN service and their OEM partners. CJ spent the last 8 years building the skills to operate and maintain secure & reliable core technologies which route multiple petabytes of customer traffic every week across a global network of public VPN servers, accessible to customers with a single tap through deep platform integrations
 
 <div style="clear: both;"></div>
