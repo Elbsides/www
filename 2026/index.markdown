@@ -28,20 +28,15 @@ carousels:
 
 # General Information
 
-The **Elbsides Conference 2026** will be held on **Friday, June 5th, 2026** in Hamburg, Germany at [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de). The conference will feature a keynote presentation, technical talks, and workshops on a variety of topics related to computer security.
+The **Elbsides Conference 2026** was held on **Friday, June 5th, 2026** in Hamburg, Germany at [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de). The conference featured a keynote presentation, technical talks, and workshops on a variety of topics related to computer security.
 
-Check out our awesome [sponsors](/2026/#sponsors) that make this event possible and our [team](/2026/#team) that organizes the conference.
+Check out our awesome [sponsors](/2026/#sponsors) that made this event possible and our [team](/2026/#team) that organized the conference.
 
 # Registration
 
 **The conference is sold out for 2026.**
 
-~~Check out the [workshops page](/2026/workshops/) for more information on how to register for the workshops. Keep in mind, that the workshops are sold separately from the conference and require a separate ticket. If you want to attend both the conference and the workshops, you will need both tickets.~~
-
-Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who are supporting us and making this event possible!
-
-~~See [registration page](/2026/registration/) for more information on how to register for the conference.~~
-
+Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who supported us and made this event possible!
 
 # Keynotes
 
@@ -66,14 +61,11 @@ Picking up the line that started in Montreal (Trust → Action) and continued in
 
 ---
 
-
 # Location
 
 The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
 
-
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
 
 # Follow us
 

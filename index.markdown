@@ -21,18 +21,13 @@ carousels:
 **Elbsides is North Germany's annual computer security conference organized by the community for the community.**
 
 
-The next Elbsides conference will be held **on June 5th, [2026](/2026/)**.
+The next Elbsides conference was held **on June 5th, [2026](/2026/)**.
 
-**The conference is sold out for 2026.**
+Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who supported us and made this event possible!
 
-~~Check out the [workshops page](/2026/workshops/) for more information on how to register for the workshops. Keep in mind, that the workshops are sold separately from the conference and require a separate ticket. If you want to attend both the conference and the workshops, you will need both tickets.~~
+The conference was held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
 
-Thanks to everyone who registered or bought a supporter ticket. Also, thanks again to all our sponsors who are supporting us and making this event possible!
-
-
-The conference will be held at the [Hotel Hafen Hamburg](https://www.hotel-hafen-hamburg.de) in the [Elbkuppel](https://www.hotel-hafen-hamburg.de/en/conferences/elbkuppel/), a unique event location in the heart of Hamburg overlooking the harbor. The Elbkuppel has been recently renovated and offers a modern and comfortable setting for our conference.
-
-**New for this year**: We are excited to offer **[workshops](/2026/workshops/) on June 4th** at Jungheinrich, Hamburg-Wandsbek.
+**New for this year**: We were excited to offer **[workshops](/2026/workshops/) on June 4th** at Jungheinrich, Hamburg-Wandsbek.
 
 ---
 **NOTE:** _Some people have reported receiving email with offers to buy the attendee list of Elbsides. Just to be clear, we never have and never will share the attendee list with anyone. If you receive such an email, please ignore it and do not respond to it. It is a scam._
@@ -63,7 +58,6 @@ Picking up the line that started in Montreal (Trust → Action) and continued in
 <div style="clear: both;"></div>
 
 ---
-
 
 # Sponsors
 
